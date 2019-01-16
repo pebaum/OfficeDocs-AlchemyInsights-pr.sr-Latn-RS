@@ -1,0 +1,31 @@
+---
+title: Rešavanje problema u Savetu bezbednosti za otkrivanje prevare proverava
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 1/9/2019
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
+ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: sr-Latn-RS
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28310196"
+---
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Rešavanje problema u Savetu bezbednosti za otkrivanje prevare proverava
+
+Ako ste dobiti napojnicu sigurnost koja kaže „pošiljalac nije uspelo čekove za otkrivanje prevare, i možda nije koji izgledaju kao da su”, a zatim pošiljalac nije uspjelo proći ili DKIM ili SPF provere identiteta. Najbolji metod da biste rešili ovo je za pošiljaoca da odobri sami sebe. Ako pošiljalac šalje u vaše ime, potrebno je da odobrite ih tako što ćete dodati IP adresu pošiljaoca na tvoj SPF zapis.
+  
+Vidim [Rešavanje problema vrh crvene (sumnjivo) sigurnost za otkrivanje prevare proverava](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) za više informacija. 
+  
+Evo nekih drugih veza koje vam mogu pomoći:
+  
+- [Kako Office 365 koristi pošiljaoca politički okvir (SPF) da biste sprečili obmane u vezi sa](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+    
+- [Podesite SPF u Office 365 da biste sprečili obmane u vezi sa](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+    
+
