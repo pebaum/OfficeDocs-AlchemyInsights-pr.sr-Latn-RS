@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: sr-Latn-RS
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383453"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Brisanje korisnika](/AlchemyInsights/deleting-users) | izmenio |
 | 1/11/2019 | [Rasporedi Bešavne jedinstveno prijavljivanje](/AlchemyInsights/deploy-seamless-single-sign-on) | izmenio |
 | 1/11/2019 | [Onemogućavanje pristupa na Yammer](/AlchemyInsights/disable-access-to-yammer) | izmenio |
+
+
+## <a name="week-of-january-14-2019"></a>Nedelja u januaru 14, 2019 godine
+
+
+| Koji je objavljen u |Naslov teme | Promena |
+|------|------------|--------|
+| 1/14/2019 | Alhemija čuvar mesta | uklonjena |
+| 1/14/2019 | Dodavanje domena alhemija | uklonjena |
+| 1/14/2019 | [Alhemija opažanja dom](/AlchemyInsights/index) | izmenio |
+| 1/17/2019 | [isto kao i ime datoteke je najbolje [pravilo #-opis]](/AlchemyInsights/1-alchemy-insight-template) | je dodao |
