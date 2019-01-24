@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
 ms.openlocfilehash: 5c436f9f7d76434bb9c9e5e3dc539379b5eaa0b6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28310092"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29487910"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="5000f-102">Kreiranje pravila prijemnog za deljene Poštanske sandučiće</span><span class="sxs-lookup"><span data-stu-id="5000f-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="ef8f5-102">Kreiranje pravila prijemnog za deljene Poštanske sandučiće</span><span class="sxs-lookup"><span data-stu-id="ef8f5-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="5000f-103">Možete dodati pravila na Deljeno poštansko sanduče, imate pristup na sličan način dodati kako si pravila u svoj račun.</span><span class="sxs-lookup"><span data-stu-id="5000f-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span> 
+<span data-ttu-id="ef8f5-103">Možete dodati pravila na Deljeno poštansko sanduče, imate pristup na sličan način dodati kako si pravila u svoj račun.</span><span class="sxs-lookup"><span data-stu-id="ef8f5-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span> 
   
-<span data-ttu-id="5000f-104">Proverite da li ste clan Deljeno poštansko sanduče u pitanju, a zatim sledite korake u ovom članku: [Dodavanje pravila sa deljenom poštanskim sandučetom](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span><span class="sxs-lookup"><span data-stu-id="5000f-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span></span>
+<span data-ttu-id="ef8f5-104">Proverite da li ste clan Deljeno poštansko sanduče u pitanju, a zatim sledite korake u ovom članku: [Dodavanje pravila sa deljenom poštanskim sandučetom](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span><span class="sxs-lookup"><span data-stu-id="ef8f5-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164 )</span></span>
   
 
