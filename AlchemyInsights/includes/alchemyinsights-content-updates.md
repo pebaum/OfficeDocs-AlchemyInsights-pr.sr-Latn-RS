@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383453"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454444"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383453"
 ## <a name="week-of-january-07-2019"></a>Nedelju dana od 07. januara 2019.
 
 
-| Koji je objavljen u |Naslov teme | Promena |
+| Koji je objavljen u |Naslov teme | Promeni. |
 |------|------------|--------|
 | 1/7/2019 | [Promena lozinke](/AlchemyInsights/change-your-password-in-outlook.com) | je dodao |
 | 1/7/2019 | [Promene dozvola za poštansko sanduče](/AlchemyInsights/changing-permissions-on-a-mailbox) | je dodao |
@@ -302,7 +302,7 @@ ms.locfileid: "29383453"
 | 1/10/2019 | [Kreiranje lokacije komunikacije](/AlchemyInsights/create-a-communication-site) | je dodao |
 | 1/10/2019 | [Kreiranje tok](/AlchemyInsights/create-a-flow) | je dodao |
 | 1/10/2019 | [Kreiranje lokacija moderne tima](/AlchemyInsights/create-a-modern-team-site) | je dodao |
-| 1/10/2019 | [Kreiranje Deljeno poštansko sanduče](/AlchemyInsights/create-a-shared-mailbox) | je dodao |
+| 1/10/2019 | Pravljenje deljenog poštanskog sandučeta | je dodao |
 | 1/10/2019 | [Kreiranje SharePoint lokacije](/AlchemyInsights/create-a-sharepoint-site) | je dodao |
 | 1/10/2019 | [Kreiranje lokacije u SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | je dodao |
 | 1/10/2019 | [Da kreirate i koristite deljene poštansko sanduče](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | je dodao |
@@ -599,7 +599,7 @@ ms.locfileid: "29383453"
 | 1/11/2019 | [Kreiranje lokacije komunikacije](/AlchemyInsights/create-a-communication-site) | izmenio |
 | 1/11/2019 | [Kreiranje tok](/AlchemyInsights/create-a-flow) | izmenio |
 | 1/11/2019 | [Kreiranje lokacija moderne tima](/AlchemyInsights/create-a-modern-team-site) | izmenio |
-| 1/11/2019 | [Kreiranje Deljeno poštansko sanduče](/AlchemyInsights/create-a-shared-mailbox) | izmenio |
+| 1/11/2019 | Pravljenje deljenog poštanskog sandučeta | izmenio |
 | 1/11/2019 | [Kreiranje SharePoint lokacije](/AlchemyInsights/create-a-sharepoint-site) | izmenio |
 | 1/11/2019 | [Kreiranje lokacije u SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | izmenio |
 | 1/11/2019 | [Da kreirate i koristite deljene poštansko sanduče](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | izmenio |
@@ -637,7 +637,7 @@ ms.locfileid: "29383453"
 ## <a name="week-of-january-14-2019"></a>Nedelja u januaru 14, 2019 godine
 
 
-| Koji je objavljen u |Naslov teme | Promena |
+| Koji je objavljen u |Naslov teme | Promeni. |
 |------|------------|--------|
 | 1/14/2019 | Alhemija čuvar mesta | uklonjena |
 | 1/14/2019 | Dodavanje domena alhemija | uklonjena |
