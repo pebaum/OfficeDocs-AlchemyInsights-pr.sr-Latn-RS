@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
 ms.openlocfilehash: b7822172182686129b844f591449a5874e1dda79
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309208"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29487351"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="29ec4-102">Saznajte više o spoljnim kalendar opcije deljenja</span><span class="sxs-lookup"><span data-stu-id="29ec4-102">Learn about external calendar sharing options</span></span>
+# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="a46ce-102">Saznajte više o spoljnim kalendar opcije deljenja</span><span class="sxs-lookup"><span data-stu-id="a46ce-102">Learn about external calendar sharing options</span></span>
 
-[<span data-ttu-id="29ec4-103">Deljenje kalendara sa spoljnim korisnicima</span><span class="sxs-lookup"><span data-stu-id="29ec4-103">Share calendars with external users</span></span>](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
+[<span data-ttu-id="a46ce-103">Deljenje kalendara sa spoljnim korisnicima</span><span class="sxs-lookup"><span data-stu-id="a46ce-103">Share calendars with external users</span></span>](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
   
 

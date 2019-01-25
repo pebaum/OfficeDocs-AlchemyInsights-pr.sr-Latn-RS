@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 89af7e4b-9b49-4c50-a604-21003ad30004
 ms.openlocfilehash: a7a1405c73661142e78fb46b9aa66eaafbd1b4b6
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309776"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29487363"
 ---
-# <a name="activate-office"></a><span data-ttu-id="d6a0d-102">Aktiviranje sistema Office</span><span class="sxs-lookup"><span data-stu-id="d6a0d-102">Activate Office</span></span>
+# <a name="activate-office"></a><span data-ttu-id="3e335-102">Aktiviranje sistema Office</span><span class="sxs-lookup"><span data-stu-id="3e335-102">Activate Office</span></span>
 
-<span data-ttu-id="d6a0d-p101">Možete da aktivirate Office potpisivanjem u koristeći svoj radni ili skola nalog. Koristite korake u ovom članku da biste aktivirali Office: [Office aktivirate](https://support.office.com/article/https://support.office.com/en-us/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span><span class="sxs-lookup"><span data-stu-id="d6a0d-p101">You can activate Office by signing in using your work or school account. Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/https://support.office.com/en-us/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
+<span data-ttu-id="3e335-p101">Možete da aktivirate Office potpisivanjem u koristeći svoj radni ili skola nalog. Koristite korake u ovom članku da biste aktivirali Office: [Office aktivirate](https://support.office.com/article/https://support.office.com/en-us/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span><span class="sxs-lookup"><span data-stu-id="3e335-p101">You can activate Office by signing in using your work or school account. Use the steps in this article to activate Office: [Activate Office](https://support.office.com/article/https://support.office.com/en-us/article/Activate-Office-365-Office-2016-or-Office-2013-1144e0de-e849-496e-8e33-ed6fb1b34202.aspx).</span></span>
   
 
