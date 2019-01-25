@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309795"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29487490"
 ---
 # <a name="unable-to-send-group-emails"></a>Nije moguće poslati e-mailove grupe
 
@@ -26,7 +26,7 @@ Ako ne možete da pošaljete e-poruku za liste kontakata ili grupa kontakata, po
     
 2. Ako i dalje imate problema da pišete e-mail u grupu, idemo [ljudi](https://outlook.live.com/people/), izaberite listu kontakata ili grupu, a zatim odaberite da **pošaljete e-poštu**.
     
- **Napomene:**
+ Napomene:
   
 1. Pobrini se da ne morate da se skočni prozori su blokirani: slanje e-pošte na stranici kontakti će se otvoriti novi prozor.
     
