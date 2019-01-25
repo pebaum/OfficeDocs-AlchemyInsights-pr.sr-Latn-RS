@@ -10,11 +10,11 @@ localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
 ms.openlocfilehash: fc45050a39de24422426ea1d9ff0bad47eb86264
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309941"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29487474"
 ---
 Da biste postavili sve lozinke nikada ne ističe, idite na [bezbednosti &amp; privatnost](https://portal.office.com/adminportal/home#/settings/security). Kliknite na dugme **Uredi** pored **Smernice za lozinke**i uključite klizač **na**u.
   
