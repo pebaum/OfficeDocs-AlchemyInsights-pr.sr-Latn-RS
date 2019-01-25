@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
 ms.openlocfilehash: dba1df3ec66dc5fceb488843610d375b81fd15c7
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28309743"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29487157"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="7d58d-102">Servis Incident u toku</span><span class="sxs-lookup"><span data-stu-id="7d58d-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="bd92c-102">Servis Incident u toku</span><span class="sxs-lookup"><span data-stu-id="bd92c-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="7d58d-p101">Ti bi mogla da bude pogođena do incidenta sa servisa ili savetodavnog koja je trenutno pod istragom. Najnoviji status možete proveriti tako što ćete ići na stranicu za [Zdravstvene usluge](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="7d58d-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
+<span data-ttu-id="bd92c-p101">Ti bi mogla da bude pogođena do incidenta sa servisa ili savetodavnog koja je trenutno pod istragom. Najnoviji status možete proveriti tako što ćete ići na stranicu za [Zdravstvene usluge](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="bd92c-p101">You might be affected by a service incident or advisory that is currently being investigated. You can check the latest status by going to the [Service Health](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) page.</span></span> 
   
-<span data-ttu-id="7d58d-105">Radi ugodnijeg, možete pronaći rezime ovog incidenta ispod:</span><span class="sxs-lookup"><span data-stu-id="7d58d-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="bd92c-105">Radi ugodnijeg, možete pronaći rezime ovog incidenta ispod:</span><span class="sxs-lookup"><span data-stu-id="bd92c-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="7d58d-106">**Incidenta broj:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="7d58d-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
+> <span data-ttu-id="bd92c-106">**Incidenta broj:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="bd92c-106">**Incident number:**[{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)</span></span>
     
-> <span data-ttu-id="7d58d-107">Utiče na opis: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="7d58d-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="bd92c-107">Utiče na opis: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="bd92c-107">Impact description: {ImpactDescription}</span></span>
     
 
