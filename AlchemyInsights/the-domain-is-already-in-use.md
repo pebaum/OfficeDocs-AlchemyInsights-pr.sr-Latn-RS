@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
-ms.openlocfilehash: 429b091255933de57c2f179355e88625144d6eb1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ae287246dd91c3c6fe7aa686fed2bad6c5c6b811
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488099"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29659209"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="e59dd-102">Domen je već u upotrebi</span><span class="sxs-lookup"><span data-stu-id="e59dd-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="74bc3-102">Domen je već u upotrebi</span><span class="sxs-lookup"><span data-stu-id="74bc3-102">The domain is already in use</span></span>
 
-<span data-ttu-id="e59dd-p101">Domenu ste pokušavate dodati već pripada drugu organizaciju. Prvo morate da uklonite domenu iz te organizacije da biste ga dodali ovoj organizaciji. U člancima ispod će vas voditi kroz ove procese.</span><span class="sxs-lookup"><span data-stu-id="e59dd-p101">The domain you're trying to add already belongs to another organization. You must first remove the domain from that organization before you can add it to this organization. The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="74bc3-p101">Domenu ste pokušavate dodati već pripada drugu organizaciju. Prvo morate da uklonite domenu iz te organizacije da biste ga dodali ovoj organizaciji. U člancima ispod će vas voditi kroz ove procese.</span><span class="sxs-lookup"><span data-stu-id="74bc3-p101">The domain you're trying to add already belongs to another organization. You must first remove the domain from that organization before you can add it to this organization. The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="e59dd-106">Uklanjanje domena iz Office 365</span><span class="sxs-lookup"><span data-stu-id="e59dd-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [<span data-ttu-id="74bc3-106">Uklanjanje domena iz Office 365</span><span class="sxs-lookup"><span data-stu-id="74bc3-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [<span data-ttu-id="e59dd-107">Dodavanje domena i Kreiranje DNS zapisa</span><span class="sxs-lookup"><span data-stu-id="e59dd-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [<span data-ttu-id="74bc3-107">Dodavanje domena i Kreiranje DNS zapisa</span><span class="sxs-lookup"><span data-stu-id="74bc3-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 
