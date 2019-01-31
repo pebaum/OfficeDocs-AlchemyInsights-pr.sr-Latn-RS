@@ -6,17 +6,20 @@ manager: mnirkhe
 ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
-ms.openlocfilehash: 24842e8cc5c6e47fb0eb637e6a3211637ede1ed8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 06a0b5b8d29052e6033de5938b8ea67ceabc9848
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487579"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658129"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Rešavanje problema u Savetu bezbednosti za otkrivanje prevare proverava
+
+
 
 Ako ste dobiti napojnicu sigurnost koja kaže „pošiljalac nije uspelo čekove za otkrivanje prevare, i možda nije koji izgledaju kao da su”, a zatim pošiljalac nije uspjelo proći ili DKIM ili SPF provere identiteta. Najbolji metod da biste rešili ovo je za pošiljaoca da odobri sami sebe. Ako pošiljalac šalje u vaše ime, potrebno je da odobrite ih tako što ćete dodati IP adresu pošiljaoca na tvoj SPF zapis.
   
@@ -24,8 +27,8 @@ Vidim [Rešavanje problema vrh crvene (sumnjivo) sigurnost za otkrivanje prevare
   
 Evo nekih drugih veza koje vam mogu pomoći:
   
-- [Kako Office 365 koristi pošiljaoca politički okvir (SPF) da biste sprečili obmane u vezi sa](https://docs.microsoft.com/en-us/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Kako Office 365 koristi pošiljaoca politički okvir (SPF) da biste sprečili obmane u vezi sa](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
     
-- [Podesite SPF u Office 365 da biste sprečili obmane u vezi sa](https://docs.microsoft.com/en-us/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Podesite SPF u Office 365 da biste sprečili obmane u vezi sa](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
     
 

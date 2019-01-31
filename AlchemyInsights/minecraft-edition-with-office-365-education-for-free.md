@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487860"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657553"
 ---
-[Minecraft izdanje sa Office 365 obrazovanje za slobodan](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
+[Minecraft izdanje sa Office 365 obrazovanje za slobodan](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: obrazovanje izdanje** zahteva Windows 10 
     
 - Suđenja ili pretplate za **Minecraft: obrazovanje izdanje** nude se obrazovanje stanarima kojima upravlja Azure Active Directory (azurno AD) 
     
-  - Ako tvoja škola nema jedan stanar azurno AD, [IT administrator možete ga podesiti](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft) u sklopu procesa dobijanja **Minecraft: obrazovanje izdanje**.
+  - Ako tvoja škola nema jedan stanar azurno AD, [IT administrator možete ga podesiti](https://docs.microsoft.com/education/windows/school-get-minecraft) u sklopu procesa dobijanja **Minecraft: obrazovanje izdanje**.
     
   - Office 365 obrazovanja, koja uključuje online verzije Office aplikacija, plus 1 TB za skladištenje na mreži je besplatno za nastavnike i učenike. [Prijavite svoje škole za obrazovanje Office 365](https://products.office.com/academic/office-365-education-plan).
     
   - Da li tvoja škola ima pretplatu na Office 365 obrazovanje, uključuje besplatan azurno AD pretplate. [Registar tvoj slobodan azurno AD pretplate](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
     
-[Saznajte kako nastavnici mogu dobiti i distribuirati Minecraft: obrazovanje izdanje](https://docs.microsoft.com/en-us/education/windows/teacher-get-minecraft).
+[Saznajte kako nastavnici mogu dobiti i distribuirati Minecraft: obrazovanje izdanje](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Saznajte kako IT administratori mogu dobiti i distribuirati Minecraft: obrazovanje izdanje](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft), i kako da upravljate dozvolama za Minecraft.
+[Saznajte kako IT administratori mogu dobiti i distribuirati Minecraft: obrazovanje izdanje](https://docs.microsoft.com/education/windows/school-get-minecraft), i kako da upravljate dozvolama za Minecraft.
   
 

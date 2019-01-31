@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: ea9b108ae40126fa60679d84cd5969e2ecb629d9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1de3b2f04162388939809048259552277c4074fc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487301"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657441"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook pad korake za rešavanje problema
 
-Ako imate Outlook na radnoj površini pad pitanjima, početi do sledećih 3 koraka, koji su svi navedeni detaljno u ovom članku: [Kako da rešite probleme koji uzrokuju Outlook se slupati ili vise kada se koristi sa Office 365.](https://support.microsoft.com/en-us/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Ako imate Outlook na radnoj površini pad pitanjima, početi do sledećih 3 koraka, koji su svi navedeni detaljno u ovom članku: [Kako da rešite probleme koji uzrokuju Outlook se slupati ili vise kada se koristi sa Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
 1. korak: Istraži mogući problemi sa programskim dodacima.
   
@@ -28,6 +28,6 @@ Ako imate Outlook na radnoj površini pad pitanjima, početi do sledećih 3 kora
   
 3. korak: Kreirajte novi Outlook profil ili možete pokrenuti [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) na pogođenim masini. 
   
-Ako je pitanje došlo nakon što su ispravke i navedeni koraci ne rade, moraćete da biste se vratili na prethodnu verziju. Saznajte [Kako da vratite prethodnu verziju sistema Office 2013 ili Office 2016 Klikni i pokreni](https://support.microsoft.com/EN-US/help/2770432).
+Ako je pitanje došlo nakon što su ispravke i navedeni koraci ne rade, moraćete da biste se vratili na prethodnu verziju. Saznajte [Kako da vratite prethodnu verziju sistema Office 2013 ili Office 2016 Klikni i pokreni](https://support.microsoft.com/help/2770432).
   
 

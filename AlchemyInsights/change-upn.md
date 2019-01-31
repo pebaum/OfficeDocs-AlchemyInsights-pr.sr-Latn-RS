@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: b8c64b3c006ffd59ad5b72478f235bb55601491c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 6c9750f6b2fb61c09dff2bc86e0a51d2d8c80270
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488175"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656113"
 ---
 # <a name="change-a-users-email-address"></a>Promena adrese e-pošte korisnika
 
@@ -38,6 +38,6 @@ Menjanje nečiju adresu e-pošte je lako! Samo slijedite ove korake:
     
 6. Odaberite da **sačuvate**, zatim **Zatvori**, i gotov si!
     
-Nije bilo tako lako? Za više detalja i korake sa slike ekrana, vidi ovaj članak: [Promena korisničkog imena i e-adresa u Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
+Nije bilo tako lako? Za više detalja i korake sa slike ekrana, vidi ovaj članak: [Promena korisničkog imena i e-adresa u Office 365](https://support.office.com/article/https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx)
   
 

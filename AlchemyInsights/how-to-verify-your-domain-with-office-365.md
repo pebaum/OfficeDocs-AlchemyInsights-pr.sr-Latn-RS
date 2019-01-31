@@ -2,23 +2,24 @@
 title: Kako da provjerite vaš domen sa Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 7/2/2018
+ms.date: 1/14/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 11f7503b-c802-437f-bc1d-ce13bb4d9bb2
-ms.openlocfilehash: da39d4358ad97f385edc9413cad03a5c80a07132
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4eddcede7479d1ed7d44037a07f93428ec2aba8d
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487238"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658237"
 ---
 # <a name="how-to-verify-your-domain-with-office-365"></a>Kako da provjerite vaš domen sa Office 365
 
 Morat ćete dodati TXT zapis tvoj domen specijalista da biste potvrdili da ste vlasnik vašeg domena. Prvo, pratite [čarobnjaka za dodavanje domena](https://portal.office.com/adminportal/home#/Domains) tako što ćete kliknuti na **Postavke** \> **domena**, a zatim **Dodajte domen**.
   
-Sledite uputstva u [ovom članku](https://support.office.com/article/https://support.office.com/en-us/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) da biste dodali TXT zapis da biste proverili vašeg domena. 
+Sledite uputstva u [Kreiranje DNS zapisa na bilo koji DNS usluga hostinga za Office 365] (https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider za dodavanje TXT zapis da biste proverili vašeg domena. 
   
 

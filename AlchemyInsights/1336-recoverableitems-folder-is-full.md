@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487590"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655681"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Spasen stavke fascikla je puna
 
@@ -36,7 +36,7 @@ Za Poštanske sandučiće koje se ne nalaze na čekanju, možete koristiti admin
     
 - [Pretraživanje-poštansko sanduče](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Za Poštanske sandučiće koje su na čekanju, admini morate da uklonite zadršku, pre nego što oni mogu izbrisanih stavki iz fascikle spasen stavke. Više informacija potražite u odeljku [Brisanje stavki u spasen stavki držite fasciklu od zasnovano na Poštanske sandučiće na](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Za Poštanske sandučiće koje su na čekanju, admini morate da uklonite zadršku, pre nego što oni mogu izbrisanih stavki iz fascikle spasen stavke. Više informacija potražite u odeljku [Brisanje stavki u spasen stavki držite fasciklu od zasnovano na Poštanske sandučiće na](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Sprečavanja fasciklu spasen stavke postane puna, admini možete povećati ograničenje skladišta spasen stavki fascikle za Poštanske sandučiće na držite i podesite smernice za zadržavanje poštansko sanduče koje premešta stavke iz fascikle spasen stavke korisnikove arhivu poštansko sanduče. Vidim da [poveća spasen stavke kvote za Poštanske sandučiće na držite](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

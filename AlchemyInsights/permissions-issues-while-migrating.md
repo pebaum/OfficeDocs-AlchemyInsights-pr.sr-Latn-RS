@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 0b375c3054d6ebd8638b167770fb73f12c7e95ef
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d85a9e37e30bf83b8990247c4a7d529b4d9ff305
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487282"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29656473"
 ---
 # <a name="user-profile-and-photo-synchronization"></a>Korisnički profil i foto sinhronizacije
 
@@ -25,6 +25,6 @@ Za više informacija o procesu sinhronizacije fotografija, pogledajte [informaci
   
 Više informacija o procesu sinhronizacije profila, potražite [informacije o korisnički profil sinhronizacije u SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Ažuriranje profila u kancelariji, ronite** - Delve korisnici mogu upravljati svojim Office 365 profila. Za više informacija, pogledajte [prikaz i ažuriranje vašeg profila u kancelariji, ronite](https://support.office.com/en-us/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Ažuriranje profila u kancelariji, ronite** - Delve korisnici mogu upravljati svojim Office 365 profila. Za više informacija, pogledajte [prikaz i ažuriranje vašeg profila u kancelariji, ronite](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

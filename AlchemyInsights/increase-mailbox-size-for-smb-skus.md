@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488124"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660901"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Prekidač planira da poveća veličinu poštanskog sandučeta
 
-Ako veličina poštanskog sandučeta je 50 GB, možete povećati veličinu poštanskog sandučeta na 100 GB ako se prebacite na [Office 365 Enterprise E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Ovde su koraci da se prebacite na drugi plan Office 365:
+Ako veličina poštanskog sandučeta je 50 GB, možete povećati veličinu poštanskog sandučeta na 100 GB ako se prebacite na [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ili [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Ovde su koraci da se prebacite na drugi plan Office 365:
   
 1. U centru za admin Office 365, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.
     

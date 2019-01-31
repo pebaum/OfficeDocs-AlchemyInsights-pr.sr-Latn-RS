@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a828f8d-ff31-40a7-b701-b2339e771817
-ms.openlocfilehash: cbc3a97debc70ce7be02f651253c71651bbb2643
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ed1db79b7c0aef53c7ded1a8d2119fd326a84832
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488060"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661261"
 ---
 # <a name="file-open-read-only"></a>Otvaranje datoteke samo za čitanje
 
@@ -30,7 +30,7 @@ Svojstva datoteke možete proveriti tako što kliknete desnim tasterom miša na 
   
  **Sadržaj je u zaštićenom prikazu**
   
-Datoteka sa interneta, kao i sa drugim potencijalno nesigurnih lokacija može da sadrži viruse, crve ili druge vrste malver koji vam može naškoditi vašem računaru. Ovo je takođe često slučaj sa priloge e-pošte ili datoteka koje ste preuzeli. Da biste zaštitili vaš računar, datoteke iz ovih potencijalno nesigurnih lokacija su otvorene u prikazu koji je zaštićen. Pomoću prikaza zaštićeni, mogu da čitaju datoteku, kao i da ih vidimo njen sadržaj, uz istovremeno smanjenje rizika. Za više informacija o prikazu zaštićeno i kako promijeniti postavke, pogledajte ovaj članak: [koji je zaštićen prikaz?](https://support.office.com/en-us/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Datoteka sa interneta, kao i sa drugim potencijalno nesigurnih lokacija može da sadrži viruse, crve ili druge vrste malver koji vam može naškoditi vašem računaru. Ovo je takođe često slučaj sa priloge e-pošte ili datoteka koje ste preuzeli. Da biste zaštitili vaš računar, datoteke iz ovih potencijalno nesigurnih lokacija su otvorene u prikazu koji je zaštićen. Pomoću prikaza zaštićeni, mogu da čitaju datoteku, kao i da ih vidimo njen sadržaj, uz istovremeno smanjenje rizika. Za više informacija o prikazu zaštićeno i kako promijeniti postavke, pogledajte ovaj članak: [koji je zaštićen prikaz?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
  **Da li je OneDrive punu?**
   
@@ -38,7 +38,7 @@ Ako je datoteka uskladištena na OneDrive, a prostora za skladištenje OneDrive 
   
  **Je li Office aktiviran?**
   
-Ako Office nije aktivirana ili ako vaša pretplata je istekla, možeš biti u samo za čitanje režimu smanjene funkcionalnosti. Za informacije o tome kako da aktivirate Office, pogledajte: [nelicencirane proizvoda i aktivacije greške u kancelariji](https://support.office.com/en-us/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Ako Office nije aktivirana ili ako vaša pretplata je istekla, možeš biti u samo za čitanje režimu smanjene funkcionalnosti. Za informacije o tome kako da aktivirate Office, pogledajte: [nelicencirane proizvoda i aktivacije greške u kancelariji](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380).
   
  **Ako sve drugo propadne...**
   

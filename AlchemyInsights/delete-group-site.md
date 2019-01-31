@@ -3,31 +3,30 @@ title: Izbriši grupu lokacija
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488142"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660685"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Brisanje SharePoint lokacije koja pripada grupi programa Office 365
 
-Kada korisnici kreiraju nove lokacije tima iz SharePoint dom (ili kreirate novu lokaciju tima iz nove SharePoint admin centar pregleda), automatski se kreira odgovarajuću grupu Office 365. Office 365 tim povezana grupa takođe kreiraju lokacije kada kreirate grupu Office 365 ili tim u Microsoft Teams. Da biste izbrisali lokaciju SharePoint koja pripada grupi programa Office 365, potrebno je da izbrišete same grupe Office 365. 
+Globalni admini i SharePoint admini sada možete da izbrišete lokacije koje pripadaju grupi programa Office 365. Brisanjem ovih lokacija će izbrisati grupu i svim svojim resursima, uključujući Outlook poštansko sanduče "i" Kalendar "i" neki drugi kanal timova.
   
-1. Idite na [stranicu grupe Office 365 admin centra](https://portal.office.com/adminportal/home#/groups).
-    
-2. Potvrdite izbor u polju za potvrdu pored grupe.
-    
-3. Izaberite stavku **Izbriši**.
-    
-Napomena: Prilikom brisanja grupe, može postojati kašnjenja pre nego što lokacija će biti uklonjena iz SharePoint.
+Važno:
+- Možete da spasite izbrisanu lokacije za 93 dana. Za više informacija, vidite prikaz i Vraćanje izbrisanih lokacije. Imajte na umu da se mora vratiti izbrisane grupe u roku od 30 dana. 
+- Ako se lokacija nalazi deo smernica za zadržavanje, možda nećete moći da je izbrisati sve dok na lokaciji će biti uklonjena iz u [bezbednosti &amp; usklađenosti Admin centar](https://protection.office.com/?rfr=AdminCenter#/retention). Za više informacija pogledajte [Pregled smernice za zadržavanje](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+  
+[Prikaz i vraćanja izbrisane lokacije u centru za admin novu SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izaberite **brišu lokacije**. Izaberite lokaciju koja je izbrisana i odaberite stavku "oporavak" ili "Delete (koji će trajno izbrisati lokacije). Da biste izbrisali aktivna lokacija, izaberite **aktivne** lokacije, izaberite lokaciju i izaberite stavku **Izbriši**. Za više informacija, vidi [Upravljanje lokacijama u centru za admin novu SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 
