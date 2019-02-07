@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: bd535218ec01f4b234e46bba9fe405f072dbf6ed
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 88c8f93980d5a42d9efcfde0298df1abb4f9ad6f
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661837"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758934"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlook pretrage ne indeksiranja
 
@@ -24,12 +24,12 @@ Svesni smo Outlook pretragu pitanja vezanih za nedavni bezbednosnih ispravki za 
   
 Prilikom pretraživanja u programu Outlook, možda dobijete ovu grešku: ** nešto krenulo po zlu i vaša pretraga mogla biti dovršena **, ili **Rezultati pretrage možda biti nepotpuni jer se stavke još indeksiraju**. Fix je izdat kao opcionalna ispravka operativnog sistema Windows. Instalirajte ta koja odgovara na verziju operativnog sistema Windows se pojavljuje ovaj problem na: 
   
-> [Windows 7 - 27 juna 2017 ažuriranje](https://support.office.com/article/https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 - 27 juna 2017 ažuriranje](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Ažuriranje za Windows 8.1 - 27 juna 2017](https://support.office.com/article/https://support.microsoft.com/kb/4022720.aspx)
+> [Ažuriranje za Windows 8.1 - 27 juna 2017](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Verzija Windows 10 1703 - 27 juna 2017 ažuriranja](https://support.office.com/article/https://support.microsoft.com/kb/4022716.aspx)
+> [Verzija Windows 10 1703 - 27 juna 2017 ažuriranja](https://support.microsoft.com/kb/4022716.aspx)
     
-Za najnovije informacije, pogledajte članak: [Outlook poznati problemi u junu 2017 bezbednosnih ispravki](https://support.office.com/article/https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) pitanje #5. 
+Za najnovije informacije, pogledajte članak: [Outlook poznati problemi u junu 2017 bezbednosnih ispravki](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) pitanje #5. 
   
 

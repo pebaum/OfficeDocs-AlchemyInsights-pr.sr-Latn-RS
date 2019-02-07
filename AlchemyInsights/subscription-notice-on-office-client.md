@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 0ab0f05a871f338a283ecc10aad958455c19db19
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ef79cb324393bae05b53d207748da960162015b1
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29655609"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759762"
 ---
 # <a name="subscription-notice-in-your-office-client"></a>Napomene pretplatu na vaš klijent za Office?
 
-Izgleda da gledate oglas u vaš Office klijent vezanih za status pretplatu na Office 365. Informacije o tome kako da rešite problem u ovom članku možete pronaći: [pretplatu obaveštenje se pojavljuje kad otvorim aplikaciju Office 365](https://support.office.com/article/https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Izgleda da gledate oglas u vaš Office klijent vezanih za status pretplatu na Office 365. Informacije o tome kako da rešite problem u ovom članku možete pronaći: [pretplatu obaveštenje se pojavljuje kad otvorim aplikaciju Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Ako vaša pretplata na Office 365 je ažurirana, lupimo privremeni problem koji je uzrok tvoje kancelarije aktivacije na propast. Postoje jednostavnih koraka koje možete preduzeti da biste izbegli ove poruke, kao provera vremena tvoj kompjuter, pokrenut Office kao Administrator i prijavite da biste aktivirali. Možete pronaći detaljne korake za popravljanje sporne stavke u ovom članku: [nelicencirane proizvoda i aktivacije greške u kancelariji](https://support.office.com/article/https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). 
+Ako vaša pretplata na Office 365 je ažurirana, lupimo privremeni problem koji je uzrok tvoje kancelarije aktivacije na propast. Postoje jednostavnih koraka koje možete preduzeti da biste izbegli ove poruke, kao provera vremena tvoj kompjuter, pokrenut Office kao Administrator i prijavite da biste aktivirali. Možete pronaći detaljne korake za popravljanje sporne stavke u ovom članku: [nelicencirane proizvoda i aktivacije greške u kancelariji](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx). 
   
 Ako ovo ne radim za tebe, molimo kontaktirajte nas za veze sa vezama ispod i biće nam drago da pomognem.
   
