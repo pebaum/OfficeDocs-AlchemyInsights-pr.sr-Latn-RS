@@ -7,14 +7,14 @@ ms.date: 11/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 9ecfb5bb167a0c959d39d47713bbb0e64862abb8
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660145"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29926942"
 ---
 - Da primenite parnice čekanje ili nadogradnju na licu mesta držite sa poštanskim sandučetom, potreban je i [licencu za Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako imate bilo kakav drugi Plan, dodeljivanje je posebna licenca za [Exchange Online arhiviranje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) na račun. 
     
