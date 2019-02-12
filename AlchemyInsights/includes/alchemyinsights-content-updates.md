@@ -838,3 +838,57 @@
 | 1/30/2019 | [123 dobiti nalog onemogućen greške u OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | izmenio |
 | 1/2/2019 | [isto kao i ime datoteke je najbolje [pravilo #-opis]](/AlchemyInsights/1-alchemy-insight-template) | izmenio |
 | 1/2/2019 | [Promene dozvola za poštansko sanduče](/AlchemyInsights/changing-permissions-on-a-mailbox) | izmenio |
+
+
+## <a name="week-of-february-04-2019"></a>Nedelja u 04. februara 2019.
+
+
+| Koji je objavljen u |Naslov teme | Promena |
+|------|------------|--------|
+| 2/4/2019 | [Dodavanje korisnika na Office 365](/AlchemyInsights/add-users-to-office-365) | izmenio |
+| 6/2/2019 | [Radnik odlazi](/AlchemyInsights/employee-leaving) | izmenio |
+| 6/2/2019 | [Preuzimanje admin](/AlchemyInsights/admin-takeover) | izmenio |
+| 6/2/2019 | [127 se greška u TenantAccessBlockedException prilikom pristupanja e-pošte?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | izmenio |
+| 6/2/2019 | [959 promena imena za prikaz](/AlchemyInsights/959-change-display-name) | izmenio |
+| 6/2/2019 | [Dodajte ili uklonite pseudonim e-pošte za korisnika](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | izmenio |
+| 6/2/2019 | Dodavanje mesta u pretplatu za avansnu uplatu | uklonjena |
+| 6/2/2019 | [Dodavanje korisnika na Office 365](/AlchemyInsights/add-users-to-office-365) | izmenio |
+| 6/2/2019 | [Dodavanje eksternog korisnika u listu distribucije?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | izmenio |
+| 6/2/2019 | Admin - Global Office 365 konfigurisanje i administracija | uklonjena |
+| 6/2/2019 | Admin - upravljanje mojim korisnicima, grupama i resursima | uklonjena |
+| 6/2/2019 | Admin - podešavanje domena i DNS postavki | uklonjena |
+| 6/2/2019 | Admin - prijavljivanje i lozinku pitanja | uklonjena |
+| 6/2/2019 | [Otkazivanje pretplate na Office 365](/AlchemyInsights/cancel-office-365-subscription) | izmenio |
+| 6/2/2019 | [Promena korisničkog imena i e-adresu](/AlchemyInsights/change-a-user-s-name-and-email-address) | izmenio |
+| 6/2/2019 | Commerce - upravljanje računa, uplate, pretplate i licence | uklonjena |
+| 6/2/2019 | [Sve greške u TenantAccessBlockedException prilikom pristupanja e-pošte?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | izmenio |
+| 6/2/2019 | [Imamo problema isporuke e-pošte?](/AlchemyInsights/having-email-delivery-issues-0) | izmenio |
+| 6/2/2019 | [Imamo problema isporuke e-pošte?](/AlchemyInsights/having-email-delivery-issues) | izmenio |
+| 6/2/2019 | [Imamo problema da se Outlook poveže?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | izmenio |
+| 6/2/2019 | [Imamo problema da se Outlook poveže?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | izmenio |
+| 6/2/2019 | Intune - preuzimanje, instalacija i korišćenje Intune | uklonjena |
+| 6/2/2019 | [Problem sa Skype za posao?](/AlchemyInsights/issue-with-skype-for-business) | izmenio |
+| 6/2/2019 | ODSP | uklonjena |
+| 6/2/2019 | Office klijenta - Excel | uklonjena |
+| 6/2/2019 | [Oporavak izbrisanih korisnika](/AlchemyInsights/restore-deleted-user) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress-0) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress-1) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress-2) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress-3) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress-4) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress-5) | izmenio |
+| 6/2/2019 | [Servis Incident u toku](/AlchemyInsights/service-incident-in-progress) | izmenio |
+| 6/2/2019 | [Podešavanje projekta](/AlchemyInsights/setting-up-project) | izmenio |
+| 6/2/2019 | Podešavanje funkcije usklađenosti kao arhiva, zadržavanja, parnica, eDiscovery i MDM | uklonjena |
+| 6/2/2019 | Pomoću vanmrežnih instalacioni program za Office | uklonjena |
+| 6/2/2019 | Za Yammer - podešavanje i koristiti usluge Yammer | uklonjena |
+| 2/7/2019 | [Excel je upao?](/AlchemyInsights/excel-crashing) | izmenio |
+| 2/7/2019 | [Kako da dodate ili uredite za VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | izmenio |
+| 2/7/2019 | [Minecraft izdanje sa Office 365 obrazovanje za slobodan](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | izmenio |
+| 2/7/2019 | [606 informacije o delegaciji](/AlchemyInsights/606-information-on-delegation) | izmenio |
+| 2/7/2019 | [Vaša grupa ne prikazuje padajuće liste grupe](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | izmenio |
+| 2/8/2019 | [I Uroniti politiku savjete ne radi](/AlchemyInsights/dlp-policy-tips-not-working) | izmenio |
+| 2/8/2019 | [I Uroniti pravilo za U.S. / broj pasoša UK ne radi](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | izmenio |
+| 2/8/2019 | [Office 365 obrazovanje za slobodan](/AlchemyInsights/office-365-education-for-free) | izmenio |
+| 2/8/2019 | [Potrebne dozvole za Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | izmenio |
+| 2/8/2019 | [Smernice za zadržavanje u Exchange Admin centar ne radi](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | izmenio |
