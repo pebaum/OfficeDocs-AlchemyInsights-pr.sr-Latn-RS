@@ -7,44 +7,44 @@ ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bbaa91c8beadb5508176fb8e2c225a0aaa0e0613
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 244cf804ea0f270bf56ba3247beb91463ffb66b4
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488074"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29922910"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="6bf0a-102">Kako da dodate ili smanjite licence</span><span class="sxs-lookup"><span data-stu-id="6bf0a-102">How to add or reduce licenses</span></span>
+# <a name="how-to-add-or-reduce-licenses"></a><span data-ttu-id="3b50f-102">Kako da dodate ili smanjite licence</span><span class="sxs-lookup"><span data-stu-id="3b50f-102">How to add or reduce licenses</span></span>
 
-<span data-ttu-id="6bf0a-103">Evo kako da uklonite ili da kupite više licenci.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-103">Here's how to remove or purchase more licenses.</span></span>
+<span data-ttu-id="3b50f-103">Evo kako da uklonite ili da kupite više licenci.</span><span class="sxs-lookup"><span data-stu-id="3b50f-103">Here's how to remove or purchase more licenses.</span></span>
   
-1. <span data-ttu-id="6bf0a-104">U centru za Admin, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="3b50f-104">U centru za Admin, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.</span><span class="sxs-lookup"><span data-stu-id="3b50f-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="6bf0a-105">Na levoj strani, odaberite pretplatu iz kojih želite da Dodavanje/uklanjanje licence</span><span class="sxs-lookup"><span data-stu-id="6bf0a-105">On the left, choose the Subscription from which you want to add/remove licenses</span></span>
+2. <span data-ttu-id="3b50f-105">Na levoj strani, odaberite pretplatu iz kojih želite da Dodavanje/uklanjanje licence</span><span class="sxs-lookup"><span data-stu-id="3b50f-105">On the left, choose the Subscription from which you want to add/remove licenses</span></span>
     
-3. <span data-ttu-id="6bf0a-106">Odaberite **Dodaj/ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-106">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="3b50f-106">Odaberite **Dodaj/ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="3b50f-106">Choose **Add/Remove licenses**.</span></span>
     
-4. <span data-ttu-id="6bf0a-107">Unesite ukupan broj korisnika potrebna.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-107">Enter the total number of users needed.</span></span>
+4. <span data-ttu-id="3b50f-107">Unesite ukupan broj korisnika potrebna.</span><span class="sxs-lookup"><span data-stu-id="3b50f-107">Enter the total number of users needed.</span></span>
     
-    <span data-ttu-id="6bf0a-108">Na primer, ako trenutno imate 25 licence, a želite da uklonite 5, u ovo polje unesite samo 20.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
+    <span data-ttu-id="3b50f-108">Na primer, ako trenutno imate 25 licence, a želite da uklonite 5, u ovo polje unesite samo 20.</span><span class="sxs-lookup"><span data-stu-id="3b50f-108">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
     
-5. <span data-ttu-id="6bf0a-109">Odaberite da **podnesu**.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-109">Choose **Submit**.</span></span>
+5. <span data-ttu-id="3b50f-109">Odaberite da **podnesu**.</span><span class="sxs-lookup"><span data-stu-id="3b50f-109">Choose **Submit**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="6bf0a-110">Svaki novi trošak (licenca povećanje) ili potraživanja (smanjenje licence) će se pojaviti na tvoj slijedeći račun.</span><span class="sxs-lookup"><span data-stu-id="6bf0a-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span> 
+> <span data-ttu-id="3b50f-110">Svaki novi trošak (licenca povećanje) ili potraživanja (smanjenje licence) će se pojaviti na tvoj slijedeći račun.</span><span class="sxs-lookup"><span data-stu-id="3b50f-110">Any new charge (license increase) or credit (license decrease) will show up on your next bill.</span></span> 
   
- <span data-ttu-id="6bf0a-111">**Resursi**</span><span class="sxs-lookup"><span data-stu-id="6bf0a-111">**Resources**</span></span>
+ <span data-ttu-id="3b50f-111">**Resursi**</span><span class="sxs-lookup"><span data-stu-id="3b50f-111">**Resources**</span></span>
   
-- [<span data-ttu-id="6bf0a-112">Uklanjanje licence iz svoje Office 365 za poslovne pretplatu</span><span class="sxs-lookup"><span data-stu-id="6bf0a-112">Remove licenses from your Office 365 for business subscription</span></span>](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
+- [<span data-ttu-id="3b50f-112">Uklanjanje licence iz svoje Office 365 za poslovne pretplatu</span><span class="sxs-lookup"><span data-stu-id="3b50f-112">Remove licenses from your Office 365 for business subscription</span></span>](https://support.office.com/article/9c64d127-e2dd-4ecc-81f5-2f87e5a74803)
     
-- [<span data-ttu-id="6bf0a-113">Kupiti licence za svoje Office 365 za poslovne pretplatu</span><span class="sxs-lookup"><span data-stu-id="6bf0a-113">Buy licenses for your Office 365 for business subscription</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+- [<span data-ttu-id="3b50f-113">Kupiti licence za svoje Office 365 za poslovne pretplatu</span><span class="sxs-lookup"><span data-stu-id="3b50f-113">Buy licenses for your Office 365 for business subscription</span></span>](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
     
-- [<span data-ttu-id="6bf0a-114">Otkazati Office 365 za poslovne</span><span class="sxs-lookup"><span data-stu-id="6bf0a-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="3b50f-114">Otkazati Office 365 za poslovne</span><span class="sxs-lookup"><span data-stu-id="3b50f-114">Cancel Office 365 for business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- [<span data-ttu-id="6bf0a-115">Kupi drugi Office 365 za poslovne pretplatu</span><span class="sxs-lookup"><span data-stu-id="6bf0a-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [<span data-ttu-id="3b50f-115">Kupi drugi Office 365 za poslovne pretplatu</span><span class="sxs-lookup"><span data-stu-id="3b50f-115">Buy another Office 365 for business subscription</span></span>](https://support.office.com/article/fab3b86c-3359-4042-8692-5d4dc7550b7c)
     
 
