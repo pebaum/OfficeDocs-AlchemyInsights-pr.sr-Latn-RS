@@ -7,29 +7,29 @@ ms.date: 11/1/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 02ddeebfa1e965b2500586bfe7002bbef1536acd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 33ca4e4b31729a1a11cee3d1359cd75286cb1b6a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487187"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29937202"
 ---
-# <a name="restore-a-deleted-file-or-folder"></a><span data-ttu-id="ec5dc-102">Vraćanje izbrisanih datoteka ili fascikla</span><span class="sxs-lookup"><span data-stu-id="ec5dc-102">Restore a deleted file or folder</span></span>
+# <a name="restore-a-deleted-file-or-folder"></a><span data-ttu-id="0665f-102">Vraćanje izbrisanih datoteka ili fascikla</span><span class="sxs-lookup"><span data-stu-id="0665f-102">Restore a deleted file or folder</span></span>
 
-1. <span data-ttu-id="ec5dc-103">Idite na SharePoint lokaciji ili OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ec5dc-103">Go to the SharePoint site or OneDrive.</span></span>
+1. <span data-ttu-id="0665f-103">Idite na SharePoint lokaciji ili OneDrive.</span><span class="sxs-lookup"><span data-stu-id="0665f-103">Go to the SharePoint site or OneDrive.</span></span>
     
-2. <span data-ttu-id="ec5dc-p101">U lijevom oknu kliknite " **Korpa za otpatke** ". Ako ne vidite korpa za otpatke, kliknite na ikonu postavke, a zatim **lokaciju sadržaja**. Korpe za otpatke na krajnjoj desnoj strani komandne trake na vrhu je.</span><span class="sxs-lookup"><span data-stu-id="ec5dc-p101">Click **Recycle bin** in the left pane. If you don't see Recycle bin, click the Settings icon, and then click **Site contents**. The Recycle Bin is on the far right of the command bar at the top.</span></span>
+2. <span data-ttu-id="0665f-p101">U lijevom oknu kliknite " **Korpa za otpatke** ". Ako ne vidite korpa za otpatke, kliknite na ikonu postavke, a zatim **lokaciju sadržaja**. Korpe za otpatke na krajnjoj desnoj strani komandne trake na vrhu je.</span><span class="sxs-lookup"><span data-stu-id="0665f-p101">Click **Recycle bin** in the left pane. If you don't see Recycle bin, click the Settings icon, and then click **Site contents**. The Recycle Bin is on the far right of the command bar at the top.</span></span>
     
-3. <span data-ttu-id="ec5dc-107">Kliknite na dugme sa desne strane stavke koje želite da vratite u prethodno stanje.</span><span class="sxs-lookup"><span data-stu-id="ec5dc-107">Click to the left of the items you want to restore.</span></span>
+3. <span data-ttu-id="0665f-107">Kliknite na dugme sa desne strane stavke koje želite da vratite u prethodno stanje.</span><span class="sxs-lookup"><span data-stu-id="0665f-107">Click to the left of the items you want to restore.</span></span>
     
-4. <span data-ttu-id="ec5dc-108">Kliknite na dugme **Vrati u prethodno stanje**.</span><span class="sxs-lookup"><span data-stu-id="ec5dc-108">Click **Restore**.</span></span>
+4. <span data-ttu-id="0665f-108">Kliknite na dugme **Vrati u prethodno stanje**.</span><span class="sxs-lookup"><span data-stu-id="0665f-108">Click **Restore**.</span></span>
     
-<span data-ttu-id="ec5dc-p102">Izbrisane stavke zadržavaju se 93 dana. Ako ne vidite stavku koju tražite, to možda su izbrisane iz ove otpatke i preselila se u otpatke kolekcije lokacija. Da biste proverili, kliknite na vezu **drugostepenu korpa za otpatke** na dnu korpe za otpatke.</span><span class="sxs-lookup"><span data-stu-id="ec5dc-p102">Deleted items are retained for 93 days. If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin. To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
+<span data-ttu-id="0665f-p102">Izbrisane stavke zadržavaju se 93 dana. Ako ne vidite stavku koju tražite, to možda su izbrisane iz ove otpatke i preselila se u otpatke kolekcije lokacija. Da biste proverili, kliknite na vezu **drugostepenu korpa za otpatke** na dnu korpe za otpatke.</span><span class="sxs-lookup"><span data-stu-id="0665f-p102">Deleted items are retained for 93 days. If you don't see the item you're looking for, it might have been deleted from this recycle bin and moved to the site collection recycle bin. To check, click the **Second-stage recycle bin** link at the bottom of the recycle bin.</span></span> 
   
-<span data-ttu-id="ec5dc-p103">Ako i dalje ne možete da pronađete artikal možete da pretražujete evidenciju nadzora ako je omogućeno evidentiranje. [Pretraživanje evidencija nadgledanja u Office 365 bezbednosti &amp; usklađenosti centar](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)</span><span class="sxs-lookup"><span data-stu-id="ec5dc-p103">If you are still unable to find the item you can search the audit log if logging is enabled. [Search the audit log in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)</span></span>
+<span data-ttu-id="0665f-p103">Ako i dalje ne možete da pronađete artikal možete da pretražujete evidenciju nadzora ako je omogućeno evidentiranje. [Pretraživanje evidencija nadgledanja u Office 365 bezbednosti &amp; usklađenosti centar](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)</span><span class="sxs-lookup"><span data-stu-id="0665f-p103">If you are still unable to find the item you can search the audit log if logging is enabled. [Search the audit log in the Office 365 Security &amp; Compliance Center](https://support.office.com/article/0d4d0f35-390b-4518-800e-0c7ec95e946c.aspx)</span></span>
   
 
