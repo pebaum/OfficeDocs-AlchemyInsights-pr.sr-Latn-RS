@@ -7,25 +7,25 @@ ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: e6c75434-efea-46ba-b8c6-383f7cddbc28
-ms.openlocfilehash: 7b2d0d6a976bd306f2aa121ff964cb3b6b0fa155
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 469c2b47265c1a9c2ec3301375ac20eddf48bd64
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29488035"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29909468"
 ---
-# <a name="links-in-outlookcom-dont-work-in-firefox"></a><span data-ttu-id="5eda7-102">Veze u Outlook.com ne rade u Firefox</span><span class="sxs-lookup"><span data-stu-id="5eda7-102">Links in Outlook.com don't work in Firefox</span></span>
+# <a name="links-in-outlookcom-dont-work-in-firefox"></a><span data-ttu-id="3e8bb-102">Veze u Outlook.com ne rade u Firefox</span><span class="sxs-lookup"><span data-stu-id="3e8bb-102">Links in Outlook.com don't work in Firefox</span></span>
 
-<span data-ttu-id="5eda7-103">Veze u porukama e-pošte Outlook.com ne rade kada oni su prikazane u pregledačima Firefox.</span><span class="sxs-lookup"><span data-stu-id="5eda7-103">Links in Outlook.com email messages don't work when they're viewed in Firefox browsers.</span></span>
+<span data-ttu-id="3e8bb-103">Veze u porukama e-pošte Outlook.com ne rade kada oni su prikazane u pregledačima Firefox.</span><span class="sxs-lookup"><span data-stu-id="3e8bb-103">Links in Outlook.com email messages don't work when they're viewed in Firefox browsers.</span></span>
   
-<span data-ttu-id="5eda7-104">Mozilla je da [radi na fiks](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) za Firefox, ali do tada:</span><span class="sxs-lookup"><span data-stu-id="5eda7-104">Mozilla is [working on a fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) for Firefox, but until then:</span></span> 
+<span data-ttu-id="3e8bb-104">Mozilla je da [radi na fiks](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) za Firefox, ali do tada:</span><span class="sxs-lookup"><span data-stu-id="3e8bb-104">Mozilla is [working on a fix](https://go.microsoft.com/fwlink/p/?linkid=2001502&amp;clcid=0x409) for Firefox, but until then:</span></span> 
   
-- <span data-ttu-id="5eda7-105">Molim vas da koristite [Microsoft ivice](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ili neki drugi web pregledač.</span><span class="sxs-lookup"><span data-stu-id="5eda7-105">Please use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span> 
+- <span data-ttu-id="3e8bb-105">Molim vas da koristite [Microsoft ivice](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ili neki drugi web pregledač.</span><span class="sxs-lookup"><span data-stu-id="3e8bb-105">Please use [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) or another web browser.</span></span> 
     
-- <span data-ttu-id="5eda7-p101">Koristite beta verziju Outlook.com. [Dodatne informacije o beta verziju Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="5eda7-p101">Use the Outlook.com beta. [Learn about the Outlook.com beta.](https://go.microsoft.com/fwlink/p/?linkid=874356&amp;clcid=0x409)</span></span>
+- <span data-ttu-id="3e8bb-p101">Koristite beta verziju Outlook.com. [Dodatne informacije o beta verziju Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356&amp;clcid=0x409)</span><span class="sxs-lookup"><span data-stu-id="3e8bb-p101">Use the Outlook.com beta. [Learn about the Outlook.com beta.](https://go.microsoft.com/fwlink/p/?linkid=874356&amp;clcid=0x409)</span></span>
     
-- <span data-ttu-id="5eda7-p102">Prikaz e-pošte u oknu za čitanje. Za više informacija, pročitajte Kako promijeniti [izgled vašeg poštanskog sandučeta Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="5eda7-p102">View email in the reading pane. For more information, read how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
+- <span data-ttu-id="3e8bb-p102">Prikaz e-pošte u oknu za čitanje. Za više informacija, pročitajte Kako promijeniti [izgled vašeg poštanskog sandučeta Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="3e8bb-p102">View email in the reading pane. For more information, read how to [change the look of your Outlook.com mailbox](https://go.microsoft.com/fwlink/p/?linkid=2001401&amp;clcid=0x409).</span></span>
     
 
