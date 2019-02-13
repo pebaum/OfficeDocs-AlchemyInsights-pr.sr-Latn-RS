@@ -7,19 +7,19 @@ ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 836ace5e633f94b90eb7d104ea1d54a0b5d12dbb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d3c7debd96e480bf864ccb6b82093d2d6204066a
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487959"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940874"
 ---
-# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="ecf0c-102">Rešavanje problema sa Outlook kategorije</span><span class="sxs-lookup"><span data-stu-id="ecf0c-102">Troubleshoot issues with Outlook categories</span></span>
+# <a name="troubleshoot-issues-with-outlook-categories"></a><span data-ttu-id="7f86b-102">Rešavanje problema sa Outlook kategorije</span><span class="sxs-lookup"><span data-stu-id="7f86b-102">Troubleshoot issues with Outlook categories</span></span>
 
-<span data-ttu-id="ecf0c-103">Više informacija potražite u odeljku [Kreiranje i dodeljivanje kategorije boja](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span><span class="sxs-lookup"><span data-stu-id="ecf0c-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
+<span data-ttu-id="7f86b-103">Više informacija potražite u odeljku [Kreiranje i dodeljivanje kategorije boja](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span><span class="sxs-lookup"><span data-stu-id="7f86b-103">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
   
 
