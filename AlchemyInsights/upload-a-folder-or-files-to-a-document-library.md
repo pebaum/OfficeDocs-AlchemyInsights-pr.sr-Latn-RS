@@ -7,27 +7,27 @@ ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 1bfaec871ddbb4c56500127c1c4ac610faa37a31
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 66462dff344d0b6ad5ae6eabf78bede2e3335356
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29487407"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29940154"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="65b4c-102">Otpremi je fascikla ili datoteka u SharePoint biblioteku dokumenata</span><span class="sxs-lookup"><span data-stu-id="65b4c-102">Upload a folder or files to a SharePoint document library</span></span>
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a><span data-ttu-id="4e146-102">Otpremi je fascikla ili datoteka u SharePoint biblioteku dokumenata</span><span class="sxs-lookup"><span data-stu-id="4e146-102">Upload a folder or files to a SharePoint document library</span></span>
 
-<span data-ttu-id="65b4c-p101">Da biste otpremili u fasciklu, morate koristiti Microsoft Edge, Google Chrome ili Mozilla FireFox. Ne mogu da otpremite fascikle u iskustvu klasične biblioteke ili koristeći Internet Explorer 10 ili 11.</span><span class="sxs-lookup"><span data-stu-id="65b4c-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
+<span data-ttu-id="4e146-p101">Da biste otpremili u fasciklu, morate koristiti Microsoft Edge, Google Chrome ili Mozilla FireFox. Ne mogu da otpremite fascikle u iskustvu klasične biblioteke ili koristeći Internet Explorer 10 ili 11.</span><span class="sxs-lookup"><span data-stu-id="4e146-p101">To upload a folder, you need to use Microsoft Edge, Google Chrome, or Mozilla FireFox. You can't upload folders in the classic library experience, or using Internet Explorer 10 or 11.</span></span>
   
-1. <span data-ttu-id="65b4c-105">Otvorite biblioteku dokumenata u kojoj želite da otpremite u fascikli ili datoteka.</span><span class="sxs-lookup"><span data-stu-id="65b4c-105">Open the document library where you want to upload a folder or files.</span></span>
+1. <span data-ttu-id="4e146-105">Otvorite biblioteku dokumenata u kojoj želite da otpremite u fascikli ili datoteka.</span><span class="sxs-lookup"><span data-stu-id="4e146-105">Open the document library where you want to upload a folder or files.</span></span>
     
-2. <span data-ttu-id="65b4c-106">Otvorite datoteku Explorer na vašem računaru i pronađite mapu ili datoteke koje želite da otpremite.</span><span class="sxs-lookup"><span data-stu-id="65b4c-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
+2. <span data-ttu-id="4e146-106">Otvorite datoteku Explorer na vašem računaru i pronađite mapu ili datoteke koje želite da otpremite.</span><span class="sxs-lookup"><span data-stu-id="4e146-106">Open File Explorer on your computer and browse to the folder or files you want to upload.</span></span>
     
-3. <span data-ttu-id="65b4c-p102">Prevucite fasciklu ili datoteke u biblioteci dokumenata. Ako ne vidite otpremljena stavke se pojavljuju u biblioteci, osvežite stranicu.</span><span class="sxs-lookup"><span data-stu-id="65b4c-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
+3. <span data-ttu-id="4e146-p102">Prevucite fasciklu ili datoteke u biblioteci dokumenata. Ako ne vidite otpremljena stavke se pojavljuju u biblioteci, osvežite stranicu.</span><span class="sxs-lookup"><span data-stu-id="4e146-p102">Drag the folder or files to the document library. If you don't see the items you uploaded appear in the library, refresh the page.</span></span> 
     
-<span data-ttu-id="65b4c-109">Ako ne želite da otpremite prevlačenjem stavke iz prozora u prozor, možete takođe da koristite dugme **Otpremi** u biblioteci dokumenata da izaberete mapu ili datoteke koje želite da otpremite.</span><span class="sxs-lookup"><span data-stu-id="65b4c-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
+<span data-ttu-id="4e146-109">Ako ne želite da otpremite prevlačenjem stavke iz prozora u prozor, možete takođe da koristite dugme **Otpremi** u biblioteci dokumenata da izaberete mapu ili datoteke koje želite da otpremite.</span><span class="sxs-lookup"><span data-stu-id="4e146-109">If you don't want to upload by dragging items between windows, you can also use the **Upload** button in the document library to select the folder or files you want to upload.</span></span> 
   
 
