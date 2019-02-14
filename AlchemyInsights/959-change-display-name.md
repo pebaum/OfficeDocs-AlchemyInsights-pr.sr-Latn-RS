@@ -1,7 +1,7 @@
 ---
 title: 959 promena imena za prikaz
 ms.author: pdigia
-author: pdigia
+author: pebaum
 ms.date: 7/17/2018
 ms.audience: ITPro
 ms.topic: article
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
 description: ''
-ms.openlocfilehash: c45c9498e5f1cb888696646e1a96c62184c655b5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 460f5b00c4f8fe940c5bd3256f544b6b82cac61f
+ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925142"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29969295"
 ---
-# <a name="change-your-display-name"></a><span data-ttu-id="2f09f-102">Promenite ime za prikaz</span><span class="sxs-lookup"><span data-stu-id="2f09f-102">Change your display name</span></span>
+# <a name="change-your-display-name"></a><span data-ttu-id="2955d-102">Promenite ime za prikaz</span><span class="sxs-lookup"><span data-stu-id="2955d-102">Change your display name</span></span>
   
-<span data-ttu-id="2f09f-103">Da biste promenili ime za prikaz u programu Outlook, slijedite ove korake.</span><span class="sxs-lookup"><span data-stu-id="2f09f-103">To change your display name in Outlook, use the following steps.</span></span>
+<span data-ttu-id="2955d-103">Da biste promenili ime za prikaz u programu Outlook, slijedite ove korake.</span><span class="sxs-lookup"><span data-stu-id="2955d-103">To change your display name in Outlook, use the following steps.</span></span>
   
-1. <span data-ttu-id="2f09f-104">U programu Outlook, izaberite **datoteku** \> **Postavke naloga** \> **Postavke naloga**.</span><span class="sxs-lookup"><span data-stu-id="2f09f-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
+1. <span data-ttu-id="2955d-104">U programu Outlook, izaberite **datoteku** \> **Postavke naloga** \> **Postavke naloga**.</span><span class="sxs-lookup"><span data-stu-id="2955d-104">In Outlook, select **File** \> **Account Settings** \> **Account Settings**.</span></span>
     
-2. <span data-ttu-id="2f09f-105">Izaberite nalog e-pošte, a zatim izaberite stavku **Promeni**.</span><span class="sxs-lookup"><span data-stu-id="2f09f-105">Select the email account and then select **Change**.</span></span>
+2. <span data-ttu-id="2955d-105">Izaberite nalog e-pošte, a zatim izaberite stavku **Promeni**.</span><span class="sxs-lookup"><span data-stu-id="2955d-105">Select the email account and then select **Change**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="2f09f-p101">Ako ne vidite opciju da promenite ime za prikaz, verovatno koristite Microsoft Exchange nalog e-pošte. U ovom slučaju, treba da se obratite administratoru da biste promenili ime za prikaz. Vidim [da promenite korisničko ime i e-adresa u Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span><span class="sxs-lookup"><span data-stu-id="2f09f-p101">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
+    > <span data-ttu-id="2955d-p101">Ako ne vidite opciju da promenite ime za prikaz, verovatno koristite Microsoft Exchange nalog e-pošte. U ovom slučaju, treba da se obratite administratoru da biste promenili ime za prikaz. Vidim [da promenite korisničko ime i e-adresa u Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span><span class="sxs-lookup"><span data-stu-id="2955d-p101">If you do not see the option to change your display name, you are probably using a Microsoft Exchange email account. In this case, you need to contact your administrator to change your display name. See [Change a user name and email address in Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).</span></span> 
   
-3. <span data-ttu-id="2f09f-p102">Kada promenite ime za prikaz, kliknite na dugme **u redu** da biste sačuvali promene. To može potrajati nekoliko sati za promene koje se odražavaju u celoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="2f09f-p102">After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.</span></span> 
+3. <span data-ttu-id="2955d-p102">Kada promenite ime za prikaz, kliknite na dugme **u redu** da biste sačuvali promene. To može potrajati nekoliko sati za promene koje se odražavaju u celoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="2955d-p102">After you've changed your display name, click **OK** to save your changes. It can take a few hours for your changes to reflect throughout your organization.</span></span> 
     
-<span data-ttu-id="2f09f-111">Za više informacija, pogledajte [Promena imena za prikaz koje vide primaoci e-pošte](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="2f09f-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
+<span data-ttu-id="2955d-111">Za više informacija, pogledajte [Promena imena za prikaz koje vide primaoci e-pošte](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span><span class="sxs-lookup"><span data-stu-id="2955d-111">For more information, see [Change the display name that email recipients see](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).</span></span>
   
 
