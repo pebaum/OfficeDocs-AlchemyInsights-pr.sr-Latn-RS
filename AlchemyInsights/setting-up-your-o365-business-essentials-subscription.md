@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915314"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207879"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Podešavanje pretplatu O365 poslovne osnove
 
@@ -21,7 +21,7 @@ Kreiranje Office 365 račune i Dodavanje vašeg domena
   
 - U ovom koraku, koristite čarobnjak za instalaciju za kreiranje Office 365 račune za korisnike i dodate svoje podrucje. Čarobnjak vam omogućavaju da prilagodite svi su korisnički ID i e-poštu za vaše poslovanje, kao [rob@contoso.com](mailto:rob@contoso.com).
     
-- Idi u [Centar admin Office 365](https://login.partner.microsoftonline.cn/).
+- Idi u [Centar admin Microsoft 365](https://login.partner.microsoftonline.cn/).
     
 - Da biste pokrenuli čarobnjak, odaberite, **Idite na instalacioni program**. Da biste saznali više, pogledajte [Dodavanje korisnika i domena Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     

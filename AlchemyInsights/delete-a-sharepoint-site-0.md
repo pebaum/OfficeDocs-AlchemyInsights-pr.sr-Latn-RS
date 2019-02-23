@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: da8aef3d9709cd42bec3246c689ad842569400e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d758ccc963a317fdd7523d67739953fe3db34c7d
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29926294"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210039"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje lokacije koje pripadaju grupi programa Office 365:
 
 Kada korisnici kreiraju nove lokacije tima iz SharePoint dom (ili kreirate novu lokaciju tima iz nove SharePoint admin centar pregleda), automatski se kreira odgovarajuću grupu Office 365. Office 365 tim povezana grupa takođe kreiraju lokacije kada kreirate grupu Office 365 ili tim u Microsoft Teams. Da biste izbrisali lokaciju SharePoint koja pripada grupi programa Office 365, potrebno je da izbrišete same grupe Office 365. 
   
-1. Idite na [stranicu grupe Office 365 admin centra](https://portal.office.com/adminportal/home#/groups).
+1. Idite na [stranicu grupe Microsoft 365 admin centra](https://portal.office.com/adminportal/home#/groups).
     
 2. Potvrdite izbor u polju za potvrdu pored grupe.
     

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: a0d28ea749012d852b5eb593d61ca899e6e0c4c7
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 767805b8de07e22ca14447adeea6a0cbd078750c
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898250"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209391"
 ---
 # <a name="add-a-group-to-a-sharepoint-site"></a>Dodavanje grupe na SharePoint lokaciji
 
@@ -24,7 +24,7 @@ Neke lokacije tima SharePoint (uključujući one kreirane u Microsoft Teams) upr
   
 Upravljanje Office 365 članovi grupe:
   
-1. Idite na [stranicu grupe u centru za administraciju sistema Office 365](https://portal.office.com/adminportal/home#/groups).
+1. Idite na [stranicu grupe u centru za admin Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
 2. Izaberite grupu da vidim svoje vlasnike i članova. Da biste dodali ili uklonili ljude, kliknite na **Uredi** vezu u red **vlasnika** ili **članova** . 
     
