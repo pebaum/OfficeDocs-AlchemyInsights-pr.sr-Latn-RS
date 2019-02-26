@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 6b5f15ba-ced9-4215-8c23-3ec1962a283a
-ms.openlocfilehash: dc862658e261a7feb4464d622f8a6274e0f1b7e9
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0d1426cf7cf55bd4172dd6192e8e9df784d6479d
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941342"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244343"
 ---
 # <a name="reduce-junk-email-in-your-inbox"></a>Smanjite neželjene e-pošte u prijemnom
 
@@ -26,6 +26,6 @@ Ako dobijete e-mail koji izgleda kao spam, možete to prijavili kliknuti desnim 
   
 Filtera neželjene e-pošte u Outlook.com poboljšati kada označite poruku kao neželjenu. Takođe možete blokirati email adresa i domena ne želite da primate poruke.
   
-Da blokirate adrese e-pošte, idite na **Postavke**![postavke](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Opcije** \> **Blokirani pošiljaoci**. Da biste dodali adrese ili domene na listu sigurnih pošiljalaca, izaberite **sigurnih pošiljalaca**. 
+Da blokirate adrese e-pošte, idite na **Postavke** \> **Opcije** \> **Blokirani pošiljaoci**. Da biste dodali adrese ili domene na listu sigurnih pošiljalaca, izaberite **sigurnih pošiljalaca**. 
   
 
