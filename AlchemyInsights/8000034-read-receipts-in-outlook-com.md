@@ -9,19 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
-ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
+ms.openlocfilehash: 6dd7096dbedb4db5064e5c548956de562fad979a
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30243983"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376050"
 ---
 # <a name="read-receipts-in-outlookcom"></a>Potvrde čitanja u Outlook.com
 
 Ne možete zatražiti pročitana u Outlook.com, ali možete da zatražite pročitana za Outlook.com poruke koje se šalju pomoću programa Outlook za Windows. Da biste saznali kako, pogledajte odeljak [Dodavanje i zahtev za čitanje potvrde i obaveštenja o isporuci](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-Da biste odabrali kako Outlook.com odgovara za čitanje prijema zahteva, idite na **Postavke** \> **Opcije** \> **e** \> **Automatska obrada** \> **potvrde čitanja**. 
-  
-Outlook.com beta verziju, izaberite **Postavke** i potraga za **potvrde čitanja**. 
-  
-
+Da biste odabrali kako Outlook.com odgovara za čitanje prijema zahteva, idite na [Postavke za rukovanje porukama](https://go.microsoft.com/fwlink/?linkid=2080838) (**Postavke** > **Prikaz svih postavki programa Outlook** > **Rukovanje porukama**).
