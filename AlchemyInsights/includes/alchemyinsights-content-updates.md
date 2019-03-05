@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Nedelje od 21 januara 2019.
-
-
-| Koji je objavljen u |Naslov teme | Promena |
-|------|------------|--------|
-| 1/22/2019 | [1047 antiSpam 550 5.7.708 usluga nije dostupna. Pristup odbijen, saobraćaj nije prihvaćena iz ove IP](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | izmenio |
-| 1/22/2019 | [1049 antiSpam 4.5.3 Too broju primalaca (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | izmenio |
-| 1/22/2019 | [1050 antispam 4.7.500 Server je zauzet. Pokušajte ponovo kasnije od [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | izmenio |
-| 1/22/2019 | [1051 antispam 4.7.500 zabranjen pristup, pokušajte ponovo kasnije](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | izmenio |
-| 1/22/2019 | [E-mail relej kroz Office 365](/AlchemyInsights/relay-email-through-office-365) | izmenio |
-| 1/24/2019 | [Kreiranje kontrole iz grupe](/AlchemyInsights/control-creation-of-groups) | izmenio |
-| 1/24/2019 | [Problemi sa Outlook sa Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | je dodao |
-| 1/24/2019 | [Vraćanje u prethodno stanje i Office 365 grupu koristeći admin centar za Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | preimenovana |
-| 1/24/2019 | [Rešavanje problema sa Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | preimenovana |
-
-
 ## <a name="week-of-january-28-2019"></a>Nedelju dana, od 28. januara 2019.
 
 
@@ -734,3 +718,57 @@
 | 2/22/2019 | [Korisničke dozvole](/AlchemyInsights/user-permissions) | izmenio |
 | 2/22/2019 | [Kada se generiše izjavu o plaćanju?](/AlchemyInsights/when-is-the-billing-statement-generated) | izmenio |
 | 2/22/2019 | [Kako da provjerite vaš domen sa Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | izmenio |
+
+
+## <a name="week-of-february-25-2019"></a>Nedelju dana od 25. februara 2019.
+
+
+| Koji je objavljen u |Naslov teme | Promena |
+|------|------------|--------|
+| 2/25/2019 | [1800014 se u aplikacija za podršku za Outlook mobilnu aplikaciju](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | izmenio |
+| 2/25/2019 | [1800014 podešavanje e-pošte u programu Outlook mobilnu aplikaciju](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | izmenio |
+| 2/25/2019 | [8000001 isključi fokusiran prij](/AlchemyInsights/8000001-turn-off-focused-inbox) | izmenio |
+| 2/25/2019 | [8000009 kreiranje fascikle na Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000012 Izbriši kontakt u Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000013 Promena fonta u Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000014 kako da promenite jezik u Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000015 blokiranje ili deblokiranje pošiljalaca](/AlchemyInsights/8000015-block-or-unblock-senders) | izmenio |
+| 2/25/2019 | [8000015 primanju e-pošte od blokiranih pošiljalaca u Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000029 dogovor sa phishing u Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000029 dogovor sa spam u Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000029 dogovor sa spam ili phishing u Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000033 kako biste odgovorili ili prosledi poruke u Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | izmenio |
+| 2/25/2019 | [8000034 poruka pročitana u Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000036 promeniti vaša e-mail adresa u Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000046 štampanje e-pošte i kalendara u Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000047 kako da kreirate potpis za e-poštu u Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000052 Priloži datoteke u Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | izmenio |
+| 2/25/2019 | [8000059 kako da promenite temu radnju (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | izmenio |
+| 2/25/2019 | [Preporučeni koracima koje treba poduzeti ako nalog je ugrožena](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | izmenio |
+| 2/26/2019 | [Vraćanje izbrisanih grupa Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | izmenio |
+| 2/26/2019 | [9000215 pretplate na Outlook.com](/AlchemyInsights/9000215-outlook-com-subscriptions) | je dodao |
+| 27/2/2019 | [9000199 PST datoteke u Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | je dodao |
+| 27/2/2019 | [9000202 opcije Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | je dodao |
+| 27/2/2019 | [9000203 filteri za Outlook.com](/AlchemyInsights/9000203-outlook-com-filters) | je dodao |
+| 2/28/2019 | [8000036 profil pic/ime promeniti u Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | je dodao |
+| 2/28/2019 | [8000049 Skype ikonu koja je nestala u Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | je dodao |
+| 2/28/2019 | [8000088 čuvanja e-pošte na Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | je dodao |
+| 2/28/2019 | [9000071 mogu da kucam @ simbol na Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | je dodao |
+| 2/28/2019 | [9000193 da opozovete potez ili izbrišete u Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | je dodao |
+| 2/28/2019 | [9000198 Outlook.com kalendar Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | je dodao |
+| 1/3/2019 | [8000035 zahteva da biste se vratili iz Outlook.com beta klasični Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | je dodao |
+| 1/3/2019 | [8000035 kako se nove Outlook.com izgledaju kao onaj stari](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | je dodao |
+| 1/3/2019 | [8000043 POP, IMAP i SMTP postavke za Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | je dodao |
+| 1/3/2019 | [8000090 Outlook.com Izaberi sve](/AlchemyInsights/8000090-outlook-com-select-all) | je dodao |
+| 1/3/2019 | [8000091 Outlook.com reagovala sam uzrok smrti](/AlchemyInsights/8000091-outlook-com-react-pop-up) | je dodao |
+| 1/3/2019 | [8000092 izvor Outlook.com prikaz poruke](/AlchemyInsights/8000092-outlook-com-view-message-source) | je dodao |
+| 1/3/2019 | [8000093 Outlook.com povezani račun dozvole](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | je dodao |
+| 1/3/2019 | [1800009Outlook za podršku u aplikacija za Mac](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | izmenio |
+| 1/3/2019 | [8000057 sigurnom veze u Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | izmenio |
+| 1/3/2019 | [9000232 Outlook.com adresar](/AlchemyInsights/9000232-outlook-com-address-book) | je dodao |
+| 1/3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | je dodao |
+| 1/3/2019 | [9000234 Outlook.com Unutrašnja greška servera](/AlchemyInsights/9000234-outlook-com-internal-server-error) | je dodao |
+| 1/3/2019 | [9000236 Outlook.com Dodavanje naloga](/AlchemyInsights/9000236-outlook-com-add-account) | je dodao |
+| 1/3/2019 | [9000238 Outlook.com dodajte alias](/AlchemyInsights/9000238-outlook-com-add-alias) | je dodao |
+| 1/3/2019 | [9000239 Outlook.com Špedicija](/AlchemyInsights/9000239-outlook-com-forwarding) | je dodao |
+| 1/3/2019 | [9000240 odgovore na Outlook.com](/AlchemyInsights/9000240-outlook-com-replies) | je dodao |
