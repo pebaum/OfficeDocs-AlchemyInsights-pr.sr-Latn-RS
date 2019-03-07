@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904874"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30469001"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="bf199-102">Nadogradnja na punu verziju Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="bf199-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="96ded-102">Nadogradnja na punu verziju Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="96ded-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="bf199-103">Možete da izvršite nadogradnju iz Microsoft Teams (besplatno) na punu verziju programa Microsoft Teams kad god ste spremni.</span><span class="sxs-lookup"><span data-stu-id="bf199-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="bf199-104">Najbolji način da biste započeli proces nadogradnje je da kliknete na dugme ispod da **pusti nas da te nazovem** .</span><span class="sxs-lookup"><span data-stu-id="bf199-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="bf199-105">Agent za podršku će kontaktirati te i pomoć te izaberite plan za Office 365, unesite svoje kontakt i plaćanja info, izaberite ime domena org i nadogradite član spisak.</span><span class="sxs-lookup"><span data-stu-id="bf199-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="96ded-103">Treba da nadogradite na besplatne na punu verziju programa Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="96ded-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="96ded-104">Vidi [Nadogradnju Microsoft timova slobodno verzijom sistema Office 365 pretplata](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="96ded-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="96ded-105">Moraćete da ispunjavaju ove zahteve:</span><span class="sxs-lookup"><span data-stu-id="96ded-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="96ded-106">Ti si osoba koja je prijavila se za trenutni besplatna verzija timova.</span><span class="sxs-lookup"><span data-stu-id="96ded-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="96ded-107">Ako imate svoje podrucje, već sigurno nije pridružen Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="96ded-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="96ded-108">Za prenos podataka prilikom nadogradnje, morate da se pretplatite tokom procesa nadogradnje.</span><span class="sxs-lookup"><span data-stu-id="96ded-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="96ded-109">Ako ste kupili Office 365 izvan procesa nadogradnje, ne možete prenositi podatke.</span><span class="sxs-lookup"><span data-stu-id="96ded-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
