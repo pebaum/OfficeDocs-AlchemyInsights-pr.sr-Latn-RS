@@ -9,18 +9,22 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: e9b8b86c5e00dc23e78d204d6e375554f96f805f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941594"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468497"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft timova - pristup gostu
 
+Treba li ti pomoć uključivanju i podešavanju funkcija pristup gosta u Microsoft Teams?
 
-Ako je potrebno da biste omogućili ili podesili ulogu pristup gosta u Microsoft Teams, imamo vodič korak po korak uputstva za vas: [Gost pristup kontrolne liste](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
-  
-Možda ćete morati čekati do 24 sata za timove konfiguracijske promjene stupile.
-  
+Evo šta morate uraditi:
+
+1. Odobri pristup gostu.
+1. Gost korisnike možete dodati u vaš tim.
+1. Podesite gost korisničke dozvole.
+
+Za više informacija, uključujući snimke kako, pogledajte [pristup gosta u Microsoft timovima](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
