@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939320"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634518"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Potrebne alhemija zaglavlje H1, H2, ne radim.
 Najbolje prakse i uputstva za kreiranje alhemija:
 
 1. **Ne Gnezde se alhemija uvida u fasciklama**- ovo će slomiti url strukturu. Proveravamo drugog izlaza.
 1. Datoteke u fascikli " **AlchemyInsights** " bi trebalo pravilo ID i ime pravila iz [alhemije partnerski portal](https://alchemyportal.azurewebsites.net) u ime datoteke.
-    1. npr. ***976-How-to-enable-litigation-hold***
+    1. bivsi. ***976-How-to-enable-litigation-hold***
 1. Koristite metapodatke na vrhu ovu datoteku kao predložak. Nije bio potreban.
 1. U [alhemija partnerski portal](https://alchemyportal.azurewebsites.net), dođite do odeljka **kupca uvid naslov:** i koristi to kao početak postavite H1 naslova za uvid. 
     > [!NOTE]
@@ -36,6 +36,6 @@ Najbolje prakse i uputstva za kreiranje alhemija:
 
 I ovo je stvarno već malo predugo. Najbolji metod je oko 400 znakova---
 
-Kada sadržaj bude spreman, povuci za uživo granu. Onda, idi do [alhemija partnerski portal](https://alchemyportal.azurewebsites.net) i unesite ime datoteke u polje URL adresa. Uverite se da uvid pregledali i objavili kaže „da”, a zatim izaberite stavku ažuriranje pravilo. **(Ovo će izgledaju lepse u novu verziju portal - otpuštajući uskoro).** 
+Kada sadržaj bude spreman, povuci za uživo granu. Onda, idi do [alhemija partnerski portal](https://alchemyportal.azurewebsites.net) i unesite ime datoteke u polje URL adresa. Uverite se da uvid pregledali i objavili kaže „da”, a zatim izaberite stavku ažuriranje pravilo. **(Ovo će izgledaju lepse u novu verziju portal - otpuštajući uskoro.)** 
  ![url polje](media/for-content-team.PNG)
 
