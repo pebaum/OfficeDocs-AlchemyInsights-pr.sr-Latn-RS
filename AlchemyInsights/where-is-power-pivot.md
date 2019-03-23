@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 53156353d82bf5e36164f9af58ae48aaf002aa7e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912902"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30761287"
 ---
 # <a name="where-is-power-pivot"></a>Da li je napajanje Pivot?
 
@@ -24,7 +24,7 @@ Postoje tri razloga zašto ne vidite Pivot napajanja:
   
  **Tvoja verzija programa Excel to ne uključuje**
   
-Nisu sve verzije programa Excel uključuje napajanje Pivot. Morate da nadogradite na verziju sistema Office koja uključuje napajanje izvedeno. [Proverite listu podržanih verzije.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Nisu sve verzije programa Excel uključuje napajanje Pivot. Morate da nadogradite na verziju sistema Office koja uključuje napajanje izvedeno. [Pogledajte listu podržanih verzija.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
  **Nisam je omogućen Pivot napajanja**
   
