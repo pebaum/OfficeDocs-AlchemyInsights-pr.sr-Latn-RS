@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917870"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754448"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Deljenje datoteka u OneDrive sa osobama izvan vaše organizacije
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917870"
   - **Određenim osobama** omogućava pristup samo onima koji navedete iako drugi ljudi već mogu imati pristup. Ako ljudi napred poziva za deljenje, samo ljudi koji već imaju pristup stavci će moći da koristite vezu. 
     
     > [!NOTE]
-    > Ako neku od ovih opcija nije dostupna, ili ako želite drugu vezu tip koji želite da se pojavljuju po podrazumevanoj vrednosti, možete da promenite postavke širom organizacije tako što ćete u OneDrive admin centar i izabrati stavku " **Deljenje** " u lijevom oknu. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ako neku od ovih opcija nije dostupna, ili ako želite drugu vezu tip koji želite da se pojavljuju po podrazumevanoj vrednosti, možete da promenite postavke širom organizacije tako što ćete u OneDrive admin centar i izabrati stavku " **Deljenje** " u lijevom oknu. [uči više](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Po podrazumevanim postavkama, Dozvoli uređivanje** je uključeno. Ako želite da prikažete samo vaše datoteke, opozovite izbor u polju za potvrdu. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917870"
     
 6. Kada ste spremni da pošaljete vezu, kliknite na dugme **Pošalji**. 
     
-[Saznajte više](https://go.microsoft.com/fwlink/?linkid=871861)
+[uči više](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

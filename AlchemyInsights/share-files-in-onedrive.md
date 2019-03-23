@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d7738bb8-3473-40fe-9a47-7f4b93e68ab8
-ms.openlocfilehash: ac5dd3476c49a930763cc29478b61072d79616a3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f61266c59662e8ce1ccd6063753eeaaf3638dbb8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913514"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30764634"
 ---
 # <a name="how-to-share-in-onedrive"></a>Kako dijeliti u OneDrive
 
@@ -33,12 +33,12 @@ ms.locfileid: "29913514"
   - **Određenim osobama** omogućava pristup samo onima koji navedete iako drugi ljudi već mogu imati pristup. Ako ljudi napred poziva za deljenje, samo ljudi koji već imaju pristup stavci će moći da koristite vezu. 
     
     > [!NOTE]
-    > Ako neku od ovih opcija nije dostupna, ili ako želite drugu vezu tip koji želite da se pojavljuju po podrazumevanoj vrednosti, možete da promenite postavke širom organizacije tako što ćete u OneDrive admin centar i izabrati stavku " **Deljenje** " u lijevom oknu. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Ako neku od ovih opcija nije dostupna, ili ako želite drugu vezu tip koji želite da se pojavljuju po podrazumevanoj vrednosti, možete da promenite postavke širom organizacije tako što ćete u OneDrive admin centar i izabrati stavku " **Deljenje** " u lijevom oknu. [uči više](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. **Po podrazumevanim postavkama, Dozvoli uređivanje** je uključeno. Ako želite da prikažete samo vaše datoteke, opozovite izbor u polju za potvrdu. 
     
 5. Unesite imena osoba koje želite da delite sa, a zatim kliknite na dugme **Pošalji**.
     
-[Saznajte više](https://go.microsoft.com/fwlink/?linkid=871861)
+[uči više](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

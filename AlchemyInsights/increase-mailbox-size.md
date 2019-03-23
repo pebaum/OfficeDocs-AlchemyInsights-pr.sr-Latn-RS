@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208311"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752144"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Prekidač planira da poveća veličinu poštanskog sandučeta
 
@@ -34,4 +34,4 @@ Ako veličina poštanskog sandučeta je 50 GB, možete ga povećati na 100 GB ak
     
 Za više detalja, pogledajte [Prebaci u drugi plan Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Ako imate za [O365 plan koji podržava arhivu na licu mesta](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), možete dobijate i dodatne email skladišta omogućavanjem poštansko sanduče je arhiva.  Poštansko sanduče je arhiva pruža dodatni prostor za skladištenje i omogućava vam da pomerate, kopija "i" potraga za poruke u oba primarnom i poštansko sanduče arhive. Korake na omogućavanju poštansko sanduče je arhiva potražite [Omogući za sanduče arhive](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
