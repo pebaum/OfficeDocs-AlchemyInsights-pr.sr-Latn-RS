@@ -1,39 +1,37 @@
 ---
-title: Aplikacija za lozinke
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 aplikacija za lozinke
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938246"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762546"
 ---
 # <a name="app-passwords"></a>Aplikacija za lozinke
 
-Lozinku za aplikaciju je šifru koja daje za aplikaciju ili uređaj dozvolu za pristup vašem nalogu za Office 365. Ako tvoj admin je uključio višestruku potvrdu identiteta za vašu organizaciju, a koristite aplikacije za povezivanje sa vašim računom za Office 365, moraćete da biste generisali lozinku za aplikaciju, aplikacija za povezivanje sa Office 365. Na primer, ako koristite Outlook 2016 ili ranije sa Office 365, moraćete da kreirate lozinku za aplikaciju.
+Lozinku za aplikaciju je šifru koja se odobri za aplikaciju ili uređaj za pristup svoj rad sa Office 365 ili školu nalog. Ako vaš račun zahtijeva višestruku potvrdu identiteta (MLU), a aplikacija se povezuje vaš nalog, morate proizvesti lozinku za aplikaciju, aplikacija za povezivanje sa Office 365. Na primer, Outlook 2016 i ranijim verzijama programa Outlook od zahteva lozinku za aplikaciju.
   
-1. Proverite da li je tvoj admin Office 365 je uključio višestruku potvrdu identiteta za vaš nalog. Ako nisu, kada pokušate da izvršite ove korake nećete videti opcije u Office 365.
+ **Napomena**: pre nego što pokušate sledeće korake, sa svoje Office 365 admin proverite da li je MFA potrebna za vaš nalog. Nije li to, opcije opisane u koracima neće biti dostupne.
+  
+1. Prijavite se na Office 365 sa na poslu ili školi računa i lozinku.
     
-2. Prijavite se Office 365 sa radni ili skola naloga uz vašu lozinku kao obično. Nakon što odaberete da **se prijavite u**, videćete stranice sa vaše korisničko ime i još neke opcije 
+2. Odaberite **ga sada postaviti**.
     
-3. Odaberite **ga sada postaviti**. 
+3. Izaberite metod tvog identiteta i pratite odzivnike.
     
-4. Izaberite svoj metod potvrde identiteta, a zatim pratite odzivnike na stranici.
+4. Nakon što utvrdite tvoj alternativni metod kontakta, odaberite **dalje**.
     
-5. Nakon što utvrdite tvoj alternativni metod kontakta, odaberite **dalje**. 
-    
-6. Dobijate lozinku aplikacija koje možete koristiti sa Outlook, Apple Mail, itd. Odaberite ikonu za kopiranje da biste kopirali lozinku u Međuspremnik. Nema potrebe da zapamti ovu lozinku. 
-    
-7. Kada dodate vaš Office 365 email nalog u Outlook (ili drugu aplikaciju), i budete upitani za lozinku, pored ovu aplikaciju lozinku u polje "lozinka", umesto da upišete lozinku naloga. 
+5. Dobijate lozinku aplikacija koje možete koristiti sa Outlook, Apple Mail i druge aplikacije koje zahtevaju to. Odaberite **Kopiraj** da biste kopirali lozinku, tako da možete je zalijepiti na drugom mestu (nema potrebe da to prenese). 
     
 
