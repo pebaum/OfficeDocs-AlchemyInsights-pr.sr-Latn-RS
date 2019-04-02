@@ -472,62 +472,16 @@
 | 3/22/2019 | [1488-perform-eDiscovery-and-Content-searches](/AlchemyInsights/perform-ediscovery-and-content-searches) | preimenovana |
 
 
-## <a name="week-of-february-18-2019"></a>Nedelja u 18. februara 2019.
+## <a name="week-of-march-25-2019"></a>Nedelju dana od 25. marta 2019.
 
 
 | Koji je objavljen u |Naslov teme | Promena |
 |------|------------|--------|
-| 2/19/2019 | [Ima grešku u „Parametar nije moguće pronaći”?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | izmenio |
-| 2/19/2019 | [Potez email Office 365](/AlchemyInsights/move-email-to-office-365) | izmenio |
-| 2/19/2019 | [Oporavak izbrisanih poštansko sanduče](/AlchemyInsights/restore-deleted-mailbox) | izmenio |
-| 2/21/2019 | [Kako da instalirate Office za Mac sa portala](/AlchemyInsights/647-how-to-install-mac-office-from-the-portal) | preimenovana |
-| 2/22/2019 | [1048 5.7.750 usluga nije dostupna. Klijent je blokiran od slanja iz neregistrovanog domena](/AlchemyInsights/1048-5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | izmenio |
-| 2/22/2019 | [125 postaje nevažećom licencom greške u programu Outlook na Webu?](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | izmenio |
-| 2/22/2019 | [126 se poštansko sanduče nije moguće pronaći greške u OWA?](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | izmenio |
-| 2/22/2019 | [127 se greška u TenantAccessBlockedException prilikom pristupanja e-pošte?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | izmenio |
-| 2/22/2019 | [128 se greška u TenantAccessBlockedException prilikom pristupanja e-pošte?](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | izmenio |
-| 2/22/2019 | [Kreiranje liste distribucije ili grupa je 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | izmenio |
-| 2/22/2019 | [912 Konfiguriši Focused prijemnog za svakoga u vašoj organizaciji](/AlchemyInsights/912-configure-focused-inbox-for-everyone-in-your-organization) | izmenio |
-| 2/22/2019 | [Uklanjanje domena](/AlchemyInsights/remove-domain) | izmenio |
-| 2/22/2019 | [Dodavanje grupe na SharePoint lokaciji](/AlchemyInsights/add-a-group-to-a-sharepoint-site) | izmenio |
-| 2/22/2019 | [Dodaj drugi pseudonim e-pošte](/AlchemyInsights/add-another-email-alias) | izmenio |
-| 2/22/2019 | [Dodavanje kontakata u O365 grupe](/AlchemyInsights/add-contacts-to-o365-group) | izmenio |
-| 2/22/2019 | [Promena UPN](/AlchemyInsights/change-upn) | izmenio |
-| 2/22/2019 | [Promene dozvola u javnoj fascikli](/AlchemyInsights/changing-public-folder-permissions) | izmenio |
-| 2/22/2019 | [Menjanje Deljeno poštansko sanduče Pošalji kao ponašanje](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | izmenio |
-| 2/22/2019 | [Proverite Status sinhronizacije AAD identitet](/AlchemyInsights/check-aad-identity-sync-status) | izmenio |
-| 2/22/2019 | [Uporedite Office 365 planovi](/AlchemyInsights/compare-office-365-plans) | izmenio |
-| 2/22/2019 | [Kreiranje klasični lokacije](/AlchemyInsights/create-a-classic-site) | izmenio |
-| 2/22/2019 | [Kreiranje lokacije u SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | izmenio |
-| 2/22/2019 | [Kreiranje javne fascikle](/AlchemyInsights/creating-public-folders) | izmenio |
-| 2/22/2019 | [Brisanje SharePoint lokacije](/AlchemyInsights/delete-a-sharepoint-site-0) | izmenio |
-| 2/22/2019 | [Korisnicima dali pristup SharePoint i OneDrive](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | izmenio |
-| 2/22/2019 | [Ima grešku u „Parametar nije moguće pronaći”?](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | izmenio |
-| 2/22/2019 | [Imamo problema isporuke e-pošte?](/AlchemyInsights/having-email-delivery-issues-0) | izmenio |
-| 2/22/2019 | [Imamo problema isporuke e-pošte?](/AlchemyInsights/having-email-delivery-issues) | izmenio |
-| 2/22/2019 | [Imamo problema da se Outlook poveže?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | izmenio |
-| 2/22/2019 | [Imamo problema da se Outlook poveže?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | izmenio |
-| 2/22/2019 | [Kako se Mac korisnicima dodeljuju Office licence](/AlchemyInsights/how-to-assign-office-licenses-to-mac-users) | izmenio |
-| 2/22/2019 | [Kako kupovati licence za svoju pretplatu na poslovne Office 365](/AlchemyInsights/how-to-buy-licenses-for-your-office-365-business-subscription) | izmenio |
-| 2/22/2019 | [Kako da povećate prostor za skladištenje u OneDrive za posao](/AlchemyInsights/how-to-increase-storage-in-onedrive-for-business) | izmenio |
-| 2/22/2019 | [Kako da ponovo aktivirate pretplatu](/AlchemyInsights/how-to-reactivate-a-subscription) | izmenio |
-| 2/22/2019 | [Povećajte veličinu poštanskog sandučeta za Enterprise MJ](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | izmenio |
-| 2/22/2019 | [Povećajte veličinu poštanskog sandučeta za SMB MJ](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | izmenio |
-| 2/22/2019 | [Povećajte veličinu poštanskog sandučeta](/AlchemyInsights/increase-mailbox-size) | izmenio |
-| 2/22/2019 | [Problem sa Skype za posao?](/AlchemyInsights/issue-with-skype-for-business) | izmenio |
-| 2/22/2019 | [Upravljanje sinhronizovanih korisničke naloge](/AlchemyInsights/manage-synchronized-user-accounts) | izmenio |
-| 2/22/2019 | [Upotreba monitora OneDrive i SharePoint i aktivnosti](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | izmenio |
-| 2/22/2019 | [Ponovo aktivirajte pretplatu](/AlchemyInsights/reactivate-a-subscription) | izmenio |
-| 2/22/2019 | [Vraćanje izbrisanih OneDrive](/AlchemyInsights/restore-a-deleted-onedrive) | izmenio |
-| 2/22/2019 | [Vraćanje u prethodno stanje i Office 365 grupu koristeći admin centar za Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | izmenio |
-| 2/22/2019 | [Podešavanje pretplatu O365 poslovne osnove](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | izmenio |
-| 2/22/2019 | [Deljenje sa spoljnim korisnicima ne radi](/AlchemyInsights/sharing-with-external-users-isn-t-working) | izmenio |
-| 2/22/2019 | [Pokušaju pronalaženja suđenje?](/AlchemyInsights/trying-to-find-a-trial) | izmenio |
-| 2/22/2019 | [Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | izmenio |
-| 2/22/2019 | [Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | izmenio |
-| 2/22/2019 | [Korisničke dozvole](/AlchemyInsights/user-permissions) | izmenio |
-| 2/22/2019 | [Kada se generiše izjavu o plaćanju?](/AlchemyInsights/when-is-the-billing-statement-generated) | izmenio |
-| 2/22/2019 | [Kako da provjerite vaš domen sa Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | izmenio |
+| 3/25/2019 | [Outlook.com promena jezika](/AlchemyInsights/outlook-com-change-language) | izmenio |
+| 3/27/2019 | [Brisanje SharePoint lokacije](/AlchemyInsights/delete-a-sharepoint-site) | izmenio |
+| 3/28/2019 | Ograničite SharePoint Online na klasičan način | je dodao |
+| 3/28/2019 | [Nije moguće dodati podrazumevani tok posla za odobravanje 2010](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | izmenio |
+| 3/28/2019 | [Ograničite SharePoint Online na klasičan način](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | preimenovana |
 
 
 ## <a name="week-of-february-25-2019"></a>Nedelju dana od 25. februara 2019.
