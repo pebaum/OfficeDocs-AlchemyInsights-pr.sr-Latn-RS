@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 29782984-30d5-4c1b-b1dd-eff6fab41078
-ms.openlocfilehash: 29e4e5c105fa5c68a286c277c4039f15a77d5c5d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 428646635f0a9112c49a676ee297d514a86354ae
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941774"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747864"
 ---
 # <a name="share-a-file-or-folder-in-sharepoint-or-onedrive"></a>Delite datoteku ili fasciklu u SharePoint ili OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941774"
   - **Određenim osobama** omogućava pristup samo onima koji navedete iako drugi ljudi već mogu imati pristup. Ako ljudi napred poziva za deljenje, samo ljudi koji već imaju pristup stavci će moći da koristite vezu. 
     
     > [!NOTE]
-    > Ako neku od ovih opcija nije dostupna, ili ako želite drugu vezu tip koji želite da se pojavljuju po podrazumevanoj vrednosti, možete da promenite postavke širom organizacije tako što ćete klasične SharePoint admin centar i izabrati stavku **dijeljenje** u lijevom oknu. [Saznajte više](https://go.microsoft.com/fwlink/?linkid=866426)
+    > Ako neku od ovih opcija nije dostupna, ili ako želite drugu vezu tip koji želite da se pojavljuju po podrazumevanoj vrednosti, možete da promenite postavke širom organizacije tako što ćete u novu SharePoint admin centar i izabrati stavku **dijeljenje** u lijevom oknu. [uči više](https://go.microsoft.com/fwlink/?linkid=866426)
   
 3. **Po podrazumevanim postavkama, Dozvoli uređivanje** je uključeno. Ako želite da prikažete samo vaše datoteke, opozovite izbor u polju za potvrdu. 
     

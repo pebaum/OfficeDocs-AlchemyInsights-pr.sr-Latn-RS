@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 25bc059326d1c91fcdd331811dfc402ecd16f688
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754664"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31748008"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje lokacije koje pripadaju grupi programa Office 365:
 
-Kada korisnici kreiraju nove lokacije tima iz SharePoint dom (ili kreirate novu lokaciju tima iz nove SharePoint admin centar pregleda), automatski se kreira odgovarajuću grupu Office 365. Office 365 tim povezana grupa takođe kreiraju lokacije kada kreirate grupu Office 365 ili tim u Microsoft Teams. Da biste izbrisali lokaciju SharePoint koja pripada grupi programa Office 365, potrebno je da izbrišete same grupe Office 365. 
+Kada korisnici kreiraju nove lokacije tima iz SharePoint doma ili da kreirate novu lokaciju tima iz novog centra za SharePoint admin, automatski se kreira odgovarajuću grupu Office 365. Office 365 tim povezana grupa takođe kreiraju lokacije kada kreirate grupu Office 365 ili tim u Microsoft Teams. Da biste izbrisali lokaciju SharePoint koja pripada grupi programa Office 365, potrebno je da izbrišete same grupe Office 365. 
   
 1. Idite na [stranicu grupe Microsoft 365 admin centra](https://portal.office.com/adminportal/home#/groups).
     
@@ -40,11 +40,11 @@ Napomena: Prilikom brisanja grupe, može postojati kašnjenja pre nego što loka
   
 **Brisanje SharePoint kolekcije lokacija:**
 
-Da biste izbrisali kolekciju klasične lokacija:
+Da biste izbrisali lokaciju:
   
-1. U klasični SharePoint admin centru, na stranici kolekcije lokacija, potvrdite izbor u polju **za potvrdu** pored kolekciji. 
+1. U novu SharePoint admin centru, na stranici "lokacije", izaberite stavku u polju **za potvrdu** pored lokacije koju želite da izbrišete. 
     
-2. Na kartici "kolekcije", izaberite **Izbriši.**
+2. Na alatnoj traci kliknite **Izbriši.**
     
 **Izbrisati lokaciju slučajno?**
 

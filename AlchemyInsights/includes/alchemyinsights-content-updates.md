@@ -484,55 +484,23 @@
 | 3/28/2019 | [Ograničite SharePoint Online na klasičan način](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | preimenovana |
 
 
-## <a name="week-of-february-25-2019"></a>Nedelju dana od 25. februara 2019.
+## <a name="week-of-april-01-2019"></a>Nedelju dana od 01. aprila 2019.
 
 
 | Koji je objavljen u |Naslov teme | Promena |
 |------|------------|--------|
-| 2/25/2019 | [1800014 se u aplikacija za podršku za Outlook mobilnu aplikaciju](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | izmenio |
-| 2/25/2019 | [1800014 podešavanje e-pošte u programu Outlook mobilnu aplikaciju](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | izmenio |
-| 2/25/2019 | [8000001 isključi fokusiran prij](/AlchemyInsights/8000001-turn-off-focused-inbox) | izmenio |
-| 2/25/2019 | [8000009 kreiranje fascikle na Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000012 Izbriši kontakt u Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000013 Promena fonta u Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000014 kako da promenite jezik u Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000015 blokiranje ili deblokiranje pošiljalaca](/AlchemyInsights/8000015-block-or-unblock-senders) | izmenio |
-| 2/25/2019 | [8000015 primanju e-pošte od blokiranih pošiljalaca u Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000029 dogovor sa phishing u Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000029 dogovor sa spam u Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000029 dogovor sa spam ili phishing u Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000033 kako biste odgovorili ili prosledi poruke u Outlook.com beta](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | izmenio |
-| 2/25/2019 | [8000034 poruka pročitana u Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000036 promeniti vaša e-mail adresa u Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000046 štampanje e-pošte i kalendara u Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000047 kako da kreirate potpis za e-poštu u Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000052 Priloži datoteke u Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | izmenio |
-| 2/25/2019 | [8000059 kako da promenite temu radnju (FMS)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | izmenio |
-| 2/25/2019 | [Preporučeni koracima koje treba poduzeti ako nalog je ugrožena](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | izmenio |
-| 2/26/2019 | [Vraćanje izbrisanih grupa Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | izmenio |
-| 2/26/2019 | [9000215 pretplate na Outlook.com](/AlchemyInsights/9000215-outlook-com-subscriptions) | je dodao |
-| 27/2/2019 | [9000199 PST datoteke u Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | je dodao |
-| 27/2/2019 | [9000202 opcije Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | je dodao |
-| 27/2/2019 | [9000203 filteri za Outlook.com](/AlchemyInsights/9000203-outlook-com-filters) | je dodao |
-| 2/28/2019 | [8000036 profil pic/ime promeniti u Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | je dodao |
-| 2/28/2019 | [8000049 Skype ikonu koja je nestala u Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | je dodao |
-| 2/28/2019 | [8000088 čuvanja e-pošte na Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | je dodao |
-| 2/28/2019 | [9000071 mogu da kucam @ simbol na Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | je dodao |
-| 2/28/2019 | [9000193 da opozovete potez ili izbrišete u Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | je dodao |
-| 2/28/2019 | [9000198 Outlook.com kalendar Beta](/AlchemyInsights/9000198-outlook-com-calendar-beta) | je dodao |
-| 1/3/2019 | [8000035 zahteva da biste se vratili iz Outlook.com beta klasični Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | je dodao |
-| 1/3/2019 | [8000035 kako se nove Outlook.com izgledaju kao onaj stari](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | je dodao |
-| 1/3/2019 | [8000043 POP, IMAP i SMTP postavke za Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | je dodao |
-| 1/3/2019 | [8000090 Outlook.com Izaberi sve](/AlchemyInsights/8000090-outlook-com-select-all) | je dodao |
-| 1/3/2019 | [8000091 Outlook.com reagovala sam uzrok smrti](/AlchemyInsights/8000091-outlook-com-react-pop-up) | je dodao |
-| 1/3/2019 | [8000092 izvor Outlook.com prikaz poruke](/AlchemyInsights/8000092-outlook-com-view-message-source) | je dodao |
-| 1/3/2019 | [8000093 Outlook.com povezani račun dozvole](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | je dodao |
-| 1/3/2019 | [1800009Outlook za podršku u aplikacija za Mac](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | izmenio |
-| 1/3/2019 | [8000057 sigurnom veze u Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | izmenio |
-| 1/3/2019 | [9000232 Outlook.com adresar](/AlchemyInsights/9000232-outlook-com-address-book) | je dodao |
-| 1/3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | je dodao |
-| 1/3/2019 | [9000234 Outlook.com Unutrašnja greška servera](/AlchemyInsights/9000234-outlook-com-internal-server-error) | je dodao |
-| 1/3/2019 | [9000236 Outlook.com Dodavanje naloga](/AlchemyInsights/9000236-outlook-com-add-account) | je dodao |
-| 1/3/2019 | [9000238 Outlook.com dodajte alias](/AlchemyInsights/9000238-outlook-com-add-alias) | je dodao |
-| 1/3/2019 | [9000239 Outlook.com Špedicija](/AlchemyInsights/9000239-outlook-com-forwarding) | je dodao |
-| 1/3/2019 | [9000240 odgovore na Outlook.com](/AlchemyInsights/9000240-outlook-com-replies) | je dodao |
+| 1/4/2019 | [Omogućite Office 365 ATP za SharePoint, OneDrive, a Microsoft timova](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | je dodao |
+| 1/4/2019 | [Instalacioni program za Office 365 zaštitu napredna pretnje (ATP)](/AlchemyInsights/office-365-atp-setup) | je dodao |
+| 1/4/2019 | [9000071 mogu da kucam @ simbol na Mac](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | preimenovana |
+| 1/4/2019 | [Vraćanje u prethodno stanje i Office 365 grupu koristeći admin centar za Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | izmenio |
+| 1/4/2019 | [Rešavanje problema sa Office 365 napredni pretnja zaštitu (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | je dodao |
+| 4/2/2019 | Klasifikacija oznake u Office 365 | je dodao |
+| 4/2/2019 | Pregled podataka i sprečavanje gubitka (Uroniti) | je dodao |
+| 4/2/2019 | Desktop aplikacija za SharePoint | je dodao |
+| 4/2/2019 | Ograničenja za lokacije čvorišta | je dodao |
+| 4/2/2019 | OneDrive: Nedostaje datoteka ili fascikli | je dodao |
+| 4/2/2019 | Sačuvaj lokaciju ili listu kao predložak | je dodao |
+| 4/2/2019 | Pregled lokacija čvorišta SharePoint | je dodao |
+| 4/2/2019 | Lokacije i sadržaja struktura ukloniti | je dodao |
+| 4/2/2019 | Rešavanje problema sa greška 404, datoteka nije pronađena | je dodao |
+| 3/4/2019 | [Kôd greške 550 5.7.705 zabranjen je pristup, stanar je premašila prag](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | izmenio |
