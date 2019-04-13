@@ -10,17 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 3c5d18b805375c25f7e46e50c3d3cb428265ec4f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: d2d92a15a1863f0c4625fd363096fbfd0582a467
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777565"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859478"
 ---
 # <a name="access-denied-banned-sender"></a>Pristup dozvoljen, zabranjen pošiljaoca
 
- **Greška**: greška u SMTP udaljenog servera za RCPT da komanda, domaćin: *xxxx* -com.mail.protection.outlook.com ( *xxx.xxx.xxx.xxx* ) razlog: 550 5.7.511 je pristup zabranjen, zabranjenih pošiljaoca [ *xx.xxx.x.xxx* ]. 
-  
-Ako naiđete na ovu grešku pri slanju e-pošte primaoca u Office 365, uklonite pogođenim nalog sa liste blokiranih pošiljalaca u [https://sender.office.com](https://sender.office.com).
-  
+ **Greška**: greška u SMTP udaljenog servera za RCPT da komanda, domaćin: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) razlog: 550 5.7.511 je pristup zabranjen, zabranjenih pošiljaoca [*xx.xxx.x.xxx*]. 
 
+Ako dobijete grešku pri slanju e-pošte u Office 365 primaocu, uklonite pogođenim nalog sa liste blokiranih pošiljalaca u [https://sender.office.com](https://sender.office.com).

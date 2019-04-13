@@ -10,25 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1554
 ms.assetid: caecfa19-86c9-4aa4-9c83-b8a974ce60b9
-ms.openlocfilehash: f44ed42906b85e63f1f694813f54710906969904
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7651effc43cb0c4bc2fbbe5349bb72303943f493
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772455"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31859154"
 ---
 # <a name="winsock-error-10061"></a>Winsock greška 10061
 
 Ovaj kôd greške znači da Office 365 nije mogao da uspostavi TCP priključak (veza) sa meta domaćin. Najverovatniji uzrok ove greške je problem u konfiguraciji vatrozida. Da biste rešili problem, pogledajte ove postavke:
-  
-- Proverite konfiguraciju zaštitnog zida sa informacijama u [Office 365 URL adrese i opsega IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
-    
-- Ako greška je specifična za Exchange Online zaštitu (EOP), trebalo bi da ste prethodno obavešteni do promene na [Exchange Online zaštitu IP adrese](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
-    
-- Uverite se da je tvoj dobavljač Internet usluga (ISP) ne blokira port.
-    
-- Provjerite pametan hosta i ciljnih postavke servera u tvoj konektori.
-    
-Imajte na umu da Office 365 ne blokira *dolazne* veze na ovaj način. 
-  
 
+- Proverite konfiguraciju zaštitnog zida sa informacijama u [Office 365 URL adrese i opsega IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+
+- Ako greška je specifična za Exchange Online zaštitu (EOP), trebalo bi da ste prethodno obavešteni do promene na [Exchange Online zaštitu IP adrese](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+
+- Uverite se da je tvoj dobavljač Internet usluga (ISP) ne blokira port.
+
+- Provjerite pametan hosta i ciljnih postavke servera u tvoj konektori.
+
+Imajte na umu da Office 365 ne blokira *dolazne* veze na ovaj način.
