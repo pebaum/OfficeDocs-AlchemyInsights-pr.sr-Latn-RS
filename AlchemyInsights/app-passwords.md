@@ -11,27 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 500
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 5e87d3c7094b137ece751aed71cfd6b15777bfb8
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762546"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31857858"
 ---
 # <a name="app-passwords"></a>Aplikacija za lozinke
 
 Lozinku za aplikaciju je šifru koja se odobri za aplikaciju ili uređaj za pristup svoj rad sa Office 365 ili školu nalog. Ako vaš račun zahtijeva višestruku potvrdu identiteta (MLU), a aplikacija se povezuje vaš nalog, morate proizvesti lozinku za aplikaciju, aplikacija za povezivanje sa Office 365. Na primer, Outlook 2016 i ranijim verzijama programa Outlook od zahteva lozinku za aplikaciju.
-  
- **Napomena**: pre nego što pokušate sledeće korake, sa svoje Office 365 admin proverite da li je MFA potrebna za vaš nalog. Nije li to, opcije opisane u koracima neće biti dostupne.
-  
-1. Prijavite se na Office 365 sa na poslu ili školi računa i lozinku.
-    
-2. Odaberite **ga sada postaviti**.
-    
-3. Izaberite metod tvog identiteta i pratite odzivnike.
-    
-4. Nakon što utvrdite tvoj alternativni metod kontakta, odaberite **dalje**.
-    
-5. Dobijate lozinku aplikacija koje možete koristiti sa Outlook, Apple Mail i druge aplikacije koje zahtevaju to. Odaberite **Kopiraj** da biste kopirali lozinku, tako da možete je zalijepiti na drugom mestu (nema potrebe da to prenese). 
-    
 
+ **Napomena**: pre nego što pokušate sledeće korake, sa svoje Office 365 admin proverite da li je MFA potrebna za vaš nalog. Nije li to, opcije opisane u koracima neće biti dostupne.
+
+1. Prijavite se na Office 365 sa na poslu ili školi računa i lozinku.
+
+2. Odaberite **ga sada postaviti**.
+
+3. Izaberite metod tvog identiteta i pratite odzivnike.
+
+4. Nakon što utvrdite tvoj alternativni metod kontakta, odaberite **dalje**.
+
+5. Dobijate lozinku aplikacija koje možete koristiti sa Outlook, Apple Mail i druge aplikacije koje zahtevaju to. Odaberite **Kopiraj** da biste kopirali lozinku, tako da možete je zalijepiti na drugom mestu (nema potrebe da to prenese).
