@@ -3,86 +3,6 @@
 
 
 
-## <a name="week-of-march-04-2019"></a>Nedelja u 04. marta 2019.
-
-
-| Koji je objavljen u |Naslov teme | Promena |
-|------|------------|--------|
-| 3/4/2019 | 8000011 Outlook.com spasi izbrisane e-pošte | je dodao |
-| 3/4/2019 | [8000034 poruka pročitana u Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | izmenio |
-| 3/4/2019 | [8000047 kako da kreirate potpis za e-poštu u Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | izmenio |
-| 3/4/2019 | [8000086 Outlook.com Umetanje slike](/AlchemyInsights/80000860-outlook-com-insert-image) | je dodao |
-| 3/4/2019 | [8000087 Outlook.com tasterskih prečica](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | je dodao |
-| 3/4/2019 | [8000088 čuvanja e-pošte na Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | izmenio |
-| 3/4/2019 | [8000089 Outlook.com sef pošiljalaca](/AlchemyInsights/8000089-outlook-com-safe-senders) | je dodao |
-| 3/4/2019 | 8000011 Outlook.com spasi izbrisane e-pošte | uklonjena |
-| 3/4/2019 | 1575-PowerApps i Microsoft Flow planira proširenje | je dodao |
-| 3/4/2019 | [Promena domena za Office 365 grupu](/AlchemyInsights/change-domain-for-group) | preimenovana |
-| 3/4/2019 | [1575-PowerApps i Microsoft Flow planira proširenje](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | preimenovana |
-| 3/4/2019 | [Omogući Višefaktorne identiteta](/AlchemyInsights/enable-multifactor-authentication) | izmenio |
-| 3/4/2019 | [8000054 Outlook.com ograničenje skladišta je prekoračeno](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | je dodao |
-| 3/4/2019 | [423 Org bezbednosti - EmailAccountCompromised](/AlchemyInsights/423-org-securityemailaccountcompromised) | izmenio |
-| 3/4/2019 | [8000029 dogovor sa spam ili phishing u Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | izmenio |
-| 3/4/2019 | [Uklanjanje domena](/AlchemyInsights/remove-domain) | izmenio |
-| 3/4/2019 | [Dodavanje korisnika na Office 365](/AlchemyInsights/add-users-to-office-365) | izmenio |
-| 3/4/2019 | [Dobijate mnogo neželjene pošte ili Cecu u poštanskom sandučetu?](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | izmenio |
-| 3/4/2019 | [Promeni NameServers](/AlchemyInsights/change-nameservers) | izmenio |
-| 3/4/2019 | [Kreiranje aplikacija u PowerApps](/AlchemyInsights/create-apps-in-powerapps) | izmenio |
-| 3/4/2019 | [Cutover migracija Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | izmenio |
-| 3/4/2019 | [Imamo problema isporuke e-pošte?](/AlchemyInsights/having-email-delivery-issues-0) | izmenio |
-| 3/4/2019 | [Imamo problema isporuke e-pošte?](/AlchemyInsights/having-email-delivery-issues) | izmenio |
-| 3/4/2019 | [Kako da dodam kreditnu karticu?](/AlchemyInsights/how-do-i-add-a-credit-card) | izmenio |
-| 3/4/2019 | [Kako da ažuriram informacije moje kreditne kartice?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | izmenio |
-| 3/4/2019 | [Kako da instalirate Office](/AlchemyInsights/how-to-install-office) | izmenio |
-| 3/4/2019 | [Migriranje e-pošte iz IMAP](/AlchemyInsights/migrate-email-from-imap) | izmenio |
-| 3/4/2019 | [Opcije plaćanja](/AlchemyInsights/payment-options) | izmenio |
-| 3/4/2019 | [Preporučeni koracima koje treba poduzeti ako nalog je ugrožena](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | izmenio |
-| 3/4/2019 | [Pošiljalac je blokiran za slanje previše neželjene pošte](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | izmenio |
-| 3/4/2019 | [Prosledite Dynamics 365 zahteve za podršku](/AlchemyInsights/submit-dynamics-365-support-requests) | izmenio |
-| 3/4/2019 | [Domen je već u upotrebi](/AlchemyInsights/the-domain-is-already-in-use) | izmenio |
-| 3/4/2019 | [Nevolja završava za nabavku u Office 365 portal](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | izmenio |
-| 3/4/2019 | [Ažuriranje DNS zapisa](/AlchemyInsights/update-dns-records-0) | izmenio |
-| 3/4/2019 | [Ažuriranje DNS zapisa](/AlchemyInsights/update-dns-records) | izmenio |
-| 3/4/2019 | [Ažurirajte detalje plaćanja](/AlchemyInsights/update-payment-details) | izmenio |
-| 3/4/2019 | [Provjerite domenu](/AlchemyInsights/verify-domain) | izmenio |
-| 3/4/2019 | [Podešavanje špedicije na više adresa e-pošte](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | izmenio |
-| 3/4/2019 | [Rešavanje na „Ne je prihvaćena domena” greška](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | izmenio |
-| 3/6/2019 | [1581 otvorite i koristite deljene poštansko sanduče u programu Outlook na Webu](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | izmenio |
-| 3/6/2019 | [Timovi smene](/AlchemyInsights/1686-teams-shifts) | je dodao |
-| 3/6/2019 | [1703 potrebne informacije o ekipama i Polycom telefoni](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | je dodao |
-| 3/6/2019 | [Instaliranje modula timovi PS i Reference](/AlchemyInsights/1787-teams-ps-module-install-ref) | je dodao |
-| 3/6/2019 | [615 tipovi deljenja i kako da ih spojim.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | izmenio |
-| 3/6/2019 | [Freemium timovi](/AlchemyInsights/997-teams-freemium) | je dodao |
-| 3/6/2019 | [Imate li valjane poruke budu označavane kao spam?](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | izmenio |
-| 3/6/2019 | [Omogući Microsoft timova](/AlchemyInsights/enable-microsoft-teams) | izmenio |
-| 3/6/2019 | [Omogućili ste timove za svoje studente?](/AlchemyInsights/have-you-enabled-teams-for-your-students) | izmenio |
-| 3/6/2019 | [Kako da ponovo aktivirate pretplatu](/AlchemyInsights/how-to-reactivate-a-subscription) | izmenio |
-| 3/6/2019 | Intune aplikacija za raspoređivanje - pravilo Id 991 | uklonjena |
-| 3/6/2019 | [Problem sa Skype za posao?](/AlchemyInsights/issue-with-skype-for-business) | izmenio |
-| 3/6/2019 | [Microsoft timova - pristup gostu](/AlchemyInsights/microsoft-teamsguest-access) | izmenio |
-| 3/6/2019 | [Microsoft timova - vraćanje lokacija izbrisane tima](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | izmenio |
-| 3/6/2019 | [E-mail relej kroz Office 365](/AlchemyInsights/relay-email-through-office-365) | izmenio |
-| 3/6/2019 | [SharePoint datoteke za sinhronizaciju sa novom klijentu sinhronizaciju OneDrive](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | izmenio |
-| 3/6/2019 | [Nadogradnja na punu verziju Microsoft Teams](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | izmenio |
-| 3/7/2019 | [8000064 e-pošte Outlook.com ne može da sinhronizuje - španski](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | je dodao |
-| 3/7/2019 | [8000065 Outlook.com neželjene spam - španski](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | je dodao |
-| 3/7/2019 | [8000066 - pravilo 1 - Outlook.com hakovao - španski](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | je dodao |
-| 3/7/2019 | [8000066 - pravilo 2 - Outlook.com hakovao - španski](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | je dodao |
-| 3/7/2019 | [8000067 - zatvaranje naloga Outlook.com - španski](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | je dodao |
-| 3/7/2019 | [8000068 - Outlook.com Dodavanje naloga - španski](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | je dodao |
-| 3/7/2019 | [8000069 - Outlook.com blokiranih pošiljalaca - španski](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | je dodao |
-| 3/7/2019 | [8000070 - Outlook.com mogu da se prijavim - španski](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | je dodao |
-| 3/7/2019 | [Oporavak izbrisanih korisnika](/AlchemyInsights/restore-deleted-user) | izmenio |
-| 3/8/2019 | 8000043 POP, IMAP i SMTP postavke za Outlook.com | uklonjena |
-| 3/8/2019 | [8000043 POP, IMAP i SMTP postavke za Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | preimenovana |
-| 3/8/2019 | [8000071 Outlook.com fiks email za sinhronizaciju - francuski](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | je dodao |
-| 3/8/2019 | [8000072 Outlook.com Neželjena pošta - francuski](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | je dodao |
-| 3/8/2019 | [8000073 Outlook.com račun hakovao - francuski](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | je dodao |
-| 3/8/2019 | [8000074 Outlook.com zatvori nalog - francuski](/AlchemyInsights/8000074-outlook-com-close-account-french) | je dodao |
-| 3/8/2019 | [8000075 Outlook.com promena lozinke - francuski](/AlchemyInsights/8000075-outlook-com-change-password-french) | je dodao |
-| 3/8/2019 | [8000076 Outlook.com blokiranih pošiljalaca - francuski](/AlchemyInsights/8000076-outlook-com-block-sender-french) | je dodao |
-
-
 ## <a name="week-of-march-11-2019"></a>Nedelje od 11. marta 2019.
 
 
@@ -91,7 +11,7 @@
 | 3/12/2019 | 8000054 Outlook.com poštanskom sandučetu ne učitavanje | je dodao |
 | 3/12/2019 | [8000078 Outlook.com poštanskom sandučetu ne učitavanje](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | preimenovana |
 | 3/12/2019 | [8000078 Outlook.com poštanskom sandučetu ne učitavanje](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | izmenio |
-| 3/13/2019 | [E-mail relej kroz Office 365](/AlchemyInsights/relay-email-through-office-365) | izmenio |
+| 3/13/2019 | [Razmena e-pošte putem usluge Office 365](/AlchemyInsights/relay-email-through-office-365) | izmenio |
 | 3/14/2019 | [isto kao i ime datoteke je najbolje [pravilo #-opis]](/AlchemyInsights/1-alchemy-insight-template) | izmenio |
 | 3/14/2019 | [Povećajte veličinu poštanskog sandučeta](/AlchemyInsights/increase-mailbox-size) | izmenio |
 | 3/15/2019 | [Na radnoj površini opoziv programa Outlook "ili" zameni e-poruku](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | je dodao |
@@ -134,7 +54,7 @@
 | 3/22/2019 | [Dodavanje mesta u pretplatu za avansnu uplatu](/AlchemyInsights/add-seats-to-a-prepaid-subscription) | izmenio |
 | 3/22/2019 | [1800018 Dodaj/podešavanje emaila](/AlchemyInsights/add-set-up-email-accounts) | preimenovana |
 | 3/22/2019 | [764 Dodaj/podešavanje emaila](/AlchemyInsights/add-setup-email-accounts) | preimenovana |
-| 3/22/2019 | [Dodavanje korisnika na Office 365](/AlchemyInsights/add-users-to-office-365) | izmenio |
+| 3/22/2019 | [Dodavanje korisnika u Office 365](/AlchemyInsights/add-users-to-office-365) | izmenio |
 | 3/22/2019 | [8000040 dodati Vaš račun za Outlook.com u Outlook za Windows](/AlchemyInsights/add-your-outlook-com-account-in-outlook-for-windows) | preimenovana |
 | 3/22/2019 | [713 Dodavanje dodatnih e-adresu liste distribucije](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | preimenovana |
 | 3/22/2019 | [718 Dodavanje spoljnog kontakta / osobe izvan organizacije listi distribucije](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | preimenovana |
@@ -196,7 +116,7 @@
 | 3/22/2019 | [8000013 Promena fonta u Outlook.com](/AlchemyInsights/change-font-in-outlook-com) | preimenovana |
 | 3/22/2019 | [Promena učestalosti platite](/AlchemyInsights/change-how-often-you-pay) | izmenio |
 | 3/22/2019 | [8000010 promeniti moju email adresu u Outlook.com](/AlchemyInsights/change-my-email-address-in-outlook-com) | preimenovana |
-| 3/22/2019 | [Promeni NameServers](/AlchemyInsights/change-nameservers) | izmenio |
+| 3/22/2019 | [Promena servera imena](/AlchemyInsights/change-nameservers) | izmenio |
 | 3/22/2019 | [Promena OneDrive za poslovni prostor za skladištenje](/AlchemyInsights/change-onedrive-for-business-storage-quota) | izmenio |
 | 3/22/2019 | [Promena načina plaćanja](/AlchemyInsights/change-payment-method) | izmenio |
 | 3/22/2019 | [Promjena dozvola za SharePoint liste ili biblioteke](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | izmenio |
@@ -210,7 +130,7 @@
 | 3/22/2019 | [8000002 promenite lozinku za Outlook.com](/AlchemyInsights/change-your-password-in-outlook-com) | preimenovana |
 | 3/22/2019 | [8000036 promenite ime profila u Outlook.com](/AlchemyInsights/change-your-profile-name-in-outlook-com) | preimenovana |
 | 3/22/2019 | [Promene u spoljni korisničkog pristupa](/AlchemyInsights/changes-to-external-user-access) | izmenio |
-| 3/22/2019 | [8000026 promene na Outlook.com](/AlchemyInsights/changes-to-outlook-com) | preimenovana |
+| 3/22/2019 | [8000026 Promene u usluzi Outlook.com](/AlchemyInsights/changes-to-outlook-com) | preimenovana |
 | 3/22/2019 | [Promene dozvola u javnoj fascikli](/AlchemyInsights/changing-public-folder-permissions) | izmenio |
 | 3/22/2019 | [Menjanje Deljeno poštansko sanduče Pošalji kao ponašanje](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | izmenio |
 | 3/22/2019 | [Proverite Status sinhronizacije AAD identitet](/AlchemyInsights/check-aad-identity-sync-status) | izmenio |
@@ -243,7 +163,7 @@
 | 3/22/2019 | [CTRL + H prikazuje traženja, neće ih zameniti u Excel 2016](/AlchemyInsights/ctrl-plus-h-shows-find-not-replace-in-excel-2016) | izmenio |
 | 3/22/2019 | [8000029 dogovor sa phishing u Outlook.com](/AlchemyInsights/deal-with-phishing-in-outlook-com) | preimenovana |
 | 3/22/2019 | [8000029 dogovor sa spam u Outlook.com](/AlchemyInsights/deal-with-spam-in-outlook-com) | preimenovana |
-| 3/22/2019 | [8000029 dogovor sa spam ili phishing u Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | preimenovana |
+| 3/22/2019 | [8000029 Postupanje u slučaju bezvredne pošte ili phishinga u usluzi Outlook.com](/AlchemyInsights/deal-with-spam-or-phishing-in-outlook-com) | preimenovana |
 | 3/22/2019 | [Odbijene kreditne kartice](/AlchemyInsights/declined-credit-card) | izmenio |
 | 3/22/2019 | [8000012 Izbriši kontakt u Outlook.com](/AlchemyInsights/delete-a-contact-in-outlook-com) | preimenovana |
 | 3/22/2019 | [8000016 brisanje fascikle u Outlook.com](/AlchemyInsights/delete-a-folder-in-outlook-com) | preimenovana |
@@ -302,7 +222,7 @@
 | 3/22/2019 | [Kako da dodam kreditnu karticu?](/AlchemyInsights/how-do-i-add-a-credit-card) | izmenio |
 | 3/22/2019 | [Kako da promenim od plaćanja kreditnom karticom za fakturisanje?](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | izmenio |
 | 3/22/2019 | [Kako da uklonim moje informacije o kreditnoj kartici?](/AlchemyInsights/how-do-i-remove-my-credit-card-information) | izmenio |
-| 3/22/2019 | [Kako da ažuriram informacije moje kreditne kartice?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | izmenio |
+| 3/22/2019 | [Kako da ažuriram informacije o kreditnoj kartici?](/AlchemyInsights/how-do-i-update-my-credit-card-information) | izmenio |
 | 3/22/2019 | [8000056 pristupu Outlook.com tokom putovanja](/AlchemyInsights/how-to-access-outlook-com-while-traveling) | preimenovana |
 | 3/22/2019 | [Kako da dodate ili smanjite licence](/AlchemyInsights/how-to-add-or-reduce-licenses) | izmenio |
 | 3/22/2019 | [Kako da dodelite dozvole korisnika](/AlchemyInsights/how-to-assign-a-license-to-a-user) | izmenio |
@@ -384,7 +304,7 @@
 | 3/22/2019 | [Premeštanje stavki u SharePoint biblioteci dokumenata](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | izmenio |
 | 3/22/2019 | [8000062 pokretu u fasciklu u Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | preimenovana |
 | 3/22/2019 | [Višestruki pokušaji da naplatite online platni instrumenti](/AlchemyInsights/multiple-attempts-to-charge-online-payment-instruments) | izmenio |
-| 3/22/2019 | [1703 potrebne informacije o ekipama i Polycom telefoni](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | preimenovana |
+| 3/22/2019 | [1703 Potrebne informacije o aplikaciji Teams i Polycom telefonima](/AlchemyInsights/need-information-on-teams-and-polycom-phones) | preimenovana |
 | 3/22/2019 | [122 je potrebno da kreirate potpis u programu Outlook na Webu?](/AlchemyInsights/need-to-create-a-signature-in-outlook-on-the-web) | preimenovana |
 | 3/22/2019 | [8000037 ne primanju e-pošte na Outlook.com](/AlchemyInsights/not-receiving-email-in-outlook-com) | preimenovana |
 | 3/22/2019 | [Office 365 za poslovne planove i cene](/AlchemyInsights/office-365-for-business-plans-and-pricing) | izmenio |
@@ -396,11 +316,11 @@
 | 3/22/2019 | [Jedan od vaše lokalne Federacije servis certifikate ističe](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | izmenio |
 | 3/22/2019 | [OneDrive za skladištenje](/AlchemyInsights/onedrive-storage) | izmenio |
 | 3/22/2019 | [Otvorite SharePoint biblioteke u datoteku programa Explorer](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | izmenio |
-| 3/22/2019 | [1581 otvorite i koristite deljene poštansko sanduče u programu Outlook na Webu](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | preimenovana |
+| 3/22/2019 | [1581 Otvaranje i korišćenje deljenog poštanskog sandučeta u aplikaciji Outlook na vebu](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | preimenovana |
 | 3/22/2019 | [Otvoriti pomoću programa Explorer dugme je onemogućeno.](/AlchemyInsights/open-with-explorer-button-is-disabled) | izmenio |
 | 3/22/2019 | [Otvori pomoću programa Explorer dugme nedostaje](/AlchemyInsights/open-with-explorer-button-missing) | izmenio |
 | 3/22/2019 | [Otvoriti pomoću programa Explorer ne radi](/AlchemyInsights/open-with-explorer-doesn-t-work) | izmenio |
-| 3/22/2019 | [423 Org bezbednosti - EmailAccountCompromised](/AlchemyInsights/org-securityemailaccountcompromised) | preimenovana |
+| 3/22/2019 | [423 Bezbednost organizacije – Ugrožen nalog e-pošte](/AlchemyInsights/org-securityemailaccountcompromised) | preimenovana |
 | 3/22/2019 | [424 Org bezbednosti - Spam laћno pozitivan](/AlchemyInsights/org-securityspam-false-positive) | preimenovana |
 | 3/22/2019 | [8000073 Outlook.com račun hakovao - francuski](/AlchemyInsights/outlook-com-account-hacked-french) | preimenovana |
 | 3/22/2019 | [Hakovao 8000039 Outlook.com račun](/AlchemyInsights/outlook-com-account-hacked) | preimenovana |
@@ -504,3 +424,109 @@
 | 4/2/2019 | Lokacije i sadržaja struktura ukloniti | je dodao |
 | 4/2/2019 | Rešavanje problema sa greška 404, datoteka nije pronađena | je dodao |
 | 3/4/2019 | [Kôd greške 550 5.7.705 zabranjen je pristup, stanar je premašila prag](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | izmenio |
+
+
+## <a name="week-of-april-08-2019"></a>Nedelja 08. April 2019.
+
+
+| Koji je objavljen u |Naslov teme | Promena |
+|------|------------|--------|
+| 4/9/2019 | [Premestite poruke e-pošte u poštansko sanduče arhive](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | izmenio |
+| 4/9/2019 | [Anonimni deljenje](/AlchemyInsights/anonymous-sharing) | izmenio |
+| 4/9/2019 | [Proverite u nekoliko datoteka odjednom](/AlchemyInsights/check-in-several-files-at-once) | izmenio |
+| 4/9/2019 | [Povezivanje klasične lokaciju tima SharePoint grupi](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | izmenio |
+| 4/9/2019 | [Kreiranje lokacije u SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | izmenio |
+| 4/9/2019 | [Kreiranje lokacije](/AlchemyInsights/create-a-site) | preimenovana |
+| 4/9/2019 | [Brisanje SharePoint lokacije](/AlchemyInsights/delete-a-sharepoint-site-0) | izmenio |
+| 4/9/2019 | [Brisanje lokacije](/AlchemyInsights/delete-site-collection) | izmenio |
+| 4/9/2019 | [Poruka o grešci prilikom deljenja datoteka](/AlchemyInsights/error-message-when-sharing-files) | izmenio |
+| 4/9/2019 | [Deljenje sa lokacije tima iz spoljašnjeg izvora](/AlchemyInsights/external-sharing-with-a-team-site) | izmenio |
+| 4/9/2019 | [Kako da koristite SharePoint Online termin radnji](/AlchemyInsights/how-to-use-the-sharepoint-online-term-store) | izmenio |
+| 4/9/2019 | [Upravljanje rečnici pretrage u SharePoint Online](/AlchemyInsights/manage-search-dictionaries-in-sharepoint-online) | izmenio |
+| 4/9/2019 | [Upravljanje SharePoint ili OneDrive za skladištenje](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | izmenio |
+| 4/9/2019 | [Vraćanje izbrisanih lokacije](/AlchemyInsights/restore-a-deleted-site-collection) | izmenio |
+| 4/9/2019 | [Vraćanje izbrisanih podlokacija](/AlchemyInsights/restore-a-deleted-subsite) | izmenio |
+| 4/9/2019 | [Delite datoteku ili fasciklu u SharePoint ili OneDrive](/AlchemyInsights/share-a-file-or-folder-in-sharepoint-or-onedrive) | izmenio |
+| 4/9/2019 | [SharePoint za skladištenje](/AlchemyInsights/sharepoint-storage) | izmenio |
+| 4/9/2019 | [Deljenje sa spoljnim korisnicima ne radi](/AlchemyInsights/sharing-with-external-users-isn-t-working) | izmenio |
+| 4/9/2019 | [Sinhronizacija SharePoint datoteka pomoću novog OneDrive klijenta za sinhronizaciju](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | izmenio |
+| 4/9/2019 | [Okreni spoljni Uključivanje ili isključivanje deljenja za lokaciju](/AlchemyInsights/turn-external-sharing-on-or-off-for-a-site) | izmenio |
+| 4/9/2019 | [Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint-0) | izmenio |
+| 4/9/2019 | [Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint](/AlchemyInsights/turn-external-sharing-on-or-off-for-sharepoint) | izmenio |
+| 4/9/2019 | Rešavanje problema sa greška 404, datoteka nije pronađena | izmenio |
+| 4/9/2019 | [Pristup je odbijen na lokaciji projekta Web aplikaciju](/AlchemyInsights/access-denied-to-a-project-online-site) | je dodao |
+| 4/9/2019 | [Projekat na mreži je u stanju samo za čitanje](/AlchemyInsights/project-online-is-in-a-read-only-state) | je dodao |
+| 4/9/2019 | [Projekt Web aplikacija je nestao iz kolekcije SharePoint lokacija](/AlchemyInsights/project-web-app-missing-from-site-collection) | je dodao |
+| 4/12/2019 | [1048 5.7.750 usluga nije dostupna. Klijent je blokiran od slanja iz neregistrovanog domena](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | izmenio |
+| 4/12/2019 | [713 Dodavanje dodatnih e-adresu liste distribucije](/AlchemyInsights/adding-an-additional-email-address-to-a-distribution-list) | izmenio |
+| 4/12/2019 | [718 Dodavanje spoljnog kontakta / osobe izvan organizacije listi distribucije](/AlchemyInsights/adding-external-contactspeople-outside-of-organization-to-a-distribution-lis) | izmenio |
+| 4/12/2019 | [714 Allowing spoljni pošiljaoci e-mail na liste distribucije](/AlchemyInsights/allowing-external-senders-to-email-distribution-lists) | izmenio |
+| 4/12/2019 | [717 Allowing korisnicima slanje e-pošte kao liste distribucije](/AlchemyInsights/allowing-users-to-send-email-as-a-distribution-list) | izmenio |
+| 4/12/2019 | [1049 antiSpam 4.5.3 Too broju primalaca (AS780090)](/AlchemyInsights/antispam-4-5-3-too-many-recipients-as780090) | izmenio |
+| 4/12/2019 | [1051 antispam 4.7.500 zabranjen pristup, pokušajte ponovo kasnije](/AlchemyInsights/antispam-4-7-500-access-denied-please-try-again-later) | izmenio |
+| 4/12/2019 | [1050 antispam 4.7.500 Server je zauzet. Pokušajte ponovo kasnije od [XXX.XXX.XXX.XXX]](/AlchemyInsights/antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | izmenio |
+| 4/12/2019 | [1047 antiSpam 550 5.7.708 usluga nije dostupna. Pristup odbijen, saobraćaj nije prihvaćena iz ove IP](/AlchemyInsights/antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | izmenio |
+| 4/12/2019 | [500 aplikacija za lozinke](/AlchemyInsights/app-passwords) | izmenio |
+| 4/12/2019 | [726 blokiranja e-mail Špedicija](/AlchemyInsights/blocking-email-forwarding) | izmenio |
+| 4/12/2019 | [763 blokira Exchange Online PowerShell pristupa za korisnike](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | izmenio |
+| 4/12/2019 | [608 informacija iz kalendara na hibridni podešavanja](/AlchemyInsights/calendar-information-on-hybrid-setups) | izmenio |
+| 4/12/2019 | [613 kalendar objavljivanja informacija](/AlchemyInsights/calendar-publishing-information) | izmenio |
+| 4/12/2019 | [618 kalendara deljenja politike](/AlchemyInsights/calendar-sharing-policy) | izmenio |
+| 4/12/2019 | [398 kalendara - rezervacija](/AlchemyInsights/calendarbooking) | izmenio |
+| 4/12/2019 | [399 kalendar - delegat](/AlchemyInsights/calendardelegate) | izmenio |
+| 4/12/2019 | [400 kalendar - FreeBusy](/AlchemyInsights/calendarfreebusy) | izmenio |
+| 4/12/2019 | [402 kalendar - O365Groups](/AlchemyInsights/calendaro365groups) | izmenio |
+| 4/12/2019 | [1081 kalendar - RRA makne](/AlchemyInsights/calendarrba-catchall) | izmenio |
+| 4/12/2019 | [912 Konfiguriši Focused prijemnog za svakoga u vašoj organizaciji](/AlchemyInsights/configure-focused-inbox-for-everyone-in-your-organization) | izmenio |
+| 4/12/2019 | [761 povezuje sa Exchange Online PowerShell kada MFA je omogućeno](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | izmenio |
+| 4/12/2019 | [760 povezivanje na Exchange Online PowerShell](/AlchemyInsights/connecting-to-exchange-online-powershell) | izmenio |
+| 4/12/2019 | [712 konvertovanje liste distribucije u grupi programa Office 365](/AlchemyInsights/converting-a-distribution-list-to-an-office-365-group) | izmenio |
+| 4/12/2019 | [Kreiranje liste distribucije ili grupa je 711](/AlchemyInsights/creating-a-distribution-list-or-group) | izmenio |
+| 4/12/2019 | [744 kreiranje korisnika kada je organizacija u hibridni režim](/AlchemyInsights/creating-users-when-organization-is-in-hybrid-mode) | izmenio |
+| 4/12/2019 | [743 kreiranje korisnici bez dozvole](/AlchemyInsights/creating-users-without-a-license) | izmenio |
+| 4/12/2019 | [1065 svoja mišljenja i negodovanja od EOP izlaznog IP adresa rangesMC146155](/AlchemyInsights/deprecation-of-eop-outbound-ip-address-ranges-mc146155) | izmenio |
+| 4/12/2019 | [1314 dupliranje objekta oporavka](/AlchemyInsights/duplicate-object-remediation) | izmenio |
+| 4/12/2019 | [934 omogućite POP i IMAP naloge](/AlchemyInsights/enable-pop-and-imap-accounts) | izmenio |
+| 4/12/2019 | [Kôd greške 550 5.7.501 zabranjen pristup, otkriven je spam zlostavljanja](/AlchemyInsights/error-code-550-5-7-501-access-denied-spam-abuse-detected) | izmenio |
+| 4/12/2019 | [Kôd greške 550 5.7.705 zabranjen je pristup, stanar je premašila prag](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | izmenio |
+| 4/12/2019 | [126 se poštansko sanduče nije moguće pronaći greške u OWA?](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | izmenio |
+| 4/12/2019 | [127 se greška u TenantAccessBlockedException prilikom pristupanja e-pošte?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | izmenio |
+| 4/12/2019 | [646 kako konfigurirati AADConnect](/AlchemyInsights/how-to-configure-aadconnect) | izmenio |
+| 4/12/2019 | [955 kako konfigurirati MFA](/AlchemyInsights/how-to-configure-mfa) | izmenio |
+| 4/12/2019 | [614 kako da kreirate i upravljanje poštanskim sandučićima sobu](/AlchemyInsights/how-to-create-and-manage-room-mailboxes) | izmenio |
+| 4/12/2019 | [401 hibrid - FreeBusy](/AlchemyInsights/hybridfreebusy) | izmenio |
+| 4/12/2019 | [929 krivičnih prijemnog pravila da deflectTransport pravila](/AlchemyInsights/inbox-rules-to-deflecttransport-rules) | izmenio |
+| 4/12/2019 | [922 prijemnog pravila](/AlchemyInsights/inbox-rules) | izmenio |
+| 4/12/2019 | [Povećajte SRU regulisanja ograničenja za migraciju pošte](/AlchemyInsights/increase-ews-throttling-for-mail-migration) | je dodao |
+| 4/12/2019 | [1264 IP blokiran za slanje previše spam (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | izmenio |
+| 4/12/2019 | [322 pitanja kada korisnik ima pitanja slanja](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | izmenio |
+| 4/12/2019 | [321 pitanja kada korisnik ne prima e-poštu](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | izmenio |
+| 4/12/2019 | [323 pitanja sa kašnjenja u e-poruci](/AlchemyInsights/issues-with-delays-in-email) | izmenio |
+| 4/12/2019 | [324 pitanja sa email(s) ide do pogrešnog odredišta](/AlchemyInsights/issues-with-email-s-going-to-the-wrong-destination) | izmenio |
+| 4/12/2019 | [898 Saznajte više o spoljnim kalendar opcije deljenja](/AlchemyInsights/learn-about-external-calendar-sharing-options) | izmenio |
+| 4/12/2019 | [617 Saznajte više o eksterno opcije deljenja](/AlchemyInsights/learn-about-external-sharing-options) | izmenio |
+| 4/12/2019 | [610 Saznajte više o Office 365 grupe](/AlchemyInsights/learn-about-office-365-groups) | izmenio |
+| 4/12/2019 | [612 Saznajte kako kalendare i javnim fasciklama](/AlchemyInsights/learn-how-about-calendars-and-public-folders) | izmenio |
+| 4/12/2019 | [603 Saznajte kako da podesite postavke dnevnog reda](/AlchemyInsights/learn-how-to-adjust-agenda-settings) | izmenio |
+| 4/12/2019 | [723 pravi pseudonim e-pošte primarna e-pošta za korisnika](/AlchemyInsights/making-an-email-alias-a-primary-email-for-the-user) | izmenio |
+| 4/12/2019 | [597 rezervacije Microsoft aplikacija](/AlchemyInsights/microsoft-bookings-app) | izmenio |
+| 4/12/2019 | [973 migracije StalledDueTo * pravilo](/AlchemyInsights/migration-stalleddueto-rule) | izmenio |
+| 4/12/2019 | [1581 Otvaranje i korišćenje deljenog poštanskog sandučeta u aplikaciji Outlook na vebu](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | izmenio |
+| 4/12/2019 | [423 Bezbednost organizacije – Ugrožen nalog e-pošte](/AlchemyInsights/org-securityemailaccountcompromised) | izmenio |
+| 4/12/2019 | [424 Org bezbednosti - Spam laћno pozitivan](/AlchemyInsights/org-securityspam-false-positive) | izmenio |
+| 4/12/2019 | [1332 OWA - poštanskom sandučetu pravila se ne izvršava za poštansko sanduče](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | izmenio |
+| 4/12/2019 | [182 pokrenite SaRA za dijagnozu &amp; rešite probleme potvrde identiteta u programu Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | izmenio |
+| 4/12/2019 | [412 politiku greške prilikom deljenja kalendara](/AlchemyInsights/policy-error-when-sharing-calendar) | izmenio |
+| 4/12/2019 | [408 RRA](/AlchemyInsights/rba) | izmenio |
+| 4/12/2019 | [1336 RecoverableItems fascikla je puna](/AlchemyInsights/recoverableitems-folder-is-full) | izmenio |
+| 4/12/2019 | [1374 otklanjanje dva poštanskih sandučića kako](/AlchemyInsights/resolve-two-mailboxes-howto) | izmenio |
+| 4/12/2019 | [924 pravilo ograničenja](/AlchemyInsights/rule-limits) | izmenio |
+| 4/12/2019 | [414 pretraživanje ažuriranja](/AlchemyInsights/search-experience-updated) | izmenio |
+| 4/12/2019 | [902 (greške pri sinhronizaciji zbog duplirane objekte)](/AlchemyInsights/sync-errors-due-to-duplicate-objects) | izmenio |
+| 4/12/2019 | [Suđenje Office 365 stanar blokiran od strane Spamhaus](/AlchemyInsights/trial-office-365-tenant-blocked-by-spamhaus) | izmenio |
+| 4/12/2019 | [911 isključivanje fokusiran prijemnog u klijentu](/AlchemyInsights/turning-off-focused-inbox-in-the-client) | izmenio |
+| 4/12/2019 | [615 vrsta deljenja i kako da ih podesite.](/AlchemyInsights/types-of-sharing-and-how-to-set-them-up) | izmenio |
+| 4/12/2019 | [413 razumevanje dnevnog reda pošte](/AlchemyInsights/understanding-agenda-mail) | izmenio |
+| 4/12/2019 | [932 nadogradnja AADConnect](/AlchemyInsights/upgrading-aadconnect) | izmenio |
+| 4/12/2019 | [725 koristeći pseudonim e-pošte na mobilnom uređaju](/AlchemyInsights/using-email-alias-on-mobile-device) | izmenio |
+| 4/12/2019 | [1554 Winsock greška 10061](/AlchemyInsights/winsock-error-10061) | izmenio |
