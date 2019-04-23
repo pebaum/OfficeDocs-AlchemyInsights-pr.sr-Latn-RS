@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404617"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762870"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Kako da dodam kreditnu karticu?
 
-1. U centru za Admin, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.
+1. U centru administracije idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite stavke **Naplata** \> **Pretplate**.
     
-2. Izaberi pretplatu koju želite da plati za novu kreditnu karticu ili bankovni račun, a zatim odaberite **Detalji uplate Update**.
+2. Izaberite pretplatu koju želite da platite putem nove kreditne kartice ili računa u banci, a zatim odaberite stavku **Ažuriranje detalja o plaćanju**.
     
-3. Odaberite padajuću strelicu pod **Dodaj ili izaberite način plaćanja**, a zatim odaberite **novu kreditnu karticu** ili **novi račun u banci**.
+3. Odaberite strelicu padajućeg menija u odeljku **Dodavanje ili izbor načina plaćanja**, a zatim odaberite stavku **Nova kreditna kartica** ili **Novi račun u banci**.
     
-4. Unesite informacije za novu kreditnu karticu ili bankovni račun, a zatim odaberite prosledi.
+4. Unesite informacije o novoj kreditnoj kartici ili računu u banci, a zatim odaberite stavku „Prosledi“.
     
 

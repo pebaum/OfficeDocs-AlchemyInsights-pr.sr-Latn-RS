@@ -1,5 +1,5 @@
 ---
-title: Promeni NameServers
+title: Promena servera imena
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405337"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754700"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Ažuriraj nameservers svoje domene u Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Ažuriranje servera imena domena u usluzi Office 365
 
-Napomena: Nameserver promene ponekad može da potraje do 48 sati da propagira.
+Napomena: Promena servera imena ponekad može da potraje do 48 časova.
   
-Da biste podesili svoje domene u Office 365, nameservers u tvoj specijalista treba ažurirati. Kreiranje ili uređivanje zapisa tvoj nameserver u tvoj domen specijalista.
+Da biste podesili domen u usluzi Office 365, serveri imena u registru treba da se ažuriraju. Kreirajte ili uredite zapise servera imena u registru domena.
   
-1. Posetite Web lokaciju tvoj domen specijalista i pronaći oblasti odakle možete urediti u nameservers.
+1. Idite na veb sajt registra domena i pronađite oblast gde možete da uredite servere imena.
     
-2. Kreiranje ili uređivanje dva zapisa nameserver za podudaranje ove vrednosti:
+2. Kreirajte ili uredite dva zapisa servera imena tako da se podudaraju sa ovim vrednostima:
     
-  - NS1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
-3. Čuvanje promena.
+3. Sačuvajte promene.
     
-U ovom članku možete pronaći detaljne instrukcije: [Promena nameservers da biste podesili Office 365 sa bilo koji domen specijalista](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Takođe možete da pronađete detaljna uputstva u ovom članku: [Promena servera imena radi podešavanja usluge Office 365 pomoću bilo kog registra domena](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

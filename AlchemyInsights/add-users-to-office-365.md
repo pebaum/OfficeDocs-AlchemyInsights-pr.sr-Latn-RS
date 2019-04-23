@@ -1,5 +1,5 @@
 ---
-title: Dodavanje korisnika na Office 365
+title: Dodavanje korisnika u Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cfacdcac-8b59-4d81-a8b1-0d16b712df25
-ms.openlocfilehash: d80072c3cdbeb97d7b73520267c64ca8447bee4b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: c47086e8324bfa4c92c109fc3e602af93a47634a
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404797"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30753476"
 ---
-# <a name="add-a-user-to-office-365"></a>Dodavanje korisnika na Office 365
+# <a name="add-a-user-to-office-365"></a>Dodavanje korisnika u Office 365
 
-Koristite ove korake da biste dodali korisnika Office 365:
+Koristite ove korake za dodavanje korisnika u Office 365:
   
-1. Idi u [Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (ili na levoj nav odaberite **korisnike** \> **aktivnog korisnika**).
+1. Idite na [Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) (ili na levoj traci za navigaciju izaberite stavku **Korisnici** \> **Aktivni korisnici**).
     
 2. Kliknite na dugme **Dodaj korisnika**.
     
-3. Unesite informacije za korisnika. Kada završite, odaberite **Dodaj** . 
+3. Popunite informacije za korisnika. Odaberite stavku **Dodaj** kada završite. 
     
-[Pročitajte više...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+[Pročitajte više o...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
   
 

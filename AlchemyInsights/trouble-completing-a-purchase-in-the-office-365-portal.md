@@ -1,5 +1,5 @@
 ---
-title: Nevolja završava za nabavku u Office 365 portal
+title: Poteškoće pri dovršavanju kupovine na Office 365 portalu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405157"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754772"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Nevolja završava za nabavku u Office 365 portal
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Poteškoće pri dovršavanju kupovine na Office 365 portalu
 
-Pri pokušaju da cu ovo kupiti, ako je zatraženo više puta da biste se prijavili u Office 365 portal ili primite poruku u kojoj je pronađen je sporno pitanje, najbolji prvi korak je da probam da koristite vaš pregledač inprivate inkognito režim. Nakon otvaranja prozoru inprivate inkognito, idite na lokaciju [portal.office.com](https://portal.office.com) , i da se prijavite pomoću akreditiva admin. Nastavite da bi ostvarili kupovinu. 
+Kada pokušate da izvršite kupovinu, ako vam više puta bude zatraženo da se prijavite na Office 365 portal ili ako primite poruku da je pronađen problem, najbolji prvi korak jeste da pokušate da koristite InPrivate/inkognito režim pregledača. Kada otvorite InPrivate/inkognito prozor, idite na sajt [portal.office.com](https://portal.office.com) i prijavite se pomoću administratorskih akreditiva. Zatim nastavite sa kupovinom. 
   
 

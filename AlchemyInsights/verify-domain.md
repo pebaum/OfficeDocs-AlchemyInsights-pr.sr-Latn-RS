@@ -1,5 +1,5 @@
 ---
-title: Provjerite domenu
+title: Verifikacija domena
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404869"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760424"
 ---
-# <a name="trying-to-verify-your-domain"></a>Pokušaja potvrđivanja vašeg domena?
+# <a name="trying-to-verify-your-domain"></a>Pokušavate da verifikujete domen?
 
-Potrebno je da dodate TXT zapis tvoj domen specijalista da biste potvrdili da ste vlasnik vašeg domena. Pratite čarobnjaka za dodavanje domena tako što ćete kliknuti na **Postavke** \> **domena**, a zatim **Dodajte domen**. 
+Morate da dodate TXT zapis u registar domena da biste potvrdili da ste vlasnik domena. Pratite čarobnjak za dodavanje domena tako što ćete kliknuti na **Postavke** \> **Domen**, a zatim izaberite stavku **Dodavanje domena**. 
   
-Sledite uputstva u članku ispod da biste dodali TXT zapis da biste proverili vašeg domena. Izaberite tvoj domen specijalista za određena uputstva vašeg domena.
+Pratite uputstva u ovom članku da biste dodali TXT zapis za verifikaciju domena. Izaberite registar domena za određena uputstva za domen.
   
-[Kreiranje DNS zapise za Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Kreiranje DNS zapisa za Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
