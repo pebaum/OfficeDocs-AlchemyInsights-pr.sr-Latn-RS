@@ -1,5 +1,5 @@
 ---
-title: Preporučeni koracima koje treba poduzeti ako nalog je ugrožena
+title: Preporučeni postupak koji treba preduzeti ako je nalog ugrožen
 ms.author: pebaum
 author: pebaum
 ms.date: 10/2/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
 ms.openlocfilehash: 8f68244a42eeb831dfee297aa585108804ffc28b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405040"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388989"
 ---
-# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Preporučeni koracima koje treba poduzeti ako nalog je ugrožena
+# <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Preporučeni postupak koji treba preduzeti ako je nalog ugrožen
 
-[VIDEO: Popravljam kompromitovane račun za Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: Popravka ugroženog Office 365 naloga](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. Odmah to [da poništi lozinku za korisnika](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) . Da se ne javljamo novu lozinku putem e-pošte za krajnjeg korisnika. 
+1. [Poništite lozinku korisnika](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) odmah. Ne šaljite krajnjem korisniku novu lozinku putem e-pošte. 
     
-2. Uklonite bilo sumnjivo [prosleđivanje adrese](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) na nivou poštanskog sandučeta. 
+2. Uklonite sve sumnjive [adrese za prosleđivanje](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) na nivou poštanskog sandučeta. 
     
-3. Uklonite bilo sumnjivo [prijemnog pravila](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) postavljena unutar poštansko sanduče. 
+3. Uklonite sva sumnjiva [pravila prijemnog poštanskog sandučeta](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) postavljena u poštansko sanduče. 
     
-4. Ako korisnik je blokiran od slanja e-pošte, [u ograničenom korisnike da se odblokira račun](https://protection.office.com/?hash=/restrictedusers). Kada, korisnik bi trebalo da nastavite da šaljete poruke u roku od 1 sata.
+4. Ako je korisniku onemogućeno slanje e-pošte, [idite na opciju „Korisnici sa ograničenim pristupom“ da deblokirate nalog](https://protection.office.com/?hash=/restrictedusers). Kada završite, korisniku bi slanje poruka trebalo da bude ponovo omogućeno u roku od jednog sata.
     
-5. Uklonite korisnički račun iz neke [grupe administrativnu ulogu](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) , dok ne budete sigurni da li je konto više ne kompromitovan. 
+5. Uklonite korisnički nalog u bilo kojoj [grupi sa ulogom administratora](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) dok ne budete sigurni da nalog više nije ugrožen. 
     
-Da biste umanjili potencijal proboj podataka ili kompromitovane računa u budućnosti, preporučuje se da čitanje nam [najbolje prakse članak Office 365 bezbednosti](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
+Da biste umanjili potencijalno buduće curenje podataka ili ugrožavanje naloga, preporučujemo da čitate naš članak o [najboljim postupcima za Office 365 bezbednost](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
   
 

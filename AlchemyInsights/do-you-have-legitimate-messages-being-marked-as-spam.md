@@ -1,5 +1,5 @@
 ---
-title: Imate li valjane poruke budu označavane kao spam?
+title: Da li imate legitimne poruke koje su označene kao bezvredna pošta?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469073"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399155"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Imate li valjane poruke budu označavane kao spam?
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>Da li imate legitimne poruke koje su označene kao bezvredna pošta?
 
 
-Pokušajte iznad dijagnostika ili ovaj [korak po korak Vodič za rešavanje problema dobre poruke budu označavane kao spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+Isprobajte gorenavedenu dijagnostičku metodu ili pokušajte sa ovim [postupnim vodičem za rešavanje problema sa valjanim porukama koje se označavaju kao bezvredna pošta](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
-Najbolji način da prijavim ove vrste problema je da:
+Najbolji način da prijavite ove vrste problema je da:
   
-1. [Omogući izveštavanje programski dodatak](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za korisnika. 
+1. [Omogućite izveštavanje programskog dodatka](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za korisnika. 
     
-2. Imate korisnički [izveštaj poruku kao nije neželjeno](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
+2. Korisnik bi trebalo da [prijavi da poruka „Nije bezvredna“](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).
     
-Ako želite da otvorite kartu za podršku, priložite punu e-mail zaglavlja iz bar **jednu celu originalnu poruku** ispod. 
+Ako želite da otvorite tiket za podršku, ispod priložite celo zaglavlje e-pošte od najmanje **jedne cele originalne poruke**. 
   
 

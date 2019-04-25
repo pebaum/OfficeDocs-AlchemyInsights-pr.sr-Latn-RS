@@ -11,36 +11,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404761"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372646"
 ---
 # <a name="payment-options"></a>Opcije plaćanja
 
  **Opcije plaćanja**
   
-Kreditne kartice, računa u banci (direktno zaduživanje) i fakturu (Platili cekom ili elektronska sredstva za prenos)
+Kreditna kartica, račun u banci (debitna kartica) i faktura (plaćanje putem čeka ili elektronskog prenosa sredstava)
   
- **Plati kreditnom karticom i račun u banci**
+ **Plaćanje putem kreditne kartice ili računa u banci**
   
-Kada platite putem kreditne kartice ili računa u banci, bicete automatski optuzeni za svoju pretplatu na dan nakon datuma fakture, do kraja mandata svoje pretplate. Možete da [ažurirate vaše kreditne kartice ili računa u banci informacije](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) ako vam išta zatreba. Takođe možete da [primi kopiju fakturisanja izjavu u mejlu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+Kada plaćate putem kreditne kartice ili računa u banci, automatski vam se naplaćuje naknada za pretplatu jedan dan posle datuma fakture, do kraja termina pretplate. Možete da [ažurirate informacije o kreditnoj kartici ili računu u banci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) kad god je to potrebno. Možete i da odaberete da [Dobijate kopiju izvoda o naplati putem e-pošte](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-Ako vaše kreditne kartice odbije ili imaju neki zapadlih balansirati možete odabrati opciju **Sada plati** na u **obračunu** \> [pretplate na](https://portal.office.com/adminportal/home#/subscriptions) stranici. 
+Ako je kreditna kartica odbijena ili ima dugovanja koja kasne, možete da odaberete opciju **Plati odmah** na stranici za **Plaćanje** \> [Pretplate](https://portal.office.com/adminportal/home#/subscriptions). 
   
- **Da plati fakturu (potvrdu ili elektronska sredstva za prenos)**
+ **Plaćanje fakturom (čekom ili elektronskim prenosom sredstava)**
   
-Ako vaša pretplata košta preko za određenu sumu novca (ovaj iznos varira od strane lokacija usluge), imate opciju da plati do fakture pomoću potvrdu ili EFT. Ček može biti potrebna za veće plaćanja fakture. Ako ček je potrebno, bićete obavešteni kada kupite pretplatu. I, ako se slažete da budu kontaktirani, dobijate e-mail koji sadrži više informacija o primenjivanju za odobravanje kredita. Kreditne čekovi su obično završi u roku od dva radna dana.
+Ako pretplata na košta više od određenog iznosa novca (taj iznos zavisi od lokacije usluge), imate opciju da platite putem fakture pomoću čeka ili elektronskog prenosa sredstava. Za plaćanje većih iznosa putem fakture može biti potrebna provera kredita. Ako je neophodna provera kredita, dobijate obaveštenje kada kupite pretplatu. A ako ste saglasni da vas kontaktiramo, primate poruku e-pošte koja obuhvata više informacija o prijavljivanju za odobravanje kredita. Provere kredita se obično dovršavaju za dva radna dana.
   
-Ako platite po fakturi za pretplatu, dobijate mejlove koji kaže da je tvoj izpisek spremni za prikazivanje. Ova e-poruka ne sadrži kopiju fakturisanja izjavu. Međutim, takođe možete da odaberete da [primi kopiju fakturisanja izjavu u mejlu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Fakturisanja izjavu uključuje detalje o opcijama za pravljenje uplatu. Ako unesete broj naloga (PO) za nabavku kada kupite pretplatu, broj će se pojaviti na izvodu za naplatu. Više informacija o pristupu naplate, videti [Prikaz tvoj račun ili faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+Ako pretplatu plaćate putem fakture, dobijate e-poruku koja vas obaveštava o tome da je izvod o naplati spreman za pregled. Ta e-poruka ne sadrži kopiju izvoda o naplati. Međutim, možete da odaberete i da [dobijate kopiju izvoda o naplati putem e-pošte](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Izvod o naplati sadrži detalje o opcijama za plaćanje. Ako unesete broj porudžbenice (PO) prilikom kupovine pretplate, on se pojavljuje na izvodu o naplati. Informacije o pristupanju izvodima o naplati potražite u članku [Prikaz računa ili fakture](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Promenite kako platiti**
+ **Promenite način plaćanja**
   
-Ako želite da promenite kako si platio pretplatu, sledite uputstva [ovde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+Ako želite da promenite način plaćanja za pretplatu, sledite uputstva [ovde](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **Dodatne informacije**
   
-[Plati za svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[Plaćanje pretplate na Office 365 za preduzeća](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 
