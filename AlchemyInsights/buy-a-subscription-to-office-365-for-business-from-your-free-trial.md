@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761611"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396773"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Kupite pretplatu na Office 365 od besplatnu probnu verziju
 
@@ -24,7 +24,7 @@ Probala si Office 365, a sada si spreman da kupi. Postoje dve opcije prilikom ku
   
  **Mogu da kupim isti plan kao probnog perioda**
   
-1. U centru za Admin, idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite **naplate** \> **pretplate**.
+1. U centru administracije idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite stavke **Naplata** \> **Pretplate**.
     
 2. Odaberite **kupite sada** za probnu pretplatu koju želite i sledite korake da provali. 
     
