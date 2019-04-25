@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
 ms.openlocfilehash: 0a398d2d6792e9e6af33dfe0678e40f71f6928ac
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756644"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406480"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="27413-102">CTRL + H prikazuje traženja, neće ih zameniti u programu Excel</span><span class="sxs-lookup"><span data-stu-id="27413-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="30293-102">CTRL + H prikazuje traženja, neće ih zameniti u programu Excel</span><span class="sxs-lookup"><span data-stu-id="30293-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="27413-103">U Excel 2016, pritiskom na CTRL + H otvara dijalog za pronalaženje i zamena i prikazuje karticu "Pronađi", umesto karticu Replace izabrati stavku Zameni na kartici dom radi istu stvar.</span><span class="sxs-lookup"><span data-stu-id="27413-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="27413-104">Ovaj problem je rešen u verzija 1708 (8431.2094).</span><span class="sxs-lookup"><span data-stu-id="27413-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="27413-105">Da biste to popravili, ažuriranje na najnoviju verziju sistema Office.</span><span class="sxs-lookup"><span data-stu-id="27413-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="27413-106">Izaberite **datoteku** \> **računa** \> **Opcije ažuriranja** \> **Ažuriraj sada**.</span><span class="sxs-lookup"><span data-stu-id="27413-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="30293-103">U Excel 2016, pritiskom na CTRL + H otvara dijalog za pronalaženje i zamena i prikazuje karticu "Pronađi", umesto karticu Replace izabrati stavku Zameni na kartici dom radi istu stvar.</span><span class="sxs-lookup"><span data-stu-id="30293-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="30293-104">Ovaj problem je rešen u verzija 1708 (8431.2094).</span><span class="sxs-lookup"><span data-stu-id="30293-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="30293-105">Da biste to popravili, ažuriranje na najnoviju verziju sistema Office.</span><span class="sxs-lookup"><span data-stu-id="30293-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="30293-106">Izaberite **datoteku** \> **računa** \> **Opcije ažuriranja** \> **Ažuriraj sada**.</span><span class="sxs-lookup"><span data-stu-id="30293-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
