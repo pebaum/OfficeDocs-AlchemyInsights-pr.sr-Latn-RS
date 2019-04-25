@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
 ms.openlocfilehash: ef4ddd1498fc499a169d9790e175913e144e3c2a
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968251"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410280"
 ---
-# <a name="install-onedrive"></a><span data-ttu-id="f4ae1-102">Instalirate OneDrive</span><span class="sxs-lookup"><span data-stu-id="f4ae1-102">Install OneDrive</span></span>
+# <a name="install-onedrive"></a><span data-ttu-id="262bb-102">Instalirate OneDrive</span><span class="sxs-lookup"><span data-stu-id="262bb-102">Install OneDrive</span></span>
 
-<span data-ttu-id="f4ae1-p101">OneDrive Prevod klijent je unapred instaliran sa Windows 10. Da biste instalirali OneDrive za Windows 7 ili Mac, ili da uzmem mobilnu aplikaciju za vaš telefon ili tablet, idem da [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="f4ae1-p101">The OneDrive sync client is preinstalled with Windows 10. To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
+<span data-ttu-id="262bb-103">OneDrive Prevod klijent je unapred instaliran sa Windows 10.</span><span class="sxs-lookup"><span data-stu-id="262bb-103">The OneDrive sync client is preinstalled with Windows 10.</span></span> <span data-ttu-id="262bb-104">Da biste instalirali OneDrive za Windows 7 ili Mac, ili da uzmem mobilnu aplikaciju za vaš telefon ili tablet, idem da [http://onedrive.com/download](http://onedrive.com/download).</span><span class="sxs-lookup"><span data-stu-id="262bb-104">To install OneDrive for Windows 7 or Mac, or to get the mobile app for your phone or tablet, go to [http://onedrive.com/download](http://onedrive.com/download).</span></span>
   
 
