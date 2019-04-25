@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
 ms.openlocfilehash: 04ffe139e21ca624fe7399202a0e9816012264f8
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30758048"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423017"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Šta se desiti mojim podacima i programu access kada se završi moj Office 365 za poslovne pretplatu?
 

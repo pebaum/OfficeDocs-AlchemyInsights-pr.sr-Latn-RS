@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.openlocfilehash: 8b6bb50164bb48b955d6cc4873c547232efe1527
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405409"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32370268"
 ---
 # <a name="the-domain-is-already-in-use"></a>Domen je već u upotrebi
 
-Domenu ste pokušavate dodati već pripada drugu organizaciju. Prvo morate da uklonite domenu iz te organizacije da biste ga dodali ovoj organizaciji. U člancima ispod će vas voditi kroz ove procese.
+Domen koji pokušavate da dodate već pripada drugoj organizaciji. Prvo morate da uklonite domen iz te organizacije da biste mogli da ga dodate u ovu organizaciju. Dole navedeni članci će vas voditi kroz ove procese.
   
-- [Uklanjanje domena iz Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [Uklanjanje domena iz usluge Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
     
-- [Dodavanje domena i Kreiranje DNS zapisa](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [Dodavanje domena i kreiranje DNS zapisa](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
     
 
