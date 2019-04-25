@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: 609
 ms.assetid: 916ccbdb-439b-4cf8-a0d2-258c8c8b1130
 ms.openlocfilehash: f9ec88cbf17832f07cbf9eaf61727fae835897c5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30777005"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410460"
 ---
-# <a name="importing-and-exporting-calendars"></a><span data-ttu-id="ead30-102">Uvoz i izvoz kalendara</span><span class="sxs-lookup"><span data-stu-id="ead30-102">Importing and exporting calendars</span></span>
+# <a name="importing-and-exporting-calendars"></a><span data-ttu-id="d6339-102">Uvoz i izvoz kalendara</span><span class="sxs-lookup"><span data-stu-id="d6339-102">Importing and exporting calendars</span></span>
 
-<span data-ttu-id="ead30-103">Za više informacija, pogledajte ove teme:</span><span class="sxs-lookup"><span data-stu-id="ead30-103">For more information, see these topics:</span></span>
+<span data-ttu-id="d6339-103">Za više informacija, pogledajte ove teme:</span><span class="sxs-lookup"><span data-stu-id="d6339-103">For more information, see these topics:</span></span>
   
-- [<span data-ttu-id="ead30-104">Uvoz i izvoz Outlook e-poštu, kontakte i kalendar</span><span class="sxs-lookup"><span data-stu-id="ead30-104">Import and export Outlook email, contacts, and calendar</span></span>](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
+- [<span data-ttu-id="d6339-104">Uvoz i izvoz Outlook e-poštu, kontakte i kalendar</span><span class="sxs-lookup"><span data-stu-id="d6339-104">Import and export Outlook email, contacts, and calendar</span></span>](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef)
     
-- [<span data-ttu-id="ead30-105">Uvoz ili se pretplatite na kalendar u Outlook.com</span><span class="sxs-lookup"><span data-stu-id="ead30-105">Import or subscribe to a calendar in Outlook.com</span></span>](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
+- [<span data-ttu-id="d6339-105">Uvoz ili se pretplatite na kalendar u Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d6339-105">Import or subscribe to a calendar in Outlook.com</span></span>](https://support.office.com/article/cff1429c-5af6-41ec-a5b4-74f2c278e98c)
     
-- [<span data-ttu-id="ead30-106">Uvoz e-pošte, kontakata i kalendara iz programa Outlook .pst datoteke</span><span class="sxs-lookup"><span data-stu-id="ead30-106">Import email, contacts, and calendar from an Outlook .pst file</span></span>](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+- [<span data-ttu-id="d6339-106">Uvoz e-pošte, kontakata i kalendara iz programa Outlook .pst datoteke</span><span class="sxs-lookup"><span data-stu-id="d6339-106">Import email, contacts, and calendar from an Outlook .pst file</span></span>](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
     
 
