@@ -1,5 +1,5 @@
 ---
-title: Imate li valjane poruke budu označavane kao spam?
+title: Da li imate legitimne poruke koje su označene kao bezvredna pošta?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
 ms.openlocfilehash: 21b33d36886bdc8db56550afb3879fc4e69d51f1
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469073"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399155"
 ---
-# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="631d6-102">Imate li valjane poruke budu označavane kao spam?</span><span class="sxs-lookup"><span data-stu-id="631d6-102">Do you have legitimate messages being marked as spam?</span></span>
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a><span data-ttu-id="305b3-102">Da li imate legitimne poruke koje su označene kao bezvredna pošta?</span><span class="sxs-lookup"><span data-stu-id="305b3-102">Do you have legitimate messages being marked as spam?</span></span>
 
 
-<span data-ttu-id="631d6-103">Pokušajte iznad dijagnostika ili ovaj [korak po korak Vodič za rešavanje problema dobre poruke budu označavane kao spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="631d6-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
+<span data-ttu-id="305b3-103">Isprobajte gorenavedenu dijagnostičku metodu ili pokušajte sa ovim [postupnim vodičem za rešavanje problema sa valjanim porukama koje se označavaju kao bezvredna pošta](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span><span class="sxs-lookup"><span data-stu-id="305b3-103">Try the above diagnostic or try this [step by step guide for troubleshooting good messages being marked as spam](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).</span></span>
   
-<span data-ttu-id="631d6-104">Najbolji način da prijavim ove vrste problema je da:</span><span class="sxs-lookup"><span data-stu-id="631d6-104">The best way to report these types of issues is to:</span></span>
+<span data-ttu-id="305b3-104">Najbolji način da prijavite ove vrste problema je da:</span><span class="sxs-lookup"><span data-stu-id="305b3-104">The best way to report these types of issues is to:</span></span>
   
-1. <span data-ttu-id="631d6-105">[Omogući izveštavanje programski dodatak](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za korisnika.</span><span class="sxs-lookup"><span data-stu-id="631d6-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="305b3-105">[Omogućite izveštavanje programskog dodatka](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za korisnika.</span><span class="sxs-lookup"><span data-stu-id="305b3-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="631d6-106">Imate korisnički [izveštaj poruku kao nije neželjeno](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="631d6-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
+2. <span data-ttu-id="305b3-106">Korisnik bi trebalo da [prijavi da poruka „Nije bezvredna“](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span><span class="sxs-lookup"><span data-stu-id="305b3-106">Have the user [report the message as Not Junk](https://support.office.com/article/use-the-report-message-add-in-b5caa9f1-cdf3-4443-af8c-ff724ea719d2?ui=en-US&amp;rs=en-US&amp;ad=US).</span></span>
     
-<span data-ttu-id="631d6-107">Ako želite da otvorite kartu za podršku, priložite punu e-mail zaglavlja iz bar **jednu celu originalnu poruku** ispod.</span><span class="sxs-lookup"><span data-stu-id="631d6-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span> 
+<span data-ttu-id="305b3-107">Ako želite da otvorite tiket za podršku, ispod priložite celo zaglavlje e-pošte od najmanje **jedne cele originalne poruke**.</span><span class="sxs-lookup"><span data-stu-id="305b3-107">If you'd like to open a support ticket, please attach the full email headers from at least **one entire original message** below.</span></span> 
   
 
