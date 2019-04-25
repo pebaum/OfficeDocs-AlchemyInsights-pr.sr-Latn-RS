@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929390"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372970"
 ---
-# <a name="enable-password-sync"></a><span data-ttu-id="a2577-102">Omogući sinhronizaciju lozinku</span><span class="sxs-lookup"><span data-stu-id="a2577-102">Enable Password Sync</span></span>
+# <a name="enable-password-sync"></a><span data-ttu-id="f310b-102">Omogući sinhronizaciju lozinku</span><span class="sxs-lookup"><span data-stu-id="f310b-102">Enable Password Sync</span></span>
 
-1.  <span data-ttu-id="a2577-103">Odaberite **DirSync Status** na matičnoj stranici centra Admin O365.</span><span class="sxs-lookup"><span data-stu-id="a2577-103">Choose **DirSync Status** on the O365 Admin Center home page.</span></span> 
+1.  <span data-ttu-id="f310b-103">Odaberite **DirSync Status** na matičnoj stranici centra Admin O365.</span><span class="sxs-lookup"><span data-stu-id="f310b-103">Choose **DirSync Status** on the O365 Admin Center home page.</span></span> 
     
-     <span data-ttu-id="a2577-104">\* Alternativno, možete posetiti **Korisnici** \> \*\* aktivni korisnici \*\*, a na stranici aktivnog korisnika, odaberite **više** \> **Sinhronizacija direktorijuma.** \*</span><span class="sxs-lookup"><span data-stu-id="a2577-104">\*Alternately, you can go to **Users** \> \*\* Active users \**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
+     <span data-ttu-id="f310b-104">\* Alternativno, možete posetiti **Korisnici** \> \*\* aktivni korisnici \*\*, a na stranici aktivnog korisnika, odaberite **više** \> **Sinhronizacija direktorijuma.** \*</span><span class="sxs-lookup"><span data-stu-id="f310b-104">\*Alternately, you can go to **Users** \> \*\* Active users \**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
     
-2. <span data-ttu-id="a2577-105">Na oknu sinhronizacija direktorijuma, odaberite **u DirSync upravljanja**.</span><span class="sxs-lookup"><span data-stu-id="a2577-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
+2. <span data-ttu-id="f310b-105">Na oknu sinhronizacija direktorijuma, odaberite **u DirSync upravljanja**.</span><span class="sxs-lookup"><span data-stu-id="f310b-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
     
-3. <span data-ttu-id="a2577-106">Sada videćete svoj status, i izvršite promene:</span><span class="sxs-lookup"><span data-stu-id="a2577-106">Now you'll see your status, and make changes:</span></span>
+3. <span data-ttu-id="f310b-106">Sada videćete svoj status, i izvršite promene:</span><span class="sxs-lookup"><span data-stu-id="f310b-106">Now you'll see your status, and make changes:</span></span>
     
-    <span data-ttu-id="a2577-p101">**Lozinku za sinhronizaciju omogućen:** (True ili False). Određuje da li imate lozinku za sinhronizaciju omogućen između lokalne i Office 365 podstanara.</span><span class="sxs-lookup"><span data-stu-id="a2577-p101">**Password sync enabled:** (True or False). Specifies whether you have password sync enabled between on-premises and your Office 365 tenant.</span></span> 
+    <span data-ttu-id="f310b-107">**Lozinku za sinhronizaciju omogućen:** (True ili False).</span><span class="sxs-lookup"><span data-stu-id="f310b-107">**Password sync enabled:** (True or False).</span></span> <span data-ttu-id="f310b-108">Određuje da li imate lozinku za sinhronizaciju omogućen između lokalne i Office 365 podstanara.</span><span class="sxs-lookup"><span data-stu-id="f310b-108">Specifies whether you have password sync enabled between on-premises and your Office 365 tenant.</span></span> 
     
-    <span data-ttu-id="a2577-p102">**Sinhronizovano lozinku:** (Poslednji put vodio lozinku za sinhronizaciju). Ovo će prikazati upozorenje i vezu da alatka za rešavanje problema ako poslednje sinhronizacije je pre više od tri dana.</span><span class="sxs-lookup"><span data-stu-id="a2577-p102">**Last Password Sync:** (Last time password sync ran). This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
+    <span data-ttu-id="f310b-109">**Sinhronizovano lozinku:** (Poslednji put vodio lozinku za sinhronizaciju).</span><span class="sxs-lookup"><span data-stu-id="f310b-109">**Last Password Sync:** (Last time password sync ran).</span></span> <span data-ttu-id="f310b-110">Ovo će prikazati upozorenje i vezu da alatka za rešavanje problema ako poslednje sinhronizacije je pre više od tri dana.</span><span class="sxs-lookup"><span data-stu-id="f310b-110">This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
     
 
