@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 70982aa9-2bd2-4ad9-bc53-d27a02a67709
 ms.openlocfilehash: 254cb5284a0acc989ce01c59636e7f156302a639
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.sourcegitcommit: a7be616a4ebca62f8e70fe576df58e9a7597c4f8
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397902"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33403230"
 ---
-# <a name="create-an-outlook-profile"></a><span data-ttu-id="577b8-102">Kreirajte profil u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="577b8-102">Create an Outlook Profile</span></span>
+# <a name="create-an-outlook-profile"></a><span data-ttu-id="d1cb4-102">Kreirajte profil u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="d1cb4-102">Create an Outlook Profile</span></span>
 
-<span data-ttu-id="577b8-103">Da biste kreirali ili ponovo kreirati svoj Outlook profil, možete pokrenuti [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) na pogođenim masini.</span><span class="sxs-lookup"><span data-stu-id="577b8-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
+<span data-ttu-id="d1cb4-103">Da biste kreirali ili ponovo kreirati svoj Outlook profil, možete pokrenuti [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) na pogođenim masini.</span><span class="sxs-lookup"><span data-stu-id="d1cb4-103">To create or re-create your Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile-Alchemy) on the affected machine.</span></span>
 
-<span data-ttu-id="577b8-104">Alatka će izvršiti razne provere, a kad budete spremni će kreirati profil u programu Outlook sa vašu e-adresu.</span><span class="sxs-lookup"><span data-stu-id="577b8-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
+<span data-ttu-id="d1cb4-104">Alatka će izvršiti razne provere, a kad budete spremni će kreirati profil u programu Outlook sa vašu e-adresu.</span><span class="sxs-lookup"><span data-stu-id="d1cb4-104">The tool will perform various checks, and when you're ready will create an Outlook profile with your email address.</span></span>
