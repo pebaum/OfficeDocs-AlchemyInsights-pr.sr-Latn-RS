@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401198"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867952"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Rešite probleme pretragu po obnovi svoje trenutno pretraživanje kataloga
+# <a name="troubleshoot-search-issues"></a>Rešavanje problema za pretragu
 
-1. Zatvorite Outlook i otvorite **Kontrolnu tablu**.
-    
-    > [!NOTE]
-    > U zavisnosti od verzije sistema Office koji koristite, možda ćete morati kliknite na dugme **Start** , a na izborniku **Start** , desnom tipkom miša kliknite **Kontrolne table**. 
-  
-2. Postupite na neki od sledećih:
-    
-  - Odaberite **Opcije indeksiranja**.
-    
-  - U polju za **pretragu** otkucajte *indeksiranja* i izaberite stavku **Opcije indeksiranja**.
-    
-3. U dijalogu **Indeksirane lokacije** , u odeljku **Promena izabranih lokacija**, potvrdite izbor u polju za potvrdu za lokaciju na koju želite da izmenite, a zatim kliknite na dugme **u redu**.
-    
-4. U dijalogu **Više opcija** , na kartici **Postavke indeksa** , pod **Rešavanje problema**, kliknite na **obnovi**.
-    
-    > [!NOTE]
-    > Dijalog u kome **Ponovo izgraditi indeks** otvara upozorenje da je „indeksa može potrajati dugo vremena da se završi”. Odaberite **u redu** da početi ponovno pravljenje indeksa. 
-  
-Za više informacija, pogledajte poznat problem [Nema rezultata pretrage za POP/IMAP naloge](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Ako imate problema sa pretragom, molim vas potražite ispod za pomoć za rešavanje problema.
 
+Ovo su najčešći problemi, a dobro mesto za početak:
+- [Pretraživanje programa Outlook ne vraća nikakve rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Pretraga programa Outlook vraća nepotpune rezultate](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Pretraživanje programa Outlook nije moguće pronaći starije e-mailove](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Moguća rešenja za manje uobičajene probleme možete naći ovdje:
+- [Samo Outlook 2016: karticu "traži" je nedostupno](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Deljeno poštansko sanduče: Probleme sa rezultatima pretrage](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Greška: Pretraga performanse će biti na udaru zbog problema sa kako Outlook je podešen](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Pretraživanje fascikle će se pojaviti neočekivani PersonMetadata stavki bez teme](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
