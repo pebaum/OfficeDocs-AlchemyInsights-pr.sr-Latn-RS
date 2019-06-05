@@ -1,0 +1,21 @@
+---
+title: Nova oznaka zadržavanja automatski kreira
+ms.author: kirks
+author: Techwriter40
+manager: pamgreen
+ms.audience: admin
+ms.topic: article
+ms.prod: office-online-server
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.openlocfilehash: d667fe18c8d79a33ea52d50f5bd2325829b29f84
+ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.translationtype: MT
+ms.contentlocale: sr-Latn-RS
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34720300"
+---
+# <a name="new-retention-labels-created-automatically"></a><span data-ttu-id="74787-102">Nova oznaka zadržavanja automatski kreira</span><span class="sxs-lookup"><span data-stu-id="74787-102">New retention labels created automatically</span></span>
+
+<p><span data-ttu-id="74787-103"><span style="font-family: 'Segoe UI',sans-serif;">Jer većina organizacija, obimu i složenosti njihove podatke svakodnevno raste - e-pošta, dokumenti, instant poruke i još mnogo.</span></span><span class="sxs-lookup"><span data-stu-id="74787-103"><span style="font-family: 'Segoe UI',sans-serif;">For most organizations, the volume and complexity of their data is increasing daily - email, documents, instant messages, and more.</span></span></span> <span data-ttu-id="74787-104">Efikasno upravljanje, ili kojima se regulišu ove informacije je važno, smernice za zadržavanje mogu pomoći da postignete ove ciljeve.</span><span class="sxs-lookup"><span data-stu-id="74787-104">Effectively managing or governing this information is important, a retention policy can help you achieve these goals.</span></span> <span data-ttu-id="74787-105">Za više informacija o smernicama za zadržavanje, posjetite niže navedene veze.</span><span class="sxs-lookup"><span data-stu-id="74787-105">For more information on retention policies, please visit the links below.</span></span></p> <ul> <li><span data-ttu-id="74787-106"><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies">Pregled smernice za zadržavanje</a></span><span class="sxs-lookup"><span data-stu-id="74787-106"><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies">Overview of retention policies</a></span></span></li> <li><span data-ttu-id="74787-107"><a href="https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies">Oznake zadržavanja i smernice za zadržavanje</a></span><span class="sxs-lookup"><span data-stu-id="74787-107"><a href="https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies">Retention tags and retention policies</a></span></span></li> <li><span data-ttu-id="74787-108"><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations">Primena na politike čuvanja na celu organizaciju ili određenim lokacijama</a></span><span class="sxs-lookup"><span data-stu-id="74787-108"><a href="https://docs.microsoft.com/en-us/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations">Applying a retention policy to an entire organization or specific locations</a></span></span></li> <li><span data-ttu-id="74787-109"><a href="https://docs.microsoft.com/en-us/alchemyinsights/retention-policies-in-exchange-admin-center-not-working">Smernice za zadržavanje tek kreirana ili ažurirana u centru za Admin Exchange nisu prijavili poštanskih sandučića</a></span><span class="sxs-lookup"><span data-stu-id="74787-109"><a href="https://docs.microsoft.com/en-us/alchemyinsights/retention-policies-in-exchange-admin-center-not-working">Newly created or updated retention policies in the Exchange Admin Center are not applying to mailboxes</a></span></span></li> </ul>
+
