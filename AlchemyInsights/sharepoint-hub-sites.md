@@ -7,14 +7,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: 1a4c349352053ec4a4a8eeb934ec3e41eadddf5f
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: b10426e316d4691f7d26b8909e31e55edd537a28
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719740"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760004"
 ---
 # <a name="sharepoint-hub-sites-overview"></a>Pregled lokacija čvorišta SharePoint
 
-<p><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #2f2f2f;">Čvorište SharePoint lokacije pomoć te potrebama vaše organizacije za povezivanje i organizovanje lokacije na osnovu projekta ministarstva, divizija, regiona, itd, što olakšava:</span></p> <ul style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;" type="disc"> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;"></span><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Otkrijte srodnih sadržaja kao što su vijesti i aktivnosti drugih lokacija.&nbsp;</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Primena uobičajene za navigaciju i brendiranje preko pridružene lokacije.</span></li> <li style="color: black; ; font-size: 12pt; font-style: normal; font-weight: 400;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif;">Pretražili sve povezane lokacije.</span></li> </ul> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #000111;">Vidim</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/create-hub-site">Kreiranje lokacije čvorišta u SharePoint Online</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">za više informacija o kreiranju čvorište lokaciju iz centra za novi Admin ili</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Vidim</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://support.office.com/en-us/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05">Povezivanje na SharePoint lokaciji uz čvorište lokaciju</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">za više informacija o povezivanjem postojećih lokacija čvorišta lokaciju iz centra za novi Admin ili</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">.</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> &nbsp;</span></p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;"><span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">Vidim</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: #b01100;"> <a href="https://docs.microsoft.com/en-us/sharepoint/remove-hub-site">Uklanjanje lokacije čvorišta</a> </span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">za više informacija o uklanjanju čvorište za postojeće lokacije iz centra za novi Admin ili</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black;">PowerShell</span> <span style="font-size: 10.5pt; font-family: 'Verdana',sans-serif; color: black; mso-themecolor: text1;">. &nbsp;</span></p> <p>&nbsp;</p> <p style="orphans: 2; -webkit-text-stroke-width: 0px; word-spacing: 0px;">&nbsp;</p>
+Čvorište SharePoint lokacije pomoć te potrebama vaše organizacije za povezivanje i organizovanje lokacije na osnovu projekta ministarstva, divizija, regiona, itd, što olakšava:
+
+Otkrijte srodnih sadržaja kao što su vijesti i aktivnosti drugih lokacija.
+
+Primena uobičajene za navigaciju i brendiranje preko pridružene lokacije. 
+
+Pretražili sve povezane lokacije.
+
+Potražite u odeljku [Kreiranje lokacije čvorišta u SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site) za više informacija o kreiranju čvorište lokaciju iz nove Admin Center ili PowerShell.
+
+Pogledajte [Povezivanje na SharePoint lokaciji uz čvorište lokaciju](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05) za više informacija o povezivanjem postojećih lokacija čvorišta lokaciju iz nove Admin Center ili PowerShell.
+
+Za više informacija o uklanjanju postojeće lokacije čvorišta sa novim Admin Center ili PowerShell vidim [Uklanjanje lokacije čvorišta](https://docs.microsoft.com/sharepoint/remove-hub-site) .
 

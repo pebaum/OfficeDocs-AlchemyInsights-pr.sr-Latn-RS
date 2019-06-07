@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.openlocfilehash: 045c29520ec60f9f093d3c9f129213213826466e
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243654"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34757691"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Rešavanje problema sa greška 404, datoteka nije pronađena
 
@@ -20,13 +20,13 @@ Neki greška 404 je primio kada korisnici pokušavate da pristupite lokaciji ili
 
 Da biste otklonili grešku 404 za lokaciju koja je preimenovana, premeštena ili izbrisana:
 
-Klasični lokacijama koje postoje u centru za Admin Classic, potražite [Vraćanje izbrisanih kolekciji](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Klasični lokacijama koje postoje u centru za Admin Classic, potražite [Vraćanje izbrisanih kolekciji](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 
-Moderna lokacijama (komunikacije, grupa povezana, ili druge lokacije) koje postoje u centru za admin novu SharePoint, potražite u odeljku [prikaz i vraćanja izbrisane lokacije u centru za admin novu SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Moderna lokacijama (komunikacije, grupa povezana, ili druge lokacije) koje postoje u centru za admin novu SharePoint, potražite u odeljku [prikaz i vraćanja izbrisane lokacije u centru za admin novu SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
 Da biste otklonili grešku 404 za datoteke (ili druge stavke) to je preimenovana, premeštena ili izbrisana:
 
-Idite na lokaciju SharePoint ili OneDrive i prikaz korpe za otpatke iz sadržaja na lokaciji. Vidi, [vraćanje stavki u korpu za otpatke na SharePoint lokaciji](https://support.office.com/en-us/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Idite na lokaciju SharePoint ili OneDrive i prikaz korpe za otpatke iz sadržaja na lokaciji. Vidi, [vraćanje stavki u korpu za otpatke na SharePoint lokaciji](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Ako ste i dalje nije moguće pronaći stavku možete da pretražujete evidenciju nadzora ako prijavljivanje je omogućeno pogledajte, [pretraživanje revizija prijavi u Office 365 bezbednosti & usklađenosti centar](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Ako ste i dalje nije moguće pronaći stavku možete da pretražujete evidenciju nadzora ako prijavljivanje je omogućeno pogledajte, [pretraživanje revizija prijavi u Office 365 bezbednosti & usklađenosti centar](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
