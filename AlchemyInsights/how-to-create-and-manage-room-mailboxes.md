@@ -2,7 +2,7 @@
 title: 614 kako da kreirate i upravljanje poštanskim sandučićima sobu
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.custom:
 - "614"
 - "956"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 332c255427932c4d8c0d1c41f3d0dd683e05dae2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc4b0b747769e97fa462d8151d4e9acf578f4655
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399569"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752359"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="f0337-102">Kreiranje i upravljanje poštanskim sandučićima sobu</span><span class="sxs-lookup"><span data-stu-id="f0337-102">How to create and manage room mailboxes</span></span>
+# <a name="how-to-create-and-manage-room-mailboxes"></a><span data-ttu-id="a2610-102">Kreiranje i upravljanje poštanskim sandučićima sobu</span><span class="sxs-lookup"><span data-stu-id="a2610-102">How to create and manage room mailboxes</span></span>
 
-<span data-ttu-id="f0337-103">Da kreirate i menjate Poštanske sandučiće sobu, pogledajte [Kreiranje i upravljanje poštanskim sandučićima sobu](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="f0337-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
+<span data-ttu-id="a2610-103">Da kreirate i menjate Poštanske sandučiće sobu, pogledajte [Kreiranje i upravljanje poštanskim sandučićima sobu](https://technet.microsoft.com/library/jj215781.aspx).</span><span class="sxs-lookup"><span data-stu-id="a2610-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://technet.microsoft.com/library/jj215781.aspx).</span></span>
 
-<span data-ttu-id="f0337-104">Da biste saznali više o poštanskim sandučićima prostora i opreme (poznat i kao Poštanske sandučiće resursa), vidim [sobu i opremu poštanskih sandučića](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span><span class="sxs-lookup"><span data-stu-id="f0337-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
+<span data-ttu-id="a2610-104">Da biste saznali više o poštanskim sandučićima prostora i opreme (poznat i kao Poštanske sandučiće resursa), vidim [sobu i opremu poštanskih sandučića](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span><span class="sxs-lookup"><span data-stu-id="a2610-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).</span></span>
