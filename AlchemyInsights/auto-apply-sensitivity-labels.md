@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408732"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769556"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Auto-primena osetljivost oznake
 
@@ -25,7 +25,7 @@ Automatski primene osetljivost oznake uklanja potrebu da se obuku korisnika o to
 Da biste automatski primenili oznake, na sledeći način potreban je:
 
 - Azurno P2 zaštitu informacija pretplate
-- [Preuzmite i instalirajte na Azure informacije o jedinstvenoj labeling klijenta za zaštitu](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Preuzmite i instalirajte na Azure informacije o jedinstvenoj labeling klijenta za zaštitu](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 Radimo na osnovnu podršku koje ne zahtevaju Azure informacije zaštite jedinstvenog labeling klijenta u budućnosti.
 
@@ -33,5 +33,5 @@ Trenutno, samo Windows podržava ujedinjenu labeling klijent.  Funkcija još nij
 
 Za više informacija o osetljivosti oznake i njihova primena automatski sadržaj, pogledajte:
 
-- [Pregled osetljivost oznake](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [Primenite osetljivost oznaka na sadržaj automatski](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Pregled osetljivost oznake](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Primenite osetljivost oznaka na sadržaj automatski](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

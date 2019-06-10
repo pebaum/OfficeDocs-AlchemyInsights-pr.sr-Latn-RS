@@ -9,16 +9,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6f36420280cc016c1117d19c15c2887d4e308f77
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418153"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771213"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Nova oznaka zadržavanja automatski kreira
 
-Možda ćete videti [tri nova oznaka zadržavanja](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatski kreira u vašoj organizaciji pod **oznake zadržavanja** u centru za administraciju bezbednosti ili usklađenosti. Oznake imena su:
+Možda ćete videti [tri nova oznaka zadržavanja](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) automatski kreira u vašoj organizaciji pod **oznake zadržavanja** u centru za administraciju bezbednosti ili usklađenosti. Oznake imena su:
 
 - Operativna procedura
 - Opšte poslovne
@@ -30,4 +30,4 @@ Ovo će se dogoditi prvi put odaberete **Datoteku Plan** ako postoje druge oznak
 
 1. Izbor oznaka zadržavanja koje želite da uklonite >, **Izbrišite** > **da** da izbrišete oznaku.
 
-Sa Menadžerom Plan datoteka, možete da upravljate zadržavanja oznake i politiku u vašoj organizaciji - za više informacija, pogledajte [Pregled s direktorom datoteka Plan](https://docs.microsoft.com/en-us/office365/securitycompliance/file-plan-manager).
+Sa Menadžerom Plan datoteka, možete da upravljate zadržavanja oznake i politiku u vašoj organizaciji - za više informacija, pogledajte [Pregled s direktorom datoteka Plan](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
