@@ -1,26 +1,29 @@
 ---
-title: 8000075 Outlook.com promena lozinke - francuski
+title: Outlook.com Promeni lozinku - francuski
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388477"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820198"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Izmenjivač trenirati svog putnickih de passe dans Outlook.com
 
 Kako trenirati svog putnickih de passe Outlook.com est le glavni que trenirati svog putnickih de passe Compte Microsoft.
 
-1. Accédez u [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **za izmenu le putnickih de passe**.
+1. Accédez u [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **bezbednosti du putnickih de passe**.
 2. Rju mesure de bezbednosti, vous moћete odbaиen invité a confirmer votre identité u l'aide sam kod de bezbednosti.
 3. Antre trenirati svog putnickih de passe najaktulenije, kako trenirati svog novo putnickih de passe, puis sélectionnez **Enregistrer**.
 
