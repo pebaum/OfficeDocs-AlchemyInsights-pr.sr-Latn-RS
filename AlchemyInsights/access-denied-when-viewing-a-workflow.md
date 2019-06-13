@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389901"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883605"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Zabranjen pristup prilikom prikazivanja toka posla
 
@@ -21,12 +21,11 @@ SharePoint 2013 tokove posla koji se pokušaj pošaljite email SharePoint grupi 
   
  **Da biste rešili ovaj problem, izvršite ove korake:**
   
- 1. Dozvoli svima da vide članovi SharePoint grupe. 
+ 1. Dozvoli svima da vide članovi SharePoint grupe.
   
- 2. Uklonite SharePoint grupu iz "za" i "CC red za e-poštu. 
+ 2. Uklonite SharePoint grupu iz "za" i "CC red za e-poštu.
   
- 3. Eksplicitno dodati korisnike za ili kopija u red ako članstvo vidljivost nije moguće promeniti SharePoint grupe. 
+ 3. Eksplicitno dodati korisnike za ili kopija u red ako članstvo vidljivost nije moguće promeniti SharePoint grupe.
   
-Da biste prikazali više detalja pogledajte [HTTP Unauthorized da /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Da biste prikazali više detalja pogledajte [HTTP Unauthorized da /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
-
