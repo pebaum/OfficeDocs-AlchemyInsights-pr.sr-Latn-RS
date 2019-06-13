@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761809"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899559"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Vraćanje izbrisanih poštansko sanduče
 
@@ -23,11 +24,10 @@ Kada korisnik izgubi svoju licencu za Exchange Online, zadržava svoje poštansk
 U Admin Portal:
   
 - Idite na **korisnike** \> **aktivnog korisnika**. Izaberite korisnika u pitanju.
-    
-- Izaberite ** Uredi ** da biste izmenili licence proizvoda. 
-    
+
+- Izaberite **Uređivanje** da biste izmenili licence proizvoda.
+
 - Dodelite licenca za Exchange Online korisnika, a zatim izaberite **Sačuvaj**.
-    
+
 Deljene nalaze poštanski sandučići i spase u roku od 30 dana. Možete pronaći deljenu Poštanske sandučiće u okviru **Korisnici** \> **izbrisano korisnicima**. Deljene poštanskih sandučića ne zahtevaju licence za Exchange Online.
   
-
