@@ -1,5 +1,5 @@
 ---
-title: Otvaranje datoteke samo za čitanje
+title: Datoteke su zaključane za uređivanje
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 2b311b134afe0c71dcc6bfdcd387eec1a624c312
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 154e1c8493f8846087e943119f1308af9bff33eb
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757113"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222682"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>Zašto možda nećete moći da uredite datoteke?
 
@@ -24,9 +24,9 @@ Napomena: Biblioteka sa odjave, potrebne kolone/metapodataka, ili kada je bezbed
 
 Za biblioteke OneDrive, OneDrive će prikazati ikonu katanca pored status sinhronizacije i korisnik će moći da sinhronizujete u biblioteku, dok su uklonjene navedenih postavki.
 
-Za više informacija u vezi sa zaključane datoteke za Word/Excel molimo pregledajte dole navedene u člancima.
+Za više informacija o zaključane datoteke za Word ili Excel molimo pregledajte dole navedene u člancima.
 
-[Excel datoteka je zaključana za uređivanje od strane drugog korisnika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel datoteka je zaključana za uređivanje od strane drugog korisnika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-[Word datoteka je zaključana za uređivanje od strane drugog korisnika](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Word datoteka je zaključana za uređivanje od strane drugog korisnika](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

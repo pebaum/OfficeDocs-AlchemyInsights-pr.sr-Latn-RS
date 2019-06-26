@@ -1,5 +1,5 @@
 ---
-title: Korisnicima dali pristup SharePoint i OneDrive
+title: Rešavanje problema pristup nije dozvoljen poruke OneDrive za poslovne lokacije
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: a689769dab24e12832ddc0937bc5ddc3d71dbee3
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b394cc1441187133d8829cfc5fb0c1edbd71fd96
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759269"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223438"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>Korisnicima dali pristup SharePoint i OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Rešavanje problema pristup nije dozvoljen poruke OneDrive za poslovne lokacije
 
 Do ovog problema najčešće dolazi kada korisnik je izbrisan i ponovo kreiran sa istom glavno ime korisnika (UPN). Novi nalog kreiran pomoću različitih PUID (jedinstveni Passport ID) vrednost. Kada korisnik pokuša da pristupi kolekciju lokacija ili njihove OneDrive, je jedan pogrešan PUID korisnika. Drugi scenario uključuje sinhronizacija direktorijuma sa organizacionih jedinica za Active Directory (OU). Ako su korisnici već prijavljeni na SharePoint, i onda su se preselili u različitim OU i najhrabriji sa SharePoint, oni su iskusiti ovaj problem.
 
