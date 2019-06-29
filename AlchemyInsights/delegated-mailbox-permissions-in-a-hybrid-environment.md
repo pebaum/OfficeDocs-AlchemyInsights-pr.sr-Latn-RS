@@ -8,16 +8,18 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "685"
+- "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 7e2704e53f2ebb87b9d5f556d0f2316344f50d74
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3f5bac5c8382fccf8526a34e7b1e487c2b515789
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753005"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363127"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="5621d-102">Delegiranih poštansko sanduče dozvole u okruženju hibrid</span><span class="sxs-lookup"><span data-stu-id="5621d-102">Delegated mailbox permissions in a hybrid environment</span></span>
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a><span data-ttu-id="fd4c4-102">Delegiranih poštansko sanduče dozvole u okruženju hibrid</span><span class="sxs-lookup"><span data-stu-id="fd4c4-102">Delegated mailbox permissions in a hybrid environment</span></span>
 
-<span data-ttu-id="5621d-103">U zavisnosti od verzije Exchange servera imate instaliran u vašoj organizaciji na više lokacija, možda ćete morati uzeti neke dodatne korake da biste podesili dozvole delegiranih poštansko sanduče između vaše lokalne organizacije i Exchange Online za Office 365.</span><span class="sxs-lookup"><span data-stu-id="5621d-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="5621d-104">Za više informacija o tome kako da podesite delegiranih dozvole, pogledam [Konfigurišete Exchange da podrži delegiranih poštansko sanduče dozvole u hibridni primene](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="5621d-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
+<span data-ttu-id="fd4c4-103">U zavisnosti od verzije Exchange servera imate instaliran u vašoj organizaciji na više lokacija, možda ćete morati uzeti neke dodatne korake da biste podesili dozvole delegiranih poštansko sanduče između vaše lokalne organizacije i Exchange Online za Office 365.</span><span class="sxs-lookup"><span data-stu-id="fd4c4-103">Depending on the version of Exchange you have installed in your on-premises organization, you might need to take some extra steps to set up delegated mailbox permissions between your on-premises organization and Exchange Online in Office 365.</span></span> <span data-ttu-id="fd4c4-104">Za više informacija o tome kako da podesite delegiranih dozvole, pogledam [Konfigurišete Exchange da podrži delegiranih poštansko sanduče dozvole u hibridni primene](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="fd4c4-104">For more information about how to set up delegated permissions, take a look at [Configure Exchange to support delegated mailbox permissions in a hybrid deployment](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).</span></span>
   
-
