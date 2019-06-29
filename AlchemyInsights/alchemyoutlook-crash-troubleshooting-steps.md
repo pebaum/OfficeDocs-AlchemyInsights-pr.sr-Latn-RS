@@ -9,15 +9,17 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "377"
+- "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: d0e1211e8cdd20b9d3792fda2c50507f7860f466
-ms.sourcegitcommit: 5718d96f30f25619845223e8622ce13b4a52114c
+ms.openlocfilehash: 4c93a542fe4bf615bfa7a2cc0a2ce8e443a4dedc
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33883141"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357583"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Outlook pad korake za rešavanje problema
 
@@ -25,10 +27,9 @@ Ako imate Outlook na radnoj površini pad pitanjima, početi do sledećih 3 kora
   
 1. korak: Istraži mogući problemi sa programskim dodacima.
   
-2. korak: Popravljanje programa Outlook i pokrenete [podršku i pomoćnik za oporavak alatke za rešavanje problema sa greškama pri pokretanju programa Outlook](https://aka.ms/SaRA-OutlookWontStart) na pogođenim masini. 
+2. korak: Popravljanje programa Outlook i pokrenete [podršku i pomoćnik za oporavak alatke za rešavanje problema sa greškama pri pokretanju programa Outlook](https://aka.ms/SaRA-OutlookWontStart) na pogođenim masini.
   
-3. korak: Kreirajte novi Outlook profil ili možete pokrenuti [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) na pogođenim masini. 
+3. korak: Kreirajte novi Outlook profil ili možete pokrenuti [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) na pogođenim masini.
   
 Ako je pitanje došlo nakon što su ispravke i navedeni koraci ne rade, moraćete da biste se vratili na prethodnu verziju. Saznajte [Kako da vratite prethodnu verziju sistema Office 2013 ili Office 2016 Klikni i pokreni](https://support.microsoft.com/help/2770432).
   
-

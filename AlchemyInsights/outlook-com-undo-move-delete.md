@@ -1,26 +1,28 @@
 ---
-title: 9000193 da opozovete potez ili izbrišete u Outlook.com
+title: Opozovete potez ili brisanje u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 5/6/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000193
-ms.openlocfilehash: 9fc58b1d5bb6df309a2832d38101d9f6ae90a6aa
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1752"
+- "9000193"
+ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373006"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35361075"
 ---
 # <a name="action-confirmations"></a>Potvrda akcije
 
-Funkcija potvrde akcije u Outlook.com vam omogućava da opozovete potez ili poruku brisanja koji si upravo uradio greškom. Dijalog "Opozovi radnju" se pojavljuje na dnu ekrana za oko 5 sekundi, i će stornirati u pokretu ili izbrisati akciju.
+Ako ste slučajno premestili ili izbrisali poruku, možete opozvati tu akciju. Dijalog "Opozovi radnju" se pojavljuje na dnu ekrana za oko 5 sekundi. Izaberite stavku **Opozovi radnju** da otkažete u pokretu ili izbrisati akciju.
 
-Možete da se prebacite ovo u [akciji potvrde](https://outlook.live.com/mail/options/general/notifications) (**Postavke** > **Prikaz svih postavki programa Outlook** > **General** > **obaveštenja**).
+Možete se prebaciti na ovu funkciju u [akciji potvrde](https://outlook.live.com/mail/options/general/notifications) (**Postavke** > **Prikaz svih postavki programa Outlook** > **General** > **obaveštenja**).
 
-Napomena: Ne možete opozvati poruku šalje. Za više informacija, pogledajte [ћelim da opozovete poruku u Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Napomena: Kada je poruka poslata, ne možete opozvati tu akciju. Za više informacija, pogledajte [ћelim da opozovete poruku u Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).

@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417980"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375803"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kako da popravim „Izgleda da nemamo dozvolu”
 
 Ako vidite poruku o grešci „izgleda kao da mi nemamo dozvolu da se e-poštu za...” Molim te, postupite na sledeći način:
 
-1. Otvorite [Postavke naloga koji je povezan](https://outlook.live.com/mail/options/mail/accounts) i uklanjanje ili brisanje povezanih računa navedenih u grešku. 
+1. Otvorite [Postavke naloga koji je povezan](https://outlook.live.com/mail/options/mail/accounts) i uklanjanje ili brisanje povezanih računa navedenih u grešku.
 2. Ponovo dodajte povezani nalog.
 3. Idi [nazad u poštanskom sandučetu](https://outlook.live.com/mail/inbox).
 
