@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "167"
+- "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: b1edf5063c46e0957d61c9a112c12d33a5117009
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 526b256dce0c0944f9d91bc586a98212f7963e11
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398056"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357547"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="1a6cc-102">Dijagnostika i otklanjanje problema s povezivanjem Outlook</span><span class="sxs-lookup"><span data-stu-id="1a6cc-102">Diagnose and resolve Outlook connectivity issues</span></span>
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a><span data-ttu-id="2c8e2-102">Dijagnostika i otklanjanje problema s povezivanjem Outlook</span><span class="sxs-lookup"><span data-stu-id="2c8e2-102">Diagnose and resolve Outlook connectivity issues</span></span>
 
-<span data-ttu-id="1a6cc-103">Kako bi se dijagnostikuje i otkloni svoje povezivanjem putem programa Outlook, možete da pokrenete [Outlook za veze](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) na pogođenim masini.</span><span class="sxs-lookup"><span data-stu-id="1a6cc-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span> 
+<span data-ttu-id="2c8e2-103">Kako bi se dijagnostikuje i otkloni svoje povezivanjem putem programa Outlook, možete da pokrenete [Outlook za veze](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) na pogođenim masini.</span><span class="sxs-lookup"><span data-stu-id="2c8e2-103">In order to diagnose and fix your Outlook connectivity issues, you can run the [Outlook connectivity tool](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) on the affected machine.</span></span>
   
-<span data-ttu-id="1a6cc-104">Ova alatka će izvršiti dijagnostički čekove i predlaganje mogućih rešenja za tebe da se osvrnem Outlook mogućnost povezivanja.</span><span class="sxs-lookup"><span data-stu-id="1a6cc-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
+<span data-ttu-id="2c8e2-104">Ova alatka će izvršiti dijagnostički čekove i predlaganje mogućih rešenja za tebe da se osvrnem Outlook mogućnost povezivanja.</span><span class="sxs-lookup"><span data-stu-id="2c8e2-104">This tool will perform diagnostic checks and suggest possible solutions for you to address the Outlook connectivity issue.</span></span>
   
-
