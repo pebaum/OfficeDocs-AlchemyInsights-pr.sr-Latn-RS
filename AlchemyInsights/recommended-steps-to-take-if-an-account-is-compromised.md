@@ -7,28 +7,30 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
+ms.custom:
+- "957"
+- "3100016"
 ms.assetid: 32da2272-cfdd-4d47-91da-9258167b67d8
-ms.openlocfilehash: 8f68244a42eeb831dfee297aa585108804ffc28b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0f5c0ef451c6f1ba6862f5bcec45c4bada374b60
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388989"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356539"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Preporučeni postupak koji treba preduzeti ako je nalog ugrožen
 
 [VIDEO: Popravka ugroženog Office 365 naloga](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Poništite lozinku korisnika](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) odmah. Ne šaljite krajnjem korisniku novu lozinku putem e-pošte. 
-    
-2. Uklonite sve sumnjive [adrese za prosleđivanje](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) na nivou poštanskog sandučeta. 
-    
-3. Uklonite sva sumnjiva [pravila prijemnog poštanskog sandučeta](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) postavljena u poštansko sanduče. 
-    
+1. [Poništite lozinku korisnika](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) odmah. Ne šaljite krajnjem korisniku novu lozinku putem e-pošte.
+
+2. Uklonite sve sumnjive [adrese za prosleđivanje](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) na nivou poštanskog sandučeta.
+
+3. Uklonite sva sumnjiva [pravila prijemnog poštanskog sandučeta](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) postavljena u poštansko sanduče.
+
 4. Ako je korisniku onemogućeno slanje e-pošte, [idite na opciju „Korisnici sa ograničenim pristupom“ da deblokirate nalog](https://protection.office.com/?hash=/restrictedusers). Kada završite, korisniku bi slanje poruka trebalo da bude ponovo omogućeno u roku od jednog sata.
-    
-5. Uklonite korisnički nalog u bilo kojoj [grupi sa ulogom administratora](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) dok ne budete sigurni da nalog više nije ugrožen. 
-    
+
+5. Uklonite korisnički nalog u bilo kojoj [grupi sa ulogom administratora](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) dok ne budete sigurni da nalog više nije ugrožen.
+
 Da biste umanjili potencijalno buduće curenje podataka ili ugrožavanje naloga, preporučujemo da čitate naš članak o [najboljim postupcima za Office 365 bezbednost](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
   
-
