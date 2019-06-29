@@ -9,17 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "445"
+- "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 5d9acc81b18bc8f71efa5f8aea00bbb008672efc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7738636d8004e6f64c8cafa9ad4edab03f775040
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417764"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379295"
 ---
 # <a name="multiple-attempts-to-charge-online-payment-instruments"></a>Višestruki pokušaji da naplatite online platni instrumenti
 
 Mi pravimo više pokušaja da se naplati online platni instrumenti pred svaku akciju na servis. Nakon uplate metod je potvrđen, prema tebi mora da se plati iznose sa načina plaćanja izabrane. Da biste ažurirali trenutne informacije o plaćanju za vašu pretplatu, pratite korake za [Dodavanje, ažuriranje, ili uklanjanje kreditne kartice ili računa u banci u Office 365 za poslovne](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
-

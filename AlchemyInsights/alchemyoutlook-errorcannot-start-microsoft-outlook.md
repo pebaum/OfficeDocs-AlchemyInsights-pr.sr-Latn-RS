@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "457"
+- "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: f35b769d5037b0b8dd4dec7af760124abacfd11a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e2ac82eda2de9e493ba3efb1bd3477d4a9eec10e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398020"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35357457"
 ---
-„Nije moguće pokrenuti Microsoft Outlook”
-
 # <a name="outlook-error-cannot-start-microsoft-outlook"></a>Greška u programu Outlook: „Nije moguće pokrenuti Microsoft Outlook”
 
 Imate nevolja početni Outlook 2016, Outlook 2010 ili Outlook 2013 ili primanje „nije moguće pokrenuti Microsoft Outlook. Nije moguće otvoriti prozor programa Outlook” poruke o greškama?
