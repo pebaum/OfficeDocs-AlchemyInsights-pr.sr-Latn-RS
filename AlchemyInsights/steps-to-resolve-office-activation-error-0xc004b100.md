@@ -8,21 +8,21 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1262"
+- "2000021"
 ms.assetid: 05d36350-3b1e-4a5b-bbb1-0791ae727b8a
-ms.openlocfilehash: 1d18fce78fab1182f1f2c1555d81c858cd0ccc12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 46af6e2ff3aec93aae91f7625190f777fe909788
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373510"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35354307"
 ---
-# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="da16c-102">Korake da biste ispravili grešku za aktivaciju sistema Office 0xc004b100</span><span class="sxs-lookup"><span data-stu-id="da16c-102">Steps to resolve Office activation error 0xc004b100</span></span>
+# <a name="steps-to-resolve-office-activation-error-0xc004b100"></a><span data-ttu-id="16fcd-102">Korake da biste ispravili grešku za aktivaciju sistema Office 0xc004b100</span><span class="sxs-lookup"><span data-stu-id="16fcd-102">Steps to resolve Office activation error 0xc004b100</span></span>
 
-
-<span data-ttu-id="da16c-103">Pokušajte sledeće da ispravim grešku za aktivaciju sistema Office 0xc004b100:</span><span class="sxs-lookup"><span data-stu-id="da16c-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
+<span data-ttu-id="16fcd-103">Pokušajte sledeće da ispravim grešku za aktivaciju sistema Office 0xc004b100:</span><span class="sxs-lookup"><span data-stu-id="16fcd-103">Try these solutions to fix the Office activation error 0xc004b100:</span></span>
   
-1. <span data-ttu-id="da16c-104">Izvrši jedan [Online popravak sustava Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="da16c-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
-    
-2. <span data-ttu-id="da16c-105">Preuzmite i instalirajte [podršku i pomoćnik za oporavak](https://aka.ms/SARA-OfficeActivation-Alchemy) i pokretanje **Aktivacije za rešavanje problema sa**.</span><span class="sxs-lookup"><span data-stu-id="da16c-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>
-    
+1. <span data-ttu-id="16fcd-104">Izvrši jedan [Online popravak sustava Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="16fcd-104">Perform an [Online Repair of Office](https://support.office.com/article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span>
 
+2. <span data-ttu-id="16fcd-105">Preuzmite i instalirajte [podršku i pomoćnik za oporavak](https://aka.ms/SARA-OfficeActivation-Alchemy) i pokretanje **Aktivacije za rešavanje problema sa**.</span><span class="sxs-lookup"><span data-stu-id="16fcd-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeActivation-Alchemy) and run the **Activation Troubleshooter**.</span></span>

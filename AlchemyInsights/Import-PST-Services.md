@@ -9,29 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1245
+ms.custom:
+- "1245"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 01801612a1e2edee53e58005ee86afe304e1e85c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 000f736528db90895bac7b1f373dd6e8a589c75e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389496"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359267"
 ---
-# <a name="office-365-import-service"></a><span data-ttu-id="81079-102">Office 365 za uvoz</span><span class="sxs-lookup"><span data-stu-id="81079-102">Office 365 Import service</span></span> 
+# <a name="office-365-import-service"></a><span data-ttu-id="9e64f-102">Office 365 za uvoz</span><span class="sxs-lookup"><span data-stu-id="9e64f-102">Office 365 Import service</span></span>
 
-<span data-ttu-id="81079-103">Office 365 uvoz usluga vam omogućava da Masovni uvoz više PST datoteka na mreži Exchange poštanskih sandučića.</span><span class="sxs-lookup"><span data-stu-id="81079-103">The Office 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span> 
+<span data-ttu-id="9e64f-103">Office 365 uvoz usluga vam omogućava da Masovni uvoz više PST datoteka na mreži Exchange poštanskih sandučića.</span><span class="sxs-lookup"><span data-stu-id="9e64f-103">The Office 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
 
-<span data-ttu-id="81079-104">Pristup je uvoz usluga i pokrenuo proces uvoza:</span><span class="sxs-lookup"><span data-stu-id="81079-104">To access the Import service and start the import process:</span></span>
+<span data-ttu-id="9e64f-104">Pristup je uvoz usluga i pokrenuo proces uvoza:</span><span class="sxs-lookup"><span data-stu-id="9e64f-104">To access the Import service and start the import process:</span></span>
 
-1. <span data-ttu-id="81079-105">Idite na [sigurnost & usklađenosti Center](https://protection.office.com) i prijavite se pomoću akreditiva za administratorski nalog u organizaciji Office 365.</span><span class="sxs-lookup"><span data-stu-id="81079-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your Office 365 organization.</span></span>
+1. <span data-ttu-id="9e64f-105">Idite na [sigurnost & usklađenosti Center](https://protection.office.com) i prijavite se pomoću akreditiva za administratorski nalog u organizaciji Office 365.</span><span class="sxs-lookup"><span data-stu-id="9e64f-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your Office 365 organization.</span></span>
 
-2. <span data-ttu-id="81079-106">U oknu sa leve strane od **bezbednosti & usklađenosti centra**izaberite stavku **podataka upravljanja > uvoz**.</span><span class="sxs-lookup"><span data-stu-id="81079-106">In the left pane of the **Security & Compliance Center**, click **Data governance > Import**.</span></span>
+2. <span data-ttu-id="9e64f-106">U oknu sa leve strane od **bezbednosti & usklađenosti centra**izaberite stavku **podataka upravljanja > uvoz**.</span><span class="sxs-lookup"><span data-stu-id="9e64f-106">In the left pane of the **Security & Compliance Center**, click **Data governance > Import**.</span></span>
 
-3. <span data-ttu-id="81079-107">Na stranici " **Uvoz** ", kliknite na **nju posla uvoza**.</span><span class="sxs-lookup"><span data-stu-id="81079-107">On the **Import** page, click **New import job**.</span></span> 
+3. <span data-ttu-id="9e64f-107">Na stranici " **Uvoz** ", kliknite na **nju posla uvoza**.</span><span class="sxs-lookup"><span data-stu-id="9e64f-107">On the **Import** page, click **New import job**.</span></span>
 
-4. <span data-ttu-id="81079-108">Da biste dovršili korake u čarobnjaku, pratite ova [uputstva korak po korak](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="81079-108">To complete the steps in the wizard, please follow these [step-by-step instructions](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span></span>
+4. <span data-ttu-id="9e64f-108">Da biste dovršili korake u čarobnjaku, pratite ova [uputstva korak po korak](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="9e64f-108">To complete the steps in the wizard, please follow these [step-by-step instructions](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="81079-109">**Važno**: da biste pristupili stranici " **Uvoz** " u sigurnost & usklađenosti centar, biti dodelite [odgovarajuće dozvole](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).</span><span class="sxs-lookup"><span data-stu-id="81079-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).</span></span> 
+<span data-ttu-id="9e64f-109">**Važno**: da biste pristupili stranici " **Uvoz** " u sigurnost & usklađenosti centar, biti dodelite [odgovarajuće dozvole](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).</span><span class="sxs-lookup"><span data-stu-id="9e64f-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).</span></span>
 
-<span data-ttu-id="81079-110">Ako želite da uvezete u PST poštansko sanduče, pogledajte [Ovaj članak](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="81079-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="9e64f-110">Ako želite da uvezete u PST poštansko sanduče, pogledajte [Ovaj članak](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="9e64f-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
