@@ -1,51 +1,55 @@
 ---
 title: I Uroniti pravilo za broj kreditne kartice ne radi
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawi
 ms.date: 11/5/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1270"
+- "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e1d60c493a27efb7f724d57051e21fad5bd0242f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5d3bdb3b074c485a2b19e934724ba6e74c84deae
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404536"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389591"
 ---
-Imate li problema sa **Prevencije i gubitka podataka (Uroniti)** ne radi za sadržaj koji sadrži **Broj kreditne kartice** kada koristite Tip osetljive informacije i Uroniti u O365? Ako je tako, uverite se da vaš sadržaj sadrži potrebne informacije da izazovu u Dip politike kada se proceni. Na primer, za **kreditnu karticu politiku** konfigurisan sa na nivo pouzdanosti od 85%, na sledeći način se vrednuju i mora da bude otkriven pravilo će se aktivirati: 
+# <a name="dlp-issues-with-credit-card-numbers"></a>I Uroniti pitanja sa brojevima kreditnih kartica
+
+Imate li problema sa **Prevencije i gubitka podataka (Uroniti)** ne radi za sadržaj koji sadrži **Broj kreditne kartice** kada koristite Tip osetljive informacije i Uroniti u O365? Ako je tako, uverite se da vaš sadržaj sadrži potrebne informacije da izazovu u Dip politike kada se proceni. Na primer, za **kreditnu karticu politiku** konfigurisan sa na nivo pouzdanosti od 85%, na sledeći način se vrednuju i mora da bude otkriven pravilo će se aktivirati:
   
-- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 brojeva, koja može da bude oblikovan ili neoblikovan (dddddddddddddddd) i mora proći Luhn test. 
-    
-- **[Obrazac:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Vrlo složen i robustan šare koje otkrije karte iz svih glavnih brendova širom sveta, uključujući Visa, Mastercard, Carda, JCB CARDS, American Express, poklon kartice i restoranu karte. 
-    
-- **[Kontrolni zbir:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, na Luhn kontrolni zbir 
-    
-- **[Definicija:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** I Uroniti politika je 85% sigurni da je to otkrio ovu vrstu poverljive informacije ako, blizu 300 znakova: 
-    
+- **[Format:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-19)** 16 brojeva, koja može da bude oblikovan ili neoblikovan (dddddddddddddddd) i mora proći Luhn test.
+
+- **[Obrazac:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-19)** Vrlo složen i robustan šare koje otkrije karte iz svih glavnih brendova širom sveta, uključujući Visa, MasterCard, Carda, JCB CARDS, American Express, poklon kartice i restoranu karte.
+
+- **[Kontrolni zbir:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-19)** Da, na Luhn kontrolni zbir
+
+- **[Definicija:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-19)** I Uroniti politika je 85% sigurni da je to otkrio ovu vrstu poverljive informacije ako, blizu 300 znakova:
+
   - Funkcija Func_credit_card pronalazi sadržaj koji odgovara obrazac.
-    
-  - Je jedan od sledećih: 
-    
+
+  - Je jedan od sledećih:
+
   - Nalazi se na ključnu reč iz Keyword_cc_verification.
-    
+
   - Ključne reči iz Keyword_cc_name je našao.
-    
+
   - Funkcija Func_expiration_date pronalazi datum u formatu datuma u pravu.
-    
+
   - Kontrolni zbir prolazima
-    
+
     Na primer, sledeći uzorak bi izazvalo Dip politici broj kreditne kartice:
-    
-  - Viza: 4485 3647 3952 7352 
-    
+
+  - Viza: 4485 3647 3952 7352
+  
   - Ističe: 2/2009
-    
+
 Za više informacija na ono što je neophodno za **Broj kreditne kartice** da ga otkriju za sadržaj, pogledajte sledeći odeljak u ovom članku: [Šta the osetljive tipova informacija potražite kreditnu karticu #](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#credit-card-number)
   
 Pomoću različitih ugrađenih poverljive informacije tip, pogledajte sledeći članak za informacije na ono što je neophodno za druge tipove: [Šta je osetljiva tipova informacija potražite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
-

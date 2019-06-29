@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "255"
+- "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 7d6ad2667613ae948a4abcefafe8d91cf89d2418
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 52a5c20d59a2eac4c4bf465edaa888952d47f39f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32402273"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35387863"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Greška prilikom slanja e-pošte: klijent domaćina blokirane pomoću Spamhaus
 
 IP adresu koja je poslala poruku je na listu bloka koja je u vlasništvu [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Razlozi za blokirana od strane Spamhaus uključuju kompromitovane račune, kompromitovan mašine Deljenje javne IP adrese, a dobavljač Internet usluga (ISP) politike. Moguće ispravke su:
   
 - Za ulazni blokirane poruke Office 365 gde ti kontrolisati izvornom serveru e-pošte, morate utvrditi uzrok i ukloniti iz bloka sa Spamhaus Internet.
-    
-- Za blokirane dolazne poruke Office 365 gde IP adresu izvora pripada nekom drugom, vlasnik adresa mora ukloniti blok sa Spamhaus Internet. Ako IP adresa je na blok listi politike (PBL), vlasnik možete da dodelite različite statičnu IP adresu ili adresu uklanjanje u PBL.
-    
-- Za izlazni blokirane poruke iz domena svoje Office 365, da primate ovu grešku ako poruke usmeravaju kroz uslugu 3 partije. Možete koristiti alat za pronalaženje ko je pronaci vlasnika blokiranih IP adresa.
-    
 
+- Za blokirane dolazne poruke Office 365 gde IP adresu izvora pripada nekom drugom, vlasnik adresa mora ukloniti blok sa Spamhaus Internet. Ako IP adresa je na blok listi politike (PBL), vlasnik možete da dodelite različite statičnu IP adresu ili adresu uklanjanje u PBL.
+
+- Za izlazni blokirane poruke iz domena svoje Office 365, da primate ovu grešku ako poruke usmeravaju kroz uslugu 3 partije. Možete koristiti alat za pronalaženje ko je pronaci vlasnika blokiranih IP adresa.
