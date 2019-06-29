@@ -9,18 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 286
+ms.custom:
+- "286"
+- "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398940"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388475"
 ---
 # <a name="search-the-audit-log"></a>Pretraživanje evidencija nadgledanja
 
-Da biste pretražili Office 365 za evidenciju nadzora, slijedite [ove korake](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log). 
+Da biste pretražili Office 365 za evidenciju nadzora, slijedite [ove korake](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
@@ -34,7 +36,7 @@ Da biste pretražili Office 365 za evidenciju nadzora, slijedite [ove korake](ht
 
 - To je bez dodatne konfiguracije potrebne za omogućavanje nadgledanja za SharePoint i OneDrive.
 
-- SharePoint i OneDrive podršku nadzor sledeće tipove aktivnosti: 
+- SharePoint i OneDrive podršku nadzor sledeće tipove aktivnosti:
 
     - Datoteke, fascikle i stranice aktivnosti
     - Dijeljenje i pristup zahteva za aktivnosti
