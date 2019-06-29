@@ -7,20 +7,23 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "33"
+- "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Meta je više od 500 reči za članak.
-ms.openlocfilehash: fed43928bcf8a232901c0679376fed3f43705265
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 944387230dc641af258e101de672430b49da5935
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32421434"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35355099"
 ---
-# <a name="setting-up-project"></a><span data-ttu-id="b238c-103">Podešavanje projekta</span><span class="sxs-lookup"><span data-stu-id="b238c-103">Setting up Project</span></span>
+# <a name="setting-up-project"></a><span data-ttu-id="5c877-103">Podešavanje projekta</span><span class="sxs-lookup"><span data-stu-id="5c877-103">Setting up Project</span></span>
 
-<span data-ttu-id="b238c-104">Izgleda da ti treba pomoć pri podešavanju projekat sa pretplatu na Office 365.</span><span class="sxs-lookup"><span data-stu-id="b238c-104">Looks like you need help setting up Project with your Office 365 subscription.</span></span>
-<span data-ttu-id="b238c-105">Najave za Mac korisnike: The projekat proizvoda nije dostupna za MacOS u ovom trenutku.</span><span class="sxs-lookup"><span data-stu-id="b238c-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> <span data-ttu-id="b238c-106">Ako imate računar treba da ćete moći da instalirate softver koristeći korake ispod.</span><span class="sxs-lookup"><span data-stu-id="b238c-106">If you have a PC you should be able to install the software using the steps below.</span></span>
+<span data-ttu-id="5c877-104">Izgleda da ti treba pomoć pri podešavanju projekat sa pretplatu na Office 365.</span><span class="sxs-lookup"><span data-stu-id="5c877-104">Looks like you need help setting up Project with your Office 365 subscription.</span></span>
+<span data-ttu-id="5c877-105">Najave za Mac korisnike: The projekat proizvoda nije dostupna za MacOS u ovom trenutku.</span><span class="sxs-lookup"><span data-stu-id="5c877-105">Notice for Mac users: The Project product is not available for MacOS at this time.</span></span> <span data-ttu-id="5c877-106">Ako imate računar treba da ćete moći da instalirate softver koristeći korake ispod.</span><span class="sxs-lookup"><span data-stu-id="5c877-106">If you have a PC you should be able to install the software using the steps below.</span></span>
   
-<span data-ttu-id="b238c-107">Možete da sledite korake u [ovom članku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)da se tvoja instalacija je dovršena.</span><span class="sxs-lookup"><span data-stu-id="b238c-107">You can follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)to get your setup completed.</span></span>
+<span data-ttu-id="5c877-107">Možete da sledite korake u [ovom članku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)da se tvoja instalacija je dovršena.</span><span class="sxs-lookup"><span data-stu-id="5c877-107">You can follow the steps in [this article](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)to get your setup completed.</span></span>
   
-<span data-ttu-id="b238c-108">Ako idete ka greške tokom instalacije, [Instalirajte projekat koristeći podršku i pomoćnik za oporavak](https://aka.ms/SaRA-ProjectSetupScenario)</span><span class="sxs-lookup"><span data-stu-id="b238c-108">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>
+<span data-ttu-id="5c877-108">Ako idete ka greške tokom instalacije, [Instalirajte projekat koristeći podršku i pomoćnik za oporavak](https://aka.ms/SaRA-ProjectSetupScenario)</span><span class="sxs-lookup"><span data-stu-id="5c877-108">If you are running into errors during setup, [Install Project using the Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario)</span></span>

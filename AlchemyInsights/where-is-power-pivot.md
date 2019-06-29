@@ -9,35 +9,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "144"
+- "145"
+- "146"
+- "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31487d8ca65974497bb1edbf2b0204abd11cb87b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422801"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365142"
 ---
-# <a name="where-is-power-pivot"></a><span data-ttu-id="4459f-102">Da li je napajanje Pivot?</span><span class="sxs-lookup"><span data-stu-id="4459f-102">Where is Power Pivot?</span></span>
+# <a name="where-is-power-pivot"></a><span data-ttu-id="677f9-102">Da li je napajanje Pivot?</span><span class="sxs-lookup"><span data-stu-id="677f9-102">Where is Power Pivot?</span></span>
 
-<span data-ttu-id="4459f-103">Postoje tri razloga zašto ne vidite Pivot napajanja:</span><span class="sxs-lookup"><span data-stu-id="4459f-103">There are three reasons why you don't see Power Pivot:</span></span>
+<span data-ttu-id="677f9-103">Postoje tri razloga zašto ne vidite Pivot napajanja:</span><span class="sxs-lookup"><span data-stu-id="677f9-103">There are three reasons why you don't see Power Pivot:</span></span>
   
- <span data-ttu-id="4459f-104">**Tvoja verzija programa Excel to ne uključuje**</span><span class="sxs-lookup"><span data-stu-id="4459f-104">**Your version of Excel doesn't include it**</span></span>
+<span data-ttu-id="677f9-104">**Tvoja verzija programa Excel to ne uključuje**</span><span class="sxs-lookup"><span data-stu-id="677f9-104">**Your version of Excel doesn't include it**</span></span>
   
-<span data-ttu-id="4459f-105">Nisu sve verzije programa Excel uključuje napajanje Pivot.</span><span class="sxs-lookup"><span data-stu-id="4459f-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="4459f-106">Morate da nadogradite na verziju sistema Office koja uključuje napajanje izvedeno.</span><span class="sxs-lookup"><span data-stu-id="4459f-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="4459f-107">Pogledajte listu podržanih verzija.</span><span class="sxs-lookup"><span data-stu-id="4459f-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+<span data-ttu-id="677f9-105">Nisu sve verzije programa Excel uključuje napajanje Pivot.</span><span class="sxs-lookup"><span data-stu-id="677f9-105">Not all versions of Excel include Power Pivot.</span></span> <span data-ttu-id="677f9-106">Morate da nadogradite na verziju sistema Office koja uključuje napajanje izvedeno.</span><span class="sxs-lookup"><span data-stu-id="677f9-106">You will need to upgrade to a version of Office that includes Power Pivot.</span></span> [<span data-ttu-id="677f9-107">Pogledajte listu podržanih verzija.</span><span class="sxs-lookup"><span data-stu-id="677f9-107">Check the list of supported versions.</span></span>](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- <span data-ttu-id="4459f-108">**Nisam je omogućen Pivot napajanja**</span><span class="sxs-lookup"><span data-stu-id="4459f-108">**You haven't enabled Power Pivot**</span></span>
+<span data-ttu-id="677f9-108">**Nisam je omogućen Pivot napajanja**</span><span class="sxs-lookup"><span data-stu-id="677f9-108">**You haven't enabled Power Pivot**</span></span>
   
-<span data-ttu-id="4459f-109">Ako radite u verziji programa Excel koji podržava vlast Pivot, proverite da da programski dodatak omogućen:</span><span class="sxs-lookup"><span data-stu-id="4459f-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
+<span data-ttu-id="677f9-109">Ako radite u verziji programa Excel koji podržava vlast Pivot, proverite da da programski dodatak omogućen:</span><span class="sxs-lookup"><span data-stu-id="677f9-109">If you are working in a version of Excel that supports Power Pivot, check to see that the Add-in is enabled:</span></span>
   
-1. <span data-ttu-id="4459f-110">Odaberite **datoteku** \> **Opcije** \> **Programske dodatke**.</span><span class="sxs-lookup"><span data-stu-id="4459f-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
-    
-2. <span data-ttu-id="4459f-111">U padajuće okvir za **Upravljanje** , odaberite **COM programski dodaci** , i kliknite na dugme **Idi**.</span><span class="sxs-lookup"><span data-stu-id="4459f-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
-    
-3. <span data-ttu-id="4459f-112">U dijalogu **Com programski dodaci** , potvrdite izbor u polju za potvrdu pored **Microsoft Pivot napajanja za Excel**, a zatim kliknite na dugme **u redu**.</span><span class="sxs-lookup"><span data-stu-id="4459f-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span> 
-    
- <span data-ttu-id="4459f-113">**Imate više pretplate ili nalozi**</span><span class="sxs-lookup"><span data-stu-id="4459f-113">**You have multiple subscriptions or accounts**</span></span>
-  
-<span data-ttu-id="4459f-114">Možda imate različite pretplate na Office 365 dodeljen različite korisničke naloge.</span><span class="sxs-lookup"><span data-stu-id="4459f-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="4459f-115">Uverite se da ste prijavljeni na nalog sa verzijom programa Excel koji podržava vlast Pivot.</span><span class="sxs-lookup"><span data-stu-id="4459f-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="4459f-116">Proverite listu [podržane verzije](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)i sledite uputstva da [biste se prebacivali između različitih računa u kancelariji](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span><span class="sxs-lookup"><span data-stu-id="4459f-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
-  
+1. <span data-ttu-id="677f9-110">Odaberite **datoteku** \> **Opcije** \> **Programske dodatke**.</span><span class="sxs-lookup"><span data-stu-id="677f9-110">Choose **File** \> **Options** \> **Add-Ins**.</span></span>
 
+2. <span data-ttu-id="677f9-111">U padajuće okvir za **Upravljanje** , odaberite **COM programski dodaci** , i kliknite na dugme **Idi**.</span><span class="sxs-lookup"><span data-stu-id="677f9-111">In the **Manage** drop down box, choose **COM Add-ins** and click **Go**.</span></span>
+
+3. <span data-ttu-id="677f9-112">U dijalogu **Com programski dodaci** , potvrdite izbor u polju za potvrdu pored **Microsoft Pivot napajanja za Excel**, a zatim kliknite na dugme **u redu**.</span><span class="sxs-lookup"><span data-stu-id="677f9-112">In the **Com Add-ins** dialog box, select the checkbox next to **Microsoft Power Pivot for Excel**, and then click **OK**.</span></span>
+
+<span data-ttu-id="677f9-113">**Imate više pretplate ili nalozi**</span><span class="sxs-lookup"><span data-stu-id="677f9-113">**You have multiple subscriptions or accounts**</span></span>
+  
+<span data-ttu-id="677f9-114">Možda imate različite pretplate na Office 365 dodeljen različite korisničke naloge.</span><span class="sxs-lookup"><span data-stu-id="677f9-114">You might have different Office 365 subscriptions assigned to different user accounts.</span></span> <span data-ttu-id="677f9-115">Uverite se da ste prijavljeni na nalog sa verzijom programa Excel koji podržava vlast Pivot.</span><span class="sxs-lookup"><span data-stu-id="677f9-115">Make sure you're signed in to an account with a version of Excel that supports Power Pivot.</span></span> <span data-ttu-id="677f9-116">Proverite listu [podržane verzije](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)i sledite uputstva da [biste se prebacivali između različitih računa u kancelariji](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span><span class="sxs-lookup"><span data-stu-id="677f9-116">Check the list of [supported versions](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), and follow the instructions to [switch between different Office accounts](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).</span></span>
