@@ -9,13 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000088
-ms.openlocfilehash: 435415ca29d9ba26e6c27919ab1dcc0e64368357
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1398"
+- "1399"
+- "1626"
+- "8000088"
+ms.openlocfilehash: 897ee4d4708ce7cec352dbc50b8c7ded3214a971
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391632"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372311"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Čuvanje poruka na Outlook.com
 
@@ -30,3 +34,5 @@ Uslužni program Microsoft štampati u PDF uključena u Windows 10 vam omogućav
 5. Unesite ime datoteke, zatim izaberite stavku **Sačuvaj**.
 
 **Napomena:** Ovo se ne preporučuje na deljeni ili javni računarima kao i drugi korisnici mogli imati pristup bilo koji PDF-datoteka sačuvate sa PC računarom i ne izbrišete.
+
+Više informacija o štampanju, potražite [Štampanje e-poruke, prilozi, i kalendari u Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855).
