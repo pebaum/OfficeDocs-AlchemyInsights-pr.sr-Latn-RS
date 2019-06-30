@@ -8,26 +8,28 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "639"
+- "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: c5f138cce6efb7764e0fd9f4ba9dd17c166fcfab
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 4e870f153b37e141aa641c4a85a8d759a600ceed
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34755863"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35380015"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>Migracija podataka u javnoj fascikli Office 365
 
-Ako nemate puno javnim fasciklama da uvede u Office 365, najlakši način da ih bi da kopirate podatke u. PST datoteke, i zatim da ih uvezete u Office 365. Za male količine podataka, jednostavno je prevucite i otpustite u javnoj fascikli u jedan. PST datoteka može biti dovoljan. Ako imate više podataka nego (da oko 30GB), imamo [dokumentovan proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) koje možete koristiti da biste izvezli fascikle u PST datoteke. 
+Ako nemate puno javnim fasciklama da uvede u Office 365, najlakši način da ih bi da kopirate podatke u. PST datoteke, i zatim da ih uvezete u Office 365. Za male količine podataka, jednostavno je prevucite i otpustite u javnoj fascikli u jedan. PST datoteka može biti dovoljan. Ako imate više podataka nego (da oko 30GB), imamo [dokumentovan proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) koje možete koristiti da biste izvezli fascikle u PST datoteke.
   
 Za veće organizacije koja se kreću javnim fasciklama u Office 365, imamo nekoliko vodiči dostupni:
   
-- [Preseli zastarelih javnim fasciklama](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 i ranije) 
-    
+- [Preseli zastarelih javnim fasciklama](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (Exchange 2010 i ranije)
+
 - [Migriraju javnim fasciklama Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
-    
-- [Mirate Exchange 2016 u javnim fasciklama](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
-    
+
+- [Migriraju javnim fasciklama Exchange 2016](https://technet.microsoft.com/library/mt798260%28v=exchg.160%29.aspx)
+
 Takođe imate opciju da [biste migrirali javnim fasciklama Office 365 grupama](https://technet.microsoft.com/library/mt843872%28v=exchg.150%29.aspx).
   
-

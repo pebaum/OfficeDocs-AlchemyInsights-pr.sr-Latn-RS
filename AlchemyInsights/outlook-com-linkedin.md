@@ -9,17 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000079
-ms.openlocfilehash: 4f7e77758f2a3aa669c70b1b1b5c17f917023754
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1276"
+- "8000079"
+ms.openlocfilehash: 64e2349a329bee570685034ca4bab9988c71182f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643592"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374111"
 ---
 # <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>Problemi sa neželjene e-pošte koji tvrdi da je iz LinkedIn
 
-Svesni smo da neki korisnici primaju neželjene e-pošte koji tvrdi da je iz LinkedIn.
+Mi smo svesni da neki korisnici primaju neželjene e-pošte koji tvrdi da je iz LinkedIn.
 
 Preporučujemo da koristite pravilo za Prispjelu poštu da biste filtrirali ovi e-mailovi.
 
