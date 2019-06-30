@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA dokaze
+title: Kako ih zovete Outlook.com MSA
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392382"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373895"
 ---
 # <a name="security-info-and-security-codes"></a>Informacija o bezbednosti i sigurnosti šifre
 
-1. Prijavite se na vašu stranicu [osnove bezbednosti](https://account.microsoft.com/security) sa Microsoft nalogom. 
-    
-2. Izaberite opciju **Ažuriraj informacije**. 
-    
-3. Ti može biti zatraženo da unesete sigurnosnu šifru da biste nastavili. Ako nemate pristup na vašu alternativnu e-pošte ili telefonski broj, odaberite **nemam bilo koji od ovih** i sledite uputstva da zameni informacije o bezbednosti. 
-    
-4. Izaberite **Dodaj bezbednosne informacije** a zatim sledite uputstva da unesete novu e-poruku ili telefonski broj. 
-    
-5. Poslaжemo sigurnosni kod u taj novi e-mail ili broj telefona. Unesite taj sigurnosni kod i kliknite na dugme **dalje**. Tvoja nova informacija o bezbednosti će se pojaviti na listi. 
-    
-6. Da odaberete **Ukloni** za bilo koju želite da uklonite. 
-    
-7. Ako želite da ažurirate koja informacija o bezbednosti poslati upozorenja, izaberite **upozorenja Promena opcija** i opozovite izbor u polju za potvrdu za onu koju više ne želite da primate upozorenja, osim ako su kritična. 
-    
-Pročitajte više o [informacija o bezbednosti i sigurnosti kodove](https://support.microsoft.com/help/12428/).
-  
+Da biste dodali informacije o bezbednosti na vaš nalog:
 
+1. Prijavite se na [osnove bezbednosti](https://account.microsoft.com/security) sa Microsoft nalogom.
+1. Izaberite **sigurnost kontakt info**.
+1. Izaberite **Dodavanje informacija o bezbednosti** i pratite uputstva za unesite telefonski broj ili e-mail adresa.
+1. Primit ćete sigurnosni kod na taj telefonski broj ili e-mail adresa. Unesite sigurnosni kod koji ste primili u prozor za **Dodavanje informacija o bezbednosti** i kliknite na dugme **dalje**.
+
+Izaberite ako želite da biste uklonili telefonski broj ili e-mail adresa, **uklonite** pored nje.
+
+Ako želite da promenite koji je telefonski broj ili adresa e-pošte prima obaveštenja o bezbednosti, izabrati da **promenite opcije upozorenja**.
+
+Da biste saznali više, pročitajte [Microsoft nalog info i verifikacija kodovima](https://support.microsoft.com/help/12428/).

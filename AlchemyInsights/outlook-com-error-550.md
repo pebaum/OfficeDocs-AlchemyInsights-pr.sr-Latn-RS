@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419051"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375263"
 ---
 # <a name="error-550553-in-outlookcom"></a>Greška 550/553 u Outlook.com
 
 Kada si daleko od kuće i pošaljite email od vaš povezani račun koristeći Outlook.com, Vaša email poruka vrati sa 550, 553 ili poruku o grešci poruku.
-1. Proverite [postavke sinhronizacije email](https://go.microsoft.com/fwlink/?linkid=2031283) da osigura svoj podrazumevani sa adrese isto kao i ime domena e-pošte. Ako imate svoj e-mail domena uključena, promeniti na vašu adresu outlook.com/live.com/hotmail.com.
-2. Proverite svoje [povezani račun postavke](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) da biste bili sigurni da imate omogućenu potvrdu identiteta.
+
+1. Proverite [postavke sinhronizacije e-pošte](https://go.microsoft.com/fwlink/?linkid=2031283) u **postavkama** > **Prikaz svih postavki programa Outlook** > **Mail** > **Prevod e-pošte**.
+1. Uverite se da Vaš zadani sa adrese isto kao i ime domena e-pošte. Ako imate svoj e-mail domena uključena, promeniti u outlook.com, live.com ili hotmail.com adresu.
