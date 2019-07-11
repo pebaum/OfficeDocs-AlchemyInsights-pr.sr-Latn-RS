@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377783"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614148"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>Dodajte svoje druge naloge e-pošte za Outlook.com
 
@@ -32,6 +32,6 @@ Da biste dodali povezani nalog:
 
 Možete poslati e-poštu sa bilo koji nalog koji niste povezali vaš račun za Outlook.com. Kada sastavljate e-mail, izaberite **iz** i odaberite koju e-adresu koju želite da koristite, ili [ažurirate Vaš zadani sa adrese](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Za više informacija, pročitajte [Dodaj tvoje druge naloge e-pošte za Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+Za više informacija, pročitajte [Dodaj tvoje druge naloge e-pošte za Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Ako želite da kreirate novu adresu e-pošte koji koristi isti konto Outlook.com, čita se [Dodaj ili Ukloni pseudonim e-pošte](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+Ako želite da kreirate novu adresu e-pošte koji koristi isti konto Outlook.com, čita se [Dodaj ili Ukloni pseudonim e-pošte](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
