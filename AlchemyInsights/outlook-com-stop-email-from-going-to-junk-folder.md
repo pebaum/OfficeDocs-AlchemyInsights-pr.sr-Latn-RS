@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371807"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696963"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="b8638-102">Prestani da poruka u fascikli "Neželjena e-pošta"</span><span class="sxs-lookup"><span data-stu-id="b8638-102">Stop messages from going to your Junk Email folder</span></span>
+# <a name="stop-messages-from-going-to-your-junk-email-folder"></a><span data-ttu-id="42434-102">Prestani da poruka u fascikli "Neželjena e-pošta"</span><span class="sxs-lookup"><span data-stu-id="42434-102">Stop messages from going to your Junk Email folder</span></span>
 
-<span data-ttu-id="b8638-103">Ako otkrijete da je e-poruku u fascikli "Neželjena e-pošta" nije neželjena:</span><span class="sxs-lookup"><span data-stu-id="b8638-103">If you discover that an email message in your Junk Email folder isn't junk:</span></span>
+<span data-ttu-id="42434-103">Ako otkrijete da je e-poruku u fascikli "Neželjena e-pošta" nije neželjena:</span><span class="sxs-lookup"><span data-stu-id="42434-103">If you discover that an email message in your Junk Email folder isn't junk:</span></span>
 
-1. <span data-ttu-id="b8638-104">Otvorite [fasciklu neželjene e-pošte](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="b8638-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
-1. <span data-ttu-id="b8638-105">Izaberite poruku.</span><span class="sxs-lookup"><span data-stu-id="b8638-105">Select the message.</span></span> <span data-ttu-id="b8638-106">(*Napomena:* stavki u fascikli "Neželjena e-pošta" se brišu nakon 30 dana.)</span><span class="sxs-lookup"><span data-stu-id="b8638-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
-1. <span data-ttu-id="b8638-107">Iznad liste poruka izaberite **neželjene** > **nije neželjena**.</span><span class="sxs-lookup"><span data-stu-id="b8638-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
+1. <span data-ttu-id="42434-104">Otvorite [fasciklu neželjene e-pošte](https://outlook.live.com/mail/junkemail).</span><span class="sxs-lookup"><span data-stu-id="42434-104">Open your [Junk Email folder](https://outlook.live.com/mail/junkemail).</span></span>
+1. <span data-ttu-id="42434-105">Izaberite poruku.</span><span class="sxs-lookup"><span data-stu-id="42434-105">Select the message.</span></span> <span data-ttu-id="42434-106">(*Napomena:* stavki u fascikli "Neželjena e-pošta" se brišu nakon 30 dana.)</span><span class="sxs-lookup"><span data-stu-id="42434-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+1. <span data-ttu-id="42434-107">Iznad liste poruka izaberite **neželjene** > **nije neželjena**.</span><span class="sxs-lookup"><span data-stu-id="42434-107">Above the message list, select **Not junk** > **Not junk**.</span></span>
 
-<span data-ttu-id="b8638-108">Ako želite da spreče poruke od pošiljaoca prelazak u fasciklu "Neželjena e-pošta", dodajte pošiljaoca na listu sigurnih pošiljalaca:</span><span class="sxs-lookup"><span data-stu-id="b8638-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
+<span data-ttu-id="42434-108">Ako želite da spreče poruke od pošiljaoca prelazak u fasciklu "Neželjena e-pošta", dodajte pošiljaoca na listu sigurnih pošiljalaca:</span><span class="sxs-lookup"><span data-stu-id="42434-108">If you want to prevent any messages from a sender from going to the Junk Email folder, add the sender to your safe senders list:</span></span>
 
-1. <span data-ttu-id="b8638-109">Otvorite [Postavke neželjene e-pošte](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="b8638-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
-1. <span data-ttu-id="b8638-110">U okviru **sigurnih pošiljalaca i domene**, izaberite **Dodaj**, unesite e-adresu ili domen koji želite dodati i izaberite **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="b8638-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
+1. <span data-ttu-id="42434-109">Otvorite [Postavke neželjene e-pošte](https://go.microsoft.com/fwlink/?linkid=2035804).</span><span class="sxs-lookup"><span data-stu-id="42434-109">Open your [Junk email settings](https://go.microsoft.com/fwlink/?linkid=2035804).</span></span>
+1. <span data-ttu-id="42434-110">U okviru **sigurnih pošiljalaca i domene**, izaberite **Dodaj**, unesite e-adresu ili domen koji želite dodati i izaberite **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="42434-110">Under **Safe senders and domains**, select **Add**, enter the email address or domain you want to add, and select **Save**.</span></span>
 
-<span data-ttu-id="b8638-111">Da biste saznali više, pročitajte [Označi e-poruke kao neželjene ili blok pošiljalaca u Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="b8638-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
+<span data-ttu-id="42434-111">Da biste saznali više, pročitajte [Označi e-poruke kao neželjene ili blok pošiljalaca u Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="42434-111">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
