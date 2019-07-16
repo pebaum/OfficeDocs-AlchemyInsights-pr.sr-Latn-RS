@@ -13,12 +13,12 @@ ms.custom:
 - "8000046"
 - "1002"
 - "1003"
-ms.openlocfilehash: 682d1338c909b6a3c479c9d9f08c278697669690
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: a2c99c03426843314be772f781f7650c2fa5c0c4
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34708995"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704790"
 ---
 # <a name="print-an-attachment"></a>Štampanje priloga
 
@@ -26,4 +26,4 @@ ms.locfileid: "34708995"
 2. Premestite kursor preko prilog i izaberite ikonu za **Preuzimanje** .
 3. Nakon što je datoteka je preuzeta, otvori ga uz odgovarajući program i odaberite opciju za štampanje. Na primer, otvorite .doc datoteku u programu Word, a zatim odštampajte.
 
-Za više informacija, pročitajte [Štampanje e-poruke, prilozi, i kalendari u Outlook.com](https://go.microsoft.com/fwlink/?linkid=2021110&amp;clcid=0x409).
+Za više informacija, pročitajte [Štampanje e-poruke, prilozi, i kalendari u Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

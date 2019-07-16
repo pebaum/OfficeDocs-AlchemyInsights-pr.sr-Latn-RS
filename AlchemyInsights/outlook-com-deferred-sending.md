@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: 910e42770cd7269444e6286d44bd60d50885a220
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d81a4c575b5b47dbc16ce425163865cb04ecabab
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375479"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701373"
 ---
 # <a name="delay-or-schedule-sending-email-messages"></a>Odlaganje ili planiranje slanja poruke e-pošte
 
@@ -27,4 +27,4 @@ Izvini, ali ne možete pauzirati ili planiranje slanjem poruke e-pošte u mobiln
 
 Možete da promenite postavke Outlook.com odlaganje slanja poruke do 10 sekundi. Možete otkazati slanje poruka tokom ovog perioda. Da biste uključili ovu funkciju, otvorite postavke [Opozovi slanje](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
 
-Saznajte više o [e-mail podsećajući na Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).
+Saznajte više o [e-mail podsećajući na Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
