@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366345"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786427"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Potrebne alhemija zaglavlje H1, H2, ne radim.
 Najbolje prakse i uputstva za kreiranje alhemija:
@@ -37,4 +37,6 @@ Najbolje prakse i uputstva za kreiranje alhemija:
 
 I ovo je stvarno već malo predugo. Najbolji metod je oko 400 znakova---
 
-Kada sadržaj bude spreman, povuci za uživo granu. Onda, idi do [alhemija partnerski portal](https://alchemyportal.azurewebsites.net) i unesite ime datoteke u polje URL adresa. M
+Kada sadržaj bude spreman, povuci za uživo granu. Onda, idi do [alhemija partnerski portal](https://alchemyportal.azurewebsites.net) i unesite ime datoteke u polje URL adresa. 
+
+
