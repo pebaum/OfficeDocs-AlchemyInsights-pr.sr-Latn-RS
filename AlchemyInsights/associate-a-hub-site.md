@@ -11,22 +11,23 @@ ms.custom:
 - "1012"
 - "5300012"
 ms.assetid: 50249bb9-3c28-408f-946b-2caab6b1b9f4
-ms.openlocfilehash: 88086a37b30448b6849f78f7504e64f5c38ecbee
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4915604747f504ddc321f6f845940218743c6c4f
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360463"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802800"
 ---
 # <a name="associate-a-hub-site"></a>Povezivanje na lokaciji čvorišta
 
 Da povežete postojeće lokacije na vašu lokaciju čvorište, postupite na sledeći način:
   
-1. Na vašoj lokaciji, kliknite na **postavke (** opremu na ikonu u gornjem desnom uglu), a zatim izaberite stavku **informacije o lokaciji**.
+1. Na vašoj lokaciji, izaberite **Postavke** (na brzinu ikonu u gornjem desnom uglu), a zatim izaberite **informacije o lokaciji**.
 
-2. Uređivanje lokacije informacije tabli pod čvorište lokacije asocijacije, izaberite lokaciju čvorišta sa kojim želite da povežete vaše lokacije, a zatim kliknite na dugme **Sačuvaj**. Izgled vaše lokacije će se promeniti da bi to čvorište lokacije i navigacije lokacije čvorišta će se pojaviti na vrhu.
+2. **Uredite informacije o lokaciji** tabli u izborniku **čvorište lokacije asocijacije** , izaberite Čvorište lokaciju koju želite da pridružite ste vašu lokaciju, a zatim izaberite stavku **Sačuvaj**. Izgled vaše lokacije će se promeniti da bi to čvorište lokacije i navigacije lokacije čvorišta će se pojaviti na vrhu.
 
- **Napomena**: ako opciju asocijacija lokacija čvorišta nije prisutan ili nema lokacije navedene tamo, čvorište lokacije možda nisu omogućene ili možda nemate dozvolu za povezivanje lokacija uz čvorište lokaciju. Za više informacija obratite se administratoru.
-  
- **Napomena:** Nema ograničenja na broj lokacija koje mogu biti povezani sa lokacije čvorišta.
+ > [!Note]
+>Ako opciju asocijacija lokacija čvorišta nije prisutan ili nema lokacije navedene, čvorište lokacije možda nisu omogućene ili možda nemate dozvolu za povezivanje lokacija uz čvorište lokaciju. Za više informacija obratite se administratoru.
+
+>Nema ograničenja na broj lokacija koje mogu biti povezani sa lokacije čvorišta.
   

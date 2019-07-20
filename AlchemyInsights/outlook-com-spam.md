@@ -3,7 +3,7 @@ title: Izlaženje na kraj sa spam i neželjene u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 7/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7544b0453f05de5f4d3edc2bdbbc139995343047
+ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697133"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35800095"
 ---
-# <a name="mark-email-messages-as-junk"></a>Označi poruke e-pošte kao neželjene
+# <a name="spam-and-junk-email-in-outlookcom"></a>Spam i neželjene e-pošte na Outlook.com
 
-Da biste označili poruku kao neželjenu ili neželjene pošte, izaberite poruku na listi poruka i izaberite **neželjene** > **neželjene**.
+Ako se previše neželjene ili neželjene pošte, probaj ove metode:
 
-Da biste blokirali sve poruke sa određene email adrese, izaberite poruku ili poruke u listi poruka, a zatim izaberite **neželjene** > **blok**.
+1. **Označavanje e-mail kao neželjena**
+    1. Izaberite poruku.
+    1. Izaberite **Neželjeno** > **neželjene** da premestite poruku u fasciklu "Neželjena e-pošta".
+    1. [Saznajte više o tome kako da bude spam i neželjene e-pošte iz prijemnog.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Ako slučajno označite poruku kao neželjenu, izaberite poruku u [fasciklu neželjene e-pošte](https://outlook.live.com/mail/junkemail) i izaberite **neželjene** > **nije neželjena**. (*Napomena:* stavki u fascikli "Neželjena e-pošta" se brišu nakon 30 dana.)
+1. **Blokirali pošiljaoca iz prijemnog**
+    1. Izaberite poruku.
+    1. Izaberite **Neželjeno** > **blok** > **u redu**.
+    1. [Saznajte više o tome kako da blokirate ili deblokirate pošiljalaca.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Da biste saznali više, pročitajte [Označi e-poruke kao neželjene ili blok pošiljalaca u Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. **Dodavanje pošiljaoca na listu blokiranih pošiljalaca**
+    1. Otvorite [Postavke neželjene e-pošte](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
+    1. U okviru **Blokirani pošiljaoci i domene**, izaberite opciju " **Dodaj**".
+    1. Unesite e-adresu ili domen želite blokirati i pritisnite taster Enter.
+    1. Pod **filtere**, odaberite da li želite da verujete mejl od adrese pod sigurnih pošiljalaca i domene i bezbedne liste slanja.
+    1. Izaberite **Sačuvaj**.
+
+1. **Kreirajte pravilo za Prispjelu poštu**
+    1. Kliknite desnim tasterom miša na poruku na listi poruka, a zatim izaberite **Kreiraj pravilo**.
+    1. Odaberite fasciklu u kojoj želite da se sve poruke od tog pošiljaoca da premestite i izaberite **OK** > **u redu**.
+    1. [Saznajte više o poštanskom sandučetu pravila u Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
