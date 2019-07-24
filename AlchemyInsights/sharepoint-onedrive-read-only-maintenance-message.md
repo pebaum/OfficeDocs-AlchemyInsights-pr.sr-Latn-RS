@@ -1,7 +1,7 @@
 ---
-title: 127 se greška u TenantAccessBlockedException prilikom pristupanja e-pošte?
-ms.author: kirks
-author: Techwriter40
+title: Samo za čitanje za održavanje poruku kada pokušate da koristite SharePoint ili OneDrive
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -12,27 +12,27 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5613138e7613deb264a7ab2c966f8b9c4a24763d
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736416"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840529"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Samo za čitanje za održavanje poruku kada pokušate da koristite SharePoint ili OneDrive
 
-Korisnici mogu dobiti je samo za čitanje za održavanje poruku kada pokušate da koristite SharePoint ili OneDrive.
+Korisnici mogu dobiti poruku **Samo za čitanje za održavanje** kada pokušaju da koriste SharePoint ili OneDrive.  Ako je tako, proverite da li aktivni održavanja koje su se javljale na tvojim podstanarom navigacijom u [Centar za poruke](https://portal.office.com/adminportal/home#/MessageCenter). Takođe, uverite se da proverimo [Zdravstvene usluge](https://portal.office.com/adminportal/home#/servicehealth) kontrolne table za proveru javljanjima/incidenti, koji može biti zatvorena.
 
-Proverite da li aktivni održavanja koje su se javljale na tvojim podstanarom navigacijom u [Centar za poruke](https://portal.office.com/adminportal/home#/MessageCenter). Konačno, uverite se da posetite stranicu za[Zdravstvene usluge](https://portal.office.com/adminportal/home#/servicehealth) za proveru javljanjima/incidenti, koji može biti zatvorena.
-
-Ako ni centar za poruke ili Kontrolna tabla za zdravstvene službe zapamtiti ništa o trenutnom održavanja za podstanara, ovo može biti pregledaču keširanje pitanje.
+Ako ni centar za poruke ili zdravstvene usluge kontrolne table ništa o trenutnom održavanje zapamtiti za podstanara, ovo može biti pregledaču keširanje pitanje.
 
 Molim te, pokušati da biste obrisali keš memoriju pregledača ranije kretanje do lokacije.
 
-- U pregledaču Microsoft Edge, idite do još postavki
+1. U pregledaču Microsoft Edge, izaberite stavku **Postavke**, a zatim izaberite **privatnosti i bezbednosti**.
+2. Pod **jasno pregledanja**, izaberite **izaberem kako biste obrisali**.
+3. Izaberite **kolačiće i podatke sačuvane Veb lokacija**i izaberite **Obriši**.
 
-- Pod jasno pregledanja, izaberite izaberem kako biste obrisali.
-- Izaberite kolačiće i sačuvanu Web lokaciju podataka, polje za potvrdu i izaberite u redu.
+>[!Note] 
+> Ovi koraci mogu da se razlikuju kada koristite drugi pregledači, kao što su Mozilla Firefox ili Google Chrome.
 
-**Napomena**: Ovi koraci mogu da se razlikuju kada koristite drugi pregledači, kao što su Firefox ili Chrome.
-
+>[!Note] 
+> Druga opcija je da otvorite SharePoint lokacija ili OneDrive u novom prozoru InPrivate.
