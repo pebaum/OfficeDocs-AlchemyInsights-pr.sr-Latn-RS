@@ -13,34 +13,38 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 3d8316502b4e51a101197a908cf691f0ab7f845a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389627"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941082"
 ---
 # <a name="dlp-not-working-as-expected"></a>Dip ne rade kako je očekivano
 
 Imate li problema sa **Podacima gubitak prevencije (Dip)** u Office 365, ne rade kako je očekivano. Ako je tako, pobrini se da tvoja **politika i Uroniti** ispravno podešen i da vaši podaci sadrže kakva **politika i Uroniti** je u potrazi za kada ga je proračunavanja.
   
- **Podešavanje i Uroniti:**
+ **Podešavanje i Uroniti**
   
 Uroniti politika vam omogućava da identifikujete i zaštiti poverljive informacije u vašoj organizaciji. Za podešavanje i Uroniti politike, koristite informacije [ovde](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Kakva politika i Uroniti Potraži:**
+ **Potražite i Uroniti politike**
   
 Kada koristite **ugrađenu poverljive informacije tipa** u Office 365 sigurnosti i usklađenosti centar, politike i Uroniti izgledati za određene obrasce i elemente otkrivanje ove osetljive tipove.
   
-- **Ugrađeni poverljive informacije tipa:**
+- **Tipovi ugrađeni poverljive informacije**
 
     Za informacije o tipovima ugrađenih osetljiva i su se traži Uroniti politiku kada otkrivanje senzitivan tip, pogledajte: [kakva su tipovi poverljive informacije potražite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Prilagođeni poverljive informacije tipa:**
+- **Tipovi prilagođeni poverljive informacije**
 
     Ako pokušavate da kreirate prilagođeni poverljive informacije tipa, koristite sledeći članak za informacije o tome kako da kreirate prilagođeni osetljivi tip: [Kreiraj prilagođeni poverljive informacije tip](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
- **Izveštaji:**
+**Testiranje i Uroniti politiku**
+
+Da biste testirali vaše podatke sa tipom ugrađene ili prilagođene poverljive informacije, koristite opciju za **testiranje tipa** pod **klasifikacija** > **tipovi osetljivih informacija**. Više informacija potražite u [Test vrste prilagođenih poverljive informacije](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+
+ **Izveštaji**
   
 - Dobiti uvid osetljive podatke sa [i Uroniti izveštajima.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
