@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1402"
 - "8000045"
-ms.openlocfilehash: f2414ab9df21fcba190431539cf956decf9db27b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 97bb4d37a971888ddb7f8fdf9cb4d5dd795b403a
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377495"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044470"
 ---
-# <a name="adding-emojis-to-email-messages"></a><span data-ttu-id="3eff8-102">Dodavanje emotikona u poruke e-pošte</span><span class="sxs-lookup"><span data-stu-id="3eff8-102">Adding emojis to email messages</span></span>
+# <a name="adding-emojis-to-email-messages"></a><span data-ttu-id="cc071-102">Dodavanje emotikona u poruke e-pošte</span><span class="sxs-lookup"><span data-stu-id="cc071-102">Adding emojis to email messages</span></span>
 
-<span data-ttu-id="3eff8-103">Možete da umetnete emotikone u svoje poruke.</span><span class="sxs-lookup"><span data-stu-id="3eff8-103">You can insert emojis in your messages.</span></span>
+<span data-ttu-id="cc071-103">Možete da umetnete emotikone u svoje poruke.</span><span class="sxs-lookup"><span data-stu-id="cc071-103">You can insert emojis in your messages.</span></span>
 
-1. <span data-ttu-id="3eff8-104">Odgovaranje na postojeće mejl ili izaberite **novu poruku**.</span><span class="sxs-lookup"><span data-stu-id="3eff8-104">Reply to an existing email or select **New message**.</span></span>
-1. <span data-ttu-id="3eff8-105">Izaberite dugme za **Umetanje emotikona** (Smeљko na dnu prozoru za pisanje) da biste otvorili okno izraza.</span><span class="sxs-lookup"><span data-stu-id="3eff8-105">Select the **Insert emojis** button (the smiley face at the bottom of the compose window) to open the Expressions pane.</span></span>
-1. <span data-ttu-id="3eff8-106">Pronađite i odaberite emoji ili GIF koji želite da umetnete.</span><span class="sxs-lookup"><span data-stu-id="3eff8-106">Search for and choose the emoji or GIF you want to insert.</span></span>
+1. <span data-ttu-id="cc071-104">Odgovaranje na postojeće mejl ili izaberite **novu poruku**.</span><span class="sxs-lookup"><span data-stu-id="cc071-104">Reply to an existing email or select **New message**.</span></span>
+1. <span data-ttu-id="cc071-105">Izaberite dugme za **Umetanje emotikona**</span><span class="sxs-lookup"><span data-stu-id="cc071-105">Select the **Insert emojis** button</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAMAAACeyVWkAAAAmVBMVEX///9nZ2fq6uqnp6dqampfX1/6+vr39/fy8vLw8PDj4+ORkZFtbW1jY2NTU1O4uLiIiIhdXV38/Pzt7e3b29u7u7tcXFxLS0v09PTe3t7W1tbU1NTR0dHNzc3JycnExMSzs7Ourq6pqamenp6Pj4+FhYWBgYF0dHRvb29bW1tWVlZMTEzm5ubAwMCioqKfn59+fn4jIyMaGhozv5rfAAAAvklEQVQY063QRw6DMBRF0ecKxoWe3ntv+19ckAwhDCPljKyrN/gy/mfCtF6Nui1KSJoeU5tQtObClAEQxsRO26XYBf6l9vyzTngdq7nQ8Mbkio27AMV5jQUpfGVpAPMcVne8dlAu9nXTA0KaAZIOgD7zVVe10VYmBnIeopLPMuVKXwsbB+5BgeggsiWPmstEOLNmu+VknB/vqFG7l/JG+AqKmByNKT8tAMhl7/D9QVQTd+6fzFqhYxgzVkb43RvYUwra81Z7wAAAAABJRU5ErkJggg==' /> <span data-ttu-id="cc071-106">na dnu prozoru za pisanje da biste otvorili okno izraza.</span><span class="sxs-lookup"><span data-stu-id="cc071-106">at the bottom of the compose window to open the Expressions pane.</span></span>
+1. <span data-ttu-id="cc071-107">Pronađite i odaberite emoji ili GIF koji želite da umetnete.</span><span class="sxs-lookup"><span data-stu-id="cc071-107">Search for and choose the emoji or GIF you want to insert.</span></span>
