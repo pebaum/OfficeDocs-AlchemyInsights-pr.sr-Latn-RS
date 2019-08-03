@@ -1,5 +1,5 @@
 ---
-title: Da kreirate i koristite deljene poštansko sanduče
+title: Poteškoća - korisnik nije pronađen u katalogu
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81bf8082198de1c44037291f23c434d06a77f02a
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0909edc581c811fdc4683b004e0df0adbac88d1c
+ms.sourcegitcommit: 514ced512d0d7fff485b6fbf236cd27d6b4166e0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762414"
+ms.lasthandoff: 06/26/2019
+ms.locfileid: "35249927"
 ---
 # <a name="troubleshoot-issue---user-not-found-in-directory"></a>Poteškoća - korisnik nije pronađen u katalogu
 

@@ -1,25 +1,24 @@
 ---
-title: Nova oznaka zadržavanja automatski kreira
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Više informacija o smernicama za zadržavanje
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223006"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448849"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nova oznaka zadržavanja automatski kreira
+# <a name="more-info-about-retention-policies"></a>Više informacija o smernicama za zadržavanje
 
 Jer većina organizacija, obimu i složenosti njihove podatke svakodnevno raste - e-pošta, dokumenti, instant poruke i još mnogo.
-
-Efikasno upravljanje, ili kojima se regulišu ove informacije je važno, smernice za zadržavanje mogu pomoći da postignete ove ciljeve. Za više informacija o smernicama za zadržavanje, posjetite niže navedene veze.
+Efikasno upravljanje, ili kojima se regulišu ove informacije je važno i zadržavanja smernice mogu pomoći da postignete ove ciljeve. Za više informacija o restriktivnim smernicama, posetite ove veze:
 
 - [Pregled smernice za zadržavanje](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
