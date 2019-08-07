@@ -1,5 +1,5 @@
 ---
-title: Kreiranje aplikacija u PowerApps
+title: Kreiranje aplikacija u PowerApps programu
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404977"
 ---
-# <a name="create-apps-with-powerapps"></a>Kreiranje aplikacija sa PowerApps
+# <a name="create-apps-with-powerapps"></a>Kreiranje aplikacija pomoću PowerApps programa
 
-PowerApps je razvojne platforme za poslovne aplikacije. Postoje tri glavne komponente: 
+PowerApps je platforma za razvoj za poslovne aplikacije. On ima tri glavne komponente: 
   
-- [Platno apps](https://go.microsoft.com/fwlink/?linkid=874495) počinju svoje korisničko iskustvo, peglanje i visoko skrojenih interfejs sa snagom od praznog platna i koji upućuju na izbor izvora 200 podataka. Možete da napravite podlogu za aplikacije za web, mobilne i tablet aplikacija. 
+- [Canvas aplikacije](https://go.microsoft.com/fwlink/?linkid=874495) počinju Vašim korisničkim iskustvom, izrada izuzetno prilagođenog interfejsa pomoću snage prazne podloge i njenog povezivanja sa Vašim izborom 200 izvora podataka. Možete da pravite Canvas aplikacije za Veb, mobilne i table uređaje. 
     
-- [Aplikacija zasnovanih na modelu](https://go.microsoft.com/fwlink/?linkid=874496) početak sa tvoj podaci model - samo prema obliku jezgra poslovne podatke i procese u uobičajene korisničkih podataka za model obrasce, prikaze i druge komponente. Aplikacija zasnovanih na modelu automatski generisati super korisničkog Interfejsa koji reaguje preko uređaja. 
+- [Aplikacije koje pokreće model](https://go.microsoft.com/fwlink/?linkid=874496) počinju vašim modelom podataka - grade se iz oblika osnovnih poslovnih podataka i procesa u Common Data Service usluzi u vidu modela, prikaza i drugih komponenti. Aplikacije koje pokreće model automatski generišu korisnički interfejs koji je prilagođen različitim uređajima. 
     
-- [Uobičajenih podataka usluga](https://go.microsoft.com/fwlink/?linkid=874497) je data platforma koja dolazi sa PowerApps i dozvoljava vam da skladištite i modela poslovnih podataka. To je platforma na kojoj su napravljene Dynamics 365 aplikacije. Ako si Dynamics kupca, vaši podaci već se uobičajenih usluga podataka. 
+- [Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) je platforma za podatke koja se isporučuje uz Powerapps i omogućava vam da skladištite i oblikujete poslovne podatke. To je platforma na kojoj su Dynamics 365 aplikacije napravljene. Ukoliko koristite Dynamics, vaši podaci su već u Common Data Service usluzi.  
     
-[Više informacija o PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
+[Više informacija o programu PowerApps](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
