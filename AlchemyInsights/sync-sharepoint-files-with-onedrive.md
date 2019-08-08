@@ -20,19 +20,19 @@ ms.locfileid: "35803052"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Rešavanje problema „Otvori pomoću Explorera“ u sistemu Sharepoint Online
 
-Komanda „Otvori pomoću Explorera“ otvara lokalnu instancu Windows Explorera koja prikazuje strukturu fascikli na serveru na kom se nalazi SharePoint lokacija. Imajući to u vidu, preporučujemo [sinhronizovanje SharePoint datoteka sa novim One Drive klijentom za sinhronizaciju](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> koji pruža [Datoteke na zahtev](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) zato što Vam daje lokalni pristup datotekama i nudi najbolje performanse.
+Komanda „Otvori pomoću programa Explorer“ otvara lokalnu instancu programa Windows Explorer koja prikazuje strukturu fascikli na serveru na kom se nalazi SharePoint sajt. Imajući to u vidu, preporučujemo [sinhronizovanje SharePoint datoteka pomoću novog OneDrive klijenta za sinhronizaciju](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88)</a> koji nudi funkciju [Datoteke na zahtev](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e) jer omogućava lokalni pristup datotekama i daje najbolje performanse.
 
 
-Ako ste odabrali da koristite prikaz istraživača umesto da koristite novi OneDrive klijent za sinhronizaciju, obavezno pratite korake i najbolje prakse u sledećim člancima:
+Ako ste odabrali da koristite prikaz programa Explorer umesto novog OneDrive klijenta za sinhronizaciju, obavezno pratite korake i najbolje prakse u sledećim člancima:
 
 - [Kako se komanda „Otvori pomoću programa Explorer“ koristi za rešavanje problema u usluzi SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4)
 
 - [Kopiranje ili premeštanje datoteka biblioteke korišćenjem opcije „Otvori pomoću programa Explorer“](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > [!Note]  
-> Dugme **„Otvori pomoću programa Explorer“** se ne prikazuje u novom dizajnu biblioteke. Izaberite padajući meni **Prikaz** u gornjem desnom uglu (ime padajućeg menija sa menja u zavisnosti od trenutnog prikaza), a zatim izaberite **Prikaz u istraživaču datoteka**.
+> Dugme **„Otvori pomoću programa Explorer“** ne prikazuje se u novom dizajnu biblioteke. Izaberite padajući meni **Prikaz** u gornjem desnom uglu (ime padajućeg menija sa menja u zavisnosti od trenutnog prikaza), a zatim izaberite **Prikaz u istraživaču datoteka**.
 
- >Komanda „Otvori u istraživaču“ u sistemu SharePoint koristi ActiveX kontrole, tako da je podržana samo u pregledaču Internet Explorer 10 ili 11. Otvaranje u istraživaču ne funkcioniše u operativnom sistemu Windows koji koristi pregledače Microsoft Edge, Google Chrome, Mozilla Firefox, kao i na Mac platformi. Zato je opcija Prikaz u istraživaču možda zasivljena.
+ >Komanda „Otvori pomoću programa Explorer“ u sistemu SharePoint koristi ActiveX kontrole, tako da je podržana samo u pregledaču Internet Explorer 10 ili 11. Otvaranje u istraživaču ne funkcioniše u operativnom sistemu Windows koji koristi pregledače Microsoft Edge, Google Chrome, Mozilla Firefox, kao i na Mac platformi. Zato je opcija Prikaz u istraživaču možda zasivljena.
 
 > - [Zašto su dugmad na SharePoint traci nedostupna ili zasivljena](https://support.office.com/article/Why-SharePoint-ribbon-buttons-are-unavailable-48b0939a-2efb-4e79-b5e8-b2c4cb5d04ca).
   
