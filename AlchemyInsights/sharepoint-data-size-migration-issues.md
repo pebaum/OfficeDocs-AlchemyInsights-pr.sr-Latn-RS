@@ -1,31 +1,34 @@
 ---
-title: Dozvola problema prilikom prelaska
-ms.author: kirks
-author: Techwriter40
+title: Pitanjima dok Migriranje podataka za SharePoint Online
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
-ms.openlocfilehash: c2502825962cc20ce92d6433c6e8bebbb978d3b0
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.collection: Adm_O365
+ms.custom:
+- "5300030"
+- "1885"
+ms.openlocfilehash: a404bb33e3862a94920bca609b23e8b1278d3022
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34735471"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232566"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="f5d96-102">Pitanjima dok Migriranje podataka za SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="f5d96-102">Issues while migrating data to SharePoint Online</span></span>
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a><span data-ttu-id="482f7-102">Pitanjima dok Migriranje podataka za SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="482f7-102">Issues while migrating data to SharePoint Online</span></span>
 
-<span data-ttu-id="f5d96-103">Izgleda da te sele preko 100TB podataka na SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="f5d96-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span>
+<span data-ttu-id="482f7-103">Izgleda da te sele preko 100TB podataka na SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="482f7-103">It appears you are migrating over 100TB of data to SharePoint Online.</span></span> <span data-ttu-id="482f7-104">Molim vas, pratite sledeće korake pa smo mogu što pre da ti pomognem.</span><span class="sxs-lookup"><span data-stu-id="482f7-104">Please follow the steps below so we may assist you as soon as possible.</span></span> 
 
-<span data-ttu-id="f5d96-104">Molim vas izaberite **Novi zahtev za servis** putem telefona/e-pošte ispod i ostavite upit kao SharePoint migracije preko 100 TB u okvir za tekst.</span><span class="sxs-lookup"><span data-stu-id="f5d96-104">Please click **New Service Request** by phone/email below and leave the query as SharePoint migration over 100TB in the text box.</span></span>
+1. <span data-ttu-id="482f7-105">Izaberite **novi servis zahteva**, a zatim **zatražite novu uslugu**.</span><span class="sxs-lookup"><span data-stu-id="482f7-105">Select **New Service Request**, and then **New Service Request**.</span></span> 
+2. <span data-ttu-id="482f7-106">Ostavite naslov i opis kao **SharePoint migracije preko 100 TB**.</span><span class="sxs-lookup"><span data-stu-id="482f7-106">Leave the title and description as **SharePoint migration over 100TB**.</span></span>
+3. <span data-ttu-id="482f7-107">Kada jednom karta je podnet, ažurirajte ga sledeće informacije:</span><span class="sxs-lookup"><span data-stu-id="482f7-107">Once the ticket has been submitted, please update it with the following information:</span></span> 
 
-<span data-ttu-id="f5d96-105">Kada jednom karta je podnet, ažurirajte ga sledeće informacije:</span><span class="sxs-lookup"><span data-stu-id="f5d96-105">Once the ticket has been submitted, please update it with the following information:</span></span> 
-
-- <span data-ttu-id="f5d96-106">Tvoje ime kompanije i stanar URL</span><span class="sxs-lookup"><span data-stu-id="f5d96-106">Your company name and Tenant URL</span></span>
-- <span data-ttu-id="f5d96-107">Procenjeni obim svoje migracije</span><span class="sxs-lookup"><span data-stu-id="f5d96-107">Estimated size of your migration</span></span>
-- <span data-ttu-id="f5d96-108">Procena kada želite da se pokrene i završi svoje migracije</span><span class="sxs-lookup"><span data-stu-id="f5d96-108">An estimate of when you would like to start and complete your migration</span></span>
-- <span data-ttu-id="f5d96-109">Opišite gde se migrirate sadržaj iz, kao što je SharePoint Server, kutija, GDrive, deljenja datoteka, itd.</span><span class="sxs-lookup"><span data-stu-id="f5d96-109">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc.</span></span>
+    - <span data-ttu-id="482f7-108">Procenjeni obim svoje migracije.</span><span class="sxs-lookup"><span data-stu-id="482f7-108">Estimated size of your migration.</span></span>
+    - <span data-ttu-id="482f7-109">Procena kada želite da se pokrene i završi svoje migracije.</span><span class="sxs-lookup"><span data-stu-id="482f7-109">An estimate of when you would like to start and complete your migration.</span></span>
+    - <span data-ttu-id="482f7-110">Opišite gde se migrirate sadržaj iz, kao što je SharePoint Server, kutija, GDrive, deljenja datoteka, itd...</span><span class="sxs-lookup"><span data-stu-id="482f7-110">Describe where you are migrating your content from, such as SharePoint Server, Box, GDrive, File shares, etc..</span></span>
 
 
   
