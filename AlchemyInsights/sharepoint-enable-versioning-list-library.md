@@ -2,6 +2,7 @@
 title: Kreiranje verzija u SharePoint i OneDrive
 ms.author: efrene
 author: efrene
+ms.date: 8/07/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+ms.openlocfilehash: 97cab1d3d88721b03e703623128229935074ebf1
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232672"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270434"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Kreiranje verzija u SharePoint i OneDrive 
 
@@ -37,6 +38,7 @@ Za više informacija o kreiranju verzija potražite posetite je ispod članaka.
 
 - [Praćenje verzija ograničenja](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
-**Napomena:** Ako ste za Office 365 kupca, praćenje verzija je sada podrazumevano uključena kada kreirate novi OneDrive za poslovne biblioteke, a to će automatski sačuvati poslednji put 500 verzije dokumenta. Ovo će pomoći da sprečite gubitak važnih dokumenata ili podataka. Ako imate postojeće biblioteke na tvoj OneDrive za poslovne lokacije ili na vašoj lokaciji tima koji nemaju kreiranje verzija omogućena, možete uključiti praćenje verzija za njih u bilo kom trenutku.
+>[!Note] 
+>Ako ste za Office 365 kupca, praćenje verzija je sada podrazumevano uključena kada kreirate novi OneDrive za poslovne biblioteke, a to će automatski sačuvati poslednji put 500 verzije dokumenta. Ovo će pomoći da sprečite gubitak važnih dokumenata ili podataka. Ako imate postojeće biblioteke na tvoj OneDrive za poslovne lokacije ili na vašoj lokaciji tima koji nemaju kreiranje verzija omogućena, možete uključiti praćenje verzija za njih u bilo kom trenutku.
 
 
