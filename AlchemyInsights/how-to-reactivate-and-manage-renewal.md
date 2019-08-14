@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383543"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389950"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako da ponovo aktivirate i upravljate periodični naplate
 
 Izgleda da imate pretplatu koji je istekao. Želite li da se reaktivira, ovde je kako.
   
-1. U centru za Admin, idite na stranicu za [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) , ili da **naplate** \> **pretplate**.
+1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
 
 2. Odaberite pretplatu koja je **isteklih** ili **onemogućen**.
 
@@ -36,11 +36,10 @@ Izgleda da imate pretplatu koji je istekao. Želite li da se reaktivira, ovde je
 
 Da biste upravljali mjesečno ili godišnje isplate te alternativno možete **periodično naplate** ili isključivanje.
   
-1. U centru za Admin, idite na stranicu za [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) , ili da **naplate** \> **pretplate**.
+1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
 
 2. Odaberite pretplatu za koju želite da upravljate periodični naplate.
 
 3. Prebacite se **periodično naplate** preklopnik za **Uključivanje** ili **Isključivanje**.
 
-Za više informacija, pogledajte: [Upravljanje ponavljanja za naplatu za vašu pretplatu](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Za više informacija, pogledajte [Red ponavljanja za naplatu ili isključivanje](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
