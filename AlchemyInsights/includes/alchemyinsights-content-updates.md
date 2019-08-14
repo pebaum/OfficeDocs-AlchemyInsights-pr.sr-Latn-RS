@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>Nedelju dana od 01. jula 2019.
-
-
-| Koji je objavljen u |Naslov teme | Promena |
-|------|------------|--------|
-| 1/7/2019 | [Klasični SharePoint evidencije izveštaji o nadzoru](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | izmenio |
-| 7/2/2019 | [Više informacija o smernicama za zadržavanje](/AlchemyInsights/office-security-compliance-retention-policy) | izmenio |
-
-
 ## <a name="week-of-july-08-2019"></a>Nedelja 08. jula 2019.
 
 
@@ -220,3 +211,69 @@
 | 8/2/2019 | [Organizovanje e-pošti u programu Outlook na Webu](/AlchemyInsights/owa-organize-email) | izmenio |
 | 8/2/2019 | [Štampanje e-pošte, kalendara i prilozi u programu Outlook na Webu](/AlchemyInsights/owa-print-email-calendars-attachments) | izmenio |
 | 8/2/2019 | [Pročitane poruke u programu Outlook na Webu](/AlchemyInsights/owa-read-receipts) | izmenio |
+
+
+## <a name="week-of-august-05-2019"></a>Nedelja u 05. avgust 2019.
+
+
+| Koji je objavljen u |Naslov teme | Promena |
+|------|------------|--------|
+| 5/8/2019 | [Kako biste odgovorili ili prosledi poruke u programu Outlook na Webu](/AlchemyInsights/owa-reply-forward-messages) | izmenio |
+| 5/8/2019 | [8000003 Pretraži poštu i ljudi u programu Outlook na Webu](/AlchemyInsights/owa-search-mail-and-people) | izmenio |
+| 5/8/2019 | [Kreiranje potpisa u programu Outlook na Webu](/AlchemyInsights/owa-signature) | izmenio |
+| 5/8/2019 | [S/MIME u programu Outlook na Webu](/AlchemyInsights/owa-smime) | izmenio |
+| 5/8/2019 | [Prestani da poruka od odlaska u fasciklu neželjene e-pošte u programu Outlook na Webu](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | izmenio |
+| 5/8/2019 | [Isključite fokusiran prij](/AlchemyInsights/owa-turn-off-focused-inbox) | izmenio |
+| 5/8/2019 | [1332 OWA - poštanskom sandučetu pravila se ne izvršava za poštansko sanduče](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | izmenio |
+| 6/8/2019 | [Testiranje alhemija umetnute slike](/AlchemyInsights/testing-alchemy-inline-images) | izmenio |
+| 6/8/2019 | [Zaštitu napredna opasnost u SharePoint i OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | izmenio |
+| 6/8/2019 | [Ransomware napad u SharePoint ili OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | izmenio |
+| 6/8/2019 | [Moderna lokaciju kao osnovne lokacije](/AlchemyInsights/modern-site-as-the-root-site) | izmenio |
+| 6/8/2019 | [Pitanjima dok Migriranje podataka za SharePoint Online](/AlchemyInsights/sharepoint-data-size-migration-issues) | izmenio |
+| 6/8/2019 | [Preuzimanje ili sprečavanje preuzimanja datoteka iz OneDrive ili SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | izmenio |
+| 6/8/2019 | [Rešavanje problema pristup nije dozvoljen poruke OneDrive za poslovne lokacije](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | izmenio |
+| 6/8/2019 | [Vraćanje izbrisanih datoteka ili fascikla](/AlchemyInsights/sharepoint-deleted-items-restore) | izmenio |
+| 6/8/2019 | [Kreiranje verzija u SharePoint i OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | izmenio |
+| 6/8/2019 | [OneDrive zadržavanja i brisanja informacija](/AlchemyInsights/one-drive-retention-and-deletion) | izmenio |
+| 7/8/2019 | [Sprečavanje datoteke budu preuzete iz SharePoint ili OneDrive](/AlchemyInsights/prevent-download) | izmenio |
+| 7/8/2019 | [Vraćanje izbrisanih datoteka ili fascikla](/AlchemyInsights/sharepoint-deleted-items-restore) | izmenio |
+| 7/8/2019 | [Omogućite spoljnim dijeljenje u SharePoint Online](/AlchemyInsights/sharepoint-enable-external-sharing) | izmenio |
+| 7/8/2019 | [Popravi OneDrive problemi pri sinhronizaciji](/AlchemyInsights/fix-onedrive-sync-issues) | izmenio |
+| 7/8/2019 | [Rješava probleme pri sinhronizaciji OneDrive](/AlchemyInsights/fix-onedrive-sync-problems) | izmenio |
+| 7/8/2019 | [Tok posla e-mail ne šalje](/AlchemyInsights/workflow-email-not-being-sent) | izmenio |
+| 7/8/2019 | [Tok posla se ne pokreće](/AlchemyInsights/workflow-is-not-starting) | izmenio |
+| 7/8/2019 | [Zaštitu napredna opasnost u SharePoint i OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | izmenio |
+| 7/8/2019 | [Povezivanje na lokaciji čvorišta](/AlchemyInsights/associate-a-hub-site) | izmenio |
+| 7/8/2019 | [Kreiranje SharePoint lokacije](/AlchemyInsights/create-a-sharepoint-site) | izmenio |
+| 7/8/2019 | [Moderna lokaciju kao osnovne lokacije](/AlchemyInsights/modern-site-as-the-root-site) | izmenio |
+| 7/8/2019 | [OneDrive zadržavanja i brisanja](/AlchemyInsights/one-drive-retention-and-deletion) | izmenio |
+| 7/8/2019 | [OneDrive uobičajene probleme i rezolucije](/AlchemyInsights/onedrive-common-issues-and-resolutions) | izmenio |
+| 7/8/2019 | [Ransomware napad u SharePoint ili OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | izmenio |
+| 7/8/2019 | [Dijeljenje na internetu u sistemu SharePoint iz spoljašnjeg izvora](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | izmenio |
+| 7/8/2019 | [Kreiranje verzija u SharePoint i OneDrive](/AlchemyInsights/sharepoint-enable-versioning-list-library) | izmenio |
+| 7/8/2019 | [Eksterni kontakt nije u stanju da prihvati deljenja pozivu](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | izmenio |
+| 7/8/2019 | [SharePoint Online uobičajene probleme i rezolucije](/AlchemyInsights/sharepoint-get-started-faq) | izmenio |
+| 7/8/2019 | [Moderna lokaciju kao osnovne lokacije](/AlchemyInsights/sharepoint-modernize-classic-site) | izmenio |
+| 7/8/2019 | [Preuzimanje ili sprečavanje preuzimanja datoteka iz OneDrive ili SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | izmenio |
+| 7/8/2019 | [Instalacije, instalacije, i da sinhronizujete OneDrive ili SharePoint datoteke na Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | izmenio |
+| 7/8/2019 | [Rešavanje problema sa „Otvori s Explorer” u SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | izmenio |
+| 8/8/2019 | [Zaštitu napredna opasnost u SharePoint i OneDrive](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | izmenio |
+| 8/8/2019 | [Povezivanje na lokaciji čvorišta](/AlchemyInsights/associate-a-hub-site) | izmenio |
+| 8/8/2019 | [Kreiranje SharePoint lokacije](/AlchemyInsights/create-a-sharepoint-site) | izmenio |
+| 8/8/2019 | [Greška 404: Datoteka nije pronađena](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | izmenio |
+| 8/8/2019 | [Popravi problemi pri sinhronizaciji OneDrive na Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | izmenio |
+| 8/8/2019 | [Mapa SharePoint biblioteke sa mrežnom disk jedinicom](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | izmenio |
+| 8/8/2019 | [Moderna lokaciju kao osnovne lokacije](/AlchemyInsights/modern-site-as-the-root-site) | izmenio |
+| 8/8/2019 | [OneDrive zadržavanja i brisanja](/AlchemyInsights/one-drive-retention-and-deletion) | izmenio |
+| 8/8/2019 | [Ransomware napad u SharePoint ili OneDrive](/AlchemyInsights/ransomware-attack-in-sharepoint) | izmenio |
+| 8/8/2019 | [Vraćanje izbrisanih datoteka ili fascikla](/AlchemyInsights/sharepoint-deleted-items-restore) | izmenio |
+| 8/8/2019 | [Spoljni korisnik nije u mogućnosti da pristupe sadržaju na SharePoint Online](/AlchemyInsights/sharepoint-external-sharing-issues) | izmenio |
+| 8/8/2019 | [Pregled lokacija čvorišta SharePoint](/AlchemyInsights/sharepoint-hub-sites) | izmenio |
+| 8/8/2019 | [Preuzimanje ili sprečavanje preuzimanja datoteka iz OneDrive ili SharePoint](/AlchemyInsights/sharepoint-onedrive-download-files) | izmenio |
+| 8/8/2019 | [Upravljanje šema pretraživanja u SharePoint Online](/AlchemyInsights/sharepoint-search-schema) | izmenio |
+| 8/8/2019 | [Korake da biste kreirali tok posla SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | izmenio |
+| 8/8/2019 | [Razmenite tvoj Classic osnovna lokacija sa modernim lokacije](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | izmenio |
+| 8/8/2019 | [Rešavanje problema sa „Otvori s Explorer” u SharePoint Online](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | izmenio |
+| 8/8/2019 | [Rešavanje problema toka posla](/AlchemyInsights/workflow-troubleshooting) | izmenio |
+| 8/8/2019 | [Omogući i pretragu revizije evidencije](/AlchemyInsights/enable-auditing) | izmenio |
+| 8/8/2019 | [Omogući, i pretražujete evidenciju nadgledanja](/AlchemyInsights/enable-auditing) | izmenio |

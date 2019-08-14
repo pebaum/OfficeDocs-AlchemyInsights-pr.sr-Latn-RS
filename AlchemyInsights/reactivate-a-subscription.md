@@ -13,21 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 401e9785398e04816040453655178c6afb93898b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370581"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36391066"
 ---
 # <a name="reactivate-a-subscription"></a>Ponovo aktivirajte pretplatu
 
-Ako vaša pretplata istekne, je onemogućio Microsoft, ili ti je otkazao usred termin za pretplatu, možete ga ponovo aktivirati u admin centru za Microsoft 365.
+Ako vaša pretplata istekne, je onemogućio Microsoft, ili ti je otkazao usred termin za pretplatu, možete ga ponovo aktivirati u admin centru.
   
-1. U centru administracije idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite stavke **Naplata** \> **Pretplate**.
+1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
 
 2. Odaberite pretplatu koju želite da ponovo aktivirate, a zatim odaberite **ponovo aktivirati**.
 
     Ako ne vidite **ponovo aktivirati** kao dostupne radnje, koristite opciju „pusti nas zvati” razgovarati s inženjera za podršku da biste ponovo aktivirali pretplatu.
 
 3. Unesite svoje detalje plaćanja. Možete da ažurirate svoje postojeće informacije o plaćanju ovde.
+
+Koristite novi administrativni centar? Novi koraci, potražite [ponovo aktivirati pretplatu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

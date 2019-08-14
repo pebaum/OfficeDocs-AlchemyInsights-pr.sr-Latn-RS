@@ -13,16 +13,16 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: 156b1b9563f2996dd4c9303ea1506e4c5e74917c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371224"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388614"
 ---
 # <a name="prepaid-renewal"></a>Prepaid obnove
 
-1. U centru administracije idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite stavke **Naplata** \> **Pretplate**.
+1. U centru za Admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
 
 2. Odaberite avansnu uplatu pretplate želite da proširite, a zatim odaberite **Proširi**.
 
@@ -33,3 +33,5 @@ ms.locfileid: "35371224"
 5. Uverite se da su informacije ispravne, a zatim odaberite **dalje**.
 
 6. Odaberite dugme "radio" da proširi datum završetka postojeće licence, a zatim odaberite **dalje**.
+
+Koristite novi administrativni centar? Novi koraci, potražite [Dodaj licence da ili da se proširi pretplatu platili koristite šifru proizvoda](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

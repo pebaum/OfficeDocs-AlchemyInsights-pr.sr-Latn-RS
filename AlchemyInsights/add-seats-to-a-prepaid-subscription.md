@@ -13,16 +13,16 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358555"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385626"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mesta u pretplatu za avansnu uplatu
 
-1. U centru administracije idite na stranicu [Pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) ili odaberite stavke **Naplata** \> **Pretplate**.
+1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
 
 2. Odaberite avansnu uplatu pretplate želite da dodate korisnike.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358555"
 6. Unesite šifru proizvoda, a zatim odaberite **dalje**.
 
 7. Odaberite opciju da biste dodali još korisnika, odaberite **dalje**, a zatim odaberite **Redeem**.
+
+Koristite novi administrativni centar? Novi koraci, potražite [Dodaj licence da ili da se proširi pretplatu platili koristite šifru proizvoda](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

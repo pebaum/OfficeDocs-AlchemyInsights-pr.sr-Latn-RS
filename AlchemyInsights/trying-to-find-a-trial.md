@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366763"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387858"
 ---
 # <a name="trying-to-find-a-trial"></a>Pokušaju pronalaženja suđenje?
 
-Ako biste želeli da probam novi servis možete pronaći spisak pretplata dostupna za suđenje u centru za admin Microsoft 365.
+Ako biste želeli da probam novi servis možete pronaći spisak pretplata dostupna za suđenje u admin centar.
   
-1. Idite na stranicu [Usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) ili odaberite **naplate** \> **usluge nabavke**.
+1. U centru za admin, pređite na **obračunu** \> stranicu [Usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
 2. Pronalaženje pretplatu koja odgovara vašim potrebama, miša preko njega, i odaberite **Start besplatnu probnu**.
 
