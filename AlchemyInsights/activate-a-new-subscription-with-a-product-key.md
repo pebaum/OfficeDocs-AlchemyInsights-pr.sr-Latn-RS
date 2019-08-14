@@ -13,17 +13,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 7907f873e6873239c0a981432036899c5b917728
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1a822ddcb382d21dc6045b12db9762cecd4e5f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359491"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385770"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="c32dc-102">Aktivirajte pretplatu za nova sa product key</span><span class="sxs-lookup"><span data-stu-id="c32dc-102">Activate a new subscription with a product key</span></span>
+# <a name="activate-a-new-subscription-with-a-product-key"></a><span data-ttu-id="edfcf-102">Aktivirajte pretplatu za nova sa product key</span><span class="sxs-lookup"><span data-stu-id="edfcf-102">Activate a new subscription with a product key</span></span>
 
-1. <span data-ttu-id="c32dc-103">Da biste aktivirali novu pretplatu sa proizvoda, pređite na [https://office.com/setupkey](https://office.com/setupkey) stranicu.</span><span class="sxs-lookup"><span data-stu-id="c32dc-103">To activate a new subscription with your product key, go to the [https://office.com/setupkey](https://office.com/setupkey) page.</span></span> 
-    
-2. <span data-ttu-id="c32dc-104">Unesite šifru proizvoda Office 365 i pratite odzivnike da aktivirate svoju pretplatu.</span><span class="sxs-lookup"><span data-stu-id="c32dc-104">Enter your Office 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="c32dc-105">Ako imate problema sa aktiviranjem, vidi ovu [listu uobičajenih grešaka ključa proizvoda i rešenja](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span><span class="sxs-lookup"><span data-stu-id="c32dc-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://support.office.com/article/88d337ab-e7b1-43eb-a25e-7d6204e91099).</span></span>
-    
+1. <span data-ttu-id="edfcf-103">Da biste aktivirali novu pretplatu sa proizvoda, pređite na [https://office.com/setupkey](https://office.com/setupkey) stranicu.</span><span class="sxs-lookup"><span data-stu-id="edfcf-103">To activate a new subscription with your product key, go to the [https://office.com/setupkey](https://office.com/setupkey) page.</span></span>
 
+2. <span data-ttu-id="edfcf-104">Unesite šifru proizvoda Office 365 i pratite odzivnike da aktivirate svoju pretplatu.</span><span class="sxs-lookup"><span data-stu-id="edfcf-104">Enter your Office 365 product key and follow the prompts to activate your subscription.</span></span> <span data-ttu-id="edfcf-105">Ako imate problema sa aktiviranjem, vidi ovu [listu uobičajenih grešaka ključa proizvoda i rešenja](https://docs.microsoft.com/en-us/office365/admin/misc/product-key-errors-and-solutions).</span><span class="sxs-lookup"><span data-stu-id="edfcf-105">If you have problems with activation, check out this [list of common product key errors and solutions](https://docs.microsoft.com/en-us/office365/admin/misc/product-key-errors-and-solutions).</span></span>

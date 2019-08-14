@@ -13,14 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e8da624ce045d31cf67dfbdf51cc06bf126f2ac0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371050"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388506"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="ed9a6-102">Cena ne izgleda ispravno?</span><span class="sxs-lookup"><span data-stu-id="ed9a6-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="fe2d2-102">Cena ne izgleda ispravno?</span><span class="sxs-lookup"><span data-stu-id="fe2d2-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="ed9a6-103">Ako cena na fakturi ne izgleda ispravno, ovo može biti zbog promena cena na obnovu.</span><span class="sxs-lookup"><span data-stu-id="ed9a6-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="ed9a6-104">Ako mislite da to ne objašnjava ovo pitanje, koristite opciju „pusti nas zvati” razgovarati s inženjera za podršku.</span><span class="sxs-lookup"><span data-stu-id="ed9a6-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+<span data-ttu-id="fe2d2-103">Ako cena na fakturi ne izgleda ispravno, ovo može biti zbog promena cena na obnovu.</span><span class="sxs-lookup"><span data-stu-id="fe2d2-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="fe2d2-104">Ako mislite da to ne objašnjava ovo pitanje, koristite opciju „pusti nas zvati” razgovarati s inženjera za podršku.</span><span class="sxs-lookup"><span data-stu-id="fe2d2-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
