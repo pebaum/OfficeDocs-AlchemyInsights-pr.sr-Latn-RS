@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397948"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505845"
 ---
 # <a name="outlook-search-not-indexing"></a>Outlook pretrage ne indeksiranja
 
 Svesni smo Outlook pretragu pitanja vezanih za nedavni bezbednosnih ispravki za Windows.
   
-Prilikom pretraživanja u programu Outlook, možda dobijete ovu grešku: ** nešto krenulo po zlu i vaša pretraga mogla biti dovršena **, ili **Rezultati pretrage možda biti nepotpuni jer se stavke još indeksiraju**. Fix je izdat kao opcionalna ispravka operativnog sistema Windows. Instalirajte ta koja odgovara na verziju operativnog sistema Windows se pojavljuje ovaj problem na: 
+Prilikom pretraživanja u programu Outlook, možda dobijete jednu od ovih grešaka: **nešto je krenulo naopako i mogao dovršiti pretraživanje**ili **Rezultati pretrage možda biti nepotpuni jer se stavke još indeksiraju**. Fix je izdat kao opcionalna ispravka operativnog sistema Windows. Instalirajte ta koja odgovara na verziju operativnog sistema Windows se pojavljuje ovaj problem na: 
   
 > [Windows 7 - 27 juna 2017 ažuriranje](https://support.microsoft.com/kb/4022168.aspx)
     

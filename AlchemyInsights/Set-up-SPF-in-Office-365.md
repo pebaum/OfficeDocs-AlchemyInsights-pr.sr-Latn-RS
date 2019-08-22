@@ -9,14 +9,16 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 542d1c91b87e6d7b918d091f463cf56697213778
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389613"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496017"
 ---
-Da biste postavili sve lozinke nikada ne ističe, idite na [bezbednosti &amp; privatnost](https://portal.office.com/adminportal/home#/settings/security). Kliknite na dugme **Uredi** pored **Smernice za lozinke**i uključite klizač **na**u.
+# <a name="set-passwords-to-never-expire"></a>Postavljanje lozinke nikada ne ističe 
+
+Da biste postavili sve lozinke nikada ne ističe, u centru za admin Microsoft 365, idite na **Postavke** > [bezbednosti &amp; privatnost](https://portal.office.com/adminportal/home#/settings/security) stranicu. Izaberite **Uredi** pored **smernice za lozinke**i uključite klizač **na**u.
   
 Za detaljnije informacije pogledajte: [podesite smernice za rok važenja lozinke za vašu organizaciju.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
   

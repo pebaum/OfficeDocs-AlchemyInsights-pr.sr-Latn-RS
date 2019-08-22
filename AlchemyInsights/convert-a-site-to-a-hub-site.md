@@ -11,12 +11,12 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: bdb4997d6e3b837725d766565c39201ff7c3b04d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364667"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516757"
 ---
 # <a name="create-a-sharepoint-hub-site"></a>Kreiranje SharePoint lokacije čvorišta
 
@@ -27,7 +27,7 @@ ms.locfileid: "35364667"
 3. Unesite ime za prikaz lokacije čvorišta i navesti pojedinačne korisnike ili bezbednosne grupe koje želite da dozvolite da pridružite lokacija čvorišta.
 
     > [!NOTE]
-    >  Preporučuje se da izaberete lokaciju za komunikaciju ili lokaciji tima koji koristi novi predložak. Ako koristite lokaciju klasični tima, čvorište navigaciju će se pojaviti samo na modernu stranicama i čvorište postavke lokacije će se pojaviti samo na modernu stranicama. > lokacije koje su već povezani sa drugom čvorište mogu biti registrovani kao čvorište lokacija.
+    >  Preporučuje se da izaberete lokaciju za komunikaciju ili lokaciji tima koji koristi novi predložak. Ako koristite lokaciju klasični tima, čvorište navigaciju će se pojaviti samo na modernu stranicama i čvorište postavke lokacije će se pojaviti samo na modernu stranicama. Lokacije koje su već povezani sa drugom čvorište mogu biti registrovani kao čvorište lokacija.
   
 [Saznajte više o lokacijama čvorište](https://go.microsoft.com/fwlink/?linkid=869149)
   
