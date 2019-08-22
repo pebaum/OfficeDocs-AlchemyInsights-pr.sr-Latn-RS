@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 44e254521a47aa1ca1fe0dc73aaad95d620542f8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ad3b921941c6cfa09a49952707af50f027e7e75b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384299"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540231"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="832d2-102">Kako da instalirate Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="832d2-102">How to install Office on an iPhone</span></span>
+# <a name="how-to-install-office-on-an-iphone"></a><span data-ttu-id="a6cc4-102">Kako da instalirate Office na iPhone</span><span class="sxs-lookup"><span data-stu-id="a6cc4-102">How to install Office on an iPhone</span></span>
 
-- <span data-ttu-id="832d2-103">Da je korisnik [tapnite na vezu za preuzimanje](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) iz njihov mobilni uređaj, za Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="832d2-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="a6cc4-103">Da je korisnik [tapnite na vezu za preuzimanje](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) iz njihov mobilni uređaj, za Word, Excel, PowerPoint i OneNote.</span><span class="sxs-lookup"><span data-stu-id="a6cc4-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="832d2-104">Imaju korisnika pokrenite aplikaciju, tapnite na dugme **Prijavite se** i unesite svoj rad ili školu akreditive.</span><span class="sxs-lookup"><span data-stu-id="832d2-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="a6cc4-104">Imaju korisnika pokrenite aplikaciju, tapnite na dugme **Prijavite se** i unesite svoj rad ili školu akreditive.</span><span class="sxs-lookup"><span data-stu-id="a6cc4-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
