@@ -13,20 +13,20 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 5d3c93a1e78d3481394a39aa484bf2cdd1435be2
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354775"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36502740"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="6784f-102">Upravljanje SharePoint Online skladište</span><span class="sxs-lookup"><span data-stu-id="6784f-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="ae4e9-102">Upravljanje SharePoint Online skladište</span><span class="sxs-lookup"><span data-stu-id="ae4e9-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="6784f-103">Za većinu organizacija, SharePoint skladišta se upravlja automatski tako da ne morate da postavite ograničenja po kolekciji lokacija.</span><span class="sxs-lookup"><span data-stu-id="6784f-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="6784f-104">Da biste proverili koliko prostora za skladištenje SharePoint imate:</span><span class="sxs-lookup"><span data-stu-id="6784f-104">To check how much SharePoint storage you have:</span></span>
+<span data-ttu-id="ae4e9-103">Za većinu organizacija, SharePoint skladišta se upravlja automatski tako da ne morate da postavite ograničenja po kolekciji lokacija.</span><span class="sxs-lookup"><span data-stu-id="ae4e9-103">For most organizations, SharePoint storage is managed automatically so you don't need to set limits per site collection.</span></span> <span data-ttu-id="ae4e9-104">Da biste proverili koliko prostora za skladištenje SharePoint imate:</span><span class="sxs-lookup"><span data-stu-id="ae4e9-104">To check how much SharePoint storage you have:</span></span>
   
-- <span data-ttu-id="6784f-105">U novu SharePoint admin centru, na gornjem redu na stranici "lokacije", potražite dostupne i ukupan prostor za skladištenje.</span><span class="sxs-lookup"><span data-stu-id="6784f-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
+- <span data-ttu-id="ae4e9-105">U novu SharePoint admin centru, na gornjem redu na stranici "lokacije", potražite dostupne i ukupan prostor za skladištenje.</span><span class="sxs-lookup"><span data-stu-id="ae4e9-105">In the new SharePoint admin center, in the upper right of the sites page, look for your available and total storage.</span></span>
 
-<span data-ttu-id="6784f-106">Info o kako se izračunava svoj limit, potražite [SharePoint Online ograničenja](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="6784f-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="6784f-107">Kupiti dodatni prostor za skladištenje, vidim [Promena prostora za skladištenje za svoju pretplatu](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="6784f-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
+<span data-ttu-id="ae4e9-106">Info o kako se izračunava svoj limit, potražite [SharePoint Online ograničenja](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span><span class="sxs-lookup"><span data-stu-id="ae4e9-106">For info about how your limit is calculated, see [SharePoint Online Limits](https://go.microsoft.com/fwlink/p/?LinkID=856113).</span></span> <span data-ttu-id="ae4e9-107">Kupiti dodatni prostor za skladištenje, vidim [Promena prostora za skladištenje za svoju pretplatu](https://go.microsoft.com/fwlink/?linkid=866428).</span><span class="sxs-lookup"><span data-stu-id="ae4e9-107">To buy extra storage, see [Change storage space for your subscription](https://go.microsoft.com/fwlink/?linkid=866428).</span></span>
   
-<span data-ttu-id="6784f-108">Info o nadgledanju skladište na pojedinačne lokacije koristeći PowerShell i upravljanje ručno, za skladištenje kolekcija lokacija potražite u odeljku [ograničenje skladištenja za upravljanje lokacijom kolekcije](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="6784f-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
+<span data-ttu-id="ae4e9-108">Info o nadgledanju skladište na pojedinačne lokacije koristeći PowerShell i upravljanje ručno, za skladištenje kolekcija lokacija potražite u odeljku [ograničenje skladištenja za upravljanje lokacijom kolekcije](https://go.microsoft.com/fwlink/?linkid=867833)</span><span class="sxs-lookup"><span data-stu-id="ae4e9-108">For info about monitoring the storage of individual sites using PowerShell and managing site collection storage manually, see [Manage site collection storage limits](https://go.microsoft.com/fwlink/?linkid=867833)</span></span>
   
