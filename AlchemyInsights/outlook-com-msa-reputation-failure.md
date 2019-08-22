@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1979"
 - "9000345"
-ms.openlocfilehash: d241612ec41247c36aa5806429c5b7b547e02098
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: 9a96bb18d06814164cd54e8183f67f2d2db55eac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701301"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546101"
 ---
 # <a name="account-locked"></a>Nalog je zaključan
 
-Ako vidite poruku „vaš nalog zaključan” pri pokušaju da se prijavite u, to je jer smo primetili neke neobiиnu aktivnost na vašem računu. Da vas zaštiti od potencijalne prevare ili zloupotrebe, privremeno smo zaključan vaš nalog. Znamo da ovo frustrira, ali nam mogu da vam pomognem da vratite svom nalogu sa samo nekoliko koraka.
+Ako vidite poruku „vaš nalog zaključan” pri pokušaju da se prijavite na Outlook.com, to je zato što smo primetili neke neobiиnu aktivnost na vašem računu. Da vas zaštiti od potencijalne prevare ili zloupotrebe, privremeno smo zaključan vaš nalog. Znamo da ovo frustrira, ali nam mogu da vam pomognem da vratite svom nalogu sa samo nekoliko koraka.
 
 1. Idite na [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) i prijavite se na nalog zaključan.Da biste otključali svoj nalog, morate da unesete sigurnosni kod koje se nalaze u tekstualnu poruku od korporacije Microsoft. Da biste dobili tekstualnu poruku, morate imati telefon koji podržava tekstualne poruke. Ako tvoj telefon ne podržava tekstualnih poruka, pitajte prijatelja ili člana porodice da koristiš njihov telefon. Microsoft ne čuva ovaj telefonski broj, tako da broj telefona koji koristite za prijem poruka ovog teksta ne treba da bude povezan sa vašim nalogom.
 2. Ako vidite poruku „Upotreba ograničenje je prekoračeno”, idite na [Račun povratak](https://go.microsoft.com/fwlink/?linkid=2090483) i jedan od naših agenata će razmotriti vaš nalog.
