@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom:
 - "1977"
 - "9000343"
-ms.openlocfilehash: a78ef48aa92cbcfa27f14aa755e4810e410dddc1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 22d5e2b24ac9bdd70b0bb0a9a6e1a0af29ef2c0f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367246"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533929"
 ---
 # <a name="troubleshoot-onedrive-performance"></a>Rešavanje problema sa performansama OneDrive
 

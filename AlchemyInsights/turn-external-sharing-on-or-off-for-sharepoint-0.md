@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: ff481944428f2a67dd4f72b91212db7c33f53632
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: de91c62ad894ac247d6c2a40c3fa745972ce42da
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389970"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533258"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint
 
-1. U centru za admin Microsoft 365, idite do [usluge &amp; programske dodatke stranice](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), i kliknite na **lokacijama**.
+1. U centru za admin Microsoft 365, idite na **Postavke** >[usluge &amp; programske dodatke stranice](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), i izaberite **SharePoint**.
     
 2. Postavku da uključite ili isključite, ili izaberite opciju za deljenje ako je uključen.
     
 > [!NOTE]
-> Isključivanje deljenja za SharePoint isključuje za OneDrive. Da biste dozvolili spoljni dijeljenje na bilo kojoj lokaciji, postavke vašeg širom organizacije moraju biti na. > da omogućite spoljnim dijeljenje za OneDrive ili bilo koji pojedinačni SharePoint lokacije, morate da uključite ga širom organizacije za SharePoint. Zatim možete ga isključiti za određene kolekcije. Da biste upravljali spoljni postavke deljenja za komunikacije i lokacije koje pripadaju grupama Office 365, morate koristiti novu SharePoint admin centar ili PowerShell. Za više informacija o upravljanju spoljni postavke deljenja, vidim [pretvoriti spoljni Uključivanje ili isključivanje deljenja](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Isključivanje deljenja za SharePoint isključuje za OneDrive. Da biste dozvolili spoljni dijeljenje na bilo kojoj lokaciji, postavke vašeg širom organizacije moraju biti na. Da biste dozvolili spoljni dijeljenje za OneDrive ili bilo koji pojedinačni SharePoint lokacije, morate da uključite ga širom organizacije za SharePoint. Zatim možete ga isključiti za određene kolekcije. Da biste upravljali spoljni postavke deljenja za komunikacije i lokacije koje pripadaju grupama Office 365, morate koristiti novu SharePoint admin centar ili PowerShell. Za više informacija o upravljanju spoljni postavke deljenja, vidim [pretvoriti spoljni Uključivanje ili isključivanje deljenja](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Saznajte više o spoljnim deljenja u sistemu SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   

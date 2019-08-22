@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387596"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531265"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>Šta se desiti mojim podacima i programu access kada se završi moj Office 365 za poslovne pretplatu?
 
@@ -26,6 +26,6 @@ Ako se završava Vaša pretplata na Office 365 – zato što on istekne, ili zat
   
 Pre nego što je pretplata zapravo stigne do isteka roka, imate nekoliko opcija za **Upravljanje ponavljanja za naplatu za upis**.
   
-- Ako **periodično naplate** već uključen, nemoraš preduzme bilo kakvu akciju. Vaša pretplata biti naplaćen na datum njene **periodično fakturisanja** i bicete optuzeni za dodatnih godinu dana ili mesec dana, u zavisnosti od tvog trenutnog plaćanja frekvenciju. Ako iz bilo kog razloga ste isključili **Ponavljanje fakturisanja** , možete uvek [periodičnom obračunu na](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- Ako **periodično naplate** već uključen, nemoraš preduzme bilo kakvu akciju. Vaša pretplata biti naplaćen na datum njene **periodično fakturisanja** i bicete optuzeni za dodatnih godinu dana ili mesec dana, u zavisnosti od tvog trenutnog plaćanja frekvenciju. Ako iz bilo kog razloga ste isključili **Ponavljanje fakturisanja** , možete uvek [periodičnom obračunu na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- Ako ste za kupca otvorena količinsko licenciranje sa pretplatu za avansnu uplatu, godinu, obratite se partneru da kupite novu šifru proizvoda. Dobićete uputstva putem e-pošte da biste aktivirali ključ u [Volume Licensing servisni centar](https://go.microsoft.com/fwlink/p/?LinkID=282016). Da biste saznali kako da pronađete novog partnera ili partner radite sa u prošlosti, vidim [naći tvog partnera Office 365 ili prodavac](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).
+- Ako ste za kupca otvorena količinsko licenciranje sa pretplatu za avansnu uplatu, godinu, obratite se partneru da kupite novu šifru proizvoda. Dobićete uputstva putem e-pošte da biste aktivirali ključ u [Volume Licensing servisni centar](https://go.microsoft.com/fwlink/p/?LinkID=282016). Da biste saznali kako da pronađete novog partnera ili partner radite sa u prošlosti, vidim [naći tvog partnera Office 365 ili prodavac](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

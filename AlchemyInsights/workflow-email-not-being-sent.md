@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270686"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530902"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Tok posla e-mail ne šalje
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Tok posla e-mail ne šalje za SharePoint liste ili biblioteke
 
 1. Mejl od tokova posla ne šalju se svim korisnicima ili samo određenim korisnicima, ili vidite da je greška u **poruci e-pošte nije moguće poslati. Uverite se da e-poruka nema važećeg primaoca**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270686"
     - Ako je korisnik postoji u grupi dozvole, uverite se da je e-adresa tačna.
     - Ako e-adresa korisnika podešen ovde, zatim kreirajte primer obaveštenja za tog korisnika koje obavezuje sinhronizacije za taj korisnički nalog iz SharePoint profila korisnika u ovoj kolekciji lokacija.
  
-2. E-mail iz tokovi posla se šalju administratorima kolekcije lokacija, ali ne i ostalim korisnicima, i vidim grešku **HTTP zabranjeno da <spam> <spam> ** <spam> <spam>.
+2. E-mail iz tokovi posla se šalju administratorima kolekcije lokacija, ali ne i ostalim korisnicima, i vidim grešku **HTTP zabranjeno da <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Vidim [Zabranjen pristup kada poslate e-poruke za grupe](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Vidim [Zabranjen pristup kada šaljete e-mail na SharePoint grupa](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Takođe, proverite da li funkciju kolekcije lokacija je **ograničen pristup korisnika dozvola pritajili** nije aktivan.
 

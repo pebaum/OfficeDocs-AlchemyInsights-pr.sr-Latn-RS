@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 174d4f364b9266f8ba8d51522b0956eddc61ea9e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387782"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532597"
 ---
 # <a name="update-payment-details"></a>Ažuriranje detalja o plaćanju
 
-1. U centru administracije, idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806).
+1. U Microsoft 365 centru administracije, idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806)stranicu.
 
     > [!NOTE]
     > Ako se javi petlja koja vas vraća na početnu stranu administracije pre dovršavanja ažuriranja, pokušajte da pokrenete InPrivate ili Incognito režim.
@@ -31,10 +31,10 @@ ms.locfileid: "36387782"
     > [!NOTE]
     > Ako je drugi administrator dodao ovaj način plaćanja, nećete moći za njega da ažurirate informacije kreditne kartice ili bankovnog računa. Ako kartica ističe, a drugi administrator ne može da je ažurira, prekid pružanja usluge možete da sprečite tako što ćete dodati informacije o drugoj kreditnoj kartici ili bankovnom računu za tu pretplatu tako što ćete da izaberete opciju **Dodaj način plaćanja**.
   
-3. Na stranici **Detalji plaćanja** odaberite stavku **Uređivanje detalja plaćanja**.
+3. U oknu **Detalji o načinu plaćanja** izaberite stavku **Uredi**. 
 
 4. Izvršite izmene, a zatim odaberite opciju **Čuvanje**.
 
 5. Da biste uklonili ovaj način plaćanja, odaberite **Brisanje**.
 
-Dodatne informacije potražite u člancima [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u usluzi Office 365 za preduzeća](https://docs.microsoft.com/sr-latn-RS/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Rešavanje problema sa kreditnim karticama i bankovnim računima](https://docs.microsoft.com/sr-latn-RS/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Dodatne informacije potražite u člancima [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili bankovnog računa u usluzi Office 365 za preduzeća](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) i [Rešavanje problema sa kreditnim karticama i bankovnim računima](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

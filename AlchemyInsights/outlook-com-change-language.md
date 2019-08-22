@@ -13,14 +13,14 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 133cf9ba507e551d00a3f109f7e3ef7bddc7abed
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2c50650d25fc826a00e198fda2aab6f126db95ac
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35376361"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537363"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone"></a>Promena jezika, datum i format vremena ili vremenske zone
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a>Promena jezika, datum i format vremena ili vremenske zone u Outlook.com
 
 1. Otvori tvoj [jezik i postavke vremena](https://go.microsoft.com/fwlink/?linkid=2085505).
 1. Izaberite jezik, format datuma, format vremena i vremenske zone koju želite da koristite.
