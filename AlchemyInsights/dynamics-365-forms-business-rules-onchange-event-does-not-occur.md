@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1926"
 - "6200018"
-ms.openlocfilehash: 4ade8d2f68b465298e2d6efff3eef4f04f25c3bf
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: cbdedd2c5fcf5517243e60e36d86479d6c3f7814
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35748623"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36529033"
 ---
 # <a name="onchange-event-does-not-occur-if-the-field-is-changed-programmatically"></a>Događaj OnChange ne dolazi ako polje je promenjeno programsko
 
-Događaj *OnChange* ne dolazi ako je promeniti polje programsko koristeći se *atributa.* [setValue](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metod. Ako želite događajem za događaj *OnChange* da pokrenete nakon što ste postavili vrednost morate koristiti u *atribut formContext.data.entity.* [fireOnchange](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metod u kodu.
+Događaj *OnChange* ne dolazi ako je promeniti polje programsko koristeći se *atributa.* [setValue](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/setvalue) metod. Ako želite događajem za događaj *OnChange* da pokrenete nakon što ste postavili vrednost morate koristiti u *atribut formContext.data.entity.* [fireOnchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/attributes/fireonchange) metod u kodu.
 
-[https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)
+[https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange](https://docs.microsoft.com/dynamics365/customer-engagement/developer/clientapi/reference/events/attribute-onchange)

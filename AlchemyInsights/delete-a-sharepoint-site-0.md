@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406326"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514073"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje lokacije koje pripadaju grupi programa Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje lokacije koje pripadaju grupi programa Office 365
 
 Kada korisnici kreiraju nove lokacije tima iz SharePoint doma ili da kreirate novu lokaciju tima iz novog centra za SharePoint admin, automatski se kreira odgovarajuću grupu Office 365. Office 365 tim povezana grupa takođe kreiraju lokacije kada kreirate grupu Office 365 ili tim u Microsoft Teams. Da biste izbrisali lokaciju SharePoint koja pripada grupi programa Office 365, potrebno je da izbrišete same grupe Office 365. 
   
@@ -34,7 +34,7 @@ Napomena: Prilikom brisanja grupe, može postojati kašnjenja pre nego što loka
 
 1. Idite na lokaciju.
   
-2. Kliknite na ** postavke ** ikonu u gornjem desnom. 
+2. Kliknite na ikonu " **Postavke** " u gornjem desnom. 
   
 3. Izaberite stavku **Postavke lokacije**. U okviru **Informacije o lokaciji** ili **Radnje na lokaciji**, kliknite na dugme **Izbriši ovu lokaciju**i izaberite stavku **Izbriši**.
   

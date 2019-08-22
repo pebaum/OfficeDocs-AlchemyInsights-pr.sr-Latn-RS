@@ -13,14 +13,14 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 62d67ad0ebaee202f41b0a0fa0e0c36f681588ac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385842"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510097"
 ---
-# <a name="receive-copy-of-your-billing-statement-in-email"></a>Dobiti kopiju fakturisanja izjavu u mejlu
+# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Dobiti kopiju programa Office 365 fakturisanja izjavu u mejlu
 
 Možete da primite kopiju fakturisanja izjavu kao prilog e-pošte. Ako vas, imajte na umu da:
   
@@ -32,4 +32,4 @@ Da biste primili fakturisanja izjavu u mejlu:
   
 1. U centru za admin, pređite na **obračunu** \> [naplate obaveštenja](https://go.microsoft.com/fwlink/p/?linkid=853212) stranice.
 
-2. Pod **da li želite da primate izjavu o obračunu kao prilog e-pošte?**, pređite na preklopnik **na**. Prestani da prima fakturisanja mejlovi izjavu u bilo kom trenutku ako se prebacite na preklopnik na **Isključeno**.
+2. Pod **dobiti izjavu o obračunu kao prilog e-pošte?**, pređite na preklopnik **na**. Prestani da prima fakturisanja mejlovi izjavu u bilo kom trenutku ako se prebacite na preklopnik na **Isključeno**.

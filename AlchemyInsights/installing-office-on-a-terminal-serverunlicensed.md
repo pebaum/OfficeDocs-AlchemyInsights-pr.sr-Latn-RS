@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381743"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498429"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Instaliranje sistema Office na Terminal servera
 
@@ -26,7 +26,7 @@ Za primenu Office 365 ProPlus na Windows serveru koristeći usluge udaljene radn
 
 - Potrebno je da omogućite [aktivacija deljenih računara](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ako želite da instalirate Office 365 ProPlus na RDS iz Office 365 portal, ** *koji koristi podrazumevane postavke instalacije* **, slijedite ove korake:
+Ako želite da instalirate Office 365 ProPlus na RDS sa Office 365 portala, ***koji koristi podrazumevane postavke instalacije***, slijedite ove korake:
   
 1. Pogledajte kakav plan Office 365, imate. [Saznajte kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ Ako želite da instalirate Office 365 ProPlus na RDS iz Office 365 portal, ** *k
 
 4. Na serveru RDS, prijavite se Office 365 portal sa administratorskim nalogom i [Instalirajte Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Nakon instaliranja Office, ** *ne otvori ili se prijavite u* ** da sve Office aplikacije.
+5. Nakon instaliranja Office, ***ne otvori ili se prijavite u*** bilo koji Office aplikacijama.
 
 6. Na serveru RDS, Omogućavanje aktivacije deljeni računar uređivanjem registra tako što ćete pratiti ove korake:
 
@@ -46,7 +46,7 @@ Ako želite da instalirate Office 365 ProPlus na RDS iz Office 365 portal, ** *k
 
 3. U programu Registry Editor, dodajte vrednost niske od **SharedComputerLicensing** sa postavkom 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. Na serveru RDS, ** *prijaviti se kao krajnji korisnik* ** i [Proverite da li deljeni računar aktivacija omogućena za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Na serveru RDS, ***prijaviti se kao krajnji korisnik*** i [da li deljeni računar aktivacija omogućena za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 Za više detalja o preduslovi, uputstva za instalaciju i Vodič kroz prilagođene instalacije pomoću alatke za primenu za Office, pogledajte [Korištenje Office 365 ProPlus pomoću usluge udaljene radne površine](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

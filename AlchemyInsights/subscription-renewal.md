@@ -13,25 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 0a60ea59daad5679f249fd52a15fe2262dee347b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388215"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501379"
 ---
 # <a name="subscription-recurring-billing"></a>Periodični naplate pretplate
 
-Ako vas zanima kada mesečni ili godišnja pretplata biti naplaćen (ako je uključena **za periodično fakturisanje** ) ili istekne (ako je **periodično naplate** isključeno):
+Ako vas zanima kada ti jednom mesečno ili godišnje pretplate na Office 365 biti naplaćen (ako je uključena **za periodično fakturisanje** ) ili istekne (ako je **periodično naplate** isključeno):
   
-1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
+1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
-2. Odaberite pretplate koje želite znati više o.
+2. Za pretplatu koju želite znati više o, pod **naplate**, pogledajte **Renews na** ili **Expiring na** datum.
 
-3. Na desnoj strani kartice pretplata je informacije o statusu pretplate, postavku **za periodično fakturisanje** i sledeći datum naplate ili prestanka važenja.
+4. Za promenu, izaberite **Uređivanje** , a zatim u oknu postavke **za periodično fakturisanje** , izaberite **ISKLJUČI** da biste ga isključili. Ako periodični naplate već isključen, izaberite **mesečni** ili **jednom** da biste ga uključili.
 
-4. Da nastavite da koristite usluge pored ovog datuma, pređite na **obračunu postavke periodično** preklopnik **na**. Status će prikazati datum sledećeg fakturisanja za upis.
-
-5. Da biste zaustavili servisa na ovaj datum, prebaciti na preklopnik za **periodično naplate** **van**. Status će prikazati datum isteka pretplate.
-
-Koristite novi administrativni centar? Novi koraci, potražite [ponavljanja za naplatu ili isključivanje je red](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Za više informacija, pogledajte [Red ponavljanja za naplatu ili isključivanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363833"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517045"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Sadržaj se ne pojavljuje u rezultatima pretraživanja za SharePoint
 
@@ -28,7 +28,7 @@ Sledite ove korake za rešavanje problema kada očekivani sadržaj se ne pojavlj
 
 3. Provjerite da na stranice, dokumenta ili prilagođene stranice raspored objavljuje kao na **glavnu verziju.** Pratite korak 3 u [Pretraga ne vrati sve rezultate u SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Proverite da li korisnik ima **dozvole** za pregled sadržaja. Sledite korake u [razumevanju nivoi dozvola u sistemu SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Proverite da li korisnik ima **dozvole** za pregled sadržaja. Sledite korake u [razumevanju nivoi dozvola u sistemu SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Ako šemi pretraživanja je promenjen, tako što ćete dodati novo upravljano svojstvo za uređivanje upravljanog svojstva, odnosno uklanjanjem upravljanog svojstva onda zahteva puzanja i biće potrebno ponovno indeksiranje. **Ponovno indeksiranje** sadržaja tako što ćete pratiti korake u [ručno zatražite pretraživanje i ponovno indeksiranje lokacije, u biblioteku ili listu](https://docs.microsoft.com/sharepoint/crawl-site-content). Ovo može potrajati, čekaj 24 sata pre provere rezultate ponovo.
 

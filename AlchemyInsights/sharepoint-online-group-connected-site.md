@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: f0126f7f753275e9bbf8c3a09a6af5faf9a27862
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6aea12d44a44a3e11eaf3fb1bd47ff3e9dbfd9e7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34758744"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507861"
 ---
-# <a name="create-group-connected-site-in-sharepoint-online"></a>Kreiranje grupe povezanih lokacija u SharePoint Online
+# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemi u povezivanju kreiranja ili grupe lokacije u SharePoint Online
 
 Postoji nekoliko uobičajenih problema naišao na povezivanju kreiranje ili ponovno Kreiranje grupe lokacija.
 
