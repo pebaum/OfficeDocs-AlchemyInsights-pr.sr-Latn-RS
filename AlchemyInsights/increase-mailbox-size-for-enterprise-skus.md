@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 49d2b7655cd086fd56f5a6fc45ac437b6ca95970
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412498"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499437"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Šta da radite ako veličinu poštanskog sandučeta, već je 100GB
 
@@ -26,7 +26,7 @@ Da biste omogućili arhiviranje e-pošte:
   
 1. U centru za admin Microsoft 365, idite na **Admin centri** \> **Exchange**. 
     
-2. Odaberite **primaoce** \> ** Poštanske sandučiće **, a zatim izaberite poštansko sanduče. 
+2. Odaberite **primaoce** \> **poštanskih sandučića**, a zatim izaberite poštansko sanduče. 
     
 3. U oknu sa detaljima u okviru **Arhiva na licu mesta**, odaberite **Omogući**. 
     
