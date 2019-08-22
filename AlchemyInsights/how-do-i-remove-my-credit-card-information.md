@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: d56062f049246fdf63bacfc5884453446d7286c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390310"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523165"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Kako da uklonim moje informacije o kreditnoj kartici?
 
-1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
+1. U centru za admin Microsoft 365, idite u **obračunu** \> stranice [načine plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806) .
 
-2. Izaberi bilo koji pretplate, a zatim odaberite **Ažuriranje detalji uplate**.
+2. Na stranici " **načini plaćanja** ", izaberi kreditne kartice ili računa u banci za brisanje.
 
-3. Odaberite padajuću strelicu pod **Dodaj ili izaberite način plaćanja**, izaberi kreditne kartice ili računa u banci koji želite da izbrišete, a zatim odaberite **Ukloni**.
-
-4. Odaberite **Ukloni** ponovo da biste izbrisali kreditne kartice ili računa u banci.
+3. Da biste uklonili kreditne kartice ili računa u banci, izaberite **Brisanje način plaćanja.**
 
 > [!NOTE]
-> Kreditne kartice ili računa u banci, možete ukloniti sve dok nemate razlike salda na kreditne kartice ili računa u banci, a ne koristite ga da plati za aktivnu pretplatu.
+> Neće moći da uklonite kreditnih kartica ili računa u banci ako ga trenutno koristi da platite za pretplatu.
 
-Koristite novi administrativni centar? Novi koraci, potražite [Dodavanje, ažuriranje, ili uklanjanje kreditne kartice ili računa u banci u Office 365 za posao](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+4. U oknu za **Brisanje način plaćanja** izaberite stavku **Izbriši**.
+
+Za više informacija, pogledajte [Dodavanje, ažuriranje, ili uklanjanje kreditne kartice ili računa u banci u Office 365 za posao](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

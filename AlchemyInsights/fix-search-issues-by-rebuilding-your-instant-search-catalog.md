@@ -13,16 +13,16 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: f29d2b256f7cf0dbb39283724532194ecd1edb77
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: dc0bf1e51e603a63904d0478fe7bdc13019eac26
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35387431"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36524893"
 ---
 # <a name="troubleshoot-search-issues"></a>Rešavanje problema za pretragu
 
-Ako imate problema sa pretragom, molim vas potražite ispod za pomoć za rešavanje problema.
+Ako imate problema sa pretragom u programu Outlook, molim vas potražite ispod za pomoć za rešavanje problema.
 
 Ovo su najčešći problemi, a dobro mesto za početak:
 
