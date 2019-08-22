@@ -13,17 +13,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: fb33ec7a6c04f3794980499ad215bd09dbbf16c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: a6cfdd6d9329b002d3bc55b6eeff02a25157aa18
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361720"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519853"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a><span data-ttu-id="be92d-102">Nije moguće dodati ili kreiranje novog potpisa u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="be92d-102">Cannot add or create a new signature in Outlook</span></span>
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a><span data-ttu-id="ab2fd-102">Nije moguće dodati ili kreiranje novog potpisa u programu Outlook</span><span class="sxs-lookup"><span data-stu-id="ab2fd-102">Cannot add or create a new signature in Outlook</span></span>
 
-<span data-ttu-id="be92d-103">Ovo je poznat problem.</span><span class="sxs-lookup"><span data-stu-id="be92d-103">This is a known issue.</span></span> <span data-ttu-id="be92d-104">Mi radimo da ga popravim i status će se ažurirati u [Outlook se zamrzava kada kliknete na dugme za potpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span><span class="sxs-lookup"><span data-stu-id="be92d-104">We're working to fix it and the status will be updated in [Outlook freezes clicking the Signature button](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
+<span data-ttu-id="ab2fd-103">Ovo je poznat problem.</span><span class="sxs-lookup"><span data-stu-id="ab2fd-103">This is a known issue.</span></span> <span data-ttu-id="ab2fd-104">Mi radimo da ga popravim i status će se ažurirati u [Outlook se zamrzava kada kliknete na dugme za potpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span><span class="sxs-lookup"><span data-stu-id="ab2fd-104">We're working to fix it and the status will be updated in [Outlook freezes clicking the Signature button](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
 
-<span data-ttu-id="be92d-105">Da biste rešili ovaj problem, prvo [pokušajte korake](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) da biste deinstalirali unapred instalirane Microsoft Office radna površina Apps.</span><span class="sxs-lookup"><span data-stu-id="be92d-105">To work around this issue, first [try the steps](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) to uninstall the pre-installed Microsoft Office Desktop Apps.</span></span> 
+<span data-ttu-id="ab2fd-105">Da biste rešili ovaj problem, prvo [pokušajte korake](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) da biste deinstalirali unapred instalirane Microsoft Office radna površina Apps.</span><span class="sxs-lookup"><span data-stu-id="ab2fd-105">To work around this issue, first [try the steps](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) to uninstall the pre-installed Microsoft Office Desktop Apps.</span></span> 
 
-<span data-ttu-id="be92d-106">Ako to ne upali za automat s pogođenim, pokušajte [zasnovane na registratoru zaobilazno rješenje](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span><span class="sxs-lookup"><span data-stu-id="be92d-106">If that doesn’t work for the affected machine, please try the [registry-based workaround](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>
+<span data-ttu-id="ab2fd-106">Ako to ne upali za automat s pogođenim, pokušajte [zasnovane na registratoru zaobilazno rješenje](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span><span class="sxs-lookup"><span data-stu-id="ab2fd-106">If that doesn’t work for the affected machine, please try the [registry-based workaround](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).</span></span>

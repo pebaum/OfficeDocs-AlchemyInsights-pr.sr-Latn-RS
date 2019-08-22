@@ -11,33 +11,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5d0b5d9b87712d6ec6a98ee175f952964e87ed80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9007c4ee7484cb6fdf80e76c08720a5723bfa20a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388655"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527809"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="7578f-102">Omogući za sanduče arhive</span><span class="sxs-lookup"><span data-stu-id="7578f-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="88c25-102">Omogući za sanduče arhive</span><span class="sxs-lookup"><span data-stu-id="88c25-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="7578f-103">Arhiva poštanskih sandučića u Office 365 (naziva se i *Online arhivu* ) obezbeđuju korisnicima dodatne email za skladištenje.</span><span class="sxs-lookup"><span data-stu-id="7578f-103">Archive mailboxes in Office 365 (also called  *Online Archives*  ) provide users with additional email storage.</span></span> <span data-ttu-id="7578f-104">Korisnici mogu da premestite ili kopirate stavke u poštanskom sandučetu arhive i admini mogu da kreiraju smernice za arhiviranje koje automatski premešta stavke za arhiviranje poštanskih sandučića.</span><span class="sxs-lookup"><span data-stu-id="7578f-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
+<span data-ttu-id="88c25-103">Arhiva poštanskih sandučića u Office 365 (naziva se i *Online arhivu* ) obezbeđuju korisnicima dodatne email za skladištenje.</span><span class="sxs-lookup"><span data-stu-id="88c25-103">Archive mailboxes in Office 365 (also called  *Online Archives*  ) provide users with additional email storage.</span></span> <span data-ttu-id="88c25-104">Korisnici mogu da premestite ili kopirate stavke u poštanskom sandučetu arhive i admini mogu da kreiraju smernice za arhiviranje koje automatski premešta stavke za arhiviranje poštanskih sandučića.</span><span class="sxs-lookup"><span data-stu-id="88c25-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
   
-<span data-ttu-id="7578f-105">Evo kako da kreirate za sanduče arhive:</span><span class="sxs-lookup"><span data-stu-id="7578f-105">Here's how to create an archive mailbox:</span></span>
+<span data-ttu-id="88c25-105">Evo kako da kreirate za sanduče arhive:</span><span class="sxs-lookup"><span data-stu-id="88c25-105">Here's how to create an archive mailbox:</span></span>
   
-1. <span data-ttu-id="7578f-106">Idite na [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="7578f-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="88c25-106">Idite na [https://protection.office.com](https://protection.office.com).</span><span class="sxs-lookup"><span data-stu-id="88c25-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
 
-2. <span data-ttu-id="7578f-107">Prijavite se na Office 365 pomoću administratorskog naloga.</span><span class="sxs-lookup"><span data-stu-id="7578f-107">Sign in to Office 365 using your admin account.</span></span>
+2. <span data-ttu-id="88c25-107">Prijavite se na Office 365 pomoću administratorskog naloga.</span><span class="sxs-lookup"><span data-stu-id="88c25-107">Sign in to Office 365 using your admin account.</span></span>
 
-3. <span data-ttu-id="7578f-108">U lijevom oknu bezbednosti &amp; usklađenosti centar, izaberite stavku **Upravljanje podacima** \> **arhive**.</span><span class="sxs-lookup"><span data-stu-id="7578f-108">In the left pane of the Security &amp; Compliance Center, click **Data governance** \> **Archive**.</span></span>
+3. <span data-ttu-id="88c25-108">U lijevom oknu bezbednosti &amp; usklađenosti centar, izaberite stavku **Upravljanje podacima** \> **arhive**.</span><span class="sxs-lookup"><span data-stu-id="88c25-108">In the left pane of the Security &amp; Compliance Center, click **Data governance** \> **Archive**.</span></span>
 
-4. <span data-ttu-id="7578f-109">Izaberite korisnika čije arhive poštansko sanduče želite da omogućite.</span><span class="sxs-lookup"><span data-stu-id="7578f-109">Select the user whose archive mailbox you want to enable.</span></span>
+4. <span data-ttu-id="88c25-109">Izaberite korisnika čije arhive poštansko sanduče želite da omogućite.</span><span class="sxs-lookup"><span data-stu-id="88c25-109">Select the user whose archive mailbox you want to enable.</span></span>
 
-5. <span data-ttu-id="7578f-110">U oknu sa detaljima na desnoj strani kliknite da **biste omogućili** i zatim kliknite na dugme **da** u poruci upozorenja da biste omogućili poštansko sanduče arhive.</span><span class="sxs-lookup"><span data-stu-id="7578f-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
+5. <span data-ttu-id="88c25-110">U oknu sa detaljima na desnoj strani kliknite da **biste omogućili** i zatim kliknite na dugme **da** u poruci upozorenja da biste omogućili poštansko sanduče arhive.</span><span class="sxs-lookup"><span data-stu-id="88c25-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="7578f-111">Možete takođe masovnog-osposobiti arhivirate poštanskih sandučića tako što ćete izabrati više korisnika (koristeći taster **Shift** ili **Ctrl** ), a zatim kliknuti **Omogući** u oknu sa detaljima.</span><span class="sxs-lookup"><span data-stu-id="7578f-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
+<span data-ttu-id="88c25-111">Možete takođe masovnog-osposobiti arhivirate poštanskih sandučića tako što ćete izabrati više korisnika (koristeći taster **Shift** ili **Ctrl** ), a zatim kliknuti **Omogući** u oknu sa detaljima.</span><span class="sxs-lookup"><span data-stu-id="88c25-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
   
-<span data-ttu-id="7578f-112">Za više informacija, pogledajte:</span><span class="sxs-lookup"><span data-stu-id="7578f-112">For more information, see:</span></span>
+<span data-ttu-id="88c25-112">Za više informacija, pogledajte:</span><span class="sxs-lookup"><span data-stu-id="88c25-112">For more information, see:</span></span>
   
-- [<span data-ttu-id="7578f-113">Omogući arhiviranje poštanskih sandučića u Office 365</span><span class="sxs-lookup"><span data-stu-id="7578f-113">Enable archive mailboxes in Office 365</span></span>](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [<span data-ttu-id="88c25-113">Omogući arhiviranje poštanskih sandučića u Office 365</span><span class="sxs-lookup"><span data-stu-id="88c25-113">Enable archive mailboxes in Office 365</span></span>](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
 
-- [<span data-ttu-id="7578f-114">Podesite smernice za arhiviranje i brisanje u Office 365</span><span class="sxs-lookup"><span data-stu-id="7578f-114">Set up an archive and deletion policy in Office 365</span></span>](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [<span data-ttu-id="88c25-114">Podesite smernice za arhiviranje i brisanje u Office 365</span><span class="sxs-lookup"><span data-stu-id="88c25-114">Set up an archive and deletion policy in Office 365</span></span>](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)

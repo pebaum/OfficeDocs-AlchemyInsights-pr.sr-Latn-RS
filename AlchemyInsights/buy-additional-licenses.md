@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387066"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518053"
 ---
-# <a name="buy-additional-licenses"></a><span data-ttu-id="12b72-102">Kupite dodatne licence</span><span class="sxs-lookup"><span data-stu-id="12b72-102">Buy additional licenses</span></span>
+# <a name="buy-additional-office-365-licenses"></a><span data-ttu-id="b0e33-102">Kupite dodatne licence za Office 365</span><span class="sxs-lookup"><span data-stu-id="b0e33-102">Buy additional Office 365 licenses</span></span>
 
-1. <span data-ttu-id="12b72-103">U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.</span><span class="sxs-lookup"><span data-stu-id="12b72-103">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="b0e33-103">U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.</span><span class="sxs-lookup"><span data-stu-id="b0e33-103">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="12b72-104">Na stranici za **pretplatu** , odaberite pretplatu koju želite da dodate licence za, a zatim odaberite **Dodaj/ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="12b72-104">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+2. <span data-ttu-id="b0e33-104">Pronaći pretplatu koju želite da dodate licence za, a zatim izaberite **Dodaj/ukloni licence**.</span><span class="sxs-lookup"><span data-stu-id="b0e33-104">Find the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
 
-    [<span data-ttu-id="12b72-105">Šta ako ne vidim na Dodaj/ukloni vezu?</span><span class="sxs-lookup"><span data-stu-id="12b72-105">What if I don't see the Add/Remove link?</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [<span data-ttu-id="b0e33-105">Šta ako ne vidim na Dodaj/ukloni vezu?</span><span class="sxs-lookup"><span data-stu-id="b0e33-105">What if I don't see the Add/Remove link?</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. <span data-ttu-id="12b72-106">U okviru **ukupnog licence** Unesite ukupan broj licenci koje su vam potrebne za ovu pretplatu, a zatim odaberite **Prosledi** \> **blizu**.</span><span class="sxs-lookup"><span data-stu-id="12b72-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit** \> **Close**.</span></span> <span data-ttu-id="12b72-107">Na primer, ako imate 100 licence, a potrebno je da dodate još 5, unesite 105.</span><span class="sxs-lookup"><span data-stu-id="12b72-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
+3. <span data-ttu-id="b0e33-106">U okviru **ukupnog licence** Unesite ukupan broj licenci koje je potrebno za ovu pretplatu, a zatim odaberite \**prosleđivanja* promena \*\*.</span><span class="sxs-lookup"><span data-stu-id="b0e33-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose \**Submit* change\*\*.</span></span> <span data-ttu-id="b0e33-107">Na primer, ako imate 100 licence, a potrebno je da dodate još 5, unesite 105.</span><span class="sxs-lookup"><span data-stu-id="b0e33-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="12b72-108">Ako platite pretplatu putem kreditne kartice ili računa u banci, sve nove licence koje kupujete dostupne su odmah nakon što primite potvrdu porudžbine.</span><span class="sxs-lookup"><span data-stu-id="12b72-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="12b72-109">Ako platite po fakturi, moraćete da sačeka ček pre nego što nove licence su dostupni za upotrebu.</span><span class="sxs-lookup"><span data-stu-id="12b72-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span>
+    > <span data-ttu-id="b0e33-108">Ako platite pretplatu putem kreditne kartice ili računa u banci, sve nove licence koje kupujete dostupne su odmah nakon što primite potvrdu porudžbine.</span><span class="sxs-lookup"><span data-stu-id="b0e33-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="b0e33-109">Ako platite po fakturi, moraćete da sačeka ček pre nego što nove licence su dostupni za upotrebu.</span><span class="sxs-lookup"><span data-stu-id="b0e33-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span>
   
-<span data-ttu-id="12b72-110">**Dodatni resursi**</span><span class="sxs-lookup"><span data-stu-id="12b72-110">**Additional Resources**</span></span>
+<span data-ttu-id="b0e33-110">**Dodatni resursi**</span><span class="sxs-lookup"><span data-stu-id="b0e33-110">**Additional Resources**</span></span>
 
-- [<span data-ttu-id="12b72-111">Dodeljivanje licence korisnicima u Office 365 za poslovne</span><span class="sxs-lookup"><span data-stu-id="12b72-111">Assign licenses to users in Office 365 for Business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [<span data-ttu-id="b0e33-111">Dodeljivanje licence korisnicima u Office 365 za poslovne</span><span class="sxs-lookup"><span data-stu-id="b0e33-111">Assign licenses to users in Office 365 for Business</span></span>](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-<span data-ttu-id="12b72-112">Koristite novi administrativni centar?</span><span class="sxs-lookup"><span data-stu-id="12b72-112">Are you using the new admin center?</span></span> <span data-ttu-id="12b72-113">Novi koraci, potražite [kupiti licence za svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="12b72-113">For new steps, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>
+<span data-ttu-id="b0e33-112">Više informacija potražite u odeljku [kupiti licence za svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="b0e33-112">For more information, see [Buy licenses for your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).</span></span>

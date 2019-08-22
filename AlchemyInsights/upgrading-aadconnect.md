@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 07de6f8df7bfda2060977c7d5bc6a01766bf3c0a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365924"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506097"
 ---
-# <a name="upgrade-azure-ad-connect"></a><span data-ttu-id="13101-102">Nadogradnja azurno AD povezivanje</span><span class="sxs-lookup"><span data-stu-id="13101-102">Upgrade Azure AD Connect</span></span>
+# <a name="upgrade-azure-ad-connect"></a><span data-ttu-id="fe8d6-102">Nadogradnja azurno AD povezivanje</span><span class="sxs-lookup"><span data-stu-id="fe8d6-102">Upgrade Azure AD Connect</span></span>
 
-<span data-ttu-id="13101-103">Po podrazumevanim postavkama, automatska Nadogradnja je omogućeno za Azure AD se poveže, koje pomažu da se osigura da koristite najnoviju verziju.</span><span class="sxs-lookup"><span data-stu-id="13101-103">By default, automatic upgrade is enabled for Azure AD Connect, which helps to ensure you're running the latest version.</span></span> <span data-ttu-id="13101-104">Da biste proverili postavke za automatsku nadogradnju, koristite cmdlet su **Se ADSyncAutoUpgrade** u Azure AD PowerShell.</span><span class="sxs-lookup"><span data-stu-id="13101-104">To verify the automatic upgrade settings, use the **Get-ADSyncAutoUpgrade** cmdlet in Azure AD PowerShell.</span></span> <span data-ttu-id="13101-105">Na cmdlet će se vratiti jedan od sledećih vrednosti:</span><span class="sxs-lookup"><span data-stu-id="13101-105">The cmdlet will return one of following values:</span></span>
+<span data-ttu-id="fe8d6-103">Po podrazumevanim postavkama, automatska Nadogradnja je omogućeno za Azure AD se poveže, koje pomažu da se osigura da koristite najnoviju verziju.</span><span class="sxs-lookup"><span data-stu-id="fe8d6-103">By default, automatic upgrade is enabled for Azure AD Connect, which helps to ensure you're running the latest version.</span></span> <span data-ttu-id="fe8d6-104">Da biste proverili postavke za automatsku nadogradnju, koristite cmdlet su **Se ADSyncAutoUpgrade** u Azure AD PowerShell.</span><span class="sxs-lookup"><span data-stu-id="fe8d6-104">To verify the automatic upgrade settings, use the **Get-ADSyncAutoUpgrade** cmdlet in Azure AD PowerShell.</span></span> <span data-ttu-id="fe8d6-105">Na cmdlet će se vratiti jedan od sledećih vrednosti:</span><span class="sxs-lookup"><span data-stu-id="fe8d6-105">The cmdlet will return one of following values:</span></span>
 
-- <span data-ttu-id="13101-106">**Omogućeno**: omogućena je automatska nadogradnja.</span><span class="sxs-lookup"><span data-stu-id="13101-106">**Enabled**: Automatic upgrade is enabled.</span></span>
+- <span data-ttu-id="fe8d6-106">**Omogućeno**: omogućena je automatska nadogradnja.</span><span class="sxs-lookup"><span data-stu-id="fe8d6-106">**Enabled**: Automatic upgrade is enabled.</span></span>
 
-- <span data-ttu-id="13101-107">**Onemogućeno**: automatska Nadogradnja je onemogućena.</span><span class="sxs-lookup"><span data-stu-id="13101-107">**Disabled**: Automatic upgrade is disabled.</span></span>
+- <span data-ttu-id="fe8d6-107">**Onemogućeno**: automatska Nadogradnja je onemogućena.</span><span class="sxs-lookup"><span data-stu-id="fe8d6-107">**Disabled**: Automatic upgrade is disabled.</span></span>
 
-- <span data-ttu-id="13101-108">**Prividne**: sistem je više da primate automatske nadogradnje.</span><span class="sxs-lookup"><span data-stu-id="13101-108">**Suspended**: The system is no longer eligible to receive automatic upgrades.</span></span> <span data-ttu-id="13101-109">Nije moguće podesiti ovu vrednost; To je podešen sistem.</span><span class="sxs-lookup"><span data-stu-id="13101-109">You can't configure this value; it's set by the system.</span></span>
+- <span data-ttu-id="fe8d6-108">**Prividne**: sistem je više da primate automatske nadogradnje.</span><span class="sxs-lookup"><span data-stu-id="fe8d6-108">**Suspended**: The system is no longer eligible to receive automatic upgrades.</span></span> <span data-ttu-id="fe8d6-109">Nije moguće podesiti ovu vrednost; To je podešen sistem.</span><span class="sxs-lookup"><span data-stu-id="fe8d6-109">You can't configure this value; it's set by the system.</span></span>
 
-<span data-ttu-id="13101-110">Za više informacija, pogledajte [Automatska nadogradnja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span><span class="sxs-lookup"><span data-stu-id="13101-110">For more information, see [Automatic upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span></span>
+<span data-ttu-id="fe8d6-110">Za više informacija, pogledajte [Automatska nadogradnja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span><span class="sxs-lookup"><span data-stu-id="fe8d6-110">For more information, see [Automatic upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).</span></span>
 
-<span data-ttu-id="13101-111">Da biste preuzeli najnoviju verziju programa Azure AD povezivanje, idite na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span><span class="sxs-lookup"><span data-stu-id="13101-111">To download the latest version of Azure AD Connect, go to [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span></span>
+<span data-ttu-id="fe8d6-111">Da biste preuzeli najnoviju verziju programa Azure AD povezivanje, idite na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span><span class="sxs-lookup"><span data-stu-id="fe8d6-111">To download the latest version of Azure AD Connect, go to [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).</span></span>
