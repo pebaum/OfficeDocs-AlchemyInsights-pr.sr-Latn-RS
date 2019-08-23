@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356611"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553446"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Opozovete ili zamenite e-poruku
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Opozovete ili zamenite e-poruku u Office 365
 
 - Možete **samo opoziv poruke koje se šalju osobe u vašoj organizaciji**. Ako je poruka poslata na Gmail adresu, na primer, da mogu da se setim to.
 - Možete **samo opoziv poruke poslane iz Outlook 2016 za PC**. Ako korisnik pošalje poruku koristeći Outlook za Mac ili Outlook na Webu, mogu da se setim.
 - Ako si ti neki admin, možete **opoziv poruke u ime korisnika pomoću PowerShell**. Ne mogu da se setim poruke iz centra za administraciju. Pomerite se do „Traženje i brisanje poruke e-pošte u vašoj organizaciji” za više informacija.
 
-***Opozovete ili zamenite e-poruku koju ste poslali***
+**Opozovete ili zamenite e-poruku koju ste poslali**
 
 1. U oknu fascikle na levoj strani prozora programa Outlook, odaberite fasciklu poslate stavke.
 2. Otvorite poruku koju želite da opozovete. Ti mora dvaput kliknite na ikonu da biste otvorili poruku. Što ćete izabrati poruku, tako da se pojavljuje u oknu za čitanje neće vam dozvoliti da opoziv poruke.

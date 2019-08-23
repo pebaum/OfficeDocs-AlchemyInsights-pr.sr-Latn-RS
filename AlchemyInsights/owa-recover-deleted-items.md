@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 58861ebcfb6e8b70e9903805201de6ca4aa61227
-ms.sourcegitcommit: 2247a2e723b6c0a1cf3af1f2d82afa1f45803812
+ms.openlocfilehash: 730d0910302357ded8125e861a7827da204613c5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33866523"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556075"
 ---
-# <a name="recover-deleted-email"></a>Oporavak izbrisanih e-pošte
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Oporavak izbrisanih e-pošte u programu Outlook na Webu
 
 1. U lijevom oknu, izaberite fasciklu "Izbrisane stavke" ili fasciklu "Neželjena e-pošta".
 
