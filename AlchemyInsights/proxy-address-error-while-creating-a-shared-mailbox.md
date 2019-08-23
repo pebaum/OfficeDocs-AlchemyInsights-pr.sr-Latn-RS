@@ -11,18 +11,18 @@ ms.assetid: ece4bcce-1053-4ed3-a194-9d0af8f73c6f
 ms.custom:
 - "19"
 - "6"
-ms.openlocfilehash: 159125f8ce899cacac665fb8a7025a791c4cd9bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cd3236c71868c2b625de407a9e4f160a8d47ddd1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370977"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554202"
 ---
-# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a><span data-ttu-id="e855a-102">Proxy adresa greška u kreiranju Deljeno poštansko sanduče</span><span class="sxs-lookup"><span data-stu-id="e855a-102">Proxy address error while creating a shared mailbox</span></span>
+# <a name="proxy-address-error-while-creating-a-shared-mailbox"></a><span data-ttu-id="dbf6a-102">Proxy adresa greška u kreiranju Deljeno poštansko sanduče</span><span class="sxs-lookup"><span data-stu-id="dbf6a-102">Proxy address error while creating a shared mailbox</span></span>
 
-<span data-ttu-id="e855a-103">Ako ste pokušali da kreirate Deljeno poštansko sanduče i dobili ovu poruku o grešci „Proxy adresa „SMTP:alias@domain.com” već se koristi...”, adresu e-pošte koji ste odabrali je već zauzele drugo poštansko sanduče u vašoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="e855a-103">If you tried to create a shared mailbox and received this error "The proxy address "SMTP:alias@domain.com" is already being used…", the email address you chose is already taken by another mailbox in your organization.</span></span>
+<span data-ttu-id="dbf6a-103">Ako ste pokušali da kreirate Deljeno poštansko sanduče i dobili ovu poruku o grešci „Proxy adresa „SMTP:alias@domain.com” već se koristi...”, adresu e-pošte koji ste odabrali je već zauzele drugo poštansko sanduče u vašoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="dbf6a-103">If you tried to create a shared mailbox and received this error "The proxy address "SMTP:alias@domain.com" is already being used…", the email address you chose is already taken by another mailbox in your organization.</span></span>
   
-<span data-ttu-id="e855a-104">Treba da pronađem korisnika, grupe ili Deljeno poštansko sanduče koji ima ovu adresu e-pošte i izbrišite je ili da promenite svoju e-adresu.</span><span class="sxs-lookup"><span data-stu-id="e855a-104">You need to find the user, group, or shared mailbox that has this email address and delete it or change its email address.</span></span> <span data-ttu-id="e855a-105">Zatim možete da kreirate Deljeno poštansko sanduče sa oslobodio email adresu.</span><span class="sxs-lookup"><span data-stu-id="e855a-105">Then you can create a shared mailbox with the freed email address.</span></span> <span data-ttu-id="e855a-106">Koristite pretragu na matičnoj stranici ga pronaci.</span><span class="sxs-lookup"><span data-stu-id="e855a-106">Use Search on the Home page to find it.</span></span>
+<span data-ttu-id="dbf6a-104">Treba da pronađem korisnika, grupe ili Deljeno poštansko sanduče koji ima ovu adresu e-pošte i izbrišite je ili da promenite svoju e-adresu.</span><span class="sxs-lookup"><span data-stu-id="dbf6a-104">You need to find the user, group, or shared mailbox that has this email address and delete it or change its email address.</span></span> <span data-ttu-id="dbf6a-105">Zatim možete da kreirate Deljeno poštansko sanduče sa oslobodio email adresu.</span><span class="sxs-lookup"><span data-stu-id="dbf6a-105">Then you can create a shared mailbox with the freed email address.</span></span> <span data-ttu-id="dbf6a-106">Koristite pretragu na matičnoj stranici ga pronaci.</span><span class="sxs-lookup"><span data-stu-id="dbf6a-106">Use Search on the Home page to find it.</span></span>
   
-<span data-ttu-id="e855a-107">Ako ne želite da izbrišete postojeću e-adresu, odaberite novu adresu e-pošte za vaše deljene poštansko sanduče.</span><span class="sxs-lookup"><span data-stu-id="e855a-107">If you don't want to delete the existing email address, choose a new email address for your shared mailbox.</span></span>
+<span data-ttu-id="dbf6a-107">Ako ne želite da izbrišete postojeću e-adresu, odaberite novu adresu e-pošte za vaše deljene poštansko sanduče.</span><span class="sxs-lookup"><span data-stu-id="dbf6a-107">If you don't want to delete the existing email address, choose a new email address for your shared mailbox.</span></span>
   
