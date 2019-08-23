@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364027"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516685"
 ---
-# <a name="control-creation-of-o365-groups"></a>Kreiranje kontrole O365 grupa
+# <a name="control-creation-of-office-365-groups"></a>Kreiranje kontrole Office 365 grupa
 
-Po podrazumevanim postavkama, svi korisnici unutar preduzeća sposobni za kreiranje O365 grupa. Ako je potrebno, sposobni ste da promenite ovo i dodelite prava da kreirate O365 grupe na skup ljudi u vašoj kompaniji. Imajte na umu da je ovo imati uticaj na stvaranje grupa iz svakog O365 usluge (kao što su Outlook, timovi, planer i tako dalje).
+Po podrazumevanim postavkama, svi korisnici unutar preduzeća sposobni za kreiranje grupa. Ako je potrebno, sposobni ste da promenite ovo i dodelite prava da kreirate grupe na skup ljudi u vašoj kompaniji. Imajte na umu da je ovo imati uticaj na stvaranje grupa iz bilo koji Office 365 usluge (kao što su Outlook, timovi, planer i tako dalje).
   
 Uputstvo: [Upravljanje koji možete da kreirate Office 365 grupe](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

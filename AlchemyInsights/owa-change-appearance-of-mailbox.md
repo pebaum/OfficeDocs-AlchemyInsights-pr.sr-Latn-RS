@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171372"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557515"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Promena izgleda poštanskog sandučeta
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Promenite izgled poštanskom sandučetu programa Outlook
 
 Tako da izgleda i ponaša se onako kako želite, možete da promenite izgled okna liste i čitanje poruka. Da li vaše poruke treba prikazati pojedinačno ili kao razgovore, ako izabrati nove poruke treba da se pojavi na vrhu ili na dnu liste poruka i drugo.
 
