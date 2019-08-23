@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: d0d5e949a23e9a8570aa0c157d1577ea16270151
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717640"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539367"
 ---
-# <a name="hub-site-limits-and-restrictions"></a>Ograničenja za lokacije čvorišta
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Ograničenja za lokaciju SharePoint čvorište
 
 - Preporučuje se da izaberete lokaciju za komunikaciju ili lokaciji tima koji koristi novi moderni predložak. Ako koristite lokaciju klasični tima, čvorište navigaciju će se pojaviti samo na modernu stranicama i čvorište postavke lokacije će se pojaviti samo na modernu stranicama.
 

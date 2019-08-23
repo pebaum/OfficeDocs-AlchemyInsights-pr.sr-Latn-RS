@@ -13,14 +13,14 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 64bfa0c25969f98eca254d9fc41dd8132cbe335a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 29720d7f8272afea488b807c76d268d67df8bbee
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375371"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546857"
 ---
-# <a name="delete-a-folder"></a>Brisanje fascikle
+# <a name="delete-a-folder-in-outlookcom"></a>Izbrišite fasciklu u Outlook.com
 
 1. U lijevom oknu, kliknite desnim tasterom miša na fasciklu ili potfasciklu koju želite da izbrišete i izaberite stavku **Izbriši fasciklu**.
 2. Izaberite **OK** da biste potvrdili.

@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388614"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554635"
 ---
-# <a name="prepaid-renewal"></a>Prepaid obnove
+# <a name="prepaid-office-365-renewal"></a>Prepaid Office 365 obnove
 
-1. U centru za Admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
+1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
-2. Odaberite avansnu uplatu pretplate želite da proširite, a zatim odaberite **Proširi**.
+2. Pronaći pretplate želite da proširite. Izaberite **datum završetka proširi**u odeljku **naplate** .
 
-3. Odaberite opciju za **šifru proizvoda**. (Ako je ovo bila product key kupili na lokaciji u maloprodaji, možda imate mogućnost da produži sa druge načine plaćanja.)
+3. U oknu **Proširi pretplatu** , izaberite **koristi nove i Nekorištene product key šifru**, a zatim kliknite na dugme **dalje**.
 
-4. Unesite šifru proizvoda.
+4. Unesite šifru proizvoda, a zatim kliknite na dugme **dalje**.
 
-5. Uverite se da su informacije ispravne, a zatim odaberite **dalje**.
+> [!NOTE]
+> Ako imate više od jednog proizvoda, možete da izaberete da **biste dodali drugu šifru proizvoda** unesite ih.
 
-6. Odaberite dugme "radio" da proširi datum završetka postojeće licence, a zatim odaberite **dalje**.
+5. Pregled detalja porudžbine, a zatim izaberite **Redeem**.
 
-Koristite novi administrativni centar? Novi koraci, potražite [Dodaj licence da ili da se proširi pretplatu platili koristite šifru proizvoda](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Za više informacija, pogledajte [Dodaj licence da ili da se proširi pretplatu platili koristite šifru proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

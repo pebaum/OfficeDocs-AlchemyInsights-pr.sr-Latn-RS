@@ -12,20 +12,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 43b6a26bc05892e71d41c4b47522785245cb4851
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383111"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539115"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Određivanje kada eksterni mail špedicije je podešen na Poštanske sandučiće
 
-Kada korisnik podešava eksterni mail špedicije na poštansko sanduče, aktivnost je revizije u sklopu cmdlet na **Setu-poštansko sanduče** . Možete da vidite aktivnosti koristeći pretraživanje evidencija nadgledanja u bezbednosti & usklađenosti centar.
+Kada korisnik programa Office 365 konfiguriše eksterni mail špedicije na poštansko sanduče, aktivnost je revizije u sklopu cmdlet na **Setu-poštansko sanduče** . Možete da vidite aktivnosti koristeći pretraživanje evidencija nadgledanja u bezbednosti & usklađenosti centar.
 
-1. Prijavite se za [Office 365 bezbednosni & usklađenosti centar](https://protection.office.com/)
+1. Prijavite se za [Office 365 bezbednosni & usklađenosti centar](https://protection.office.com/).
 
-2. Izaberite **pretragu i istrage** i **Pretraživanje evidencije nadgledanja**.
+2. Idi na **pretragu** > stranicu**za pretraživanje evidencije nadgledanja** .
 
 3. Izaberite opseg datuma u poljima **datum početka** i **datum završetka** . Ne morate navesti korisničko ime. Provjerite **aktivnosti** polje postavljeno na **Prikaz rezultata za sve aktivnosti**.
 

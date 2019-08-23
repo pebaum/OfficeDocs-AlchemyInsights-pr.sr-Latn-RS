@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 3f5ce5dbd9307aae9fc497f501d1da9194c45ff9
-ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
+ms.openlocfilehash: bf4ae61907e2a179bba39edb4f8eb05608e00907
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/03/2019
-ms.locfileid: "36171334"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36556723"
 ---
 # <a name="print-email-calendars-and-attachments"></a>Štampanje e-pošte, kalendara i prilozi
 
-Da biste odštampali e-poruku:
+Da biste odštampali e-poruku u programu Outlook na Webu:
   
 1. Izaberite poruku koju želite da odštampate.
 1. U gornjem desnom uglu poruke, izaberite tri tačke, a zatim izaberite **Print**.

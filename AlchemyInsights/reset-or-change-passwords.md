@@ -14,18 +14,18 @@ ms.custom:
 - "826"
 - "1100004"
 ms.assetid: 063b56f2-625b-4520-99db-4e92941d3940
-ms.openlocfilehash: 4cfcd74a30a02f2f5a92abb3b63314b63774bc36
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 618312ec767e4edf6069ee8e2c6bbbcb3d8f56d8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356251"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36552304"
 ---
-# <a name="reset-or-change-passwords"></a>Poništavanje ili promena lozinke
+# <a name="reset-or-change-office-365-business-passwords"></a>Poništavanje ili promena lozinke poslovne Office 365
 
 Korisnik može da promeni svoju lozinku iz [moj nalog, bezbednosti &amp; privatnost](https://portal.office.com/account/#security).
   
-Ako je korisnik zaboravio svoju lozinku, kao admin možete da poništite lozinku tako što ćete posetiti [korisnicima \> aktivne korisnike](https://portal.office.com/adminportal/home#/users), izaberite korisnika i kliknite na **ponovo Postavi lozinku**.
+Ako je korisnik zaboravio svoju lozinku, kao admin možete da poništite lozinku tako što ćete posetiti **Korisnici** > [aktivnog korisnika](https://portal.office.com/adminportal/home#/users), izaberite korisnika, a **za poništavanje lozinke**.
   
 [Kliknite ovde da biste saznali više](https://support.office.com/article/admins-reset-office-365-business-passwords-7a5d073b-7fae-4aa5-8f96-9ecd041aba9c), ili dozvoliti korisnicima da poništi svoje zaboravljene lozinke.
   

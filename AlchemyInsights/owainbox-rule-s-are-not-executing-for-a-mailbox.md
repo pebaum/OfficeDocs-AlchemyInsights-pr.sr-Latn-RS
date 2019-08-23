@@ -12,16 +12,16 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 218a05a8d321b76dd07345ea48d6b3e158cc120e
-ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
+ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "36204074"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555787"
 ---
 # <a name="an-inbox-rule-doesnt-work-as-expected"></a>Pravilo za Prispjelu poštu ne radi kao što se očekivalo
 
-Provjerite sljedeće postavke:
+Provjeriti sljedeće postavke u programu Outlook na Webu:
 
 - Poruku možete preusmerena, prosleđivanja ili odgovoreno da automatski na osnovu pravila prijemnog samo jedan put. Preusmeravanje pravilo (pravilo za Prispjelu poštu ili protok pravilo za poštu, poznat i kao transportni pravilo) možete dodati najviše 10 špedicije primaoci poruke. Za više informacija, pogledajte [dnevnik, Transport, i poštanskom sandučetu pravilo ograničenja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 
