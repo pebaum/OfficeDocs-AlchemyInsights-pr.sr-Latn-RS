@@ -13,14 +13,14 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: ad9db8a30105981c11d75364b15568a4f314543b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d759ce00e47206d0d58bae771c962b408595416c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375551"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536953"
 ---
-# <a name="create-a-folder"></a>Kreiranje fascikle
+# <a name="create-a-folder-in-outlookcom"></a>Kreirajte fasciklu u Outlook.com
 
 1. Na dnu okna fascikle, izaberite **novu fasciklu**. Možda ćete morati da se pomerite nadole u oknu "fascikle" da vidite dugme " **Nova fascikla** ".
 2. U okviru za tekst unesite ime fascikle, a zatim pritisnite taster Enter.
