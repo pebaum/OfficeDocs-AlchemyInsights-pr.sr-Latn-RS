@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388686"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555283"
 ---
-# <a name="payment-options"></a>Opcije plaćanja
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opcije plaćanja pretplate za Office 365 za preduzeća
 
 **Opcije plaćanja**
   
@@ -30,7 +30,7 @@ Kreditna kartica, račun u banci (debitna kartica) i faktura (plaćanje putem č
   
 Kada plaćate putem kreditne kartice ili računa u banci, automatski vam se naplaćuje naknada za pretplatu jedan dan posle datuma fakture, do kraja termina pretplate. Možete da [ažurirate informacije o kreditnoj kartici ili računu u banci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) kad god je to potrebno. Možete i da odaberete da [Dobijate kopiju izvoda o naplati putem e-pošte](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Ako je kreditna kartica odbijena ili ima dugovanja koja kasne, možete da odaberete opciju **Plati odmah** na stranici za **Plaćanje** \> [Pretplate](https://portal.office.com/adminportal/home#/subscriptions).
+Ako je vaša kreditna kartica odbijena ili imate dugovanja koja kasne možete da izaberete opciju **Izmiri zaduženje** na stranici **Plaćanje** \> [Proizvodi i usluge](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Plaćanje fakturom (čekom ili elektronskim prenosom sredstava)**
   
