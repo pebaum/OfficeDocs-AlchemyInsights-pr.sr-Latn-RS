@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543867"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620773"
 ---
 # <a name="modern-site-as-root-site"></a>Moderna lokaciju kao osnovna lokacija
 
-Počele smo da bizarnom novu opciju koja će vam omogućiti da razmenite svoje klasične lokacije osnovna lokacija uz modernu lokaciju. Koristite [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da razmenite adresu lokacije sa neke druge lokacije tokom arhiviranja originalne lokacije. Dostupno za lokaciju tima (nije povezan sa grupom), kao i komunikacija lokacije. 
+Počele smo da bizarnom novu opciju koja će vam omogućiti da razmenite svoje klasične lokacije osnovna lokacija uz modernu lokaciju. Koristite [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da razmenite adresu lokacije sa neke druge lokacije tokom arhiviranja originalne lokacije. Dostupno za lokaciju tima (nije povezan sa grupom), kao i komunikacija lokacije. 
 
 >[!Important]
 > Nemojte brisati svoje klasične osnovne lokacije da biste kreirali lokaciju moderne komunikacije. Ovo je Microsoft ne podržava. Brisanje osnovne lokacije će da sve SharePoint lokacije u vašoj organizaciji može pristupiti svim korisnicima, dok ne vraćanje lokacije ili da kreirate novu lokaciju na istom URL adresi. Komuniciramo ovu funkciju putem poruka centar. Možete očekivati funkcija biti uključena u tvojim podstanarom ubrzo.

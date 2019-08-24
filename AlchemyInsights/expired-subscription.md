@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526693"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575602"
 ---
 # <a name="expired-subscription"></a>Istekla pretplata
 
@@ -28,14 +28,22 @@ Izgleda da imate jednu ili više isteklog roka važenja pretplate. Ako želite d
   
 1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
-2. Odaberite pretplatu da bi nastavio.
+2. Pronaći pretplatu koju želite ponovo aktivirati. U odeljku **naplate** , odaberite **ponovo aktivirati**.
 
-3. U odeljku **naplate** , izaberite **ponovo aktivirati**.
+Ako te ne vidim **ponovo aktivirati** kao dostupne radnje, zovi podršku da biste ponovo aktivirali pretplatu.
 
-Za više informacija, pogledajte [ponovo aktivirati pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+3. Potvrdite detalje svoje uplate. Možete da ažurirate svoje postojeće informacije o plaćanju ovde. Kada ste završili unos tvoj način plaćanja, odaberite **ponovo aktivirati**.
+
+Koristite centar za stare admin? Za stare stepenice, ili da biste saznali više, pogledajte [ponovo aktivirati pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Napravite novi povraćaj**
   
 1. U centru za admin, pređite na **obračunu** \> stranicu [usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) .
 
-2. Izaberite želite da kupite, a zatim izaberite da **kupite**pretplatu.
+2. Odaberite pretplate koje želite kupiti, a zatim odaberite da **kupim**.
+
+3. Unesite broj licenci, da li treba i odaberite da li želite da platite svaki mesec ili godinu dana. Odaberite da li želite automatski dodijeliti licence svima koji trenutno nema dozvolu. Zatim odaberite **vidi sada**.
+
+4. Sledite preostale korake da biste dovršili odjavu.
+
+Koristite centar za stare admin? Za stare stepenice, ili da biste saznali više, vidim da [kupi još jednu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
