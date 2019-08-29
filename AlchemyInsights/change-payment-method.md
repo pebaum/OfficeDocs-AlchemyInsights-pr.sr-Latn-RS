@@ -3,7 +3,6 @@ title: Promena načina plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: d4e4548ab943ffdbe1117f333c64f2c95a5985da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d89cb375475bfaff1f3a3a34ff7cefb9d9d42d5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519241"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665368"
 ---
 # <a name="change-payment-method"></a>Promena načina plaćanja
 
-Možete da potvrdite način plaćanja koji je konfigurisan u centru za admin Microsoft 365. Odaberite pretplatu koju želite da proverite. Način plaćanja koji je konfigurisan za upis se pojavljuje u okviru **naplate**. 
+Možete da proverite i promenite načina plaćanja koji je konfigurisan u centru za admin Microsoft 365. Odaberite pretplatu koju želite da proverite. Način plaćanja koji je konfigurisan za upis se pojavljuje u okviru **naplate**. 
   
 1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
 
@@ -30,4 +29,4 @@ Možete da potvrdite način plaćanja koji je konfigurisan u centru za admin Mic
 
 3. Sledite korake na ekranu da biste dovršili promene.
 
-Korak po korak uputstva potražite: [Promena tvoj način plaćanja za Office 365 za poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)
+Koristite centar za stare admin? Za stare stepenice, ili da biste saznali više, vidim [Promena tvoj način plaćanja za Office 365 za poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method)

@@ -1,9 +1,8 @@
 ---
-title: Kreditna kartica za naplatu ciklus
+title: Kreditnu karticu ciklusa naplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 12/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fc8d7dce6fdd1afc51424ecfd6e8359d2b793b6f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517765"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664802"
 ---
-# <a name="billing-cycle-credit-card"></a>Kreditna kartica za naplatu ciklus
+# <a name="payment-methods-for-office-365-for-business"></a>Načini plaćanja za Office 365 za posao
 
-Kada kupujete na Office 365 za poslovne pretplatu direktno od korporacije Microsoft, platit ćete pomoću kreditne ili debitne kartice. U nekim zemljama ili regionima, takođe možete platiti sa računa u banci.
+Kada kupite Office 365 za poslovnu pretplatu direktno od korporacije Microsoft, možete da platite kreditnu ili debitnu karticu. U nekim zemljama ili regionima možete platiti i račun u banci.
   
-Ako odaberete da koristite kreditnu karticu kao tvoj način plaćanja, možete da saznate kako da upravljate i rešavanje problema sa [Dodavanje, ažuriranje, ili uklanjanje kreditne kartice ili računa u banci u Office 365 za poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Ako odaberete da koristite kreditnu karticu kao način plaćanja, možete naučiti kako da upravljate i rešite probleme sa [dodavanjem, ažuriranjem ili uklanjanjem kreditne kartice ili računa u banci u sistemu Office 365 za posao](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
   
-Ovo uključuje rešavanja pitanja kada tvoja kreditna kartica je odbijena i menja informacije o kreditnoj kartici, tako da je kartica je prihvaćena.
+Ovaj članak takođe uključuje predloge za rešavanje problema kada je vaša kreditna kartica odbijena i informacije o promeni informacija o kreditnoj kartici kako bi kartica bila prihvaćena.

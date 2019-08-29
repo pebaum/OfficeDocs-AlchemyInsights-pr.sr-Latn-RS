@@ -3,7 +3,6 @@ title: 611 deljenje kalendara
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "611"
 - "3800009"
 ms.assetid: 7a46ee5e-700e-455f-b13a-a063b5907a55
-ms.openlocfilehash: 460e5b10f600dba22d82026c873651d09e188546
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1739621bedc408cfd13da7b194964f8441d6b245
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518413"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665594"
 ---
-# <a name="calendar-sharing"></a>Deljenje kalendara
+# <a name="calendar-sharing-in-outlook"></a>Kalendar deli u programu Outlook
 
-Za više informacija, pogledajte ove teme:
+Više informacija o deljenju kalendarom programa Outlook, pogledajte ove članke:
   
 - [Deljenje Outlook kalendara sa drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 

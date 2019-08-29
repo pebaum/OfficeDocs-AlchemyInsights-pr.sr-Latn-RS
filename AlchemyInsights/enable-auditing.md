@@ -1,9 +1,8 @@
 ---
-title: Omogući, i pretražujete evidenciju nadgledanja
+title: Omogućavanje i pretraživanje evidencije nadgledanja
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,36 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527737"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665090"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Omogući, i pretražujete evidenciju nadzora
+# <a name="enable-and-search-the-audit-log"></a>Omogućavanje i pretraživanje evidencije nadgledanja
 
-Da biste pretražili Office 365 za evidenciju nadzora, slijedite [ove korake](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+**Office 365**
+
+Da biste pretražili Office 365 evidenciju nadgledanja, sledite [ove korake](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Exchange**
 
-- Exchange admin aktivnosti revizije po podrazumevanoj vrednosti.
+- Exchange administratorske aktivnosti se podrazumevano kontrolišu.
 
-- Mi smo u procesu omogućavanja poštansko sanduče nadzor po podrazumevanoj vrednosti u Office 365. Do tada, da biste omogućili nadzor za jednu poštansko sanduče ili za sve Poštanske sandučiće u vašoj organizaciji, pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Nadzor poštanskog sandučeta je podrazumevano omogućen u sistemu Office 365. Za više informacija pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365 grupa Poštanske sandučiće i Poštanske sandučiće javnoj fascikli u Exchange Online ne podržavaju vođenje evidencije nadgledanja.
+- Office 365 grupe poštanskih sandučića i Poštanske sandučiće javnih fascikli u sistemu Exchange online ne podržavaju vođenje evidencije nadgledanja.
 
 **SharePoint i OneDrive**
 
-- To je bez dodatne konfiguracije potrebne za omogućavanje nadgledanja za SharePoint i OneDrive.
+- Ne postoji dodatna konfiguracija potrebna za omogućavanje nadgledanja za SharePoint i OneDrive.
 
-- SharePoint i OneDrive podršku nadzor sledeće tipove aktivnosti:
+- Podrška za SharePoint i OneDrive nadzor sledećih tipova aktivnosti:
 
-    - Datoteke, fascikle i stranice aktivnosti
-    - Dijeljenje i pristup zahteva za aktivnosti
-    - Lokacije administracije aktivnosti
-    - Aktivnosti sinhronizacije datoteke
+    - Aktivnosti datoteke, fascikle i stranica
+    - Deljenje i pristup aktivnostima zahteva
+    - Aktivnosti administracije lokacije
+    - Aktivnosti sinhronizacije datoteka
 
-- Za informacije o revidiranog aktivnosti u druge usluge Office 365, pogledajte [tabelu u ovom članku](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Više informacija o nadgleda aktivnosti u drugim Office 365 uslugama potražite [u tabeli u ovom članku](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Ovde listu najčešće postavljanih pitanja [najčešće postavljana pitanja](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) o pretraživanju datoteka za evidenciju nadzora.
+- Ovde je postavljena lista najčešćih [pitanja o traženju](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) evidencije nadgledanja.

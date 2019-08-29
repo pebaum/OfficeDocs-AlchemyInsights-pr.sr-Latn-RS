@@ -1,5 +1,5 @@
 ---
-title: Dodavanje mesta u pretplatu za avansnu uplatu
+title: Dodavanje mesta na prepaid pretplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,28 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495045"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661022"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mesta u pretplatu za avansnu uplatu
+# <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mesta na prepaid pretplatu
 
-Prepaid Office 365 licence se izdaju tebi kao alfanumerički šifru od 25 znakova. Nakon što ste kupili licencu za koja je potrebno, možete ih dodati u svoju pretplatu. 
+Prepaid Office 365 licence su vam izdate kao alfanumerički kôd od 25 znakova. Kada kupite potrebne licence, možete da ih dodate u svoju pretplatu. 
 
-1. U centru za admin, pređite na **obračunu** > [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. U okviru administratorskog centra idite na stranicu "proizvodi za **naplatu** > "[_ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Pronaći pretplatu na koju želite da dodate licence. Izaberite **više radnji** padajuću listu, a zatim odaberite **obnova ili dodavanje licence sa oznakom**.
+2. Pronađite pretplatu kojoj želite da dodate licence. U odeljku **licence** izaberite **Dodaj još licenci**.
 
-3. Na na **obnova ili dodavanje korisničke licence** stranice, izaberite stavku **koristi nove i Nekorištene product key šifru**, a zatim kliknite na dugme **dalje**.
+3. U oknu **Dodaj još licenci** izaberite opciju **koristi novu i neiskorišćenu šifru proizvoda**, a zatim kliknite na dugme **dalje**.
 
 4. Unesite šifru proizvoda, a zatim kliknite na dugme **dalje**.
 
     > [!NOTE]
-    > Ako imate više od jednog proizvoda, možete da izaberete da **biste dodali drugu šifru proizvoda** unesite ih.
+    > Ako imate više od jedne šifre proizvoda, možete izabrati stavku **Dodaj drugu šifru proizvoda** da biste ih uneli.
 
-5. Odaberite da biste dodali korisnike u pretplatu, a zatim kliknite na dugme **dalje**.
+5. Pregledajte detalje porudžbine, a zatim izaberite " **Preuzmi**".
 
-6. Pregled detalja porudžbine, a zatim izaberite **Redeem**.
-
-Za više informacija, pogledajte [Dodaj licence da ili da se proširi pretplatu platili koristite šifru proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Da biste saznali više, pogledajte odeljak [Dodavanje licenci ili proširivanje pretplate koja je plaćena za korišćenje šifre proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

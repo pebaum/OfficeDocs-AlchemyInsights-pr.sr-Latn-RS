@@ -1,23 +1,22 @@
 ---
 title: Dodavanje eksternog korisnika u listu distribucije
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.author: chrisda
+author: chrisda
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce0c589e1661fb4607452fe2e8f897758b2718e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494541"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660806"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Dodavanje eksternog korisnika listu distribucije?
+# <a name="add-external-users-to-a-distribution-group"></a>Dodavanje eksternog korisnika listu distribucije
 
-Dodavanje eksterni kontakt da je distribucija grupe (DG) je 2 koraka procesa:
+Dodavanje eksterni kontakt da je distribucija grupe (DG) je proces od dva koraka:
   
 1. Kreiranje pošte kontakta za eksternog korisnika:
     

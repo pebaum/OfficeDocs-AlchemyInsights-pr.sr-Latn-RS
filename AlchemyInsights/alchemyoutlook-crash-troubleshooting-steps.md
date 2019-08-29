@@ -1,9 +1,8 @@
 ---
-title: Alhemija - Outlook pad korake za rešavanje problema
+title: Alhemy-Outlook postupak otklanjanja poteškoća
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: f5caf2c49bc9967d17376159cf93a16930d30982
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505413"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664586"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook pad korake za rešavanje problema
+# <a name="outlook-crash-troubleshooting-steps"></a>Koraci za rešavanje problema u programu Outlook u padu
 
-Ako imate Outlook na radnoj površini pad pitanjima, početi do sledećih 3 koraka, koji su svi navedeni detaljno u ovom članku: [Kako da rešite probleme koji uzrokuju Outlook se slupati ili vise kada se koristi sa Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Ako imate problema sa nesrećom u programu Outlook, počnite tako što ćete slediti tri koraka ispod, koji su u ovom članku prikazani detaljno: [Rešavanje problema koji dovode do toga da Outlook padne ili da prestane da se odaziva kada se koristi sa Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
   
-1. korak: Istraži mogući problemi sa programskim dodacima.
+1. korak: istražite moguće probleme sa programskim dodacima.
   
-2. korak: Popravljanje programa Outlook i pokrenete [podršku i pomoćnik za oporavak alatke za rešavanje problema sa greškama pri pokretanju programa Outlook](https://aka.ms/SaRA-OutlookWontStart) na pogođenim masini.
+2. korak: popravljanje programa Outlook i pokretanje [Alatke "Pomoćnik za podršku i oporavak](https://aka.ms/SaRA-OutlookWontStart) " za rešavanje problema sa pokretanjem programa Outlook na računaru koji je pogođen.
   
-3. korak: Kreirajte novi Outlook profil ili možete pokrenuti [Outlook profil alat](https://aka.ms/SaRA-OutlookSetupProfile) na pogođenim masini.
+3. korak: Kreirajte novi Outlook profil ili pokrenite [alatku Outlook profile](https://aka.ms/SaRA-OutlookSetupProfile) na računaru sa pogođenim računarom.
   
-Ako je pitanje došlo nakon što su ispravke i navedeni koraci ne rade, moraćete da biste se vratili na prethodnu verziju. Saznajte [Kako da vratite prethodnu verziju sistema Office 2013 ili Office 2016 Klikni i pokreni](https://support.microsoft.com/help/2770432).
+Ako se problem desio nakon ažuriranja, a gore navedeni koraci ne funkcionišu, možda ćete morati da se vratite na prethodnu gradnju. Pogledajte [Kako da se vratite na stariju verziju sistema Office 2016 klikom na pokretanje](https://support.microsoft.com/help/2770432).
   

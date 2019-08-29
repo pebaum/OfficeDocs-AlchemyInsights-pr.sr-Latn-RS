@@ -3,25 +3,24 @@ title: 305 povećajte veličinu poštanskog sandučeta arhive
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391505"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661814"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Povećajte veličinu poštanskog sandučeta arhive
 
 Office 365 [ograničenja](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) veličine poštanskih sandučića arhive na osnovu licence koja se dodeljuje korisnički račun. Kada poštansko sanduče arhive dostigne 90% svoje dozvoljenog veličine, korisnik ne prima poruka sa obaveštenjem. Kada je poštansko sanduče arhive dosegne ograničenje veličine, korisnik ne možete premestiti više artikala poštansko sanduče arhive. Office 365 neće povećati veličinu poštanskog sandučeta na arhive, jednom kada se dostigne ograničenje veličine. Umesto toga, korisnici mogu da preduzmu sledeće radnje da biste oslobodili prostor u poštanskom sandučetu arhive:
 
-- Izvoz na stavke u .pst datoteku pomoću programa Outlook
+- Izvoz na stavke u .pst datoteku pomoću programa Outlook.
 
 - Brisanje stavki iz poštanskog sandučeta u arhivu.
 
