@@ -3,7 +3,6 @@ title: Opcije plaćanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,22 +12,20 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b743d7ef20fa2c5ebbc5d3f8a236464522aa79c5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555283"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666782"
 ---
 # <a name="payment-options-for-office-365-for-business-subscriptions"></a>Opcije plaćanja pretplate za Office 365 za preduzeća
-
-**Opcije plaćanja**
   
-Kreditna kartica, račun u banci (debitna kartica) i faktura (plaćanje putem čeka ili elektronskog prenosa sredstava)
+Kreditna kartica, račun u banci (debitna kartica) i faktura (plaćanje putem čeka ili elektronskog prenosa sredstava) su sve opcije plaćanja pretplate za Office 365 za preduzeća.
   
 **Plaćanje putem kreditne kartice ili računa u banci**
   
-Kada plaćate putem kreditne kartice ili računa u banci, automatski vam se naplaćuje naknada za pretplatu jedan dan posle datuma fakture, do kraja termina pretplate. Možete da [ažurirate informacije o kreditnoj kartici ili računu u banci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) kad god je to potrebno. Možete i da odaberete da [Dobijate kopiju izvoda o naplati putem e-pošte](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
+Kada plaćate putem kreditne kartice ili računa u banci, automatski vam se naplaćuje naknada za pretplatu jedan dan posle datuma fakture, do kraja termina pretplate. Možete da [ažurirate informacije o kreditnoj kartici ili računu u banci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) kad god je to potrebno. Možete i da odaberete da [dobijate kopiju izvoda o naplati putem e-pošte](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
 Ako je vaša kreditna kartica odbijena ili imate dugovanja koja kasne možete da izaberete opciju **Izmiri zaduženje** na stranici **Plaćanje** \> [Proizvodi i usluge](https://portal.office.com/adminportal/home#/subscriptions).
   

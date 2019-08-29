@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: b12540bbd7e7e3524f259736fec440b712289754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575674"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664478"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Kako da dodam kreditnu karticu?
 
@@ -30,4 +30,4 @@ ms.locfileid: "36575674"
 
 4. Unesite informacije o novoj kreditnoj kartici ili računu u banci, a zatim odaberite stavku **Sačuvaj**.
 
-Da li koristite stari centar administracije? Da biste videli stare korake ili saznali više, pogledajte članak [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili računa u banci u usluzi Office 365 za preduzeća](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Da biste saznali više pročitajte članak [Dodavanje, ažuriranje ili uklanjanje kreditne kartice ili računa u banci u usluzi Office 365 za preduzeća](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

@@ -3,7 +3,6 @@ title: Kako se instalira Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,18 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 8283183eb4f151711180dd4aebc187cb7be42fe0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540267"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663899"
 ---
 # <a name="how-to-install-office"></a>Kako se instalira Office
 
 Da biste instalirali Office klijentske aplikacije, uverite se da imate poslovnu pretplatu kao što je Office 365 Business Premium, Office 365 Business ili Office 365 Education.
   
-*Napomena: [Office Home and Business 2016](https://products.office.com/home-and-business) je [Office za kuću](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) proizvod i nisu deo poslovne pretplate. Posebna uputstva za program Visio ili Project potražite u člancima [Instaliranje programa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ili [programa Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*Napomena: [Office Home and Business](https://products.office.com/home-and-business) je [Office za kuću](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) proizvod i nisu deo poslovne pretplate. Posebna uputstva za program Visio ili Project potražite u člancima [Instaliranje programa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ili [programa Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
 
 Pravljenje korisničkih naloga i dodavanje domena. Proverite da li korisnik ima [dodeljenu licencu](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
 
