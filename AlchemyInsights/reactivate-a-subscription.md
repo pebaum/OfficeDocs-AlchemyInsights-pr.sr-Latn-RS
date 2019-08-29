@@ -3,7 +3,6 @@ title: Ponovo aktivirajte pretplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 865241f1595de5ebaa3136cbb8b65c66c5330708
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553374"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666602"
 ---
 # <a name="reactivate-an-office-365-subscription"></a>Ponovo aktivirajte pretplatu na Office 365
 
@@ -32,4 +31,4 @@ Ako vaša pretplata istekne, je onemogućio Microsoft, ili ti je otkazao usred t
 
 3. Potvrdite detalje svoje uplate. Možete da ažurirate svoje postojeće informacije o plaćanju ovde. Kada ste završili unos tvoj način plaćanja, izaberite **ponovo aktivirati**.
 
-Za više informacija, pogledajte [ponovo aktivirati pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Da biste saznali više, vidim da [ponovo aktivirate pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
