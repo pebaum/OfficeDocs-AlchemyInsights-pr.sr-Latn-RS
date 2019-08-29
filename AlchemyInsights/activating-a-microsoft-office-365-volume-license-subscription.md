@@ -1,5 +1,5 @@
 ---
-title: Aktiviram pretplatu za licencu za Microsoft Office 365 volumen
+title: Aktiviranje pretplate na Microsoft Office 365 količinsko licenciranje
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574484"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661202"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="ac575-102">Aktiviram pretplatu za licencu za Microsoft Office 365 volumen</span><span class="sxs-lookup"><span data-stu-id="ac575-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
+# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a><span data-ttu-id="a9198-102">Aktiviranje pretplate na Microsoft Office 365 količinsko licenciranje</span><span class="sxs-lookup"><span data-stu-id="a9198-102">Activating a Microsoft Office 365 Volume License Subscription</span></span>
 
-1. <span data-ttu-id="ac575-103">Prijavite se na [portal volumen licenciranja servisni centar (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="ac575-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
+1. <span data-ttu-id="a9198-103">Prijavite se na [portal centra za usluge količinskog licenciranja (VLSC)](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span><span class="sxs-lookup"><span data-stu-id="a9198-103">Sign in to your [Volume Licensing Service Center (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).</span></span>
 
-2. <span data-ttu-id="ac575-104">Dođite do pretplatu na Office 365 i odaberite **Aktiviraj**.</span><span class="sxs-lookup"><span data-stu-id="ac575-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
+2. <span data-ttu-id="a9198-104">Krećite se do pretplate na Office 365 i odaberite komandu " **Aktiviraj**".</span><span class="sxs-lookup"><span data-stu-id="a9198-104">Navigate to your Office 365 subscription and choose **Activate**.</span></span>
 
-3. <span data-ttu-id="ac575-105">E-mail će biti poslat vaš kontakt Online Services (OLS).</span><span class="sxs-lookup"><span data-stu-id="ac575-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
+3. <span data-ttu-id="a9198-105">E-poruka će biti poslata u kontakt usluge na mreži (se).</span><span class="sxs-lookup"><span data-stu-id="a9198-105">An email will be sent to your Online Services (OLS) Contact.</span></span>
 
-4. <span data-ttu-id="ac575-106">Aktivacija e-mail pružiće vam dve opcije: **Prijavite se**ili **se prijavite u**.</span><span class="sxs-lookup"><span data-stu-id="ac575-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="ac575-107">Ako ste prethodno kreirali suđenje, odaberite da **se prijavite u**.</span><span class="sxs-lookup"><span data-stu-id="ac575-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="ac575-108">Ako nemate još jedan stanar Office 365, odaberite da **se prijavite**.</span><span class="sxs-lookup"><span data-stu-id="ac575-108">If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
+4. <span data-ttu-id="a9198-106">E-poruka za aktivaciju će vam pružiti dve opcije: **Prijavite**se ili se **Prijavite**.</span><span class="sxs-lookup"><span data-stu-id="a9198-106">The activation email will provide you with two options: **Sign up**, or **Sign in**.</span></span> <span data-ttu-id="a9198-107">Ako ste prethodno kreirali probnu verziju, odaberite stavku " **Prijavljivanje**".</span><span class="sxs-lookup"><span data-stu-id="a9198-107">If you have previously created a trial, choose **Sign in**.</span></span> <span data-ttu-id="a9198-108">Ako nemate Office 365 tenanta, odaberite " **Prijavi se**".</span><span class="sxs-lookup"><span data-stu-id="a9198-108">If you don't yet have an Office 365 tenant, choose **Sign up**.</span></span>
 
-5. <span data-ttu-id="ac575-109">Prijavite se na Office 365 ([https://portal.office.com](https://portal.office.com)) koristeći postojeće akreditive administratora Office 365.</span><span class="sxs-lookup"><span data-stu-id="ac575-109">Sign in to Office 365 ([https://portal.office.com](https://portal.office.com)) using your existing Office 365 administrator credentials.</span></span> <span data-ttu-id="ac575-110">Nakon što se uspješno prijavite, dobijate drugu e-pošte se potvrđuje vaša kupovina.</span><span class="sxs-lookup"><span data-stu-id="ac575-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
+5. <span data-ttu-id="a9198-109">Prijavite se u Microsoft 365 admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) koristeći postojeći Office 365 akreditive administratora.</span><span class="sxs-lookup"><span data-stu-id="a9198-109">Sign in to the Microsoft 365 admin center ([https://admin.microsoft.com](https://admin.microsoft.com)) using your existing Office 365 administrator credentials.</span></span> <span data-ttu-id="a9198-110">Kada se uspešno prijavite, dobićete drugu e-poruku koja potvrđuje vašu kupovinu.</span><span class="sxs-lookup"><span data-stu-id="a9198-110">After you successfully sign in, you'll receive another email confirming your purchase.</span></span>
 
-6. <span data-ttu-id="ac575-111">Nakon što ste bili prijavljeni, možete posetiti u **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice da biste potvrdili da su tvoje kupljenog pretplate na Office 365 aktivirao unutar svog stanara.</span><span class="sxs-lookup"><span data-stu-id="ac575-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased Office 365 Subscriptions are activated within your tenant.</span></span> <span data-ttu-id="ac575-112">(Takođe možete izabrati karticu **pretplate** u VLSC da biste prikazali detalje potvrđujete da je vaša pretplata deponovano.)</span><span class="sxs-lookup"><span data-stu-id="ac575-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
+6. <span data-ttu-id="a9198-111">Nakon što ste se prijavili, možete da odete na stranicu za **naplatu** \> [proizvoda _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) da biste proverili da li su kupljene Office 365 pretplate aktivirane u okviru vašeg tenanta.</span><span class="sxs-lookup"><span data-stu-id="a9198-111">After you've signed in, you can go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page to verify that your purchased Office 365 Subscriptions are activated within your tenant.</span></span> <span data-ttu-id="a9198-112">(Takođe, možete odabrati karticu " **Pretplata** " u vlsc-u da biste videli detalje koji provere da li je vaša pretplata deponovana.)</span><span class="sxs-lookup"><span data-stu-id="a9198-112">(You can also choose the **Subscription** tab in the VLSC to view details verifying that your subscription has been deposited.)</span></span>
