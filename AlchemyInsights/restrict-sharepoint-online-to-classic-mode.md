@@ -1,6 +1,6 @@
 ---
-title: Ograničite SharePoint Online na klasičan način
-ms.author: kirks
+title: Ograniči SharePoint Online na klasični režim
+ms.author: pebaum
 author: Techwriter40
 ms.date: 3/27/2018
 ms.audience: ITPro
@@ -12,26 +12,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: e7ecfd8c2f1a532355bfb8c2c0a846fc0d6e88b1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18d263593d99f24c3020336ae601df14dbbf5411
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551573"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752082"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="919b3-102">Ograničite SharePoint Online na klasičan način</span><span class="sxs-lookup"><span data-stu-id="919b3-102">Restrict SharePoint Online to classic mode</span></span>
+# <a name="restrict-sharepoint-online-to-classic-mode"></a><span data-ttu-id="ec027-102">Ograniči SharePoint Online na klasični režim</span><span class="sxs-lookup"><span data-stu-id="ec027-102">Restrict SharePoint Online to classic mode</span></span>
 
-<span data-ttu-id="919b3-103">Neke organizacije su potrebni klasični režim iskustvo.</span><span class="sxs-lookup"><span data-stu-id="919b3-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="919b3-104">Dok ga ne planira da se ukloni klasični režim na osnovnom nivou, ona više neće biti moguće da biste ograničili celu organizaciju (stanar) klasični režim za liste i biblioteke.</span><span class="sxs-lookup"><span data-stu-id="919b3-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
+<span data-ttu-id="ec027-103">Neke organizacije i dalje zahtevaju klasičan režim rada.</span><span class="sxs-lookup"><span data-stu-id="ec027-103">Some organizations still require the Classic mode experience.</span></span> <span data-ttu-id="ec027-104">Iako nema planova za uklanjanje klasičnog režima na nivou Granulat, više nije moguće ograničiti čitavu organizaciju (Tenant) u klasični režim za liste i biblioteke.</span><span class="sxs-lookup"><span data-stu-id="ec027-104">While there are no plans to remove classic mode at a granular level, it is no longer possible to restrict an entire organization (tenant) to classic mode for lists and libraries.</span></span>
 
-<span data-ttu-id="919b3-105">U admin će imati sledeće opcije za upravljanje pojedinačnim listama i bibliotekama u klasični režimu pomoću zrnasti saglasnosti prekidači koje pružamo na sledeće nivoe:</span><span class="sxs-lookup"><span data-stu-id="919b3-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
+<span data-ttu-id="ec027-105">Admin će imati sledeće opcije za upravljanje pojedinačnim listama i bibliotekama u klasičnom režimu uz pomoć prekidača za odbijanje saglasnosti koje pružamo na sledećim nivoima:</span><span class="sxs-lookup"><span data-stu-id="ec027-105">The admin will have the following options to manage individual lists and libraries in classic mode using granular opt-out switches that we provide at the following levels:</span></span>
 
-- <span data-ttu-id="919b3-106">kolekcija lokacija</span><span class="sxs-lookup"><span data-stu-id="919b3-106">site collection</span></span>
-- <span data-ttu-id="919b3-107">lokacija</span><span class="sxs-lookup"><span data-stu-id="919b3-107">site</span></span>
-- <span data-ttu-id="919b3-108">lista</span><span class="sxs-lookup"><span data-stu-id="919b3-108">list</span></span>
-- <span data-ttu-id="919b3-109">biblioteka</span><span class="sxs-lookup"><span data-stu-id="919b3-109">library</span></span>
+- <span data-ttu-id="ec027-106">kolekciju lokacija</span><span class="sxs-lookup"><span data-stu-id="ec027-106">site collection</span></span>
+- <span data-ttu-id="ec027-107">Lokacije</span><span class="sxs-lookup"><span data-stu-id="ec027-107">site</span></span>
+- <span data-ttu-id="ec027-108">Liste</span><span class="sxs-lookup"><span data-stu-id="ec027-108">list</span></span>
+- <span data-ttu-id="ec027-109">Biblioteku</span><span class="sxs-lookup"><span data-stu-id="ec027-109">library</span></span>
 
-<span data-ttu-id="919b3-110">Pored toga, liste koje koriste određene funkcije i prilagođavanja koja ne podržava moderne će i dalje biti automatski prebacio na klasičan način.</span><span class="sxs-lookup"><span data-stu-id="919b3-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
+<span data-ttu-id="ec027-110">Pored toga, liste koje koriste određene funkcije i prilagođavanja koje ne podržavaju moderni će i dalje biti automatski zamenjeni klasičnom režimu.</span><span class="sxs-lookup"><span data-stu-id="ec027-110">Additionally, lists that use certain features and customizations that are not supported by modern will still be automatically switched to classic mode.</span></span>
 
-<span data-ttu-id="919b3-111">April 1, 2019 godine, proces da biste onemogućili nivo stanar saglasnost moderne listi i biblioteka će početi, a traje do 31 maja, 2019.</span><span class="sxs-lookup"><span data-stu-id="919b3-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="919b3-112">Liste i biblioteke koje se nalaze u klasični režim kao rezultat stanar saglasnosti biće automatski pomereni u moderni.</span><span class="sxs-lookup"><span data-stu-id="919b3-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
+<span data-ttu-id="ec027-111">Početak 1 April 2019, proces onemogućavanja nivoa koji se izuzima na nivou od moderne liste i biblioteka počeće i trajaće do 2019 31.</span><span class="sxs-lookup"><span data-stu-id="ec027-111">Beginning April 1, 2019, the process to disable the tenant level opt out of modern list and libraries will start and continue through May 31, 2019.</span></span>  <span data-ttu-id="ec027-112">Liste i biblioteke koje se nalaze u klasičnom režimu kao rezultat za odbijanje saglasnosti će automatski biti pomerene na moderan način.</span><span class="sxs-lookup"><span data-stu-id="ec027-112">The lists and libraries that are in classic mode as a result of tenant opt-out will automatically be shifted to modern.</span></span>
 
-<span data-ttu-id="919b3-113">Ako je potrebno da klasični režimu pogledajte više informacija [ovde](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) i uputstvo za PnP Powershell [ovde](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) koji opisuje opcije i alatke koje možete koristiti danas klasični režim iskustvo.</span><span class="sxs-lookup"><span data-stu-id="919b3-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
+<span data-ttu-id="ec027-113">Ako vam je potreban klasičan režim, pogledajte više informacija [ovde](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) i uputstvo za PNP funkciju koja opisuje opcije i [Alatke koje danas](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) možete koristiti za korišćenje klasičnog režima rada.</span><span class="sxs-lookup"><span data-stu-id="ec027-113">If you require classic mode please see more information [here](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) and PnP Powershell instruction [here](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) that describes options and tools you can use today to use the classic mode experience.</span></span>
