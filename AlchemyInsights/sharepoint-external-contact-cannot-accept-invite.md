@@ -1,27 +1,26 @@
 ---
-title: Eksterni kontakt nije u stanju da prihvati deljenja pozivu
+title: Spoljni kontakt ne može da prihvati poziv za deljenje
 ms.author: efrene
 author: efrene
-ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508509"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744223"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a><span data-ttu-id="ed5c4-102">Eksterni kontakt nije u stanju da prihvati poziv za SharePoint</span><span class="sxs-lookup"><span data-stu-id="ed5c4-102">External contact is unable to accept a SharePoint invitation</span></span>
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a><span data-ttu-id="76d78-102">Spoljni kontakt ne može da prihvati SharePoint pozivnicu</span><span class="sxs-lookup"><span data-stu-id="76d78-102">External contact is unable to accept a SharePoint invitation</span></span>
 
-<span data-ttu-id="ed5c4-103">Ako neki spoljašnji nije u stanju da prihvati deljenja pozivnicu, molim te probaj u poseti niže navedene veze.</span><span class="sxs-lookup"><span data-stu-id="ed5c4-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
+<span data-ttu-id="76d78-103">Ako spoljni nije u stanju da prihvati poziv za deljenje, pokušajte da posetite dolenavedena linka.</span><span class="sxs-lookup"><span data-stu-id="76d78-103">If an external is unable to accept a sharing invite, please try visiting the links below.</span></span>
 
-- [<span data-ttu-id="ed5c4-104">Poruka o grešci prilikom spoljnog korisnika prihvata poziv za SharePoint Online pomoću drugog naloga</span><span class="sxs-lookup"><span data-stu-id="ed5c4-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [<span data-ttu-id="76d78-104">Poruka o grešci kada spoljni korisnik prihvati poziv na SharePoint na mreži pomoću drugog naloga</span><span class="sxs-lookup"><span data-stu-id="76d78-104">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [<span data-ttu-id="ed5c4-105">Pristup nije dozvoljen u deljenu fasciklu</span><span class="sxs-lookup"><span data-stu-id="ed5c4-105">Access denied to a shared folder</span></span>](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [<span data-ttu-id="76d78-105">Pristup deljenoj fascikli nije dozvoljen</span><span class="sxs-lookup"><span data-stu-id="76d78-105">Access denied to a shared folder</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [<span data-ttu-id="ed5c4-106">Deljenje greške u SharePoint i OneDrive</span><span class="sxs-lookup"><span data-stu-id="ed5c4-106">Sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="76d78-106">Deljenje grešaka u sistemu SharePoint i OneDrive</span><span class="sxs-lookup"><span data-stu-id="76d78-106">Sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
