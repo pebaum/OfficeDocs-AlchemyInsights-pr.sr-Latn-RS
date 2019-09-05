@@ -1,5 +1,5 @@
 ---
-Title: Rešavanje problema sa osvežavanja scenarije - pločica greškama
+title: Rešavanje problema osvežavanje scenarija-greške u pločicama
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 568fa4662c7d312583348981f80319aaefcf7290
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506853"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748842"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Rešavanje problema sa osvežavanja scenarije - pločica greškama
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Rešavanje problema osvežavanje scenarija-greške u pločicama
 
-Ako dođe do pločice osvežavanja greške unutar vlasti BI servis, sačekajte oko 10-15 minuta za osvežavanje da se odraziti na instrument-tabli pločice. Ako to i dalje ne pojavljuje se, ponovo zakačiti vizualizaciju na kontrolnu tablu.
+Ako dođe do grešaka pri osvežavanju pločica u okviru ove usluge, sačekajte oko 10-15 minuta da bi se osvežavanje odrazilo na pločice kontrolne table. Ako se i dalje ne pojavljuje, ponovo zakačite vizuelizaciju na kontrolnu tablu.
 
 Za više informacija:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

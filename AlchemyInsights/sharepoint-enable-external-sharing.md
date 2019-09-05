@@ -1,5 +1,5 @@
 ---
-title: Omogućite spoljnim dijeljenje u SharePoint Online
+title: Omogućavanje spoljne deljenja u sistemu SharePoint online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503901"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744439"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućite spoljnim dijeljenje u SharePoint Online
+# <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućavanje spoljne deljenja u sistemu SharePoint online
 
-Ako vaša organizacija obavlja posao koji uključuje deljenje dokumenata ili direktno sa dobavljačima, klijentima ili kupcima, onda možete koristiti na [Spoljni Deljenje funkcije programa SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) za deljenje sadržaja sa ljudima van tvoje organizacija.
+Ako vaša organizacija obavlja posao koji podrazumeva deljenje dokumenata ili saradnju sa dobavljačima, klijentima ili kupcima, možete da koristite [funkcije spoljnog deljenja na SharePoint mreži](https://docs.microsoft.com/sharepoint/external-sharing-overview) da biste delili sadržaj sa osobama van vašeg Organizacija.
 
-Za više informacija o spoljnim deljenja (gosti) posjetite niže navedene veze.
+Za više informacija o spoljnom deljenju (gosti) molimo vas da posetite dole navedene veze.
 
-- [Da li je to spoljnog korisnika?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Šta je spoljni korisnik?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Šta se desi kada delim lokaciji ili dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Šta se dešava kada delim lokaciju ili dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Uključivanje ili isključivanje spoljne deljenja za SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Okreni spoljni Uključivanje ili isključivanje deljenja za lokaciju](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Uključivanje ili isključivanje spoljne deljenja za lokaciju](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Upravljanje pristup gosta u Office 365 grupama](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Upravljaj pristupom gosta u Office 365 grupama](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [Koristite Sharepoint Online kao rešenje ekstranet posao-da-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Korišćenje SharePoint online-a kao poslovnog rešenja za poslovno (B2B) ekstranet](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Deljenje SharePoint datoteka ili fascikla](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Deljenje SharePoint datoteka ili fascikli](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Zaustavi deljenje OneDrive ili SharePoint datotekama ili fasciklama ili promena dozvola](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Prestanak deljenja OneDrive ili SharePoint datoteka ili fascikli ili menjanje dozvola](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Izbriši spoljnog korisnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Brisanje spoljnog korisnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Primanje greške sa spoljnog korisnika (gost)?**
+**Dobijanje greške sa spoljnim korisnikom (gostom)?**
 
-Pogledajte niže navedene veze. 
+Proverite veze ispod. 
 
-- [TVORI deljenje greške u Sharepoint ili OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE deljenja grešaka u sistemu SharePoint ili OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Poruka o grešci prilikom spoljnog korisnika prihvata poziv za SharePoint Online pomoću drugog naloga](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Poruka o grešci kada spoljni korisnik prihvati poziv na SharePoint na mreži pomoću drugog naloga](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Pristup nije dozvoljen u deljenu fasciklu](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Pristup deljenoj fascikli nije dozvoljen](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

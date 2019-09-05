@@ -1,21 +1,21 @@
 ---
-title: Klasifikacija oznake u Office 365
-ms.author: kirks
+title: Nalepnice za klasifikaciju u sistemu Office 365
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: b25220bba7aba8dc612952c934cb8e6befaae619
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 878be4bb0d2f7797340345248d06dff412a72a59
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520213"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755070"
 ---
-# <a name="classification-labels-in-office-365"></a>Klasifikacija oznake u Office 365
+# <a name="classification-labels-in-office-365"></a>Nalepnice za klasifikaciju u sistemu Office 365
 
-Osetljivost ili klasifikacija oznake u Office 365, možete klasifikuje i da pomaže u zaštiti vašeg osetljive sadržaja, dok je da budem siguran da su tvoji ljudi produktivnost i sposobnost za saradnju nije ugroћen.
+Sa osećajnošću ili oznakama za klasifikaciju u sistemu Office 365 možete klasifikovati i zaštititi svoj osetljivi sadržaj, istovremeno se uveriti da produktivnost i sposobnost vašeg naroda da sarađuju.
 
-Za više informacija Pregledajte sledeći [članak](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Za više informacija, pogledajte sledeći [članak](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).

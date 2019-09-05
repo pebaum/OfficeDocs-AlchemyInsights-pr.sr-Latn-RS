@@ -1,5 +1,5 @@
 ---
-title: Instaliranje sistema office na Terminal serveru - bez dozvole
+title: Instaliranje sistema Office na Terminal serveru-nelicenciran
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,44 +11,44 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498429"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735403"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>Instaliranje sistema Office na Terminal servera
+# <a name="installing-office-on-a-terminal-server"></a>Instaliranje sistema Office na Terminal serveru
 
-Za primenu Office 365 ProPlus na Windows serveru koristeći usluge udaljene radne površine (RDS), nekadašnja po imenu Terminal Services:
+Za primenu sistema Office 365 ProPlus na Windows serveru pomoću usluga udaljene radne površine (RDS), prethodno imenovanih usluga terminala:
   
-- Morate imati plan za Office 365 koji uključuje Office 365 ProPlus, kao što je Office 365 Enterprise E3 ili Enterprise E5. Ne uključuj Office 365 ProPlus Office 365 Business i Office 365 poslovne Premium planove.
+- Morate imati Office 365 plan koji uključuje Office 365 ProPlus, kao što je Office 365 Enterprise E3 ili Enterprise E5. Office 365 Business i Office 365 Business Premium planovi ne uključuju Office 365 ProPlus.
 
-- Potrebno je da omogućite [aktivacija deljenih računara](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Potrebno je da omogućite [deljenu aktivaciju računara](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Ako želite da instalirate Office 365 ProPlus na RDS sa Office 365 portala, ***koji koristi podrazumevane postavke instalacije***, slijedite ove korake:
+Ako želite da instalirate Office 365 ProPlus na RDS iz Microsoft 365 admin Center, ***koji koristi podrazumevane postavke instalacije***, sledite ove korake:
   
-1. Pogledajte kakav plan Office 365, imate. [Saznajte kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Proverite koji Office 365 plan imate. [Saznajte kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
-2. Ako je potrebno, prebaci se na drugu Office 365 planiraju. [Saznajte kako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Prebacite se na drugi Office 365 plan ako je potrebno. [Saznajte kako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-3. Ako Office je već instaliran na serveru RDS pomoću neke druge planove za Office 365, deinstalirajte ga. Na primer, tako što ćete posetiti Kontrolna tabla \> Deinstaliranje programa. Deinstalirajte koristeći [Microsoft podršci i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) Ako pokrećete u pitanjima.
+3. Ako je Office već instaliran na RDS serveru koristeći bilo koji drugi Office 365 plan, deinstalirajte ga. Na primer, tako što ćete otići na \> kontrolnu tablu deinstalirajte program. Deinstalirajte koristeći [Microsoft pomoć i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) ako se radi o problemima.
 
-4. Na serveru RDS, prijavite se Office 365 portal sa administratorskim nalogom i [Instalirajte Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
+4. Na RDS serveru, prijavite se u Microsoft 365 admin Center sa administratorskim nalogom i [Instalirajte Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Nakon instaliranja Office, ***ne otvori ili se prijavite u*** bilo koji Office aplikacijama.
+5. Nakon instalacije sistema Office, ***Nemojte da otvarate niti*** da se prijavljujete u bilo koju Office aplikaciju.
 
-6. Na serveru RDS, Omogućavanje aktivacije deljeni računar uređivanjem registra tako što ćete pratiti ove korake:
+6. Na RDS serveru omogućite deljenu aktivaciju računara uređivanjem registratora tako što ćete slediti ove korake:
 
-1. Kliknite desnim tasterom miša na Windows dugme u donjem levom uglu ekrana i izaberite stavku Pokreni. U polju otvori otkucajte **regedit**, a zatim izaberite OK.
+1. Kliknite desnim tasterom miša na dugme Windows u donjem levom uglu ekrana i izaberite stavku Pokreni. U polju otvori otkucajte **Regedit**, a zatim izaberite "u redu".
 
-2. Izaberite opciju da kada se od vas zatraži da dozvolite Registry Editor da biste promenili vaš uređaj.
+2. Kliknite na dugme "da" kada se od vas zatraži da dozvolite Registry Editoru da promeni vaš uređaj.
 
-3. U programu Registry Editor, dodajte vrednost niske od **SharedComputerLicensing** sa postavkom 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. U programu Registry Editor Dodajte vrednost niske za **Sharedkompjuterlicenciranje** sa postavkom 1 pod HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\kliktorun\konfiguration.
 
-7. Na serveru RDS, ***prijaviti se kao krajnji korisnik*** i [da li deljeni računar aktivacija omogućena za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. Na RDS serveru prijavite se ***kao krajnji korisnik*** i [Proverite da li je aktivacija deljenog računara omogućena za Office 365 proplus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
-Za više detalja o preduslovi, uputstva za instalaciju i Vodič kroz prilagođene instalacije pomoću alatke za primenu za Office, pogledajte [Korištenje Office 365 ProPlus pomoću usluge udaljene radne površine](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Za više detalja o preduslovi, uputstva za podešavanje i uputstva o prilagođenim instalacijama pomoću alatke za primenu sistema Office, pogledajte odeljak [Primena sistema office 365 ProPlus pomoću usluga udaljene radne površine](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   
-Da biste popravili greške vezane za aktivaciju deljeni računar, pogledajte [Rešavanje problema sa aktivacija deljenih računara za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Da biste ispravili greške u vezi sa aktivacijom deljenog računara, pogledajte odeljak [Rešavanje problema sa aktivacijom deljenog računara za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
   

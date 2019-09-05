@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501705"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743359"
 ---
 # <a name="solutions-for-error-30068-39"></a>Rešenja za grešku 30068-39
 
-Pokušajte sledeće da popravim greške [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Isprobajte ova rešenja da biste ispravili grešku [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
 - Ponovo pokrenite računar i pokušajte da [instalirate Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Proveri da li **Microsoft Klikni i pokreni**[usluga onemogućena](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , i ako je onemogućen, promenite status da **ručno** ili **Automatsko**.
+- Proverite da li [je usluga](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) **Microsoft "Klikni na pokretanje** " onemogućena i da li je onemogućena, promenite status u " **ručno** " ili " **automatski**".
 
-- Preuzmite i instalirajte [podršku i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Preuzmite i instalirajte [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Kada se otvore, iz **deinstalirate Office proizvodima** izaberite verziju želite deinstalirati i kliknite na dugme **dalje**.
+1. Kada se otvori, od **deinstaliranja Office proizvoda** izaberite verziju koju želite da deinstalirate i kliknite na dugme **dalje**.
 
-2. Nastavite kroz ekrane i ponovo pokrenite računalo kada se od vas zatraži.
+2. Nastavite da idete kroz ekrane i ponovo pokrenite računar kada to bude zatraženo.
 
-    Nakon ponovnog pokretanja, podrške i pomoćnik za oporavak automatski ponovo otvara da biste dovršili proces deinstalacije.
+    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak će se automatski ponovo otvoriti da bi dovršio proces deinstalacije.
 
-3. Pratite preostale upite i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.
+3. Sledite preostale odzive i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.

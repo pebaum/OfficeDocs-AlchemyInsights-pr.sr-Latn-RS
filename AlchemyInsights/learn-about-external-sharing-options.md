@@ -1,5 +1,5 @@
 ---
-title: 617 Saznajte više o eksterno opcije deljenja
+title: 617 Saznajte više o opcijama spoljnih deljenja
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63e0cab7c9dcfd6ef2a6cc9b6b6c00d751727557
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497781"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735367"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a>Saznajte više o spoljnim kalendar opcije deljenja
+# <a name="learn-about-external-calendar-sharing-options"></a>Saznajte više o opcijama deljenja u spoljnim kalendarima
 
-Ako ti treba za planiranje sastanaka sa osobama izvan vaše organizacije, Office 365 vam omogućava da na raspolaganje kalendari „spoljnim korisnicima”, oni koji treba da vidite informacije o zauzetosti vremena, ali nemam korisnički nalozi za vaše okruženje za Office 365. Za više informacija, pogledajte [Deljenje kalendara sa spoljnim korisnicima](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).
+Ako je potrebno da zakažete sastanke sa osobama izvan vaše organizacije, Office 365 vam omogućava da kalendare učinite dostupnim "spoljnim korisnicima", onima koji moraju da vide vreme zauzetosti, ali nemaju korisničke naloge za vašu Office 365 okruženje. Više informacija potražite u članku [Deljenje kalendara sa spoljnim korisnicima](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).

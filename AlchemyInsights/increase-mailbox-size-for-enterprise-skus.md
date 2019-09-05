@@ -1,5 +1,5 @@
 ---
-title: Povećajte veličinu poštanskog sandučeta za Enterprise MJ
+title: Povećaj veličinu poštanskog sandučeta za Enterprise SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 2092a4a1f45d5edf99471c88a0556721b5a1f38e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499437"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739291"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Šta da radite ako veličinu poštanskog sandučeta, već je 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Šta treba uraditi ako je veličina vašeg poštanskog sandučeta već 100 GB
 
-Sa planom E3 ili E5 veličinu poštanskog sandučeta, već je 100 GB, a nikako da biste ga povećali. Umesto toga, izbrišite stare e-poruke, ili uključite e-mail arhiviranje da ga uskladištite u oblaku. 
+Sa E3 ili E5 planom, veličina vašeg poštanskog sandučeta je već 100 GB, a nema načina da ga povećate. Umesto toga, izbrišite staru e-poštu ili uključite arhiviranje e-pošte da biste je uskladištili u oblaku. 
   
 Da biste omogućili arhiviranje e-pošte:
   
-1. U centru za admin Microsoft 365, idite na **Admin centri** \> **Exchange**. 
+1. U Microsoft 365 admin Center posetite lokaciju **admin centre** \> **.** 
     
-2. Odaberite **primaoce** \> **poštanskih sandučića**, a zatim izaberite poštansko sanduče. 
+2. Odaberite **** \> **Poštanske sandučiće**primalaca i izaberite poštansko sanduče. 
     
-3. U oknu sa detaljima u okviru **Arhiva na licu mesta**, odaberite **Omogući**. 
+3. U oknu sa detaljima koji se nalazi **u okviru arhive na mestu**, odaberite opciju **Omogući**. 
     
-4. Nakon nekoliko minuta, nova fascikla će se pojaviti u vašem korisničkom Outlook na Webu zove *Arhive na licu mesta* ili u Outlook aplikacija zove *Online arhiva - \<ime\> * . Tvoj korisnik možete da prevučete i otpustite email u arhivu. 
+4. Nakon nekoliko minuta, nova fascikla će se pojaviti u Outlook Outlooku na Webu nazvanom *u arhivi* , ili u Outlook aplikaciji koja se zove " * \<arhiva\> na mreži* ". Vaš korisnik može da odvlači i otpusti e-poštu u arhivu. 
     
-Možete da pristupite neograničene količine skladišta za arhiviranje. Da biste saznali više, vidim da [Omogući neograničen arhiviranje](https://support.office.com/article/enable-unlimited-archiving-in-office-365-admin-help-e2a789f2-9962-4960-9fd4-a00aa063559e).
+Možete da pristupite neograničenom količinom prostora za arhiviranje. Da biste saznali više, pogledajte odeljak [Omogućavanje neograničenog arhiviranja](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
   
 

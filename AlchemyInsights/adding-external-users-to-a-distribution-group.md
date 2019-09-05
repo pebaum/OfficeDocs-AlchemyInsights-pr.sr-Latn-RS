@@ -1,5 +1,5 @@
 ---
-title: Dodavanje eksternog korisnika u listu distribucije
+title: Dodavanje spoljnih korisnika u grupu distribucije
 ms.author: chrisda
 author: chrisda
 ms.audience: ITPro
@@ -7,38 +7,38 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e84a5b04d6fc805deaa47cb10c91081f37411e5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660806"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737887"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Dodavanje eksternog korisnika listu distribucije
+# <a name="add-external-users-to-a-distribution-group"></a>Dodavanje spoljnih korisnika u grupu distribucije
 
-Dodavanje eksterni kontakt da je distribucija grupe (DG) je proces od dva koraka:
+Dodavanje spoljnog kontakta grupi za distribuciju (DG) je proces u dva koraka:
   
-1. Kreiranje pošte kontakta za eksternog korisnika:
+1. Kreirajte kontakt za e-poštu za spoljnog korisnika:
     
-    1. U admin centru, idite do **korisnika** > stranica sa[kontaktima](https://admin.microsoft.com/adminportal/home#/Contact) . 
+    1. U okviru administratorskog centra idite na stranicu " **Korisnici** > [kontakata](https://admin.microsoft.com/adminportal/home#/Contact) ". 
     
-    2. Izaberite **Dodaj kontakt**.
+    2. Izaberite stavku **Dodaj kontakt**.
     
-    3. Unesite informacije za vaš kontakt i izaberite **Dodaj**.
+    3. Upišite informacije o svom kontaktu i kliknite na dugme " **Dodaj**".
     
-2. Dodajte kontakt Mail tvoj DG:
+2. Dodajte kontakt iz pošte svom DG:
     
-    1. U centru za admin, idite do **grupe** > [grupe](https://admin.microsoft.com/adminportal/home#/groups) stranica. 
+    1. U okviru administratorskog centra idite na **** > stranicu grupe[grupe](https://admin.microsoft.com/adminportal/home#/groups) . 
     
-    2. Pronađite DG koji želite dodati eksternog korisnika i izaberite ga da biste otvorili dijalog za uređivanje.
+    2. Pronađite DG kojoj želite da dodate spoljnog korisnika i izaberite ga da biste otvorili dijalog "Uređivanje".
     
-    3. Na kartici " **članovi** ", izaberite **sve prikaz i upravljanje članovima**. 
+    3. Na kartici " **članovi** " izaberite stavku " **Prikaz svih članova" i "Upravljanje članovima**". 
     
-    4. Izaberite **Dodaj članove**.
+    4. Izaberite stavku **Dodaj članove**.
     
-    5. Izaberite kontakt za poštu koju ste kreirali u prethodnom koraku, a zatim izaberite stavku **Sačuvaj**.
+    5. Izaberite kontakt za poštu koji ste kreirali na prethodnom koraku, a zatim kliknite na dugme **Sačuvaj**.
     
-Ako nakon sledeće korake eksterni korisnici mogu poslati e-mailove u Glavonja ili ne primate e-mailove od njega, biжe da je DG je označen samo Dozvoljavanje e-mailove od unutrašnjih korisnika. Možete da proverite ovu konfiguraciju i popravi pratiti uputstva [ovde](https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx).
+Ako nakon ovih koraka spoljni korisnici ne mogu da šalju e-poruke DG ili ne primaju e-poruke od nje, moguće je da je DG označen samo da bi omogućio e-poruke od unutrašnjih korisnika. Ovu konfiguraciju možete da proverite i popravite na sledeći [način.](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/fix-error-code-5-7-133-in-exchange-online)
   
- **Napomena:** Ova uputstva ne odnose ako vaša grupa vrsta „Office 365 grupa” umesto „Grupi za distribuciju”. Ako je to slučaj, možete dodati eksternog korisnika direktno u grupi iz programa Outlook. Detaljne informacije o Office 365 grupe gostiju, kao i uputstva za dodavanje eksternog goste možete pronaći u [ovom članku](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+ **Napomena:** Ova uputstva se ne primenjuju ako je tip grupe "Office 365 grupa" umesto "grupa za distribuciju". Ako je to slučaj, spoljni korisnik možete da dodate direktno u grupu iz programa Outlook. Detaljnije informacije o sistemu Office 365, kao i uputstva za dodavanje eksternih gostiju možete pronaći u [ovom članku](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   

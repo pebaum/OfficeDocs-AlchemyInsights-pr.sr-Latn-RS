@@ -1,5 +1,5 @@
 ---
-title: 712 konvertovanje liste distribucije u grupi programa Office 365
+title: 712 konvertovanje liste distribucije u Office 365 grupu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516433"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738355"
 ---
-# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Konvertuj listu distribucije u grupi programa Office 365
+# <a name="convert-a-distribution-group-to-an-office-365-group"></a>Konvertovanje grupe za distribuciju u Office 365 grupu
 
-Grupe za distribuciju možete da konvertujete u Office 365 grupe ako zadovoljavaju određene kriterijume. Pretvori u grupi ili rešavanje problema konverzije, vidim [nadogradnju liste distribucije Office 365 grupama u programu Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
+Grupe za distribuciju možete konvertovati u Office 365 grupe ako zadovoljavaju određene kriterijume. Da biste konvertovali grupu ili rešili probleme sa konvertovanjem, pogledajte temu [za distribuciju nadogradnje na Office 365 grupe u programu Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

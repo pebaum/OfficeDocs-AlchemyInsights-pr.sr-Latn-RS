@@ -1,5 +1,5 @@
 ---
-title: Popravi OneDrive problemi pri sinhronizaciji
+title: Rešavanje problema sa OneDrive sinhronizacijom
 ms.author: matteva
 author: pebaum
 ms.date: 6/29/2018
@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aaa8b266-5cd6-4aea-86c1-b54e062dd2bc
-ms.openlocfilehash: 99f8efcbd35c1980091afed683e07f68e33ed611
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 36946e14703993198f5fa2f96949815059c8cc14
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525154"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740011"
 ---
-# <a name="fix-onedrive-sync-problems"></a>Rješava probleme pri sinhronizaciji OneDrive
+# <a name="fix-onedrive-sync-problems"></a>Rešavanje problema sa OneDrive sinhronizacijom
 
-Ako OneDrive nije sa sinhronizacijom datoteka na očekivani način, možete da [rešite probleme pri sinhronizaciji OneDrive](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US).
+Ako OneDrive ne sinhronizuje datoteke onako kako očekujete, možete da [rešite probleme sa OneDrive sinhronizacijom](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90).
   

@@ -1,5 +1,5 @@
 ---
-title: Mrežne migracije
+title: Migracijom mreže
 ms.author: pebaum
 author: pebaum
 ms.date: 7/27/2018
@@ -11,27 +11,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 4a98c08eb785b1406c661fb84b5b3e6981c31826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2fb66d68e131d22bc44f0fd878717d5e5e776dac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538489"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734719"
 ---
-# <a name="network-migration"></a>Mrežne migracije
+# <a name="network-migration"></a>Migracijom mreže
 
-O365 stanar je možda povezan sa više mreža Yammer u 1 stanar: mnogi konfiguracije mreže. Počinje 16. oktobra 2018, Yammer više neće podržavati više mreža Yammer pridružen jedan stanar Office 365. Možete da izvršite mreže migracije da se željena konfiguracije 1:1.
+Vaš O365 stanarka je možda povezan sa više mreža Yammer u okviru jednog tenanta: mnoga mreža konfiguracija. Počev od 16 oktobra 2018, Yammer više neće podržavati više mreža Yammer povezanih sa jednom Office 365 Tenant. Možete da izvršite migraciju mreže da biste dobili željenu konfiguraciju 1:1.
   
-- Da biste prikazali listu mrežama koje su povezane sa tvojim podstanarom, prijavite se na Yammer kao globalni Administrator Office 365 i potražite **Mrežni Admin**, onda **Mreža migracije**. Odaberite **dalje**.
+- Da biste prikazali listu mreža povezanih sa vašim tenkom, prijavite se na Yammer kao Office 365 Global administrator i idite do **administratora mreže**, a zatim **migracija mreže**. Kliknite na dugme **dalje**.
 
-- Ako vidite više mreža navedena na korak 2 od 3, onda imate više mreža Yammer povezane sa tvojim podstanarom O365.
+- Ako vidite više mreža navedenih u koraku 2 od 3, imate više mreža Yammer povezanih sa vašim O365 tenovom.
 
-- Da biste ispravili konfiguraciju u konfiguraciju 1:1, nastavite da koristite alatku za migraciju mreže.
+- Da biste ispravili konfiguraciju na 1:1, nastavite sa korišćenjem alatke za migraciju mreže.
 
-- Za više informacija o migracijama mreže pogledajte [mrežne migracije: konsolidujete više mreža Yammer](https://support.office.com/article/a22c1b20-9231-4ce2-a916-392b1056d002)
+- Za više informacija o migracijama mreže pogledajte odeljak [migracija mreže: konsolidovanje više mreža na mreži Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Imajte na umu:
+Napomena:
   
-- **Mrežne migracije migrira samo aktivni i Neobrađeno korisnicima.** Zajedno sa aktivnog korisnika, informacije za korisnika, kao što su ime i profil slika, je takođe preseljeni. Svaki mrežni sadržaj, uključujući grupe, se ne prenose.
+- **Migracija na mreži migira samo aktivne i neobrađene korisnike.** Zajedno sa aktivnim korisnicima, informacije o korisniku, kao što su ime i slika profila, takođe se migriraju. Svaki mrežni sadržaj, uključujući grupe, neće biti prenesena.
 
-- **Nije moguće stornirati mreže migracije.** Nećete moći da pristupite podružnica mreži, kao i njenog sadržaja nakon migracije. Pre nego što smatrate migracije, želite planirati pažljivo.
+- **Nije moguće opozvati migraciju na mreži.** Nakon migracije nećete moći da pristupite svojoj podružnoj mreži i njenom sadržaju. Tako da pre nego što razmotrite migraciju, želite da pažljivo isplanirate.

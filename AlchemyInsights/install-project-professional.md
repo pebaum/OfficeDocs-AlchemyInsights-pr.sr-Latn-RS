@@ -1,5 +1,5 @@
 ---
-title: Instalirajte Project Professional
+title: Instaliranje profesionalnog projekta
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,20 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000695"
 - "2607"
-ms.openlocfilehash: 6d88f8f13f242d797114eae2367f16de03c6ca33
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498717"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739147"
 ---
-# <a name="install-project-professional"></a>Instalirajte Project Professional
+# <a name="install-project-professional"></a>Instaliranje profesionalnog projekta
 
-Vidim [Instalirate projekta](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) da biste saznali kako da instalirate komercijalne verzije projekta na mreži, kao i komercijalne verzije projekta 2019, 2016 ili 2013. 
+Pogledajte odeljak [Instaliranje projekta](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) da biste saznali kako da instalirate pretplatničku verziju projekta na mreži i nepretplatničku verziju projekta 2019, 2016 ili 2013. 
 
-Projekat 2010 ili 2007, slijedite korake u [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) ili [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+Za projekat 2010 ili 2007, sledite korake u [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) ili [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
 
-Projekat se prodaje kao samostalna aplikacija, tako da ako nemate to još, [kupiti ili pokušajte projekta](https://products.office.com/project). 
+Projekat se prodaje kao samostalna aplikacija, pa ako je još uvek nemate, [kupite ili probajte projekat](https://products.office.com/project). 
 
 
 

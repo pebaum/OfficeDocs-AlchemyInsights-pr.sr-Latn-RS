@@ -1,5 +1,5 @@
 ---
-title: Da kreirate i koristite deljene poštansko sanduče
+title: Kreiranje i korišćenje deljenog poštanskog sandučeta
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3e2f6e33c105ecc271b8c8e68898658801d5db22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37ac75c7aa0bac4e9f037d6cfa44b93a526977aa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515965"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736519"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>Da kreirate i koristite deljene poštansko sanduče
+# <a name="create-and-use-a-shared-mailbox"></a>Kreiranje i korišćenje deljenog poštanskog sandučeta
 
-Deljeno poštansko sanduče omogućava da više od jedne osobe, šaljete i primate e-poštu za pseudonim, kao **sales@contoso.com**, bez dodeljivanje još licenci.
+Dijeljeni poštanski sandučić omogućava da više osoba šalje i prima e-poštu za pseudonim, kao što je **Sales@contoso.com**, bez dodeljivanja druge licence.
   
-[Kreiraj Deljeno poštansko sanduče](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) objašnjava kako da: 
+[Kreiranje deljenog poštanskog sandučeta](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) objašnjava kako da: 
   
 - Pravljenje deljenog poštanskog sandučeta
     
-- Daj korisnicima dozvole za korišćenje Deljeno poštansko sanduče
+- Davanje dozvola korisnicima za korišćenje deljenog poštanskog sandučeta
     
-- Pristup deljenim poštanskog sandučeta u programu Outlook ili Outlook na Webu
+- Pristup deljenom poštanskom sandučetu u programu Outlook ili Outlook na Webu
     
 

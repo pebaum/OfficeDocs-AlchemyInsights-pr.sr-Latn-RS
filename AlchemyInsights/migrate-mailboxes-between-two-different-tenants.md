@@ -1,5 +1,5 @@
 ---
-title: Migriranje poštanskih sandučića između dva stanara.
+title: Migriranje poštanskih sandučića između dva druga stanara
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 974858539f1a28929e98c5ade1d8358ef04b2496
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544661"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734467"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migriranje poštanskih sandučića između dva stanara.
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>Migriranje poštanskih sandučića između dva druga stanara
 
-Možda ćete morati za migraciju poštanskih sandučića između dva stanara u Office 365, na primer, kada postoje organizacije spajanjima. Ove migracije treba pažljivo isplanirati. Pogledajte sledeća uputstva:
+Možda ćete morati da migrirate Poštanske sandučiće između dva različita stanara u sistemu Office 365, na primer, kada se radi o organizaciji organizacije. Ta migracija bi trebalo pažljivo da se planira. Pogledajte sledeće smernice:
   
-[Kako da migrirate Poštanske sandučiće iz jednog stanara Office 365 na drugi](https://support.office.com/article/how-to-migrate-mailboxes-from-one-office-365-tenant-to-another-65af7d77-3e79-44d4-9173-04fd991358b7)
+[Kako Migriranje poštanskih sandučića sa jedne Office 365 tenanta na drugu](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

@@ -1,6 +1,6 @@
 ---
-title: Zabranjen pristup prilikom prikazivanja toka posla
-ms.author: kirks
+title: Pristup odbijen prilikom prikazivanja toka posla
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495837"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747762"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Zabranjen pristup prilikom prikazivanja toka posla
+# <a name="access-denied-when-viewing-a-workflow"></a>Pristup odbijen prilikom prikazivanja toka posla
 
-SharePoint 2013 tokove posla koji se pokušaj pošaljite email SharePoint grupi možete propasti sa poruku o grešci „Pristup je odbijen” ako članstva SharePoint grupe podešen prema svima.
+SharePoint 2013 tokovi posla koji pokušaju da pošalju e-poruku SharePoint grupi mogu da uspeju sa porukom o grešci "pristup nije dozvoljen" Ako članstvo SharePoint grupe nije postavljeno na svakoga.
   
  **Da biste rešili ovaj problem, izvršite ove korake:**
   
- 1. Dozvoli svima da vide članovi SharePoint grupe.
+ 1. Dozvolite svima da vide članove SharePoint grupe.
   
- 2. Uklonite SharePoint grupu iz "za" i "CC red za e-poštu.
+ 2. Uklonite SharePoint grupu iz reda "za" ili "CC" e-poruke.
   
- 3. Eksplicitno dodati korisnike za ili kopija u red ako članstvo vidljivost nije moguće promeniti SharePoint grupe.
+ 3. Izričito dodajte korisnike u red "za" ili "CC" Ako se ne može promeniti vidljivost članstva za SharePoint grupu.
   
-Da biste prikazali više detalja pogledajte [HTTP Unauthorized da /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Da biste prikazali više detalja, pogledajte [http neautorizovano za/_vti_bin/Client.svc/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

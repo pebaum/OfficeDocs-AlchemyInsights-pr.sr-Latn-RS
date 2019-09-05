@@ -1,5 +1,5 @@
 ---
-title: Dodeljivanje ili uklanjanje korisničkih licenci
+title: Dodeljivanje ili uklanjanje licenci korisnika
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: ad4e2d1cb5d92d5d7f4dec21c7de7348db6f97ad
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574448"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736987"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Dodeljivanje ili uklanjanje korisničkih licenci
+# <a name="assign-or-remove-users-licenses"></a>Dodeljivanje ili uklanjanje licenci korisnika
 
-Kao neki admin, možete da podesite korisničke licence po potrebi. U člancima ispod će ti pokazati kako za upravljanje korisničkih licenci, uključujući:
+Kao administrator, po potrebi možete da podesite licence svojih korisnika. Članci koji slede će vam pokazati kako da upravljate licencama korisnika, uključujući:
   
-- [Dodeljivanje licence korisnicima u Office 365 za poslovne](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodeljivanje licenci korisnicima u sistemu Office 365 za posao](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Poništi dodelu licence od korisnika na Office 365 za poslovne](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Poništavanje dodeljivanja licenci od korisnika u sistemu Office 365 za posao](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/remove-licenses-from-users)
 
-Nisi odgovorio na tvoje pitanje? nema problema! Koristite dugme „Treba pomoć” razgovarati s inženjera za podršku.
+Niste odgovorili na pitanje? nema problema! Koristite dugme "potrebna pomoć" da biste pričali sa inženjerka za podršku.

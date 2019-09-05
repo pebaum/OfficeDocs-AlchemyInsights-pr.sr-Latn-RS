@@ -1,5 +1,5 @@
 ---
-title: Podešavanje pretplatu O365 poslovne osnove
+title: Podešavanje pretplate na O365 Business Essentials
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -8,39 +8,39 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: c6c98b6fcfef6ca6f84810eb92ec0d1b90ff3379
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508905"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744727"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Podešavanje pretplatu O365 poslovne osnove
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Podešavanje pretplate na O365 Business Essentials
 
-Kreiranje Office 365 račune i Dodavanje vašeg domena
+Kreiranje Office 365 naloga i dodavanje domena
   
-- U ovom koraku, koristite čarobnjak za instalaciju za kreiranje Office 365 račune za korisnike i dodate svoje podrucje. Čarobnjak vam omogućavaju da prilagodite svi su korisnički ID i e-poštu za vaše poslovanje, kao [rob@contoso.com](mailto:rob@contoso.com).
+- U ovom koraku koristite čarobnjak za instalaciju da biste kreirali Office 365 naloge za korisnike i dodali sopstveni domen. Čarobnjak vam omogućava da personalizujete korisnički ID i e-poštu svih vaših preduzeća, kao što je [rob@contoso.com](mailto:rob@contoso.com).
     
-- Idi u [Centar admin Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Posetite [Microsoft 365 admin Center](https://login.partner.microsoftonline.cn/).
     
-- Da biste pokrenuli čarobnjak, odaberite, **Idite na instalacioni program**. Da biste saznali više, pogledajte [Dodavanje korisnika i domena Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+- Da biste pokrenuli čarobnjak, odaberite komandu " **Idi na**". Da biste saznali više, pogledajte odeljak [Dodavanje domena u Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Uvoz e-pošte
   
-- Premestite vaše postojeće e-poruke i kontakti sa ostalim sistemima za e-poštu poštansko sanduče Office 365 tako da ga možete videti sve na jednom mestu. Za migraciju opcije, [preseli e-poštu i kontakte Office 365](https://support.office.com/Article/Migrate-email-and-contacts-to-Office-365-a3e3bddb-582e-4133-8670-e61b9f58627e).
+- Premestite postojeću e-poštu i kontakte iz drugih sistema e-pošte u Office 365 poštansko sanduče da biste mogli da je vidite na jednom mestu. Za opcije migracije [Migrirajte e-poštu i kontakte na Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
-- Povezivanje naloge e-pošte
+- Povezivanje naloga e-pošte
     
-  - Kao dodatak upravljanje Office 365 e-mail u Outlook, možete da se povežete druge naloge e-pošte u programu Outlook, kao što su Gmail i Yahoo račune. Ovo omogućava upravljanje svim e-pošti na jednom mestu. Možete povezati do 5 naloge e-pošte u Outlook. Za više detalja pogledajte [Povezivanje naloge e-pošte u programu Outlook na Webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Pored upravljanja Office 365 e-poštom u programu Outlook, možete da povežete i druge naloge e-pošte sa programom Outlook, kao što su gmail i yahoo nalozi. To vam omogućava da upravljate celom e-poštom na jednom mestu. Možete da povežete do 5 naloga e-pošte sa programom Outlook. Više detalja potražite [u članku povezivanje naloga e-pošte u programu Outlook na Webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
-Instalirajte Skype za posao
+Instaliranje Skype-a za posao
   
-- Vi i članovi vašeg tima mogu [Preuzmite i instalirajte Skype za poslovanje](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na svim PC, Macintosh, tablete i telefone. Onda ćete moći da vidite status na mreži zadrzala, pokrenuli razgovore sa drugim Office aplikacijama, a domaćin video sastanke sa do 250 ljudi. 
+- Vi i vaši članovi vašeg tima možete [preuzeti i instalirati Skype za posao](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) na svim vašim računarima, macima, tabletima i telefonima. Tada ćete moći da vidite status svojih saradnika na mreži, započnete razgovore iz drugih Office aplikacija i hostovanje video sastanaka sa do 250 ljudi. 
     
 Skladištenje datoteka na mreži
   
-- Da biste saznali koje lokacije za skladištenje su najbolje za vaše poslovanje, vidim [gdje možete pohraniti datoteke u Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Svi dobijaju lokaciju za skladištenje oblak **OneDrive** automatski kada kreirate Office 365 račune za njih. Sa OneDrive, možete pristupiti datotekama preko svoje kompjutere, telefone i tablete. 
+- Da biste saznali koje lokacije za skladištenje su najbolje za vaše poslovanje, pogledajte [gde možete skladištiti datoteke u sistemu Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kada za njih kreirate Office 365 naloge, svako će automatski dobiti lokaciju skladišta za **OneDrive** u informatičkom oblaku. Pomoću usluge OneDrive možete pristupiti datotekama preko svojih računara, telefona i tableta. 
     
-Detaljne korake za podešavanje možete pronaći u [ovom članku](https://support.office.com/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
+U [ovom članku](https://docs.microsoft.com/office365/admin/setup/setup)se mogu naći detaljni koraci za instalaciju.
   
 

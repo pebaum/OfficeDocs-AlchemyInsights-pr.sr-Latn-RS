@@ -1,5 +1,5 @@
 ---
-title: 912 Konfiguriši Focused prijemnog za svakoga u vašoj organizaciji
+title: 912 konfigurisati fokusirano prijemno poštansko sanduče za svakoga u vašoj organizaciji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504729"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738427"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Okreni fokusiran poštanskom sandučetu ili isključite za sve
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Uključivanje i isključivanje fokusirane na prijemno poštansko sanduče za sve
 
-Uputstva potražite u [Konfigurisanje fokusiran poštansko sanduče za svakoga u vašoj organizaciji](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Uputstva potražite u članku [Konfigurisanje fokusirane prijemnog poštanskog sandučeta za sve korisnike u vašoj organizaciji](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Napomena**: ovaj postupak zahteva Exchange Online PowerShell. Želite li ovo raditi u admin centar za Microsoft 365 umesto toga? [Glasajte ovde!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Napomena**: Ova procedura zahteva Exchange online PowerShell. Želite li da umesto toga to uradite u Microsoft 365 admin Center? [Glasajte ovde!](https://go.microsoft.com/fwlink/p/?linkid=862489)

@@ -1,6 +1,6 @@
 ---
 title: Datoteke su zaključane za uređivanje
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 4/26/2018
@@ -9,26 +9,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 83703435b5700bea2f03896ee9f154d5bb05e7d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558343"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748374"
 ---
-# <a name="why-cant-i-edit-files"></a>Zašto nije moguće uređivati datoteke?
+# <a name="why-cant-i-edit-files"></a>Zašto ne mogu da uređujem datoteke?
 
-Ako dokumenta, radnog lista ili prezentacije je zaključan za uređivanje nije moguće otvoriti u Windows desktop aplikacije, da je da je datoteka već uređuje od strane nekog drugog, ili su imale odjavili datoteku. Bacimo pogled na neki od razloga [Zašto možda nećete moći da uredite datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Ako je dokument, radni list ili prezentacija zaključan za uređivanje i ne može da se otvori u Windows Desktop aplikacijama, možda je datoteka već uređivana od strane nekog drugog ili su odjavljene datoteke. Hajde da brzo pogledamo neke od razloga [zbog kojih možda nećete moći da uređujete datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Ako imate biblioteka sa **odjave, potrebne** ili **valjanosti** kolona ili metapodaci ili kada **Bezbednost radnih verzija stavki** je postavljen ili **samo korisnici koji mogu da uređuju** ili **samo korisnici koji mogu da odobre stavke** u postavkama verzija sistema na biblioteka:
+Ako imate biblioteke sa **odjavom, potrebnim** ili kolonama **za proveru valjanosti** ili metapodacima ili kada je **Radna verzija stavki** postavljena **samo na korisnike koji mogu da uređuju** ili **samo korisnici koji mogu da odobre stavke** u postavkama verzije programa Biblioteku:
 
-- Za SharePoint biblioteke dokumenata, te stavke će biti sinhronizovane kao samo za čitanje.
+- Za SharePoint biblioteke dokumenata te stavke će biti sinhronizovane samo za čitanje.
 
-- Za biblioteke OneDrive, OneDrive će prikazati ikonu katanca (OneDrive datoteka je zaključana ikona) pored sinhronizacija status i korisnik nećete moći da sinhronizujete u biblioteku, dok su uklonjene navedenih postavki. 
+- Za OneDrive biblioteke, OneDrive će prikazati ikonu za zaključavanje (OneDrive datoteka zaključanu za datoteku) pored statusa sinhronizacije, a korisnik neće moći da sinhronizuje biblioteku dok se ne uklone navedene postavke. 
 
-Za više informacija u vezi sa zaključane datoteke za Word ili Excel, molimo pregledajte dole navedene u člancima.
+Za više informacija o zaključanim datotekama za Word ili Excel, pogledajte članke navedene ispod.
 
-- [Excel datoteka je zaključana za uređivanje od strane drugog korisnika](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Drugi korisnik je zaključao Excel datoteku za uređivanje](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Word datoteka je zaključana za uređivanje od strane drugog korisnika](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Drugi korisnik je zaključao Word datoteku za uređivanje](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 

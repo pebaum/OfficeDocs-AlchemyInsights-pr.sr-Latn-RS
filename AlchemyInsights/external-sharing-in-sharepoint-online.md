@@ -1,5 +1,5 @@
 ---
-title: Eksterno dijeljenje u SharePoint Online
+title: Spoljna deljenje u sistemu SharePoint online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,34 +11,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664946"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735979"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Eksterno dijeljenje u SharePoint Online
+# <a name="external-sharing-in-sharepoint-online"></a>Spoljna deljenje u sistemu SharePoint online
 
-Ako vaša organizacija obavlja posao koji uključuje deljenje dokumenata ili direktno sa dobavljačima, klijentima ili kupcima, onda možete koristiti na [Spoljni Deljenje funkcije programa SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) za deljenje sadržaja sa ljudima van tvoje organizacija.
+Ako vaša organizacija obavlja posao koji podrazumeva deljenje dokumenata ili saradnju sa dobavljačima, klijentima ili kupcima, možete da koristite [funkcije spoljnog deljenja na SharePoint mreži](https://docs.microsoft.com/sharepoint/external-sharing-overview) da biste delili sadržaj sa osobama van vašeg Organizacija.
 
-Za više informacija o spoljnim deljenje, posjetite niže navedene veze:
+Za više informacija o spoljnoj deljenju pogledajte dolenavedene veze:
 
-- [Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Okreni spoljni Uključivanje ili isključivanje deljenja za lokaciju](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Uključivanje ili isključivanje spoljne deljenja za SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Uključivanje ili isključivanje spoljne deljenja za lokaciju](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 - [Podrazumevane postavke deljenja po tipu lokacije](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Koristite Sharepoint Online kao rešenje ekstranet posao-da-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [Deljenje SharePoint datoteka ili fascikla](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Zaustavi deljenje OneDrive ili SharePoint datotekama ili fasciklama ili promena dozvola](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [Pristup gosta u Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft gost deljenje referenca za postavke (azurno Active Directory, Microsoft 365 i SharePoint na mreži)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Korišćenje SharePoint online-a kao poslovnog rešenja za poslovno (B2B) ekstranet](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Deljenje SharePoint datoteka ili fascikli](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Prestanak deljenja OneDrive ili SharePoint datoteka ili fascikli ili menjanje dozvola](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Pristup gosta u Microsoft timovima](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Microsoft postavke deljenja gostiju (Azure Active Directory, Microsoft 365 i SharePoint online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Primanje greške sa spoljnog korisnika?Pogledajte niže navedene veze:
+Dobijanje greške sa spoljnim korisnikom?Pogledajte dole navedene veze:
 
-- [„Pristup nije dozvoljen”, „Treba dozvolu za pristup ovoj lokaciji”, ili „Korisnik nije pronađen u katalogu” greške u SharePoint Online i OneDrive za posao](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [„Vaša organizacija politiku ne dozvoli deljenje sa ovim korisnicima” greška prilikom deljenja stavke ili lokacije u SharePoint Online ili OneDrive za posao](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Opcije deljenja su greyed se pri deljenju sa SharePoint Online ili OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Poruka o grešci prilikom spoljnog korisnika prihvata poziv za SharePoint Online pomoću drugog naloga](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [TVORI deljenje greške u SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Pristup je odbijen", potrebna vam je dozvola za pristup ovoj lokaciji "ili" korisnik nije pronađen u direktorijumu "greške u sistemu SharePoint Online i OneDrive za preduzeća](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["Smernice vaše organizacije ne dozvoljavaju deljenje sa ovim korisnicima" Greška prilikom deljenja stavke ili lokacije na lokaciji SharePoint Online ili OneDrive za posao](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Opcije deljenja su kada se dele sa SharePoint Online ili OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Poruka o grešci kada spoljni korisnik prihvati poziv na SharePoint na mreži pomoću drugog naloga](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [OSE deljenja grešaka u sistemu SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

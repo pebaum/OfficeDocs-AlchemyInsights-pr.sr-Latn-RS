@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519817"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736735"
 ---
-# <a name="change-your-display-name"></a>Promenite ime za prikaz
+# <a name="change-your-display-name"></a>Promena imena za prikaz
   
-Da biste promenili ime za prikaz u programu Outlook, slijedite ove korake.
+Da biste promenili svoje ime za prikaz u programu Outlook, koristite sledeće korake.
   
-1. U programu Outlook, izaberite **datoteku** \> **Postavke naloga** \> **Postavke naloga**.
+1. U programu Outlook izaberite **Postavke naloga**za **Postavke** \> naloga **datoteka** \> .
 
-2. Izaberite nalog e-pošte, a zatim izaberite stavku **Promeni**.
+2. Izaberite nalog e-pošte, a zatim izaberite " **Promeni**".
 
     > [!NOTE]
-    > Ako ne vidite opciju da promenite ime za prikaz, verovatno koristite Microsoft Exchange nalog e-pošte. U ovom slučaju, treba da se obratite administratoru da biste promenili ime za prikaz. Vidim [da promenite korisničko ime i e-adresa u Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Ako ne vidite opciju za promenu imena za prikaz, verovatno koristite nalog e-pošte Microsoft Exchange servera. U ovom slučaju, potrebno je da se obratite administratoru da biste promenili ime za prikaz. Pogledajte odeljak [Promena korisničkog imena i e-adrese u sistemu Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Kada promenite ime za prikaz, kliknite na dugme **u redu** da biste sačuvali promene. To može potrajati nekoliko sati za promene koje se odražavaju u celoj organizaciji.
+3. Kada promenite ime za prikaz, kliknite na dugme **"u redu"** da biste sačuvali promene. Može potrajati nekoliko sati da bi vaše promene bile odražavale u celoj organizaciji.
 
-Za više informacija, pogledajte [Promena imena za prikaz koje vide primaoci e-pošte](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Više informacija potražite u članku [Promena imena za prikaz koje vide primaoci e-poruka](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

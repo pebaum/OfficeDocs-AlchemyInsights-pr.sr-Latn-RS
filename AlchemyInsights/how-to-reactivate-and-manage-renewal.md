@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663974"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739327"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako se ponovo aktivira i upravlja periodična naplata
 
@@ -32,7 +32,7 @@ Izgleda da imate pretplatu koja je istekla. Ako želite da ga ponovo aktivirate,
 
 3. Potvrdite detalje o plaćanju. Ovde možete ažurirati postojeće informacije o plaćanju. Kada završite sa unošenjem načina plaćanja, izaberite opciju **Ponovo aktiviraj**.
 
-Da biste saznali više, pogledajte odeljak [ponovno aktiviranje pretplate](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Da biste saznali više, pogledajte odeljak [ponovno aktiviranje pretplate](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Da biste upravljali mesečnom ili godišnjim naplatom, možete da uključite ili isključite **periodičnu naplatu** .
   

@@ -1,5 +1,5 @@
 ---
-title: Oporavak izbrisanih korisnika
+title: Vraćanje izbrisanih korisnika
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551825"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745087"
 ---
-# <a name="restore-a-user-in-office-365"></a>Vraćanje u prethodno stanje korisnika na Office 365
+# <a name="restore-a-user-in-office-365"></a>Vraćanje korisnika u prethodno stanje u sistemu Office 365
 
-Vraćanje u prethodno stanje korisnika na Office 365, koristite ove korake:
+Vraćanje korisnika u prethodno stanje u sistemu Office 365 pomoću sledećih koraka:
   
-1. Idite na [korisnicima \> izbrisati korisnike](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Otvorite [ \> korisnike izbrisanih korisnika](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. Odaberite korisnika, a zatim izaberite stavku **Vrati u prethodno stanje**.
 
-3. Pratite odzivnike da postavi lozinku.
+3. Sledite odzive da biste postavili lozinku.
 
-4. Kliknite na **Slanje e-pošte i zatvori**, i gotov si!
+4. Kliknite na dugme **Pošalji e-poruku i zatvorite**, a vi ste gotovi!
 
-Nije bilo tako lako? Za više detalja i korake sa snimka ekrana, vidi ovaj članak: [Vraćanje korisnika na Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). Da shvatiš umesto toga treba da vraćanja korisnikovom poštanskom sandučetu, vidi: [Brisanje ili vraćanje korisnika poštanskih sandučića za uzvrat na mreži](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Zar to nije bilo lako? Za više detalja i koraka sa snimcima ekrana pogledajte ovaj članak: [Vraćanje korisnika u prethodno stanje u sistemu Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). Ako shvatite da je potrebno da vratite u prethodno stanje poštansko sanduče korisnika, pogledajte: [Brisanje ili vraćanje korisničkih poštanskih sandučića u prethodno stanje u programu Exchange online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

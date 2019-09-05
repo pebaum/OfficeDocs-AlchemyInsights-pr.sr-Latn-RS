@@ -1,5 +1,5 @@
 ---
-title: Upravljanje korisnicima za Yammer
+title: Upravljanje korisnicima mreže Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497061"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734935"
 ---
-# <a name="managing-yammer-users"></a>Upravljanje korisnicima za Yammer
+# <a name="managing-yammer-users"></a>Upravljanje korisnicima mreže Yammer
 
-1. Dodatne informacije o upravljanju Yammer korisnike iz Office 365, potražite [Upravljanje Yammer korisnici preko njihova životnog ciklusa iz Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Ovo uključuje detalje na:
+1. Za informacije o upravljanju korisnicima mreže Yammer sa sistema Office 365, pogledajte odeljak [Upravljanje korisnicima mreže Yammer preko svog životnog ciklusa iz sistema office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Ovo uključuje detalje o:
 
-  - Kreiranje korisnika
+  - Kreiranje korisničkog
 
   - Brisanje korisnika
 
-  - Upravljanje korisnicima Yammer iz Office 365
+  - Upravljanje korisnicima mreže Yammer sa sistema Office 365
 
-2. Pogledajte [Dodavanje, blokirati, ili uklanjanje korisnika za Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) informacija o upravljanju korisnicima iz admin konzole za Yammer. To uključuje:
+2. Pogledajte odeljak [Dodavanje, blokiranje ili uklanjanje korisnika mreže Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) za informacije o upravljanju korisnicima pomoću alatke "admin Console" za Yammer. To obuhvata:
 
-  - Pozivanje ili uklanjanjem korisnika
+  - Pozivanje ili uklanjanje korisnika
 
-  - Pozivanje korisnika gost
+  - Pozivanje korisnika gostiju
 
   - Izvoz liste korisnika
 
-3. Informacija o dodavanje, uklanjanje i upravljanje spoljnim korisnicima, potražite [programski spoljni razmenu učesnika na mrežu Yammer](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Više informacija o dodavanju, uklanjanju i upravljanju spoljnim korisnicima potražite u članku [Dodavanje učesnika za spoljne poruke na mrežu Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

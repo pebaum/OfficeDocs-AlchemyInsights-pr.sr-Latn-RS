@@ -1,5 +1,5 @@
 ---
-title: Razmenite tvoj Classic osnovna lokacija sa modernim lokacije
+title: Razmenite klasičnu osnovnu lokaciju sa modernom lokacijom
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501093"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749274"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Razmenite tvoj Classic osnovna lokacija sa modernim lokacije
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Razmenite klasičnu osnovnu lokaciju sa modernom lokacijom
 
-Ako vaše okruženje je uspostavljen pre aprila 2019, možete da promenite svoje osnovne lokacije na moderne lokaciju koristeći Microsoft PowerShell:
+Ako je vaše okruženje podešeno pre aprila 2019, možete da promenite svoju osnovnu lokaciju na modernu lokaciju koristeći Microsoft PowerShell:
 
-- Ako imate neku drugu lokaciju na koju želite da koristite kao svoje osnovne lokacije, možete zameniti () osnovne sajtu to. 
-    - Koristite [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da razmenite adresu lokacije sa neke druge lokacije tokom arhiviranja originalne lokacije. Dostupno za lokaciju tima (nije povezan sa grupom), kao i komunikacija lokacije. 
+- Ako imate drugu lokaciju koju želite da koristite kao svoju osnovnu lokaciju, možete da je zamenite [(razmenite) na osnovnoj lokaciji](https://docs.microsoft.com/sharepoint/modern-root-site) . 
+    - Koristite funkciju [Pozovi-Spoziteswap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da biste zamenili lokaciju lokacije sa drugom lokacijom dok arhivirate originalnu lokaciju. Dostupna za obe strane tima (nije povezano sa grupom) i komunikaciona lokacija. 
 
-- Dodatne mogućnosti će biti uveden uskoro to će vam omogućiti da nastavite da koristite sadržaj na lokaciji, ali konvertovanje postojeće lokacije na lokaciju za komunikaciju. 
+- Uskoro će biti uvedene dodatne mogućnosti koje će vam omogućiti da nastavite da koristite sadržaj na lokaciji, ali da tu postojeću lokaciju konvertujete na lokaciju za komunikaciju. 
 >[!Important]
->Ove mogućnosti će biti poništena postepeno. Nastavite da proverite u Office 365 centar za poruke za ispravke. 
+>Ove mogućnosti će postepeno biti pregledano. Nastavite da proveravate Office 365 centar za poruke da biste dobili ispravke. 
 
-## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa zamenjivanje lokacije
+## <a name="known-issues-with-swapping-sites"></a>Poznati problemi sa lokacijama za zamenjivanje
 
-- Na ciljnoj lokaciji može vratiti grešku „nije pronađeno” (HTTP 404) kratak period vremena.
-- Sadržaj će morati da bude recrawled da biste ažurirali indeks za pretraživanje. Nema ručnu stepeništa potrebno - to će biti urađeno automatski.
-- Sve zavisi od „statična” veze (kao što je datoteka za sinhronizaciju i OneNote datoteke) će treba ispraviti ručno.
-- Ako izvorna lokacija bila lokaciju organizacione vesti, ažurirati URL adrese.Dobijete listu svih organizacionih nove sajtove.
-- Project Server lokacije možda će biti potrebno da se vrši da biste bili sigurni da su oni povezani i dalje ispravno.
+- Ciljna lokacija može da vrati grešku "nije pronađeno" (HTTP 404) u kratkom vremenskom periodu.
+- Sadržaj će morati da se ponovo ažurira da bi se ažurirao indeks pretrage. Nema potrebnog ručnog koraka-to će se uraditi automatski.
+- Sve što zavisi od "statičnih" veza (kao što su sinhronizacija datoteka i OneNote datoteke) biće potrebno ručno korigovati.
+- Ako je izvorna lokacija bila lokacija za organizacione vesti, ažurirajte URL adresu.Nabavite listu svih lokacija organizacionih vesti.
+- Možda će biti potrebno proveriti lokacije servera za Project da biste bili sigurni da su i dalje ispravno povezani.
 
 
 

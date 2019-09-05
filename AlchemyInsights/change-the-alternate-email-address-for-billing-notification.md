@@ -1,5 +1,5 @@
 ---
-title: Promena alternativni email adrese fakturisanja obavijesti
+title: Promena alternativne e-adrese za obaveštenje o naplati
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,24 +13,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 01b8fd0273ea9b0ef716b6f59ac7ee8c9d2acef7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4cb14da2358c4c97814b881de63214fe97f0c2ee
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521005"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738751"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>Promena alternativni email adrese fakturisanja obavijesti
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>Promena alternativne e-adrese za obaveštenje o naplati
 
-Menja alternativnu e-adresu za naplatu obaveštenja, lako je. Samo slijedite ove korake:
+Promena alternativne e-adrese za obaveštenje o naplati je jednostavno. Samo slijedite ove korake:
   
-1. U centru za admin Microsoft 365, idite u **obračunu** \> [Obaveštenja o obračunu](https://go.microsoft.com/fwlink/p/?linkid=853212) stranice.  
+1. U Microsoft 365 admin Center idite na stranicu obaveštenja o **** \> [naplati](https://go.microsoft.com/fwlink/p/?linkid=853212) naplate.  
 
 2. Izaberite ime sa liste.
 
-3. U **alternativnu e-adresu** , upišite alternativnu e-adresu.
+3. U okviru **alternativne e-adrese** upišite alternativnu e-adresu.
 
-4. Izdvajanje **spasiti** , gotov si!
+4. Izaberite " **Sačuvaj** " i gotovi ste!
 
-Više detalja i korake sa snimaka ekrana potražite [promeniti tvoju fakturisanja adrese za Office 365](https://support.office.com/article/Change-your-billing-addresses-for-Office-365-for-business-a25c10d6-c1e9-4299-9185-25178df9eba6).
+Više detalja i koraka sa snimcima ekrana potražite u članku [Promena adresa za naplatu za Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-your-billing-addresses).
   

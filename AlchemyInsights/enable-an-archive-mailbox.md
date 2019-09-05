@@ -1,5 +1,5 @@
 ---
-title: Omogući za sanduče arhive
+title: Omogućavanje poštanskog sandučeta za arhiviranje
 ms.author: markjjo
 author: markjjo
 ms.audience: ITPro
@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665154"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736303"
 ---
-# <a name="enable-an-archive-mailbox"></a>Omogući za sanduče arhive
+# <a name="enable-an-archive-mailbox"></a>Omogućavanje poštanskog sandučeta za arhiviranje
 
-Arhiva poštanskih sandučića u Office 365 (naziva se i *Online arhivu*) obezbeđuju korisnicima dodatne email za skladištenje. Korisnici mogu da premestite ili kopirate stavke u poštanskom sandučetu arhive i admini mogu da kreiraju smernice za arhiviranje koje automatski premešta stavke za arhiviranje poštanskih sandučića.
+Arhiviraj Poštanske sandučiće u Officeu 365 (naziva se i *arhiva na mreži*) pružaju korisnicima dodatni prostor za skladištenje e-pošte. Korisnici mogu da premeštaju ili kopiraju stavke u svoje poštansko sanduče arhive, a administratori mogu da kreiraju smernice arhive koje automatski premeštaju stavke u arhivu poštanskih sandučića.
   
-Evo kako da kreirate za sanduče arhive:
+Evo kako da kreirate poštansko sanduče arhive:
   
-1. Idite na [https://protection.office.com](https://protection.office.com).
+1. Idite [https://protection.office.com](https://protection.office.com).
 
-2. Prijavite se na Office 365 pomoću administratorskog naloga.
+2. Prijavite se na Office 365 koristeći svoj nalog administratora.
 
-3. U lijevom oknu bezbednosti &amp; usklađenosti centar, izdvajanje **podataka upravljanja** \> **arhive**.
+3. U levom oknu centra za usaglašenost sa &amp; bezbednošću izaberite \> **arhivu**za **Upravljanje podacima** .
 
-4. Izaberite korisnika čije arhive poštansko sanduče želite da omogućite.
+4. Izaberite korisnika čije poštansko sanduče za arhiviranje želite da omogućite.
 
-5. U oknu sa detaljima na desnoj strani izaberite da **biste omogućili** , a zatim izaberite **da** u poruci upozorenja da biste omogućili poštansko sanduče arhive.
+5. U oknu sa detaljima sa desne strane, izaberite opciju **Omogući** , a zatim izaberite " **da** " u poruci upozorenja da biste omogućili poštansko sanduče arhive.
 
-Možete takođe masovnog-osposobiti arhivirate poštanskih sandučića tako što ćete izabrati više korisnika (koristeći taster **Shift** ili **Ctrl** ), a zatim izabrati **omogućite** u oknu sa detaljima.
+Poštanske sandučiće za arhiviranje možete takođe da omogućite tako što ćete izabrati više korisnika (koristeći tastere **SHIFT** ili **Ctrl** ), a zatim izabrati stavku **Omogući** u oknu sa detaljima.
   
-Za više informacija, pogledajte:
+Više informacija potražite u članku:
   
-- [Omogući arhiviranje poštanskih sandučića u Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Omogući arhiviranje poštanskih sandučića u sistemu Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Podesite smernice za arhiviranje i brisanje u Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Konfigurisanje smernica za arhiviranje i brisanje u sistemu Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

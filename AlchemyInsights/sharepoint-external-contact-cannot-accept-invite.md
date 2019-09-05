@@ -1,27 +1,26 @@
 ---
-title: Eksterni kontakt nije u stanju da prihvati deljenja pozivu
+title: Spoljni kontakt ne može da prihvati poziv za deljenje
 ms.author: efrene
 author: efrene
-ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508509"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744223"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Eksterni kontakt nije u stanju da prihvati poziv za SharePoint
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Spoljni kontakt ne može da prihvati SharePoint pozivnicu
 
-Ako neki spoljašnji nije u stanju da prihvati deljenja pozivnicu, molim te probaj u poseti niže navedene veze.
+Ako spoljni nije u stanju da prihvati poziv za deljenje, pokušajte da posetite dolenavedena linka.
 
-- [Poruka o grešci prilikom spoljnog korisnika prihvata poziv za SharePoint Online pomoću drugog naloga](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Poruka o grešci kada spoljni korisnik prihvati poziv na SharePoint na mreži pomoću drugog naloga](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Pristup nije dozvoljen u deljenu fasciklu](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Pristup deljenoj fascikli nije dozvoljen](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [Deljenje greške u SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Deljenje grešaka u sistemu SharePoint i OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

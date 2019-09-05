@@ -1,5 +1,5 @@
 ---
-title: 124 se greške u dozvolu prilikom pristupa deljenim poštansko sanduče u OWA?
+title: 124 pribavljanje greške u vezi sa dozvolom prilikom pristupanja deljenom poštanskom sandučetu u OWENU?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523921"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735797"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Sve greške u dozvolu pri otvaranju Deljeno poštansko sanduče u programu Outlook na Webu?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Dobijanje greške u dozvolama prilikom otvaranja deljenog poštanskog sandučeta u programu Outlook na Webu?
 
-Ako dobijete grešku **nešto krenulo naopako. Nemate dozvolu da otvorite ovo poštansko sanduče.** Kada pokušate da otvorite Deljeno poštansko sanduče u programu Outlook na Webu, vaš račun možda nemate dozvolu za pristup Deljeno poštansko sanduče. Administratoru organizacije možete da dodelite dozvole za nalog Deljeno poštansko sanduče tako što ćete pratiti uputstva u temi [Kreiranje Deljeno poštansko sanduče](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).
+Ako dobijete grešku, **nešto je pošlo naopako. Nemate dozvolu da otvorite ovo poštansko sanduče.** Kada pokušate da otvorite deljeni poštansko sanduče u programu Outlook na vebu, vaš nalog možda nema dozvolu za pristup deljenom poštanskom sandučetu. Administrator organizacije može da dodeli dozvole za nalog deljenom poštanskom sandučetu prateći uputstva u temi [Kreiranje deljenog poštanskog sandučeta](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   

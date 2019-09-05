@@ -1,5 +1,5 @@
 ---
-title: Mapirane disk isključen
+title: Mapirana disk jedinica je prekinuta
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: 552b5a523a55d67c8ba5f902581f8a625410e9d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 16346f2f8edee6a4386f6f324424a86bc5d92b4a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496845"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734863"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint biblioteka Mapirani mrežni disk jedinice postane prekinuta.
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint biblioteke koje su mapirane na mrežne disk jedinice postaju isključene
 
-Mapiranje u SharePoint biblioteku dokumenata sa mrežnom disk jedinicom je privremeno. Povremeno, morate da otvorite SharePoint lokacije u programu Internet Explorer i izaberite **dalje budete prijavljeni** da biste sprečili istek sesije. 
+Mapiranje SharePoint biblioteke dokumenata na mrežnoj disk jedinici je privremeno. Povremeno morate da otvorite SharePoint lokaciju u programu Internet Explorer, a zatim izaberete opciju " **ostanite prijavljeni** " da biste sprečili pojavljivanje sesije. 
   
-[Dobijanje pomoći konfigurisanje i rešavanje problema mapirane mrežne diskove](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Nabavite pomoć za konfigurisanje i rešavanje problema sa mapiranim mrežnim driveovima](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Za rad sa biblioteci u datoteku programa Explorer, [sinhronizujete datoteke SharePoint sa novom klijentu sinhronizaciju OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koja uključuje [Datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite sve vaše datoteke na OneDrive bez upotrebe lokalne skladišni prostor.
+Da biste radili sa bibliotekom u istraživaču datoteka, [sinhronizujte SharePoint datoteke pomoću novog OneDrive klijenta za sinhronizaciju](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji uključuje [datoteke na zahtev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite svim datotekama u usluzi OneDrive bez korišćenja lokalnog prostora za skladištenje.
   
 
