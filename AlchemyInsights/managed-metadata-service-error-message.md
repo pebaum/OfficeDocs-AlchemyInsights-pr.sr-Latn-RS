@@ -1,6 +1,6 @@
 ---
-title: Upravljani servis metapodataka poruku o grešci
-ms.author: kirks
+title: Poruka o grešci u kontrolisanoj usluzi metapodataka
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542025"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754314"
 ---
-# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="88ab6-102">Upravljani servis metapodataka poruku o grešci</span><span class="sxs-lookup"><span data-stu-id="88ab6-102">Managed Metadata Service error message</span></span>
+# <a name="managed-metadata-service-error-message"></a><span data-ttu-id="7ef76-102">Poruka o grešci u kontrolisanoj usluzi metapodataka</span><span class="sxs-lookup"><span data-stu-id="7ef76-102">Managed Metadata Service error message</span></span>
 
-<span data-ttu-id="88ab6-103">Kada otvorite radnju termin, možda ćete videti poruku o grešci: „usluge upravljanog metapodataka ili veza trenutno nije dostupna.</span><span class="sxs-lookup"><span data-stu-id="88ab6-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="88ab6-104">Radni prostor aplikacije ili uspeo metapodataka Web usluge nije bio pokrenuo.</span><span class="sxs-lookup"><span data-stu-id="88ab6-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="88ab6-105">Obratite se svom administratoru”.</span><span class="sxs-lookup"><span data-stu-id="88ab6-105">Please Contact your Administrator."</span></span>
+<span data-ttu-id="7ef76-103">Kada otvorite termin "Prodavnica", možda ćete videti poruku o grešci: "usluga kontrolisanih metapodataka ili veza trenutno nije dostupna.</span><span class="sxs-lookup"><span data-stu-id="7ef76-103">When you open the Term Store, you may see an error message: "The Managed Metadata Service or Connection is currently not available.</span></span> <span data-ttu-id="7ef76-104">Možda nije pokrenuta Web usluga za rezervisani prostor aplikacije ili kontrolisane metapodatke.</span><span class="sxs-lookup"><span data-stu-id="7ef76-104">The Application Pool or Managed Metadata Web Service may not have been started.</span></span> <span data-ttu-id="7ef76-105">Kontaktirajte Vašeg administratora. "</span><span class="sxs-lookup"><span data-stu-id="7ef76-105">Please Contact your Administrator."</span></span>
   
-<span data-ttu-id="88ab6-106">Ako više od 24 sata je prošlo od kad ste prvi put videli ovaj problem, odjavite se podrška slučaj.</span><span class="sxs-lookup"><span data-stu-id="88ab6-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="88ab6-107">Shvatamo da 24 sata može izgledati dugo vremena.</span><span class="sxs-lookup"><span data-stu-id="88ab6-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="88ab6-108">U mnogim slučajevima, već radimo na rešenje zato molim vas, dajte nam barem 24 sata.</span><span class="sxs-lookup"><span data-stu-id="88ab6-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
+<span data-ttu-id="7ef76-106">Ako je prošlo više od 24 časa od kada ste prvi put videli ovaj problem, evidentirate predmet podrške.</span><span class="sxs-lookup"><span data-stu-id="7ef76-106">If more than 24 hours have passed since you first saw this issue, please log a support case.</span></span> <span data-ttu-id="7ef76-107">Shvatamo da 24 sata može da izgleda kao da je duže vreme.</span><span class="sxs-lookup"><span data-stu-id="7ef76-107">We understand that 24 hours may seem like a long time.</span></span> <span data-ttu-id="7ef76-108">U mnogim slučajevima već radimo na rešenju pa molimo vas da nam date najmanje 24 sata.</span><span class="sxs-lookup"><span data-stu-id="7ef76-108">In many cases, we're already working on a solution so please give us at least 24 hours.</span></span>
   

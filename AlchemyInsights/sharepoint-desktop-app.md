@@ -1,22 +1,22 @@
 ---
-title: Desktop aplikacija za SharePoint
-ms.author: kirks
+title: Aplikacija za radnu površinu za SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504189"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751650"
 ---
-# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="6a848-102">Desktop aplikacija za SharePoint</span><span class="sxs-lookup"><span data-stu-id="6a848-102">Desktop app for SharePoint</span></span>
+# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="cde63-102">Aplikacija za radnu površinu za SharePoint</span><span class="sxs-lookup"><span data-stu-id="cde63-102">Desktop app for SharePoint</span></span>
 
-<span data-ttu-id="6a848-103">Vaša organizacija se unosi u privatni pregled programa za Desktop aplikacija za SharePoint.</span><span class="sxs-lookup"><span data-stu-id="6a848-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="cde63-103">Vaša organizacija je uneta u privatni program za pregled za aplikaciju za računare za SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cde63-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span>
 
-<span data-ttu-id="6a848-104">Microsoft trenutno ne podržava Desktop aplikacija za SharePoint (privatni pregled).</span><span class="sxs-lookup"><span data-stu-id="6a848-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="6a848-105">Ti nama partneri Microsoft privatni pregled koristite da biste dobili pomoć sa Desktop aplikacija za SharePoint.</span><span class="sxs-lookup"><span data-stu-id="6a848-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="cde63-104">Microsoft trenutno ne podržava aplikaciju za radnu površinu za SharePoint (privatni pregled).</span><span class="sxs-lookup"><span data-stu-id="cde63-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="cde63-105">Koristite svoje navedene Microsoft privatne partnere za pregled da biste dobili pomoć za aplikaciju na radnoj površini za SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cde63-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
 
