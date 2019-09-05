@@ -1,6 +1,6 @@
 ---
-title: Upravljani servis metapodataka poruku o grešci
-ms.author: kirks
+title: Poruka o grešci u kontrolisanoj usluzi metapodataka
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542025"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754314"
 ---
-# <a name="managed-metadata-service-error-message"></a>Upravljani servis metapodataka poruku o grešci
+# <a name="managed-metadata-service-error-message"></a>Poruka o grešci u kontrolisanoj usluzi metapodataka
 
-Kada otvorite radnju termin, možda ćete videti poruku o grešci: „usluge upravljanog metapodataka ili veza trenutno nije dostupna. Radni prostor aplikacije ili uspeo metapodataka Web usluge nije bio pokrenuo. Obratite se svom administratoru”.
+Kada otvorite termin "Prodavnica", možda ćete videti poruku o grešci: "usluga kontrolisanih metapodataka ili veza trenutno nije dostupna. Možda nije pokrenuta Web usluga za rezervisani prostor aplikacije ili kontrolisane metapodatke. Kontaktirajte Vašeg administratora. "
   
-Ako više od 24 sata je prošlo od kad ste prvi put videli ovaj problem, odjavite se podrška slučaj. Shvatamo da 24 sata može izgledati dugo vremena. U mnogim slučajevima, već radimo na rešenje zato molim vas, dajte nam barem 24 sata.
+Ako je prošlo više od 24 časa od kada ste prvi put videli ovaj problem, evidentirate predmet podrške. Shvatamo da 24 sata može da izgleda kao da je duže vreme. U mnogim slučajevima već radimo na rešenju pa molimo vas da nam date najmanje 24 sata.
   

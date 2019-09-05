@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online javne Web lokacije su biti obustavljene.
-ms.author: kirks
+title: Javne internet stranice na mreži su obustavne
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 1/2/2019
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534613"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750318"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online javne Web lokacije su obustavljena.
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Javne Veb lokacije na SharePoint mreži su obustavne
 
-SharePoint Online javne Web lokacije su obustavljena.
+Javne Web lokacije na SharePoint mreži su obustavne.
 
-Ako ste kreirali javni sajt SharePoint Online, uspeli ste da nastavite da ga koristite thru 31 marta, 2018. Ako želite da nastavite da imaju javne Web lokacije, morate da kreirate novu verziju sa novog dobavljača. Sadržaj na vašoj Web lokaciji javne SharePoint Online je izbrisan.
+Ako ste kreirali SharePoint Web lokaciju na mreži, moći ćete da nastavite da je koristite preko 2018 31. Ako želite da nastavite da imate javnu Web lokaciju, potrebno je da kreirate novu sa novim dobavljačem. Sadržaj na SharePoint Web lokaciji na mreži je izbrisan.
 
-Info o za prekid pretplatničkog javne Web lokacija, potražite [detalje o procesu prekid pretplatničkog funkcija](https://go.microsoft.com/fwlink/?linkid=866980).
+Informacije o nenastavku javne Veb lokacije potražite u članku [Detalji o procesu disnastavka funkcije](https://go.microsoft.com/fwlink/?linkid=866980).

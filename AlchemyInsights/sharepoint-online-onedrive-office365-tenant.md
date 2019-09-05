@@ -1,24 +1,24 @@
 ---
-title: SharePoint Online ili OneDrive „Podešavanje”
-ms.author: kirks
+title: Podešavanje usluge SharePoint Online ili OneDrive "
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535160"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750462"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ili OneDrive „Podešavanje”
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online ili OneDrive "Podešavanje za"
 
-Kad korisnik doda na postojeću Office 365 stanara, možda vide SharePoint Online ili OneDrive za poslovne ikone naveden kao „Podešavanje”, dok se ne završi proces obezbeđivanje.
+Kada se korisnik doda postojećoj Office 365 tenantu, možda će videti SharePoint Online ili OneDrive za poslovne ikone koje su navedene kao "podešavanja" dok se proces dodeljivanja ne dovrši.
 
-Ako više od 24 sata je prošlo od kad ste prvi put videli ovaj problem, odjavite se podrška slučaj.
+Ako je prošlo više od 24 časa od kada ste prvi put videli ovaj problem, evidentirate predmet podrške.
 
-Shvatamo da 24 sata može izgledati dugo vremena. U mnogim slučajevima, već radimo na rešenje. Molim vas, dajte nam barem 24 sata da biste dovršili rešenje.
+Shvatamo da 24 sata može da izgleda kao da je duže vreme. U mnogim slučajevima već radimo na rešenju. Molimo vas da nam date najmanje 24 sata da završimo rešenje.
 

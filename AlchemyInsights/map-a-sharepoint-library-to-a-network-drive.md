@@ -1,6 +1,6 @@
 ---
-title: Mapa SharePoint biblioteke sa mrežnom disk jedinicom
-ms.author: kirks
+title: Mapiranje SharePoint biblioteke na mrežnoj disk jedinici
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: ''
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: ''
 ms.custom: ''
 ms.assetid: ''
-ms.openlocfilehash: e0ae8bffe12df1066f27625e2b57e7e2fb11fb2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 740ab160557ee5abbadfa73adf459bfc5872baf9
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496953"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754242"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapa SharePoint biblioteke sa mrežnom disk jedinicom
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Mapiranje SharePoint biblioteke na mrežnoj disk jedinici
 
-Mapiranje biblioteke kao mrežni disk je privremena i podržani samo putem programa Internet Explorer. Umesto toga, [sinhronizujete datoteke SharePoint sa novom klijentu sinhronizaciju OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji omogućava [Datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite sve vaše datoteke na OneDrive bez upotrebe lokalne skladišni prostor.
+Mapiranje biblioteke kao mrežne disk jedinice je privremeno i podržano samo putem programa Internet Explorer. Umesto toga, [sinhronizujte SharePoint datoteke sa novim OneDrive klijentom za sinhronizaciju](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx)koji obezbeđuje [datoteke na zahtev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite svim datotekama u usluzi OneDrive bez korišćenja lokalnog prostora za skladištenje.
   
-[Dobijanje pomoći konfigurisanje i rešavanje problema mapirane mrežne diskove](https://go.microsoft.com/fwlink/?linkid=872946)
+[Dobijte pomoć za konfigurisanje i rešavanje problema sa mapiranim mrežnim driveovima](https://go.microsoft.com/fwlink/?linkid=872946)
   
 

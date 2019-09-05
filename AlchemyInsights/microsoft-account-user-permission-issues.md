@@ -1,6 +1,6 @@
 ---
-title: Poteškoća - korisnik nije pronađen u katalogu
-ms.author: kirks
+title: Rešavanje problema sa pitanjem-korisnik nije pronađen u direktorijumu
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 537b27d06acd17cbb3fe99bcb89e153099e92bb4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544877"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754206"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Poteškoća - korisnik nije pronađen u katalogu
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Rešavanje problema sa pitanjem-korisnik nije pronađen u direktorijumu
 
-Ako korisnici primaju greška „korisnika nije moguće pronaći poruku” u direktorijumu. Pokušajte ponovo kada tip problema nije korisnika u imeniku.
+Ako korisnici primaju poruku o grešci "nije moguće pronaći korisnika" u direktorijumu. Pokušajte ponovo gde je tip problema korisnik nije u direktorijumu.
 
-Ove korake možete dovršiti rešavanje problema.
+Sledeći koraci mogu biti dovršeni da biste rešili problem.
 
-- Uverite se da nalog koji je prihvatio poziv email je isti konto koji se koristi za prijavljivanje u kasnije. Uverite se da korisnik koristi isti nalog da prihvati pozivnicu i prijaviti na lokaciji. 
+- Uverite se da je nalog koji je prihvatio pozivnicu e-poštom isti nalog koji se koristi za prijavljivanje kasnije. Uverite se da korisnik koristi isti nalog za prihvatanje poziva i prijavljivanje na lokaciju. 
 
-Za više informacija, pogledajte [Kako da upravljate pseudonime za Microsoft nalog</a> da upravlja Office 365 prijavljivanje](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Više informacija potražite u članku [Kako da upravljate pseudonimima za Microsoft nalog</a> da biste upravljali Office 365 prijavljivanju](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Pronađite svaki site(s) u kojem korisnik prima grešku. 
+- Potražite svaku lokaciju u kojoj korisnik prima grešku. 
 
-Dodavanje „/ _layouts/15/people.aspx/membershipgroupid=0” (unutar dvostruke navodnike) na kraj URL lokacije. 
+Dodajte "/_layouts/15/ljud.aspx/članidaci\id = 0" (u okviru dvostrukih navodnika) do kraja URL adrese lokacije. 
 
-Primer: https://_lT _"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Primer: https: da se _ "contoso">. SharePoint. com/_rasporeda/15/People. aspx/člana Špediterski ID = 0.
 
-- Izaberite korisnika iz liste.
+- Izaberite korisnika sa liste.
 
-- Kliknite na dugme **Ukloni korisničke dozvole** sa glavne trake. 
--  Ponovo dodajte korisnika i ponovo pošaljite pozivnicu za korisnika.
+- Kliknite na dugme " **Ukloni korisničke dozvole** " sa glavne trake. 
+-  Vratite korisnika i ponovo pošaljite poziv korisniku.
 

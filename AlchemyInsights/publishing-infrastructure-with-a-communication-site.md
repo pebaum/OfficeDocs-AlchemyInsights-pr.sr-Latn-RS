@@ -1,6 +1,6 @@
 ---
-title: Objavljivanje infrastrukture uz lokaciju komunikacije
-ms.author: kirks
+title: Objavljivanje infrastrukture sa lokacijom za komunikaciju
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/14/2019
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: fb6607f90369f2b98aa3e957132c8c97182cc13b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 66e133f427913282e21fb8edb9f9b2b2294734f8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553685"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752406"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Objavljivanje infrastrukture uz lokaciju komunikacije
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Objavljivanje infrastrukture sa lokacijom za komunikaciju
 
 
-Omogućavanje funkcije SharePoint Server Publishing infrastrukture je **nije podržana** sa lokacijama komunikacije. 
+Omogućavanje funkcije infrastrukture za objavljivanje SharePoint servera **nije podržano** sa lokacijama za komunikaciju. 
   
-Za više informacija, vidim [Moving iz objavljivanje lokacije za komunikacije lokacija](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Više informacija potražite u članku [Premeštanje sa lokacije za objavljivanje na lokacije za komunikaciju](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
   
 

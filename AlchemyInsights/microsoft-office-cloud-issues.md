@@ -1,6 +1,6 @@
 ---
-title: Admin ulogu i kako da dodelite
-ms.author: kirks
+title: Administratorska uloga i kako da dodelite
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544625"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754098"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Imate problema sa uslugom oblak?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Imate problema sa uslugom u oblaku?
 
-Ako imate problema sa uslugom oblak, možete proveriti [zdravstvenih usluga](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) u centru za admin Microsoft 365 da biste utvrdili da li je poznat problem sa rezolucijom u toku pre nego pozovem podršku ili provesti vreme za rešavanje problema. Problem može biti veoma privremene i već identifikovanim korporacije Microsoft, međutim postoji propust u vremenu između pitanje identifikacije i knjiženja na instrument tabli zdravstvenih usluga. Molim vas, nastavite da proverite usluge kontrolne table za dalja uputstva.
+Ako imate problema sa uslugom u oblaku, možete da proverite [zdravlje usluge](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) u Microsoft 365 admin Center da biste utvrdili da li je to poznato pitanje sa rezolucijom koja je u toku pre nego što pozovete podršku ili provedete vreme rešavanja problema. To pitanje može biti veoma privremeno i već identifikovano od strane korporacije Microsoft, ali se može doći do problema između izdavanja identifikacije i objavljivanja na kontrolnoj tabli usluge. Nastavite da proverite kontrolnu tablu usluge za dalje ažuriranje.
 
-**Obaveštenje o politici**
+**Smernice za obaveštenja**
 
-Kada dođe do incidenta sa usluge, Microsoft će prepoznati da pravovremeno, ciljano i precizne komunikacije su kritične za kupce. Microsoft obaveštava Office 365 administratori ažuriranjem stanar određeni [Servis zdravlja kontrolne table (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na Office 365 Admin Portal. Servis incidenta ispravke obezbeđeno je na jedan po satu cadence ili, ako različite cadence je potrebno, to će biti navedeno u SHD komunikacije knjiženje. Za više informacija, vidi [kako provjeriti Office 365 servis zdravlja](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Kada dođe do incidenta za servis, Microsoft prepoznaje da su blagovremeni, ciljani i precizne komunikacije kritični za klijente. Microsoft obaviće Office 365 administratore tako što ažurira kontrolnu tablu za osiguranje na osnovu tenanta [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na Office 365 admin portalu. Ispravke za nezgodnu uslugu su obezbeđene na osnovu sata ili, ako je potrebno drugačije kadencije, to će biti navedeno u okviru kopije ŠD komunikacije. Više informacija potražite u članku [Kako da proverite zdravlje sistema Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

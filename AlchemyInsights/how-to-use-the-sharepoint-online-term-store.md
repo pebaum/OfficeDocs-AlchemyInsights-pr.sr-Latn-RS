@@ -1,6 +1,6 @@
 ---
-title: Kako da koristite SharePoint Online termin radnji
-ms.author: kirks
+title: Kako se koristi prodavnica SharePoint online term
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539655"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754854"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Kako da koristite SharePoint Online termin radnji
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Kako se koristi prodavnica SharePoint online term
 
-Termin radnji je dostupna za Office 365 Global Admin, SharePoint Admin i termin radnji Admini i možete pronaći u centru za admin novu SharePoint Online.
+Termin "Prodavnica" je dostupna za administraciju sistema Office 365 Global admin, SharePoint admin ili term prodavnice i može se pronaći u novom SharePoint online admin centru.
   
-Za više informacija o tome kako da koristite SharePoint Online termin radnji i taksonomija unutar SharePoint Online, pogledajte [Uvod u upravlja metapodataka](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Više informacija o tome kako se koriste prodavnica SharePoint Online i taksonomija u okviru SharePoint online-a potražite u članku [Uvod u kontrolisane metapodatke](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Ako imate problem sa uslovima ne pojavljuje ili se pojavljuje povremeno, preporučujemo da ti Čekaj 24 sata, a zatim se prijavite zahtev za podršku ako problem potraje. Iako je dugo može biti 24 sata, da postoji problem sa keširanje ili možda već da radimo na rešenje ovog problema.
+Ako imate problem sa uslovima koji se ne pojavljuju ili pojavljuju povremeno, preporučujemo vam da sačekate 24 časa, a zatim da prijavite zahtev za podršku ako se problem ponavlja. Iako 24 časa može da bude puno vremena, možda postoji problem sa keširanje ili već radimo na rešenju ovog problema.
   

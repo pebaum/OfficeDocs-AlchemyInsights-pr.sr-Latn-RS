@@ -1,6 +1,6 @@
 ---
-title: Upravljanje rečnici pretrage u SharePoint Online
-ms.author: kirks
+title: Upravljanje rečnicima za pretraživanje u sistemu SharePoint online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542128"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754422"
 ---
-# <a name="manage-search-dictionaries"></a>Upravljanje pretraživanja rečnici
+# <a name="manage-search-dictionaries"></a>Upravljanje rečnicima za pretraživanje
 
-Pretraživanje rečnika u SharePoint na mreži se upravlja u SharePoint Online termin radnji koja se nalazi u centru za admin novu SharePoint. Za više informacija o tome kako da dodate ili uredite pretraživanje rečnika, vidim [Upravljanje pretraživanje rečnika](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Rečnici za pretraživanje na SharePoint mreži se upravlja u skladištu za SharePoint online, koje se nalazi u novom SharePoint admin centru. Više informacija o dodavanju ili uređivanju rečnika pretrage potražite u članku [Upravljanje rečnicima za pretraživanje](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Ako ne vidite termin za pretragu rečnik postavi pojavljuju u skladištu termin, Pričekajte 24 sata. Ako je rečnik koji i dalje ne pojavljuje se posle 24 sata, odjavite kartu za podršku.
+Ako ne vidite skup termina za rečnik za pretraživanje u terminu "Prodavnica", sačekajte 24 časa. Ako se rečnik i dalje ne pojavljuje posle 24 časa, prijavite tiket za podršku.
   

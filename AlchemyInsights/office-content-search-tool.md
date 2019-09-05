@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-not-returning-expected-Results
-ms.author: kirks
+title: 1491-pretraga-ne-povratak-očekivani-rezultati
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132701"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753876"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Sadržaja alatka za pretragu naći relevantne informacije
+# <a name="content-search-tool-to-find-relevant-info"></a>Alatka za pretragu sadržaja da biste pronašli važne informacije
 
-Koristi alatku za pretraživanje sadržaja u bezbednosti & usklađenosti centar za brzo pronalaženje e-pošte na Exchange poštanskih sandučića, dokumente u SharePoint lokacije i lokacije OneDrive i hitnih razgovora u Skype za posao. Možete koristiti alatku za pretragu sadržaja za pretraživanje e-pošte, dokumenata i hitnih razgovora u Office 365 alatke za saradnju kao što je Microsoft Teams i Office 365 grupe.
+Koristite alatku za pretraživanje sadržaja u okviru bezbednosne alatke _ Amp_ za usaglašavanje da biste brzo pronašli e-poštu u Exchange poštanskim sandučićima, dokumentima na SharePoint lokacijama i na OneDrive lokacijama i razgovoru za neposrednu razmenu poruka u usluzi Skype za posao. Alatku za pretragu sadržaja možete da koristite da biste potražili e-poruke, dokumente i razgovore za razmenu hitnih poruka u Office 365 alatkama za saradnju kao što su Microsoft timovi i Office 365 grupe.
 
 
-Pre upotrebe [Sadržaja pretraživanja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iz [bezbednosti & usklađenosti centar](https://sip.protection.office.com/homepage), ћeleжeљ da biste dovršili konfiguraciju postavki, uključujući [Konfigurisanje dozvola](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Postavka download brzinama](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) i [Izvoz postavki](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Pre korišćenja [pretrage sadržaja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) sa [bezbednosnog centra za usaglašenost sa bezbednošću](https://sip.protection.office.com/homepage), želite da dovršite postavke konfiguracije uključujući [Podešavanje dozvola](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Podešavanje brzine preuzimanja](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) i [postavki izvoza](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Bolje razumela sadržaja pretragu tako što ćete pregledati na [uslove i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [istražni delimično indeksirane stavke](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i druge rezultate prirodnih bogatstava.
+Više o pretraživanju sadržaja potražite tako što ćete pregledati [zahteve i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [istražujući delimično indeksirane stavke](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i druge rezultate koje treba da budu svesne.
 
-Pošto pregledate postavke konfiguracije i ograničenja sadržaja pretrage, se odnose na [pretragu sadržaja pomoću</a> za pretragu na licu mesta stavki kao što su e-pošta, dokumenti i hitnih razgovora u organizaciji Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Kada pregledate postavke konfiguracije i ograničenja pretrage sadržaja, pogledajte odeljak [Pretraga</a> sadržaja da biste potražili stavke koje se nalaze na njima, kao što su e-pošta, dokumenti i razgovori o neposrednu razmenu poruka u vašoj Office 365 organizaciji](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Za kompletno detaljne pretrage sadržaja, za dodatne informacije pogledajte [Traženje sadržaja u Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) .
+Za kompletan korak u pretrazi sadržaja pogledajte odeljak [Traženje sadržaja u sistemu Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) za više informacija.

@@ -1,22 +1,22 @@
 ---
-title: OneDrive sajta Provisioning
-ms.author: kirks
+title: Obezbeđivanje lokacije OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: 47442a6e557e8a06e14898ea77b8faa9b01b0024
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f8e57185da938d10b86f0617182c28526f47f63
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543183"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753126"
 ---
-# <a name="onedrive-site-provisioning"></a>OneDrive sajta Provisioning
+# <a name="onedrive-site-provisioning"></a>Obezbeđivanje lokacije OneDrive
 
-Za novokreirani račune, korisnici treba da se prijavite u Office 365 portal sa svojim nalogom i kliknite na ikonu za OneDrive za ručno pokretanje pružanje OneDrive lokacije.
+Za novokreirane naloge korisnici moraju da se prijave u Microsoft 365 admin Center sa sopstvenim nalogom i da kliknu na ikonu OneDrive da bi ručno započeli obezbeđivanje OneDrive lokacije.
 
-Međutim, ako korisnik već kliknuli na ikonu za OneDrive, a njegova lična lokacija je nije spreman u roku od 24 sata, molim vas, zovite kartu podrške za dodatnu pomoć.
+Međutim, ako je korisnik već kliknuo na ikonu OneDrive, a njegova lična lokacija nije obezbeđena u roku od 24 časa, prijavite tiket za podršku za dodatnu pomoć.
 

@@ -1,6 +1,6 @@
 ---
-title: Prvi koraci sa SharePoint Online
-ms.author: kirks
+title: Početak rada na lokaciji SharePoint online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,24 +10,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: ae27a9fc342eb4fc4633ffd5518d63600b978db8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504009"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751686"
 ---
-# <a name="workflows-in-sharepoint"></a>Tokovi posla u sistemu SharePoint
+# <a name="workflows-in-sharepoint"></a>Tokova posla u sistemu SharePoint
 
-Ako SharePoint tokovi posla ne šaljete e-mailove, vaša organizacija naišao na Exchange Online pošiljaoca granice.
+Ako SharePoint tokovi posla ne šalju e-poruke, vaša organizacija je možda naišla na ograničenja pošiljaoca na mreži.
 
-„Tok posla je obustavljen” poruka o pogrešci može pojaviti ako imate jednu od sledećih stavki:
+"Tok posla je obustavljen" može doći ako imate jednu od sledećih stavki:
 
-- Imate toka posla u SharePoint na mreži koja koristi SharePoint 2010 ili SharePoint 2013 toka posla platforma tip.
+- Imate tok posla na SharePoint mreži koji koristi tip platforme SharePoint 2010 ili SharePoint 2013 Workflow.
 
-- Tok je konfigurisan da pošaljete poruku prilagođene e-pošte za više od 200 korisnika po jedan, više od 10 000 primalaca dnevno ili više od 30 poruka u minuti.
+- Tok posla je konfigurisan da šalje prilagođenu e-poruku u više od 200 korisnika u isto vreme, više od 10.000 primalaca dnevno ili više od 30 poruka u minuti.
 
-Kada pokrenete tok posla, zar ne poslati poruku e-pošte i primetite poruku o grešci, unutrašnja Status je podešen da prikazuje prividne ili nije moguće poslati primaocu.
+Kada pokrenete tok posla, e-poruka se ne šalje, a vi primetite poruku o grešci, unutrašnji status je postavljen na suspendovano ili nije moguće poslati primaocu.
 
-Za više informacija, pogledajte sledeći [članak](https://support.office.com/article/-daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or-unable-to-send-to-a-recipient-error-in-a-sharepoint-online-workflow-89d02169-5fa6-4259-affc-73edb6ca9fb6?ui=en-US&amp;rs=en-US&amp;ad=US).
+Za više informacija pogledajte sledeći [članak](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

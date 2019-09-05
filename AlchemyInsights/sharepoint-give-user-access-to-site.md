@@ -1,6 +1,6 @@
 ---
-title: Funkcija zahteva pristup
-ms.author: kirks
+title: Funkcija "zahtevi za pristup"
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503829"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751542"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Dajte korisnicima pristup SharePoint lokacije
+# <a name="give-users-access-to-sharepoint-site"></a>Davanje pristupa SharePoint lokaciji korisnicima
 
-Funkcija zahteva pristup omogućava osobama da biste zatražili pristup sadržaju koji trenutno nemaju dozvolu za gledanje. Kao vlasnik lokacije, možete da podesite opciju za slanje te pošte kada neko zahteva pristup lokaciji. Za više informacija, posetite [Postavljanje gore i upravljanje zahtevima za odobrenje pristupa](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Funkcija zahteva za pristup omogućava osobama da zahtevaju pristup sadržaju za koji trenutno nemaju dozvolu za pregled. Kao vlasnik lokacije, možete da konfigurišete funkciju da vam šalje poštu kada neko zatraži pristup lokaciji. Za više informacija, pogledajte [Podešavanje i upravljanje zahtevima za pristup](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-Evo nekih uobičajenih veza u pogledu pristupa zahteve:
+Evo nekih uobičajenih veza u vezi sa zahtevima za pristup:
 
-- [Pristup nije dozvoljen” zahtevima za odobrenje pristupa listi ili „Zatražite odobrenje nije uspelo” kada vršite poziv na čekanju za u SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Zabranjen je pristup listi zahteva za pristup ili "odobravanje zahteva nije uspelo" kada u sistemu SharePoint online obradite zahtev na čekanju](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Promena access zahteve postavke](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Promena postavki zahteva za pristup](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Odobrite ili odbijete zahtjeve za pristup za lokaciju](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Odobravanje ili odbijanje zahteva za pristup za lokaciju](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Upravljanje pozivnice za spoljne korisnike (samo za SharePoint Online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Upravljanje pozivima za spoljne korisnike (samo na SharePoint mreži)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Ponovno slanje pozivnica](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Ponovno slanje pozivnice](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
