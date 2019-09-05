@@ -1,6 +1,6 @@
 ---
-title: Daily Mail je prekoračeno ograničenje. Tok posla je prividne greške
-ms.author: kirks
+title: Premašen je dnevni limit e-pošte. Tok posla je suspendovana greška
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
-ms.openlocfilehash: 3a96a8a58672c6fb3f9d34c525a3734a48daf8de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cce569133d97e9fefea3834a63be1f1b756b417
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514478"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755358"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Daily Mail je prekoračeno ograničenje. Tok posla je prividne greške
+# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Premašen je dnevni limit e-pošte. Tok posla je suspendovana greška
 
- **Daily mail prekoračeno ograničenje. Tok posla je obustavljen** poruka o grešci se može javiti ako imate jednu od sledećih stavki: 
+ **Premašen je dnevni limit e-pošte. Tok posla je suspendovana** poruka o grešci može doći ako imate jednu od sledećih stavki: 
   
-- Imate toka posla u SharePoint na mreži koja koristi SharePoint 2010 ili SharePoint 2013 toka posla platforma tip.
+- Imate tok posla na SharePoint mreži koji koristi tip platforme SharePoint 2010 ili SharePoint 2013 Workflow.
     
-- Tok je konfigurisan da pošaljete poruku prilagođene e-pošte za više od 200 korisnika po jedan, više od 10 000 primalaca dnevno ili više od 30 poruka u minuti.
+- Tok posla je konfigurisan da šalje prilagođenu e-poruku u više od 200 korisnika u isto vreme, više od 10.000 primalaca dnevno ili više od 30 poruka u minuti.
     
-- Kada pokrenete tok posla, zar ne poslati poruku e-pošte i primetite poruku o grešci, **Unutrašnja Status se postavlja na privremenoj ili nije moguće poslati primaocu** prikazuje. 
+- Kada pokrenete tok posla, e-poruka se ne šalje, a vi primetite poruku o grešci, **unutrašnji status je postavljen na suspendovano ili nije moguće poslati primaocu** . 
     
-Za dodatne informacije, pogledajte [premašilo je dnevni limit za e-poštu i ukinuta je tok posla](https://go.microsoft.com/fwlink/?Linkid=2031137).
+Za dodatne informacije pogledajte odeljak " [dnevno ograničenje za e-poštu" je prekoračeno, a tok posla je obustavljen](https://go.microsoft.com/fwlink/?Linkid=2031137).
   

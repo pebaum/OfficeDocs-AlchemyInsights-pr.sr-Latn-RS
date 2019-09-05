@@ -1,6 +1,6 @@
 ---
 title: Brisanje kolekcije lokacija u sistemu SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513121"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748194"
 ---
 # <a name="delete-a-site-collection"></a>Brisanje kolekcije lokacija
 
-Kada vi kao globalna ili SharePoint admin u Office 365, brisanje lokacije (ranije se nazivao „kolekcija lokacija”), ima se preselio u kolekciji lokacija korpa za otpatke i zadržavaju 93 dana. 
+Kada kao globalni ili SharePoint administrator u sistemu Office 365 izbrišete lokaciju (koja se prethodno naziva "kolekcija lokacija"), ona se premešta u korpu za otpatke kolekcije lokacija i zadržava se za 93 dana. 
 
-Kada izbrišete lokaciju, sve u okviru nje izbriše uključujući:
+Kada izbrišete lokaciju, sve unutar nje će biti izbrisane uključujući:
 
-- Biblioteke dokumenata i datoteka.
-- Liste i podatke.
-- Postavke lokacije i istorija.
-- Sve pod-lokacije i njihov sadržaj.
+- Biblioteke dokumenata i datoteke.
+- Liste i podatke sa liste.
+- Postavke i istoriju lokacije.
+- Sve podlokacije i njihov sadržaj.
 
-Treba obavestiti admini na lokaciju i vlasnika podlokaciju pre nego što izbrišete lokaciju kako bi se njihovim podacima na drugu lokaciju, i takođe da prepoznam korisnici lokacije će biti izbrisane. 
+Trebalo bi da obavestite administratori lokacije i sve vlasnike podlokacije pre nego što izbrišete lokaciju kako bi mogli da premeštaju svoje podatke na drugu lokaciju, kao i da kažu korisnicima kada će lokacije biti izbrisane. 
 
-Za više informacija, pogledajte [Brisanje kolekcije lokacija](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Više informacija potražite u članku [Brisanje kolekcije lokacija](https://docs.microsoft.com/sharepoint/delete-site-collection). 

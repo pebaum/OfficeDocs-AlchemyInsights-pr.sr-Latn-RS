@@ -1,6 +1,6 @@
 ---
-title: Anonimni deljenje
-ms.author: kirks
+title: Anonimna podela
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,29 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 01971c5bb52b9ee7a679dbae84632d777f29952a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eaf958932ee1c1b4e33bd5dae96a48c37505739e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512473"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747845"
 ---
-# <a name="anonymous-sharing"></a>Anonimni deljenje
+# <a name="anonymous-sharing"></a>Anonimna podela
 
  **Omogućavanje anonimnog pristupa**
   
-U novu SharePoint admin centru, kliknite **dijeljenje** u lijevom oknu. 
+U novom SharePoint administratoru centra, u levom oknu izaberite stavku **Deljenje** . 
   
-- Izaberite sledeće: **Dozvoli deljenje ovlašćenim spoljnim korisnicima i koristite anonimni pristup.**
+- Izaberite sledeće: **Dopusti deljenje autorizovanim spoljnim korisnicima i pomoću anonimnog pristupa.**
   
-(Ako želite, možete da postavite veze ka isteći za određeni broj dana, a zatim izaberite kako primaoci mogu da koriste veze.)
+(Opcionalno, možete da podesite da se veze ističu za određeni broj dana i da izaberete kako primaoci mogu da koriste veze.)
     
- **Anonimno delite datoteku ili fasciklu**
+ **Anonimno deljenje datoteke ili fascikle**
   
 - Izaberite datoteku ili fasciklu koju želite da delite, a zatim kliknite na dugme **deli**. 
     
-- Ko želite li ovu vezu za? Kliknite na **neko.**
+- Kome biste želeli da ova veza radi? Kliknite na **bilo koga.**
   
- **Napomena**: **svako** kreira vezu to svako može da koristi za pristup dokumentu ili fascikli, čak i ako ne budu prijavljeni Office 365 ili OneDrive. Koristite ovo da podelim sa tobom, unutar ili izvan vaše kompanije. Ovaj link možete takođe prosleđivati okolo ni sa kim. 
+ **Napomena**: **svako** kreira vezu koju svako može da koristi za pristup dokumentu ili fascikli, čak i ako nisu prijavljeni na Office 365 ili OneDrive. Koristite ovu funkciju za deljenje sa bilo kim, unutar ili izvan vašeg preduzeća. Ova veza takođe može da se prosledi bilo kome. 
     
 

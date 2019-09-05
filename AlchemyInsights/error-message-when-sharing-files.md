@@ -1,6 +1,6 @@
 ---
 title: Poruka o grešci prilikom deljenja datoteka
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: dea173f74f8ddc6da485b44648a009a4900e1294
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6ce62675193c835ec0ec394d8ccceac2261354bb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527305"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755970"
 ---
 # <a name="error-messages-when-sharing"></a>Poruke o greškama prilikom deljenja
 
-Ako dobijete poruku o grešci kada pokušate da delite sa spoljnog korisnika, najverovatnije spoljni deljenje nije omogućen ili deljenje postavljen tako da ne dozvoljava da nivo deljenje korisnika pokušava.
+Ako dobijete poruku o grešci kada pokušavate da delite sa spoljnim korisnikom, najverovatnije spoljna podela nije omogućena ili deljenje je podešeno tako da ne dozvoljava nivo deljenja koji korisnik pokušava.
   
-U novu SharePoint admin centru, kliknite **dijeljenje** u lijevom oknu. Odaberite nivo deljenje te želite da date dozvolu. Uverite se da spoljni je uključeno deljenje za lokaciju. 
+U novom SharePoint administratoru centra, u levom oknu izaberite stavku **Deljenje** . Odaberite nivo deljenja koji želite da dozvolite. Proverite da li je uključeno zajedničko deljenje za lokaciju. 
   
-Ako korisniku da se prijavi primi poruku o grešci, pokušajte sledeće korake:
+Ako korisnik pokuša da se prijavi kao poruku o grešci, pokušajte da izvršite sledeće korake:
   
-- Uverite se da je korisnik prihvatila slanja poziva za deljenje.
+- Uverite se da je korisnik prihvatio poziv za deljenje koji je poslat.
     
-- Uverite se da je korisnik prihvata poziv sa e-adresom koja je bila poslana na.
+- Uverite se da korisnik prihvata poziv uz e-adresu na koju je poslata.
     
 

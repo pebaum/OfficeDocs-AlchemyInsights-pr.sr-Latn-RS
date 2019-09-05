@@ -1,5 +1,5 @@
 ---
-Title: Osvežavanje pomoću Web spajanja ne radi kako treba
+title: Osvežavanje pomoću Web konektora ne funkcioniše ispravno
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753317"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748914"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Osvežavanje pomoću Web spajanja ne radi kako treba
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>Osvežavanje pomoću Web konektora ne funkcioniše ispravno
 
-Ako imate web skripte konektor koji koristi funkciju " [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) ", a ste ažurirali vaš dataset ili izveštaj posle 18. novembra 2016, morate koristiti prolaz u red za osvežavanje ispravno radio.
+Ako imate skriptu Web konektora koja koristi [Web. funkciju Page](https://msdn.microsoft.com/library/mt260924.aspx) , a vi ste ažurirali DataSet ili izveštaj nakon 18. novembra, 2016, potrebno je da koristite mrežni prolaz da bi osvežavanje ispravno funkcionisalo.
 
 Za više informacija:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

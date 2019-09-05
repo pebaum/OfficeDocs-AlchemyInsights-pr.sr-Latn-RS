@@ -1,5 +1,5 @@
 ---
-title: Preimenuj onmicrosoft domena
+title: Preimenovanje onmicrosoft domena
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 98f0b26f0f38b51c96324233e1cb5618b4146eed
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666494"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741235"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a>Preimenuj onmicrosoft.com domena
+# <a name="rename-your-onmicrosoftcom-domain"></a>Preimenovanje onmicrosoft.com domena
 
- **Ne možete preimenovati onmicrosoft domena nakon prijavljivanja.** Na primer, ako početni domena koji ste odabrali je bio *fourthcoffee.onmicrosoft.com*, ne možete promeniti da bude *fabrikam.onmicrosoft.com*. Da biste koristili različite onmicrosoft.com domena, ti bi početi novu pretplatu sa Office 365.
+ **Ne možete preimenovati onmicrosoft domen nakon prijavljivanja.** Na primer, ako je početni domen koji ste odabrali bio *fourthcoffee.onmicrosoft.com*, ne možete ga promeniti tako da bude *Fabrikam.onmicrosoft.com*. Da biste koristili drugi onmicrosoft.com domen, moraćete da započnete novu pretplatu sa Office 365.
   
-Ako želite da koristite prilagođeni domena kao *contoso.com* , možete [dodati jedan ti si vlasnik](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) ili ga [kupiti od korporacije Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
+Ako želite da koristite prilagođeni domen kao što je *contoso.com* , možete da ga [dodate](https://docs.microsoft.com/office365/admin/setup/add-domain) ili [kupite od korporacije Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

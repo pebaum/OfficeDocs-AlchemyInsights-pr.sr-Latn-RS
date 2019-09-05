@@ -1,6 +1,6 @@
 ---
-title: Omogućite spoljnim dijeljenje
-ms.author: kirks
+title: Omogućavanje spoljnog deljenja
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527665"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756042"
 ---
-# <a name="enable-external-sharing"></a>Omogućite spoljnim dijeljenje
+# <a name="enable-external-sharing"></a>Omogućavanje spoljnog deljenja
 
- Da biste bili sigurni da je omogućeno deljenje za SharePoint Online:
+ Da biste se uverili da je deljenje omogućeno za SharePoint Online:
   
-- **Globalni deljenje**
+- **Globalna podela**
     
-  - Portal -\> spoljni Deljenje -\> deljenja pregled - lokacija, neka spoljni osobe da pristupe vašim lokacijama: ON
+  - Portal –\> spoljna podela-\> deljenje-lokacije, pustite spoljne osobe da PRISTUPE vašim lokacijama: na
     
-  - Portal -\> spoljni Deljenje -\> lokacije - polje za potvrdu „Dozvoli spoljnim ljude da pristupe vašim lokacijama”
+  - Portal-\> spoljna podela-\> lokacije-"Dozvolite spoljnim ljudima da pristupe vašim lokacijama"
     
-- **Administrativne deljenje - SharePoint Admin centar**
+- **Administrativna razmena-SharePoint admin Center**
     
-    Spoljni deljenje - osigurati bilo koju od ove dve opcije su izabrani:
+    Spoljno deljenje-uverite se da je izabrana neka od dve opcije:
     
-  - „Dozvoli spoljnim korisnicima koji prihvataju deljenja pozivnice i prijavite se kao autorizovani korisnici”
+  - "Dozvolite spoljnim korisnicima koji prihvataju pozive za deljenje i prijavite se kao ovlašćeni korisnici"
     
-  - „Dozvoli oba spoljnim korisnicima koji prihvataju deljenje pozivnice i anonimni gost veze”
+  - "Dozvolite oba spoljnog korisnika koji prihvataju pozive za deljenje i veze sa anonimnim gostom"
     
-- **Pojedinačne kolekcije**
+- **Pojedinačne kolekcije lokacija**
     
-  - Lokacija kolekcije - Select kolekciji u pitanje, a zatim izaberite stavku "deljenje -" sa glavne trake -\> uverite se da su izabrane opcije u svakom deljenja.
+  - Kolekcije lokacija-izaberite tu kolekciju lokacija, a zatim kliknite na dugme "deljenje"-da\> biste proverili da li su izabrane opcije deljenja.
     
-Za dodatne informacije o tome kako da uključite spoljni deljenje, pogledajte [okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Za dodatne informacije o tome kako da uključite spoljnu deobu, pogledajte odeljak [Uključivanje ili isključivanje spoljnog deljenja za SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

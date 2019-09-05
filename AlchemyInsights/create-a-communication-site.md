@@ -1,6 +1,6 @@
 ---
-title: Kreiranje lokacije komunikacije
-ms.author: kirks
+title: Kreiranje lokacije za komunikaciju
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/13/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516290"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755430"
 ---
-# <a name="create-a-communication-site"></a>Kreiranje lokacije komunikacije
+# <a name="create-a-communication-site"></a>Kreiranje lokacije za komunikaciju
 
-Da biste kreirali lokaciju za komunikacije u SharePoint Online, učinite sledeće korake: 
+Da biste kreirali lokaciju za komunikaciju u sistemu SharePoint online, dovršite sledeće korake: 
   
-1. U gornjem levom uglu stranice, izaberite aplikaciju lanser i SharePoint pločice. Ako ne vidite SharePoint pločice, kliknite na dugme **lokacije** ili **aplikacije za sve** ako SharePoint nije vidljiva. 
+1. U gornjem levom uglu stranice kliknite na pokretač aplikacije i izaberite SharePoint pločicu. Ako ne vidite SharePoint pločicu, izaberite stavku " **lokacije** " ili **sve aplikacije** ako SharePoint nije vidljivo. 
     
-2. Na vrhu SharePoint stranice, izaberite stavku **Kreiraj lokaciju** i odaberite **Lokaciju komunikacije**. Pratite korake u čarobnjaku za kreiranje lokacije. 
+2. Na vrhu SharePoint stranice kliknite na dugme **Kreiraj lokaciju** i odaberite lokaciju za **komunikaciju**. Sledite korake u čarobnjaku za kreiranje lokacije. 
     
- **Napomena**: ako ne vidite opciju za **Kreiranje lokacija**, samouslužno budu onemogućene u Office 365. Obratite se osobi administriranju Office 365 u vašoj organizaciji da biste kreirali lokaciju tima. Ako ste stanar administrator, pogledajte [Upravljanje Kreiranje lokacije u SharePoint Online da biste omogućili Samouslužno kreiranje lokacije za vašu organizaciju.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Napomena**: ako ne vidite opciju za **Kreiranje lokacije**, Samouslužno kreiranje lokacije može biti onemogućeno u sistemu Office 365. Obratite se osobi koja administriram Office 365 u vašoj organizaciji da biste kreirali lokaciju tima. Ako ste administrator, pogledajte članak [Upravljanje kreiranjem lokacije na lokaciji SharePoint Online da biste omogućili Samouslužno kreiranje lokacije za vašu organizaciju.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Napomena:** Ako ste pokušavate da kreirate lokaciju komunikacije i URL se dodaje se slučajnim brojevima, vrlo je verovatno da lokacija sa tom istom URL adresom već postoji u SharePoint okolinu ili je izbrisana i i dalje postoji na lokacijama izbrisane (za otpatke). Koristi [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) za procjenu korpe za otpatke i [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) za uklanjanje lokacije iz korpe za otpatke. 
+ **Napomena:** Ako pokušavate da kreirate lokaciju za komunikaciju, a URL adresa se dodaje nasumičnim brojevima, verovatno lokacija sa istim URL adresom već postoji u SharePoint okruženju ili je izbrisana i još uvek postoji na izbrisanim lokacijama (Korpa za otpatke). Koristite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) ga za procenu korpe za otpatke [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) i uklanjanje lokacije iz korpe za otpatke. 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Brisanje SharePoint lokacije
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/24/2019
 ms.audience: ITPro
@@ -9,21 +9,21 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ba1fee33c3edaed2c320250004a91160f870f8c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513697"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747906"
 ---
-# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Brisanje lokacije iz nove SharePoint admin centra za preuzimanje
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Brisanje lokacije iz novog SharePoint administratorskog centra
 
-Pomoću nove SharePoint admin centru, možete izbrisati klasične i moderne lokacije. Izaberite **aktivne lokacije**, izaberite lokaciju, a zatim izaberite stavku **Izbriši**. [Prikaz i vraćanja izbrisane lokacije u centru za admin novu SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izaberite **brišu lokacije**. Za više informacija, vidi [izbrišete lokaciju u centru za admin novu SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+Korišćenjem novog SharePoint administratorskog centra možete da izbrišete i klasične i moderne lokacije. Izaberite **aktivne lokacije**, izaberite lokaciju, a zatim kliknite na dugme **Izbriši**. Da biste [prikazali i vratili izbrisane lokacije u novom SharePoint admin centru](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izaberite stavku " **Izbrisane lokacije**". Više informacija potražite u članku [Brisanje lokacije u novom SharePoint admin centru](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Važno:** Ako se lokacija nalazi deo smernica za zadržavanje, možda nećete moći da je izbrisati sve dok na lokaciji će biti uklonjena iz u [bezbednosti &amp; politika usklađenosti Admin centar](https://protection.office.com/?rfr=AdminCenter#/homepage). Za više informacija pogledajte [Pregled smernice za zadržavanje](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
+**Važno:** Ako je lokacija deo smernica za zadržavanje, možda nećete moći da je izbrišete sve dok se lokacija ne ukloni iz [smernica administratorskog centra za &amp; usaglašavanje](https://protection.office.com/?rfr=AdminCenter#/homepage). Pogledajte [Pregled smernica za zadržavanje](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) za više informacija. 
 
-Savjeti za:
-- SharePoint admini sada možete da izbrišete lokacije koje pripadaju **Grupama Office 365**. Ovo će izbrisati grupu i svim svojim resursima, uključujući Outlook poštansko sanduče "i" Kalendar "i" neki drugi kanal timova. Za više informacija, pogledajte [Brisanje SharePoint lokacije](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Možete da spasite izbrisanu lokacije za 93 dana. Imajte na umu da se mora vratiti izbrisane grupe u roku od 30 dana. Za više informacija, vidi [prikaz i vraćanja izbrisane lokacije](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- Da biste trajno uklonili lokacije, vidim da [trajno izbrišete lokaciju](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Ovaj korak će biti potrebna ako planirate da ponovo koristite URL adresu. 
-- Da biste uklonili podlokaciju, vidim [Brisanje lokacije ili podlokacije quicksteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
+Saveti:
+- SharePoint administratori sada može da izbriše lokacije koje pripadaju **Office 365 grupama**. Ovo će izbrisati grupu i sve njene resurse, uključujući Outlook poštansko sanduče i kalendar, kao i sve kanale timova. Više informacija potražite u članku [Brisanje SharePoint lokacije](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Izbrisane lokacije možete da spasete za 93 dana. Imajte u vidu da izbrisane grupe moraju da budu vraćene u roku od 30 dana. Više informacija potražite u članku [Prikazivanje i Vraćanje izbrisanih lokacija u prethodno stanje](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Da biste trajno uklonili lokaciju, pogledajte odeljak [trajno brisanje lokacije](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Ovaj korak će biti potreban ako planirate da ponovo koristite URL. 
+- Da biste uklonili podlokaciju, pogledajte odeljak [Brisanje lokacije ili podlokacije sa brzim koracima](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

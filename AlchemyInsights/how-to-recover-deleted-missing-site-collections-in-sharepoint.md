@@ -1,6 +1,6 @@
 ---
-title: Vraćanje izbrisanih lokacije
-ms.author: kirks
+title: Vraćanje izbrisane lokacije u prethodno stanje
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: c6e0bfdbe3684163f1c35a74182e809f4c26cca4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540087"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756150"
 ---
-# <a name="recover-missing-or-deleted-site-collections"></a>Spasite kolekcija lokacija nedostaju ili su izbrisane
+# <a name="recover-missing-or-deleted-site-collections"></a>Spasavanje nedostajućih ili izbrisanih kolekcija lokacija
 
-Kako da spasete nedostaju ili su izbrisane kolekcije.
+Kako da spasete kolekcije lokacija koje nedostaju ili su izbrisane.
 
-[Oporavak izbrisanih lokacije](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[Vraćanje izbrisanih lokacija u prethodno stanje](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[Vraćanje u prethodno stanje pomoću SPO PowerShell modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[Vraćanje u prethodno stanje pomoću programa SPO PowerShell modul](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-Ako ne možete pronaći na lokaciji možda ćete želeti da [pretragu datoteka za evidenciju nadzora u Office 365 bezbednosti &amp; usklađenosti centar](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+Ako ne možete da pronađete lokaciju, možda ćete želeti da [pretražite evidenciju nadgledanja u centru za bezbednost &amp; sistema Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**Napomena**: „Moderne” timskih lokacija nisu vidljivi u **klasični** SharePoint admin UI. Možete da pristupite listi „modernog” lokacija iz [centra za novu Sharepoint admin](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**Napomena**: "moderne" lokacije tima nisu vidljive u **klasičnom** SharePoint admin UI interfejsu. Listi "modernih" lokacija možete da pristupite iz [novog SharePoint administratorskog centra](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 

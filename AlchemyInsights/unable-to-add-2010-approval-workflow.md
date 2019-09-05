@@ -1,6 +1,6 @@
 ---
-title: Nije moguće dodati tok posla za odobravanje 2010
-ms.author: kirks
+title: Nije moguće dodati 2010 tok posla za odobravanje
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,36 +8,36 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: 1f564c5d1e689dcf41b22fab5a05ab1b488c2b0b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 13e3ed6db8c31adb1eb5a556c0e5fbc437b3fdb1
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558631"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748698"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>Nije moguće dodati tok posla za odobravanje 2010
+# <a name="unable-to-add-2010-approval-workflow"></a>Nije moguće dodati 2010 tok posla za odobravanje
 
-U kolekciji lokacija Microsoft SharePoint, ne možete dodati globalno koji možete ponovo koristiti toka posla (kao što su „odobrenje - SharePoint 2010”) u listu ili biblioteku.
+U Microsoft SharePoint kolekciji lokacija ne možete dodati globalno tok posla koji je moguće ponovo koristiti (kao što je "odobrenje-SharePoint 2010") u listu ili biblioteku.
   
 Da biste riješili taj problem, slijedite ove korake: 
   
-1. Otvorite osnovnu Web lokacija u kolekciji lokacija u SharePoint Designer 2013.
+1. Otvorite osnovnu Web lokaciju kolekcije lokacija u programu SharePoint Designer 2013.
   
-2. U okviru **Lokacije objekata**, izaberite **tokova posla**. 
+2. U okviru **objekti lokacije**izaberite stavku **Tokovi posla**. 
   
-3. U **novom** delu glavnoj **tokova posla** , izaberite **Tok posla moguće ponovo koristiti**. 
+3. U **novom** odeljku trake **tokova posla** izaberite opciju **tok posla**koji je moguće ponovo koristiti. 
   
-4. **Kreiranje toka posla moguće ponovo koristiti** obrazac, unesite ime ** *Repair2010* **. Za **Tip platforme**, kliknite **SharePoint 2010 toka posla**, a zatim kliknite na dugme **u redu**. 
+4. U obrascu **Kreiranje toka posla** koji je moguće ponovo koristiti unesite ime * * *Repair2010* * *. Za **tip platforme**izaberite stavku **SharePoint 2010 tok posla**, a zatim kliknite na dugme **u redu**. 
   
-1. U odeljku **spasiti** glavne trake **toka posla** , izaberite **objavljivanje**. 
+1. U odeljku **Sačuvaj** na traci **toka posla** izaberite stavku **Objavi**. 
   
-2. U odeljku za **Upravljanje** glavne trake **toka posla** , izaberite **Objavljivanje globalno**. U okviru za dijalog koji se pojavljuje, izaberite **OK**. 
+2. U odeljku " **Upravljanje** " na traci **toka posla** izaberite opciju " **Objavi globalno**". U dijalogu za potvrđivanje koji se pojavljuje izaberite **"u redu"**. 
   
-3. U web pregledaču, pronađite osnovne Web lokacija u kolekciji lokacija, a zatim pristupite **Postavke lokacije** \> **Funkcije kolekcije lokacija**. Uključi/isključi funkcije za **tokove posla** : 
+3. U Web pregledaču pronađite osnovnu Veb lokaciju kolekcije lokacija, a zatim pristupite **postavkama** \> **kolekcije**lokacija. Uključi/isključi funkciju **tokova posla** : 
   
-· Ako je funkcija *aktivirano* , kliknite **Deaktiviraj,** a zatim **Aktiviraj**. 
+· Ako je funkcija *aktivirana* , kliknite na dugme **"Deaktiviraj",** a zatim kliknite na dugme " **Aktiviraj**". 
   
-· Ako je funkcija " *Deactivated* ", kliknite na dugme **Aktiviraj**. 
+· Ako je funkcija *deaktivirana* , kliknite na dugme " **Aktiviraj**". 
   
 Za više informacija pogledajte sledeći [članak](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   

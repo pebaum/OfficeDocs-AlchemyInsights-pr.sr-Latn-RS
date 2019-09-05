@@ -1,6 +1,6 @@
 ---
-title: Uredite datoteku samo za čitanje
-ms.author: kirks
+title: Uređivanje datoteke koja je samo za čitanje
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,26 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: f36a87488c3c470f92038a92f68519a7e38323c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bdfd516dd151addf874ea6ee4d9d7c6f23aa1da6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528133"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756114"
 ---
-# <a name="edit-a-read-only-file"></a>Uredite datoteku samo za čitanje
+# <a name="edit-a-read-only-file"></a>Uređivanje datoteke koja je samo za čitanje
 
-Možda će vam kada otvarate datoteke, otvore samo za čitanje. U nekim slučajevima, ovo je za dodatnu sigurnost, kao što je kada otvarate datoteke sa interneta, a drugi puta, to može biti postavku koja se može promijeniti. U članku [Zašto je moja datoteka otvori u samo za čitanje](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) smo za prikaz strukture neke scenarije gde se otvara datoteku samo za čitanje i neke korake koje možete preduzeti da promeni to.
+To možete pronaći kada otvarate datoteke, one se otvaraju samo za čitanje. U nekim slučajevima, ovo je za dodatnu bezbednost, kao što je slučaj kada otvarate datoteke sa interneta, a ponekad se može doći zbog postavke koja se može promeniti. U članku [Zašto je moja datoteka otvorena u čitanju samo](https://support.office.com/article/Why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15) mi Prikažite neke scenarije u kojima datoteka otvara samo za čitanje i neke korake koje možete preduzeti da biste to promenili.
 
-Evo kako da otvorite office datoteke za uređivanje.
+Evo kako da otvorite Office datoteke za uređivanje.
 
-Umesto da kliknete na naslov dokumenta, kliknite na dugme **Otvori meni** (tri tačke), a zatim kliknite na dugme **Uredi**.
+Umesto da kliknete na naslov dokumenta, izaberite stavku **"Otvori meni"** (tri tačke), a zatim kliknite na dugme " **Uredi**".
 
-Napomene:
+Beleške:
 
-- Ako radije bi dokumenti koje otvorite za uređivanje u kancelariji, kada kliknete na naslov, možete da postavite u biblioteku da to radim (pod uslovom da imate dozvolu za menjanje postavki biblioteke).
+- Ako radije želite da dokumenti budu otvoreni za uređivanje u sistemu Office kada kliknete na naslov, možete da podesite biblioteku tako da to (sve dok imate dozvolu za menjanje postavki biblioteke).
 
-- Ako je biblioteka sa odjave, potrebne kolone ili kada je jedino korisnici koji možete urediti u postavkama verziju sistema SharePoint biblioteke dokumenata, ove stavke će se sinhronizovati samo za čitanje.
+- Ako imate biblioteke sa odjavom, potrebnim kolonama ili kada se samo korisnici koji mogu uređivati u postavkama verzije SharePoint biblioteke dokumenata, te stavke će biti sinhronizovane samo za čitanje.
 
-- Office dokument se otvara u prikazu koji je zaštićen iako omogućite postavke pravila „Otvaranje Office dokumenata kao čitanje i pisanje tokom pregledanja”. Za više informacija, pogledajte ovo [članak.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
+- Office dokument će se otvoriti u zaštićenom prikazu čak i ako omogućite opciju "Otvori Office dokumente kao pročitane/piši tokom pregledanja". Za više informacija pogledajte ovaj [članak.](https://support.microsoft.com/help/983047/an-office-document-opens-in-protected-view-even-though-you-enable-the)
 
