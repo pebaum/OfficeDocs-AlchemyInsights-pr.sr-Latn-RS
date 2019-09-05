@@ -1,6 +1,6 @@
 ---
-title: Dozvole za probleme prilikom prelaska
-ms.author: kirks
+title: Problemi sa dozvolama tokom prelaska
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554917"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752633"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Korisnički profil i foto sinhronizacije
+# <a name="user-profile-and-photo-synchronization"></a>Korisnički profil i sinhronizacija fotografija
 
- **Profil sinhronizacije foto** - korisnici mogu primetiti da njihova slika za profil ne sinhronizuje u SharePoint. Ili, možda su se trudili da ažurirate svoje slika za profil i fotografiju i dalje pojavljuje kao stara fotografija. Da biste osigurali da se slika za profil prikazuje očekivani, korisnik morat ćete inicirati sinhronu foto. 
+ **Sinhronizacija foto profila** -korisnici mogu primetiti da se njihova fotografija profila ne sinhronizuje sa SharePoint-a. Ili su možda pokušali da ažuriraju svoju fotografiju profila, a fotografija se i dalje pojavljuje kao stara fotografija. Da bi se obezbedilo da se fotografija profila prikazuje kao što je očekivano, korisnik će morati da pokrene sinhronizaciju sa fotografijom. 
   
-Za više informacija o procesu sinhronizacije fotografija, pogledajte [informacije o profilu sinhronizacije sliku u Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Više informacija o procesu sinhronizacije fotografija potražite [u članku informacije o sinhronizaciji slika profila u sistemu Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Profil sinhronizacije** - vreme koje je potrebno da biste dovršili profil sinhronizaciju zavisi od broja promene (rad) AD zadatak uvoza mora da proces. Ako postoje mnoge promene, tajmera ima puno posla, a će trajati duže za promene mora odraziti u aplikaciji profila korisnika. Ako tajmera je manjeg obima posla, promene će se odraziti u aplikaciji profila korisnika mnogo brže. 
+- **Sinhronizacija profila** -vreme koje je potrebno za dovršavanje sinhronizacije profila zavisi od broja promena ("posao") koji proces uvoza oglasa mora da obradi. Ako postoji mnogo promena, proces tajmera ima puno posla i trajaće duže da se promene odraze u aplikaciji korisničkog profila. Ako proces tajmera ima mali volumen posla, promene će mnogo brže biti vidljive u aplikaciji korisničkog profila. 
   
-Više informacija o procesu sinhronizacije profila, potražite [informacije o korisnički profil sinhronizacije u SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Više informacija o procesu sinhronizacije profila potražite [u članku informacije o sinhronizaciji korisničkog profila u sistemu SharePoint online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Ažuriranje profila u kancelariji, ronite** - Delve korisnici mogu upravljati svojim Office 365 profila. Za više informacija, pogledajte [prikaz i ažuriranje vašeg profila u kancelariji, ronite](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Ažuriranje profila u Office delve** -delve korisnici mogu da upravljaju svojim Office 365 profilom. Više informacija potražite u članku [prikaz i ažuriranje profila u sistemu Office Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

@@ -1,23 +1,23 @@
 ---
-title: Ograničenja za lokacije čvorišta
-ms.author: kirks
+title: Ograničenja i ograničenja lokacija čvorišta
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: 0704d846bc30f2773298fb40631be915c88b964d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5bf96213a6ebed97facca81426f31175f57462d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539331"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754566"
 ---
-# <a name="sharepoint-hub-site-navigation"></a>Navigacija na lokaciji SharePoint čvorište
+# <a name="sharepoint-hub-site-navigation"></a>Navigacija lokacije SharePoint čvorišta
 
-Na vrhu lokacije čvorišta i sve povezane lokacije, iznad navigaciji, je traku za navigaciju lokacije čvorišta. Ako ste vlasnik lokacije čvorišta, možete da prilagodite [traku za navigaciju](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
+Na vrhu lokacije čvorišta i svih pridruženih lokacija, iznad navigacije lokacije, nalazi se traka za navigaciju lokacije čvorišta. Ako ste vlasnik lokacije čvorišta, možete da prilagodite [traku za navigaciju](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca#hubnav). 
 
-**Napomena:** Preporučuje se da izaberete lokaciju za komunikaciju ili lokaciji tima koristeći obrazac moderan kao vaša lokacija čvorišta. Ako koristite lokaciju klasični tima, čvorište navigaciju će se pojaviti samo na modernu stranicama i čvorište postavke lokacije će se pojaviti samo na stranici "moderne". 
+**Napomena:** Preporučuje se da izaberete lokaciju za komunikaciju ili lokaciju tima koristeći moderan predložak kao lokaciju čvorišta. Ako koristite klasičnu timsku lokaciju, navigacija će se pojaviti samo na modernim stranicama, a postavke lokacije čvorišta će se pojaviti samo na modernoj stranici. 
 
 

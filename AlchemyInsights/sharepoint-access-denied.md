@@ -1,6 +1,6 @@
 ---
-title: Rešavanje problema sa zabranom pristupa porukama
-ms.author: kirks
+title: Rešavanje problema sa programom Access je porekao poruke
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549125"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751794"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Rešavanje problema sa zabranom pristupa porukama
+# <a name="troubleshoot-access-denied-messages"></a>Rešavanje problema sa programom Access je porekao poruke
 
-Ako dobijate pristup nije dozvoljen poruka pri pokušaju da potraži lokaciju Sharepoint Online, molim vas pogledajte na ispod članaka.
+Ako dobijate poruku da pristup nije dozvoljen kada pokušate da pregledate SharePoint lokaciju na mreži, pogledajte sledeće članke.
 
-**Dodavanje i licenciranje korisnika**
+**Dodaj i licenciraj korisnika**
 
-Uverite se da ste [dodelili licence korisnicima u Office 365 za poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Uverite se da ste [dodelili licence korisnicima sistema Office 365 za posao](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
-**Dodelite dozvole**
+**Dodeli dozvole**
 
-Ako korisnik je dodeljena dozvola Sharepoint, a i dalje prima pristup nije dozvoljen poruku, uverite se da oni imaju [odgovarajući nivo dozvola dodeljuje](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Ako je korisniku dodeljena SharePoint licenca i još uvek prima poruku koja je zabranila pristup, proverite da li su [dodeljeni odgovarajući nivo dozvola](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Razmotrite upotrebu funkcije zahtev za pristup**
+**Razmislite o korišćenju funkcije "zahtev za pristup"**
 
-Funkcija [zahteva pristup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogućava osobama da biste zatražili pristup sadržaju koji trenutno nemaju dozvolu za gledanje. 
+Funkcija [zahteva za pristup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogućava osobama da zahtevaju pristup sadržaju za koji trenutno nemaju dozvolu za pregled. 
 
-**Dozvoli adaptirani scenario može dovesti do toga da pristup nije dozvoljen pitanjima**
+**Dozvoli da prilagođena skripta uzrokuje probleme sa zabranim pristupom**
 
-Postoje određene scenarije gde je funkcija „Dozvoli adaptirani scenario” može biti predstavljajući pristup nije dozvoljen. Za listu funkcije na koje utiče, pitanja bezbednosti i mogućnost da onemogućite funkciju. Posjetite, [Dozvoli ili sprečavaju adaptirani scenario](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Postoje određeni slučajevi u kojima funkcija "Dozvoli prilagođenu skriptu" može da predstavlja Nedozvoljen pristup. Za spisak funkcija koje su pogođene, bezbednosna razmatranja i mogućnost onemogućavanja funkcija. Molimo vas da posetite, [dopustite ili sprečite prilagođenu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Napomena: Ako OneDrive ili SharePoint lokacije nisu dostupni za više korisnika koji su prethodno imali pristup, postoji problem sa privremene usluge. [Proverite kontrolnu tablu zdravstvenih usluga](https://portal.office.com/adminportal/home#/servicehealth).
+Napomena: ako OneDrive ili SharePoint lokacija nije dostupna većem broju korisnika koji su ranije imali pristup, možda postoji problem sa privremenim servisom. [Proverite kontrolnu tablu usluge za zdravstvo](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

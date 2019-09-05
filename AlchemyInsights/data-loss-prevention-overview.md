@@ -1,30 +1,30 @@
 ---
-title: Pregled podataka i sprečavanje gubitka (Uroniti)
-ms.author: kirks
+title: Pregled za sprečavanje gubitka podataka (DLP)
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514417"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755142"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Pregled podataka i sprečavanje gubitka (Uroniti)
+# <a name="data-loss-prevention-dlp-overview"></a>Pregled za sprečavanje gubitka podataka (DLP)
 
-Sa Uroniti politika, možete:
+Pomoću datoteke sa DLP-om možete da:
 
-- Identifikujte poverljive informacije preko mnogim lokacijama, kao što su Exchange Online, SharePoint Online i OneDrive za posao.
-
-
-Na primer, možete da identifikujete bilo koji dokument koji sadrži broj kreditne kartice koji je uskladišten u bilo koji OneDrive za poslovne lokacije ili možete nadgledati samo OneDrive lokacije od određenih osoba.
-
-- Sprečavanje slučajnog deljenje osetljivih informacija.
+- Identifikujte osetljive informacije na mnogim lokacijama, kao što su Exchange online, SharePoint Online i OneDrive za poslovanje.
 
 
-Za više informacija Pregledajte sledeći [članak](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Na primer, možete da identifikujete bilo koji dokument koji sadrži broj kreditne kartice koji je uskladišten u bilo kojoj usluzi OneDrive za poslovnu lokaciju ili možete da nadgledate samo OneDrive lokacije određenih osoba.
+
+- Sprečite nehotičnu razmenu osetljivih informacija.
+
+
+Za više informacija, pogledajte sledeći [članak](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
