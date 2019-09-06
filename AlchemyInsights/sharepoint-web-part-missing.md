@@ -1,6 +1,6 @@
 ---
-title: Projekt Web aplikacija je nestao iz kolekcije SharePoint lokacija
-ms.author: kirks
+title: Web aplikacija projekta nedostaje u kolekciji SharePoint lokacija
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502594"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749670"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Nedostaju Web segmenta u kolekciji SharePoint lokacija
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Nedostaje Web segment u kolekciji SharePoint lokacija
 
-Ako vam nedostaje Web segmentu vi navikli da vide, je moguće da pokušavate da dodate [klasični web segmenta na stranicu sa modernim](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). To je napomenuti da moderne stranice mogu da koriste moderne web segmenata i klasične stranice možete da koristite samo klasičan web segmenata. Mnogi moderni web segmenti ispuniti u istu svrhu kao klasični web segmente, ali ćete videti razlike u izgledu i funkcionalnosti.
+Ako nedostaje Web segment koji koristite da biste videli, moguće je da pokušavate da dodate [klasičan Web segment na modernu stranicu](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Važno je primetiti da moderne stranice mogu da koriste samo savremene Web segmente i klasične stranice mogu da koriste samo klasične Web segmente. Mnogi savremeni Web segmenti ispunjavaju iste namene kao i klasične Web segmente, ali ćete videti razlike u izgledu i funkcionalnosti.
 
-Postoje mnoge Web segmenti koji se ne pojavljuju zbog [adaptirani scenario postavka](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), koja je onemogućena po podrazumevanoj vrednosti na moderne lokacijama. 
+Postoji mnogo Web segmenata koji se ne prikazuju zbog [prilagođene postavke skripte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), koja je podrazumevano onemogućena na modernim lokacijama. 
 
-Za listu Web segmenata koji su nedostupni pogledajte, [funkcije na koje utiče adaptirani scenario je blokiran](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Listu Web segmenata koji nisu dostupni potražite u funkcijama koje su [pogođene kada je prilagođena skripta blokirana](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Za više informacija o bezbednosti implikacije adaptirani scenario, pogledajte [pitanja bezbednosti propuštanja adaptirani scenario](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Više informacija o posledicama po bezbednost na temu bezbednosti potražite u članku [bezbednosni podaci o omogućavanju prilagođene skripte](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
