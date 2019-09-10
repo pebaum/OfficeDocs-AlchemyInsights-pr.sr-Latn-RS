@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548153"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821996"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nova iskustva kalendar dolazi u Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Iskustva novih kalendara na Outlook.com
 
-Novi izgled donosi najbolje dizajne i learnings iz poštu iskustvo u kalendar.
+Novi izgled donosi najbolje dizajne od iskustva pošte do kalendara.
 
-Uћivaжeљ modernog dizajna koji smanjuje vizuelni zakrčenje i daje ti brže načine za navigaciju kalendara. To je takođe lakše pronaći zanimljive kalendari za vaše omiljene aktivnosti – iz TV emisija sportskih timova i događaje.
+Uživaćete u modernom dizajnu koji smanjuje vizuelno zakrčenje i pruža vam brže načine za navigaciju po kalendaru. Takođe je lakše pronaći zanimljive kalendare za vaše omiljene aktivnosti – od TV emisija do sportskih timova i događaja.
 
-Smo proširili našu zbirku događaj ikone i ažurirati izgled i funkcionalnost postojećih — i da smo sada automatski dodati odgovarajuće ikone događaje, tako da možete lako da vidite kako će na prvi pogled.
+Proširili smo zbirku ikona događaja i ažurirali izgled i osećaj postojećih, a sada automatski dodamo relevantne ikone u vaše događaje, tako da lako možete da vidite šta se dešava na prvi pogled.
 
-Možete da date povratne informacije o novim funkcijama kroz [Outlook.com kalendar UserVoice kanal](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Možete da date povratnu informaciju o novim funkcijama putem [Outlook.com Calendar Userglasovnog kanala](https://go.microsoft.com/fwlink/?linkid=2103075).
