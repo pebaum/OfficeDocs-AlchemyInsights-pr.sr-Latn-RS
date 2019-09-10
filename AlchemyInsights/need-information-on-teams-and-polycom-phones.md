@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: 1703
-ms.openlocfilehash: a7514bece0f841a0df46c50a3d83012ce586bdde
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: d5b8f96d0e2bc206bae818d84158d0432c66d3bf
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771284"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822284"
 ---
-# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="111d5-102">Polycom telefoni i Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="111d5-102">Polycom phones and Microsoft Teams</span></span>
+# <a name="polycom-phones-and-microsoft-teams"></a><span data-ttu-id="c21c9-102">Polycom telefoni i Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="c21c9-102">Polycom phones and Microsoft Teams</span></span>
 
-<span data-ttu-id="111d5-103">Posetite ovu [Polycom vezu](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) za detaljnije informacije o korišćenju Polycom telefona sa aplikacijom Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="111d5-103">Please check this [Polycom link](http://www.polycom.com/content/dam/polycom/common/documents/faqs/polycom-phones-and-microsoft-teams-faq-enus.pdf) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
+<span data-ttu-id="c21c9-103">Posetite ovu [Polycom vezu](https://aka.ms/polycom-phones) za detaljnije informacije o korišćenju Polycom telefona sa aplikacijom Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="c21c9-103">Please check this [Polycom link](https://aka.ms/polycom-phones) for more specific information on using Polycom phones with Microsoft Teams.</span></span>
 
-<span data-ttu-id="111d5-104">Ako želite da saznate više o korišćenju telefona sa aplikacijom Teams, pogledajte [ovaj članak](https://docs.microsoft.com/microsoftteams/phones-for-teams).</span><span class="sxs-lookup"><span data-stu-id="111d5-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/microsoftteams/phones-for-teams).</span></span>
+<span data-ttu-id="c21c9-104">Ako želite da saznate više o korišćenju telefona sa aplikacijom Teams, pogledajte [ovaj članak](https://docs.microsoft.com/microsoftteams/phones-for-teams).</span><span class="sxs-lookup"><span data-stu-id="c21c9-104">If you'd like to learn more about using phones with Teams, check out [this article](https://docs.microsoft.com/microsoftteams/phones-for-teams).</span></span>
