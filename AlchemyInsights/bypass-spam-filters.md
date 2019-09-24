@@ -1,5 +1,5 @@
 ---
-title: 2637 bajpas spam filtriranja da bi se određene poruke?
+title: 2637 Zaobiđi filtriranje bezvredne pošte da bi se dozvolilo određene poruke?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,15 +8,17 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 2637
+ms.custom:
+- "2637"
+- "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 6a6a119f6ba32df474d44421f0571e882d1fe6ee
-ms.sourcegitcommit: a2c866d2f3cdc1e18a33a5b2a4209340e83ca3c2
+ms.openlocfilehash: 8d8c9b56c61c17be1001bf9723bc4b5ecbfba031
+ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36406562"
+ms.lasthandoff: 09/23/2019
+ms.locfileid: "37122176"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Zaobići spam filtriranja da bi se određene poruke?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Zaobiđi filtriranje bezvredne pošte da biste dozvolili određene poruke?
 
-Preporučuje se [oprez](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) kada kreirate listu e dozvoli. Na primer, ako dozvolite svoje podrucje, zlonamerni pošiljalaca moći da izbegnu i pošaljete kao vašeg domena.  Umesto toga, preporučujemo da ove [greške u rešavanju problema vodič](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam), koji će vam pomoći da utvrdite zašto legitimnih poruka je označena kao spam i kako da bezbedno da dozvoli isporuku poruke.
+Preporučujemo da budete [oprezni](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) kada kreirate listu dozvoljenih. Na primer, ako dozvolite sopstveni domen, zlonamerni pošiljaoci će moći da se spore i pošalju kao vaš domen.  Umesto toga, preporučujemo ovaj [lažni imali greške Vodič za rešavanje problema](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam)koji će vam pomoći da utvrdite zašto je legitimna poruka označena kao bezvredna, i šta možete da uradite da biste bezbedno dozvolili isporuku poruke.
