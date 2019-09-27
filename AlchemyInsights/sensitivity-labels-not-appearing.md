@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744835"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207239"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Oznake osećajnosti se ne pojavljuju
 
-Oznake osećajnosti vam omogućavaju da klasifikujete i zaštitite svoj osetljivi sadržaj. Više informacija o ovoj funkciji potražite u članku [Pregled oznaka osetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Oznake osećajnosti vam omogućavaju da klasifikujete i zaštitite svoj osetljivi sadržaj. One se mogu kreirati u Microsoft 365 centru za usaglašavanje, Microsoft 365 bezbednosnom centru ili Office 365 Security & centru za usaglašavanje u okviru stavke klasifikacija > oznake osećajnosti. Više informacija o ovoj funkciji potražite u članku [Pregled oznaka osetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Ako ste konfigurisali oznake osetljivosti, ali se one ne pojavljuju u Office aplikacijama, proverite sledeće:
 
@@ -32,5 +32,10 @@ Ako ste konfigurisali oznake osetljivosti, ali se one ne pojavljuju u Office apl
 - Ako [migrirate oznake za zaštitu informacija o zaštiti podataka](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), imajte na [umu navedene informacije](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Podrška za sprečavanje gubitka podataka (DLP): trenutno samo oznake za zadržavanje mogu da se koriste kao uslov u DLP smernicama.  Podrška za oznake osetljivosti u DLP smernici još uvek nije dostupna, ali mi radimo na tome.
+
+- Kada je šifrovanje omogućeno na oznaci osetljivosti, možete odabrati:
+    - Dodeli dozvole odmah
+    - Dopusti korisnicima da dodeljuju dozvole
+
 
 Više informacija o mogućim problemima potražite u članku [poznati problemi sa oznakama osetljivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
