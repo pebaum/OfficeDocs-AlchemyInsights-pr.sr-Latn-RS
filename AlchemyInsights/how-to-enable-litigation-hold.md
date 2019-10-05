@@ -1,5 +1,5 @@
 ---
-title: 976-How-to-enable-litigation-hold
+title: 976-kako-to-omogućavanje-održavanje
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540771"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398641"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Postavite poštansko sanduče na čekanju pravne
+# <a name="place-a-mailbox-on-legal-hold"></a>Postavite poštansko sanduče na zakonsko držanje
 
-- Da biste postavili poštansko sanduče na parnice držite ili zamjenom držite, licence za Exchange Online Plan 2 [licence za Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) je potreban. Ako poštansko sanduče je dodeljeno Plan 1 licencu, možete da dodelite odvojene Exchange Online arhiviranje dodatak dozvolu za [Exchange Online arhiviranje dodatak licencu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Da biste smestili poštansko sanduče na održavanje sudskog spora ili na mestu držanja, potrebna je dozvola za Exchange online plan 2 licence za Exchange [online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako se poštanskom sandučetu dodeljuje plan 1, možete da dodelite odvojenu Exchange online arhiviranje licence za [Exchange online arhiviranje licence na mreži](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Da biste omogućili parnice držite za jednog korisnika, [slijedite ove korake](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Kada je parnica držite omogućena, sav sadržaj u poštanskom sandučetu će biti očuvan.
+- Da biste omogućili održavanje sudskog spora za jedan korisnik, [sledite ove korake](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Kada je omogućeno održavanje sudskog sporova, sav sadržaj u poštanskom sandučetu biće očuvan.
 
-- Da biste postavili zadrške na sve Poštanske sandučiće u vašoj organizaciji, možete da koristite smernice za zadržavanje Office 365 tako što ćete [pratiti ove korake](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Imajte na umu da za širom organizacije Restriktivne smernice, novi korisnici će automatski biti dodeljene politika.
+- Da biste očuvali sadržaj u svim poštanskim sandučićima u vašoj organizaciji, možete koristiti [365 Office-ovu smernicu za zadržavanje u celoj organizaciji](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Imajte na umu da će za ove smernice za zadržavanje u organizaciji biti automatski dodeljene nove korisnike.
