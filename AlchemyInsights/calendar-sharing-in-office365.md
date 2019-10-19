@@ -1,5 +1,5 @@
 ---
-title: 410 kalendar deli u Office365
+title: 410 deljenje kalendara u Office365
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.assetid: 7ec088d3-8629-435e-a222-8722bc99f9c6
 ms.custom: 410
 ms.openlocfilehash: f76c16275605a5716d4e20b569c10498763a8204
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518269"
 ---
-# <a name="calendar-sharing-in-office-365"></a><span data-ttu-id="e0e54-102">Kalendar deli u Office 365</span><span class="sxs-lookup"><span data-stu-id="e0e54-102">Calendar sharing in Office 365</span></span>
+# <a name="calendar-sharing-in-office-365"></a><span data-ttu-id="2cd41-102">Deljenje kalendara u sistemu Office 365</span><span class="sxs-lookup"><span data-stu-id="2cd41-102">Calendar sharing in Office 365</span></span>
 
-<span data-ttu-id="e0e54-103">Ako imate pitanja da pristupe vašem kalendaru ili druge kalendare, koristite [Microsoft podršci i oporavak pomoćnika za Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="e0e54-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
+<span data-ttu-id="2cd41-103">Ako imate problema sa pristupom vašem kalendaru ili drugim kalendarima, koristite [Microsoft pomoćnik za podršku i oporavak za Office 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="2cd41-103">If you're having issues accessing your calendar or other calendars, use the [Microsoft Support and Recovery Assistant for Office 365](https://diagnostics.office.com/).</span></span>
   
-<span data-ttu-id="e0e54-104">Da biste saznali više o deljenju kalendara, vidite [deo Outlook kalendara sa drugim ljudima](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="e0e54-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
+<span data-ttu-id="2cd41-104">Više informacija o deljenju kalendara potražite [u članku deljenje Outlook kalendara sa drugim osobama](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span><span class="sxs-lookup"><span data-stu-id="2cd41-104">To learn more about sharing your calendar, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).</span></span>
   
 

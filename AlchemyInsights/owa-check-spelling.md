@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510565"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="aae70-102">Koristite pregledač za proveru pravopisa</span><span class="sxs-lookup"><span data-stu-id="aae70-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="7a686-102">Korišćenje pregledača za proveru pravopisa</span><span class="sxs-lookup"><span data-stu-id="7a686-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="aae70-103">Ne postoji opcija provera pravopisa u programu Outlook na Webu.</span><span class="sxs-lookup"><span data-stu-id="aae70-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="aae70-104">Za proveru pravopisa, moraćete da koristite web pregledač.</span><span class="sxs-lookup"><span data-stu-id="aae70-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="aae70-105">Provera pravopisa je dostupan u Microsoft Edge, Internet Explorer 10 i novije verzije i trenutne verzije programa Firefox, Chrome i Safari.</span><span class="sxs-lookup"><span data-stu-id="aae70-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="aae70-106">Proverite opcije za web pregledač da biste saznali više o tome kako da proverite pravopis.</span><span class="sxs-lookup"><span data-stu-id="aae70-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="7a686-103">Ne postoji opcija provere pravopisa u programu Outlook na vebu.</span><span class="sxs-lookup"><span data-stu-id="7a686-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="7a686-104">Da biste proverili pravopis, potrebno je da koristite Web pregledač.</span><span class="sxs-lookup"><span data-stu-id="7a686-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="7a686-105">Provera pravopisa je dostupna u aplikaciji Microsoft Edge, Internet Explorer 10 i novijim verzijama, kao i u trenutnim verzijama programa Firefox, Chrome i safari.</span><span class="sxs-lookup"><span data-stu-id="7a686-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="7a686-106">Proverite opcije za Web pregledač da biste saznali više o tome kako da proverite pravopis.</span><span class="sxs-lookup"><span data-stu-id="7a686-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
