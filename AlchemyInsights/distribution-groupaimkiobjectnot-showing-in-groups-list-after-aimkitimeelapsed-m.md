@@ -1,5 +1,5 @@
 ---
-title: Grupi za distribuciju „{AimKIObject}” ne prikazuje padajuće liste grupe nakon minuta {AimKITimeElapsed}
+title: Distribuciona grupa "{AimKIObject}" nije prikazana u listi grupa nakon što je {Aimkitimeproteklo} minuta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cdc6a166-434f-4654-8a80-2fa8ca7f5845
 ms.openlocfilehash: af6f3e2040ebf2966f7bf7c4ffe796fa31106ecf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530509"
 ---
-# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Grupi za distribuciju „{AimKIObject}” ne prikazuje padajuće liste grupe nakon minuta {AimKITimeElapsed}
+# <a name="distribution-group-aimkiobject-not-showing-in-groups-list-after-aimkitimeelapsed-minutes"></a>Distribuciona grupa "{AimKIObject}" nije prikazana u listi grupa nakon što je {Aimkitimeproteklo} minuta
 
-Vaše grupe „{AimKIObject}” je kreirana {AimKITimeElapsed} pre minuta. Obično nije potrebno više od 60 minuta za novu grupu distribucije da se pojavi u centru za administraciju.
+Vaša grupa "{AimKIObject}" je kreirana {Aimkitimeproteklo} pre nekoliko minuta. Obično ne treba više od 60 minuta da se vaša nova grupa distribucije pojavi u okviru administratorskog centra.
   
-Možete biti u mogućnosti da koriste ovu funkciju za primaoce > grupe u [Exchange Admin centar](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) za upravljanje vaša grupa sada, ili koristite opciju „pusti nas zvati” razgovarati s inženjera za podršku. 
+Možda ćete moći da koristite primaoce > grupe u [sistemu Exchange admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx) da biste odmah upravljali vašom grupom ili koristite opciju "Dozvolite da vas pozovemo" da razgovarate sa inženjerka za podršku. 
   
 

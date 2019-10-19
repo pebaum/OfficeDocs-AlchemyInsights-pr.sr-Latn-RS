@@ -1,5 +1,5 @@
 ---
-title: 8000077 ne mogu da da se prijavite na Hotmail ili Outlook.com?
+title: 8000077 ne može da se prijavi u Hotmail ili Outlook.com?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: 4e89fa1746360dc6b41f25b71558b1b957edd4d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518557"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Ne mogu da se prijavite na Hotmail ili Outlook.com?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Ne možete da se prijavite u Hotmail ili Outlook.com?
 
-Da biste zadržali svoj Outlook.com nalog aktivan, ne mora se prijavite u račun barem jednom u 365 dana. Nakon 365 dana neaktivnosti, e-mail će biti izbrisan i nije moguće spasti.
+Da biste zadržali aktivni nalog za Outlook.com, morate da se prijavite na nalog najmanje jednom na svakih 365 dana. Nakon 365 dana neaktivnosti, e-pošta će biti izbrisana i ne može biti spasena.
   
-Ako ste bili prijavljeni u roku od 365 dana, ali i dalje ne može da pristupi vaš Hotmail ili Outlook.com račun, pročitajte [Kako da se prijavite za ili iz Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Ako ste se prijavili u roku od 365 dana, ali i dalje ne možete da pristupite svom Hotmail ili Outlook.com nalogu, pročitajte [Kako da se prijavite u Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
   

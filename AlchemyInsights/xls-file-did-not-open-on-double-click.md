@@ -1,5 +1,5 @@
 ---
-title: XLS datoteka nije otvorila nakon dvostrukog klika
+title: XLS datoteka nije otvorena na dva klika
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530761"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel datoteka se ne otvara
+# <a name="excel-file-doesnt-open"></a>Excel datoteka nije otvorena
 
-Pokušajte sledeće:
+Isprobajte neki od ovih predloga:
 
-**Odaberite Excel kao podrazumevani**
+**Izbor programa Excel kao podrazumevanog**
 
-* Kliknite desnim tasterom miša na radnom listu, odaberite **Otvori pomoću**, a zatim odaberite **Excel**
+* Kliknite desnim tasterom miša na radni list, izaberite stavku **Otvori pomoću**, a zatim odaberite stavku **Excel**
 
 **Pokretanje brzog popravka**
 
-1. Idi na **kontrolnoj tabli > programa > programi i funkcije**.
+1. Idite na **kontrolnu tablu > programe > programima i funkcijama**.
 
-2. Izaberite Office proizvod koji želite da popravite, a zatim odaberite **Promena**.
+2. Izaberite Office proizvod koji želite da popravite, a zatim kliknite na dugme " **Promeni**".
 
-3. Odaberite mogućnost **Brzog popravka** , a zatim odaberite **popravke**.
+3. Odaberite opciju " **brzo popravljanje** ", a zatim odaberite stavku " **Popravi**".
 
-**Deinstalirajte verzija sistema Office koje ne koristite**
+**Deinstaliranje verzija sistema Office koje ne koristite**
 
-1. U **kontrolnoj tabli > Deinstaliraj Program**, a zatim izaberite verziju sistema Office koju želite da uklonite.
+1. Idite na **kontrolnu tablu > deinstalirajte program**, a zatim izaberite verziju sistema Office koju želite da uklonite.
 
-2. Kliknite da **biste deinstalirali**.
+2. Kliknite na dugme **Deinstaliraj**.
 
-3. Ponovo pokrenite računalo.
+3. Ponovo pokrenite računar.
 
-**Pokreni ovaj program za rešavanje problema da biste postavili oznake Office datoteke da biste je otvorili u kancelariji**
+**Pokrenite alatku za rešavanje problema da biste podesili Office oznake tipa datoteke za otvaranje u sistemu Office**
 
-1. Pokreni ovaj program za rešavanje problema: https://aka.ms/diag_officefile.
+1. Pokreni ovu alatku za https://aka.ms/diag_officefilerešavanje problema:.
 
-2. U zavisnosti od svog pregledača, **Otvaranje** ili **Čuvanje** rešavanje problema na radnu površinu, a zatim **pokrenite** ga.
+2. U zavisnosti od pregledača, **Otvorite** ili **Sačuvajte** program za rešavanje problema na radnoj površini, a zatim ga **pokrenite** .

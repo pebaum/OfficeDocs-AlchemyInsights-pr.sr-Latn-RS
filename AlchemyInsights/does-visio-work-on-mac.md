@@ -1,5 +1,5 @@
 ---
-title: Da li je Visio radi na Mac
+title: Da li visio radi na Mac računaru
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529681"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Da li je Visio radi na Mac?
+# <a name="does-visio-work-on-a-mac"></a>Da li visio radi na Mac računaru?
 
-Postoji nema Visio desktop aplikacija za Mac. Međutim, sve dok korisnik kome je potrebna aplikacija ima [Visio Online licencu dodeljen](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), oni mogu [prikaza, kreiranje, i uređivanje dijagrama u programu Visio na mreži](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) u web pregledaču.
+Ne postoji aplikacija visio Desktop za Mac. Međutim, sve dok korisnik kome je potrebna aplikacija ima [dodeljenu visio licencu na mreži](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), oni mogu da [prikažu, kreiraju i uređuju dijagrame u programu Visio na mreži](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) u Web pregledaču.
   
   

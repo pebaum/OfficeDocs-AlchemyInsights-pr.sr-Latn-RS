@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514073"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje lokacije koje pripadaju grupi programa Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje lokacija koje pripadaju Office 365 grupi
 
-Kada korisnici kreiraju nove lokacije tima iz SharePoint doma ili da kreirate novu lokaciju tima iz novog centra za SharePoint admin, automatski se kreira odgovarajuću grupu Office 365. Office 365 tim povezana grupa takođe kreiraju lokacije kada kreirate grupu Office 365 ili tim u Microsoft Teams. Da biste izbrisali lokaciju SharePoint koja pripada grupi programa Office 365, potrebno je da izbrišete same grupe Office 365. 
+Kada korisnici kreiraju novu lokaciju tima iz sistema SharePoint Home ili kreirate novu timsku lokaciju iz novog SharePoint administratorskog centra, automatski će se kreirati odgovarajuća Office 365 grupa. Office 365 Team-povezane lokacije se takođe kreiraju kada kreirate Office 365 grupu ili tim u Microsoft timovima. Da biste izbrisali SharePoint lokaciju koja pripada Office 365 grupi, potrebno je da izbrišete samu grupu Office 365. 
   
-1. Idite na [stranicu grupe Microsoft 365 admin centra](https://portal.office.com/adminportal/home#/groups).
+1. Idite na [stranicu "grupe" Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).
     
 2. Potvrdite izbor u polju za potvrdu pored grupe.
     
 3. Izaberite stavku **Izbriši**.
     
-Napomena: Prilikom brisanja grupe, može postojati kašnjenja pre nego što lokacija će biti uklonjena iz SharePoint.
+Napomena: kada izbrišete grupu, može doći do kašnjenja pre nego što se lokacija ukloni iz sistema SharePoint.
   
-**Izbriši komunikacije ili klasični lokacije:**
+**Brisanje lokacija za komunikaciju ili klasičnih lokacija:**
 
 1. Idite na lokaciju.
   
-2. Kliknite na ikonu " **Postavke** " u gornjem desnom. 
+2. Kliknite na ikonu " **Postavke** " u gornjem desnom uglu. 
   
-3. Izaberite stavku **Postavke lokacije**. U okviru **Informacije o lokaciji** ili **Radnje na lokaciji**, kliknite na dugme **Izbriši ovu lokaciju**i izaberite stavku **Izbriši**.
+3. Izaberite stavku **Postavke lokacije**. U odeljku **informacije o lokaciji** ili **Radnje lokacije**kliknite na dugme **Izbriši ovu lokaciju**, a zatim izaberite stavku **Izbriši**.
   
 **Brisanje SharePoint kolekcije lokacija:**
 
 Da biste izbrisali lokaciju:
   
-1. U novu SharePoint admin centru, na stranici "lokacije", izaberite stavku u polju **za potvrdu** pored lokacije koju želite da izbrišete. 
+1. U novom SharePoint administratoru centra, na stranici lokacije, kliknite na **polje za potvrdu** pored lokacije koju želite da izbrišete. 
     
-2. Na alatnoj traci kliknite **Izbriši.**
+2. Na traci sa alatkama trake kliknite na dugme **Izbriši.**
     
-**Izbrisati lokaciju slučajno?**
+**Da li ste slučajno izbrisali lokaciju?**
 
-Vidim da se [Vraćanje izbrisanih kolekciji](https://go.microsoft.com/fwlink/?linkid=867660).
+Pogledajte odeljak [Vraćanje izbrisane kolekcije lokacija](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

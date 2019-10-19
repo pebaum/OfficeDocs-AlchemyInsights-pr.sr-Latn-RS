@@ -1,5 +1,5 @@
 ---
-title: 9000215 pretplate na Outlook.com
+title: 9000215 Outlook.com pretplata
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000215
 ms.openlocfilehash: 03a76b467d24c1a4e7e478d9ecc2bd4dad8aff7c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36511825"
 ---
-# <a name="subscriptions-and-unsubscribing"></a>Pretplate i odjavljivanjem
+# <a name="subscriptions-and-unsubscribing"></a>Pretplate i poništavanje pretplate
 
-Ako želite prekinuti primanje biltene ili promocijama, na dva načina možete otkazati pretplatu na Outlook.com:
+Ako želite da prestanete da primate biltene ili promocije, postoje dva načina na koja možete otkazati pretplatu u Outlook.com:
 
-1. U prijemnom poštanskom sandučetu, izaberite biltene ili promotivne e-pošte. Na vrhu okna za čitanje, izaberite **Otkaži pretplatu**.
-2. Otvorite [Postavke pretplate na Outlook.com](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Postavke** > **Prikaz svih postavki programa Outlook** > **Email** > **pretplate**) i izaberite **Otkaži pretplatu**.
+1. U prijemnom poštanskom sandučetu izaberite bilten ili promotivnu e-poštu. Na vrhu okna za čitanje izaberite stavku **Opozovi pretplatu**.
+2. Otvorite [Postavke za Outlook.com pretplate](https://outlook.live.com/mail/options/mail/brandsSubscriptions) (**Postavke** > **Prikaz svih postavki** > programa Outlook**pretplate**na**e-poštu** > ) i izaberite stavku **Opozovi pretplatu**.
 
-Napomene:
+Beleške:
 
-- Nisu svi kupci mogu da imaju koristi od ove funkcije u ovom trenutku.
-- Ćete videti samo ovu funkciju ako ste primili e-mail iz kompanije za slanje email na koje ste pretplaćeni.
+- Ne mogu svi kupci imati koristi od ove funkcije u ovom trenutku.
+- Ovu funkciju ćete videti samo ako ste primili e-poruku sa e-poruke koja šalje pretplatu.

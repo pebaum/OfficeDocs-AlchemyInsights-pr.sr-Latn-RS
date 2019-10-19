@@ -1,5 +1,5 @@
 ---
-title: 'Za Yammer - Upravljanje grupama za Office 365 '
+title: 'Yammer-Upravljaj Office 365 grupama '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.custom:
 - "995"
 - "6000003"
 ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530961"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>Upravljanje grupama Office 365 za Yammer
+# <a name="manage-office-365-groups-in-yammer"></a>Upravljanje Office 365 grupama na mreži Yammer
 
-Evo nekih odgovora na najčešća pitanja sa Office 365 grupe na mreži Yammer.
+Evo nekih odgovora na uobičajena pitanja sa Office 365 grupama na mreži Yammer.
 
-* **Office 365 grupe** su deljeni radni prostor za e-poštu, razgovore, datoteke i događajima gde članovi grupe mogu da sarađuju. Yammer, Office 365 grupe imaju mnoge prednosti u odnosu na grupe koji nisu povezani Yammer. Na primer, možete da kreirate i domaćina događaje uživo, Vraćanje izbrisanih grupe, koristite dinamički grupno članstvo, automatsko arhiviranje i pristup deljenim resursima, kao što je Sharepoint, OneNote i planer.
+* **Office 365 grupe** su deljeni radni prostor za e-poštu, razgovore, datoteke i događaje u kojima članovi grupe mogu da sarađuju. Zahvaljujući mreži Yammer, Office 365 grupe imaju mnogo prednosti nad grupama koje nisu povezane sa mrežom Yammer. Na primer, možete da kreirate i hostiramo Live događaje, vratite izbrisane grupe, koristite dinamičko članstvo u grupi, automatsko arhiviranje i pristupite deljenim resursima kao što su SharePoint, OneNote i planer.
 
-* Reci ako Yammer grupu povezan sa Office 365 grupama kada ti odeljak **Office 365 resurse** (Sharepoint, OneNote, planer) u pravu za navigaciju u grupi. Ako resursi nisu dostupni, proverite sledeće.
+* Možete da znate da li je grupa Yammer povezana sa Office 365 grupama kada vidite odeljak **office 365 resursa** (SharePoint, OneNote, planer) u desnoj navigaciji grupe. Ako resursi nisu dostupni, proverite sledeće:
 
-  1. Yammer mreža mora biti u konfiguraciji mreže 1 stanar: 1. da biste potvrdili da ste u konfiguraciji 1:1, koristite **Alatka za migraciju mreže** kao što je opisano u [mrežni migracije - konsolidujete više mreža Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Mreža Yammer mora da bude jedna od 1 tenanta: 1 mrežna konfiguracija. da biste proverili da li se nalazite u konfiguraciji 1:1, koristite **alatku za migraciju mreže** kao što je opisano u [migracijama mreže-konsolidovanje više mreža na mreži Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. Potražite **mrežni Admin, postavke bezbednosti**i uverite se da se **Office 365 identitet** nameće za Yammer korisnike.
+  2. Potražite **administratora mreže, bezbednosnu postavku**i uverite se da se **Office 365 identitet** primenjuje za korisnike mreže Yammer.
 
-Za više informacija o Office 365 grupe i Yammer, molim vas pogledajte [Yammer i office 365 grupe](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Informacije o upravljanju grupa potražite u [Upravljanje grupama za Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Za više informacija o Office 365 grupama i Yammer, pogledajte odeljak [Yammer i Office 365 grupe](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Za informacije o upravljanju grupom pogledajte odeljak [Upravljanje grupom na mreži Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
