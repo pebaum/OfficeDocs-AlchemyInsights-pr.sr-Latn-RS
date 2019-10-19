@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754494"
 ---
 # <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Unutrašnja greška servera prilikom kretanja na SharePoint ili OneDrive lokacije
@@ -22,7 +22,7 @@ Prilikom pokušaja da se kreću do SharePoint ili OneDrive lokacija, korisnici m
 Pokušajte da obrišete keš za pregledač pre nego što se krećete na lokaciju.
 
 
-1. U pregledaču Microsoft Edge posetite lokaciju više... _ Gt_ postavke
+1. U pregledaču Microsoft Edge idite na više... > postavke
 
 2. U okviru stavke Obriši podatke o pregledanju izaberite stavku **Izaberi šta da obrišete**
 
