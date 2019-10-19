@@ -1,5 +1,5 @@
 ---
-title: Dynamics CRM Uvoz rešenja
+title: Dynamics CRM uvozni rešenja
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.custom:
 - "1078"
 - "6200003"
 ms.openlocfilehash: 0c705cda207c7696840a2cb1c773c643c60814b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528457"
 ---
-# <a name="dynamics-crm-import-solutions"></a>Dynamics CRM Uvoz rešenja
+# <a name="dynamics-crm-import-solutions"></a>Dynamics CRM uvozni rešenja
 
-* [Rešenje nije moguće izbrisati zbog zavisnosti](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
+* [Nije moguće izbrisati rešenje zbog zavisnih elemenata](https://support.microsoft.com/help/4345785/solution-cannot-be-deleted-due-to-dependencies-from-other-components-i)
 
-* [Greška u verziji skupština Uvoz rešenja](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
+* [Greška verzije asemblera Uvoz rešenja](https://support.microsoft.com/help/4345239/assembly-version-error-importing-dynamics-365-solution)
 
-* [Nije uspeo izvoz greška poslovnog procesa](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
+* [Izvoz greške poslovnog procesa nije uspeo](https://support.microsoft.com/help/4337537/invalid-export-business-process-entity-missing)
 
-* [Rešenje instalaciju ili uklanjanje nije uspelo zbog instalaciju ili uklanjanje drugo rešenje u isto vreme](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
+* [Instalacija ili uklanjanje rešenja nisu uspele zbog instalacije ili uklanjanja drugog rešenja u isto vreme](https://support.microsoft.com/help/4343228/the-solution-installation-or-removal-failed-due-to-the-installation-or)
 
-* [Instaliranje, ažuriranje ili uklanjanje preferirani rešenje](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
+* [Instaliranje, ažuriranje ili uklanjanje željenog rešenja](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution)
   

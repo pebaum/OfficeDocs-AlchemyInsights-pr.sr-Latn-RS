@@ -1,5 +1,5 @@
 ---
-title: Nivoi dozvola SharePoint Online
+title: Nivoi dozvola za SharePoint online
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534901"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Nivoi dozvola SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>Nivoi dozvola za SharePoint online
 
-SharePoint ide uz neke podrazumevani nivoi dozvola koje možete koristiti, kao što su doprinos i prikaz samo. Ako oni ne zadovoljavaju vaše potrebe, možete da kreirate nivoe dodatne dozvole. To je najlakši za praćenje dozvole ako ne uredite ili izbrišete podrazumevani nivoi, a ako ste dodati ljude u grupe i dodeliti nivoe dozvola da te grupe, umjesto dodeljivanja nivoa dozvola za pojedinačne korisnike.
+SharePoint sadrži neke podrazumevane nivoe dozvola koje možete da koristite, kao što su doprinošenje i prikaz. Ako ne zadovoljavaju vaše potrebe, možete da kreirate dodatne nivoe dozvola. Najlakše je pratiti dozvole ako ne uredite ili izbrišete podrazumevane nivoe, a ako dodate osobe grupama i dodelite nivoe dozvola tim grupama, umesto da pojedinačnim korisnicima dodeljujete nivoe dozvola.
   
 - [Razumevanje nivoa dozvola](https://go.microsoft.com/fwlink/?linkid=867071)
     

@@ -1,5 +1,5 @@
 ---
-title: Delite datoteku OneDrive ili SharePoint sa spoljnim korisnicima
+title: Deljenje OneDrive ili SharePoint datoteke sa spoljnim korisnicima
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549629"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Delite OneDrive ili SharePoint datoteku ili fasciklu sa spoljnim korisnicima
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Deljenje OneDrive ili SharePoint datoteke ili fascikle sa spoljnim korisnicima
 
-1. U pregledaču, idite na datoteku ili fasciklu koju želite da delite, izaberite ga i zatim kliknite na dugme **deli**.
+1. U pregledaču idite do datoteke ili fascikle koju želite da delite, izaberite je, a zatim kliknite na dugme **deli**.
     
-2. U dijalogu slanje vezu, kliknite na strelicu nadole da promenite vrstu veze.
+2. U okviru za dijalog "Slanje veze" kliknite na strelicu nadole da biste promenili tip veze.
     
-3. Pod **koji želite li ovu vezu za**izdvajanje **nikome** ako želite da primaoci moći dijeliti vezu ili **određenim osobama** da daju pristup samo ljudi te navesti. 
+3. Pod **kim biste želeli da ova veza**radi, izaberite stavku " **Svi** " Ako želite da primaoci budu u mogućnosti da dele vezu ili **određene osobe** da bi im dali pristup samo osobama koje ste precizirali. 
     
-    Ako te opcije nisu dostupne, morate biti sigurni da im je dozvoljeno za vašu organizaciju, kao i za kolekciju lokacija. Da biste to učinili, vidim [pretvoriti spoljni Uključivanje ili isključivanje deljenja za SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    Ako ove opcije nisu dostupne, potrebno je da se uverite da su dozvoljene za vašu organizaciju i za kolekciju lokacija. Da biste to uradili, pogledajte odeljak [Uključivanje ili isključivanje spoljne deljenja za SharePoint online](https://go.microsoft.com/fwlink/?linkid=866426).
     
-4. Kliknite da **biste primenili**.
+4. Kliknite na dugme **Primeni**.
     
-5. Unesite imena osoba koje želite da delite sa, a zatim kliknite na dugme **Pošalji**.
+5. Unesite imena osoba sa kojima želite da delite, a zatim kliknite na dugme " **Pošalji**".
     
 

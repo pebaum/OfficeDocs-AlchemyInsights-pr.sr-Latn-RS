@@ -1,5 +1,5 @@
 ---
-title: Vraćanje prethodne verzije datoteke
+title: Vraćanje prethodne verzije datoteke u prethodno stanje
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552365"
 ---
-# <a name="restore-a-previous-file-version"></a>Vraćanje prethodne verzije datoteke
+# <a name="restore-a-previous-file-version"></a>Vraćanje prethodne verzije datoteke u prethodno stanje
 
-Online verzija istorije, možete videti i da vratite stare verzije datoteka u OneDrive ili SharePoint. Istorija verzija radi sa sve tipove datoteka, uključujući PDF-datoteka, CAD datoteke, fotografije i video zapise. Da biste vratili prethodnu verziju datoteke:
+Pomoću istorije verzija na mreži možete da vidite i vratite starije verzije datoteka u usluzi OneDrive ili SharePoint. Istorija verzija funkcioniše sa svim tipovima datoteka, uključujući PDFs, CAD datoteke, fotografije i video zapise. Da biste vratili prethodnu verziju datoteke:
   
-1. Otvorite SharePoint biblioteke dokumenata ili OneDrive lokaciju.
+1. Otvorite SharePoint biblioteku dokumenata ili OneDrive lokaciju.
     
-2. Sa leve strane datoteku da biste ga izabrali, a zatim kliknite na dugme **Istorija verzija**. Ako ne vidite istoriju verzija na komandnoj traci, kliknite na više ( **...** ). 
+2. Kliknite sa leve strane datoteke da biste je izabrali, a zatim izaberite stavku **Istorija verzija**. Ako na komandnoj traci ne vidite istoriju verzija, izaberite stavku više ( **...** ). 
     
-3. Kliknite na verziju koju želite da prikažete, ili kliknite više ( **...** ) sa desne strane verziju a zatim **vratite u prethodno stanje**.
+3. Kliknite na verziju koju želite da prikažete ili kliknite na dugme više ( **...** ) sa desne strane verzije, a zatim izaberite stavku **Vrati u prethodno stanje**.
     
 

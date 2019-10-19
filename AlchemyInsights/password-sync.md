@@ -1,5 +1,5 @@
 ---
-title: Kako da proverite Status sinhronizacije lozinku
+title: Kako proveriti status sinhronizacije lozinke?
 ms.author: pebaum
 author: pebaum
 ms.date: 12/5/2017
@@ -15,24 +15,24 @@ search.appverid:
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
 ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36555391"
 ---
-# <a name="enable-password-sync"></a>Omogući sinhronizaciju lozinku
+# <a name="enable-password-sync"></a>Omogući sinhronizaciju lozinke
 
-1.  Odaberite **DirSync Status** na matičnoj stranici Microsoft 365 administrativni centar. 
+1.  Odaberite **status "Dirsync** " na matičnoj stranici Microsoft 365 admin Center. 
     
-     *Alternativno, možete posetiti **Korisnici** \> **aktivnog korisnika**, a na stranici aktivnog korisnika, odaberite **više** \> **Sinhronizacija direktorijuma.*** 
+     *Pored toga, možete da odete **korisnicima** \> **aktivnim korisnicima**i na stranici "aktivni korisnici" odaberete **više** \> **sinhronizacije direktorijuma.*** 
     
-2. Na oknu sinhronizacija direktorijuma, odaberite **u DirSync upravljanja**. 
+2. U oknu za sinhronizaciju direktorijuma izaberite stavku **Idi na "Upravljanje prljavim sinhronizacijom**". 
     
-3. Sada videćete svoj status, i izvršite promene:
+3. Sada ćete videti svoj status i izvršiti promene:
     
-    **Lozinku za sinhronizaciju omogućen:** (True ili False). Određuje da li imate lozinku za sinhronizaciju omogućen između lokalne i Office 365 podstanara. 
+    **Omogućena je sinhronizacija lozinke:** (TRUE ili FALSE). Navodi da li imate omogućenu sinhronizaciju lozinke između vas i vaše Office 365 tenanta. 
     
-    **Sinhronizovano lozinku:** (Poslednji put vodio lozinku za sinhronizaciju). Ovo će prikazati upozorenje i vezu da alatka za rešavanje problema ako poslednje sinhronizacije je pre više od tri dana. 
+    **Poslednja sinhronizacija lozinke:** (vreme poslednje sinhronizacije lozinke). Ovo će prikazati upozorenje i vezu ka alatki za rešavanje problema ako je poslednja sinhronizacija bila pre više od tri dana. 
     
 

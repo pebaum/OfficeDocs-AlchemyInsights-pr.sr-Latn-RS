@@ -1,5 +1,5 @@
 ---
-title: Promena lozinke
+title: Promenite lozinku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - 0bd18328-35e4-4e4a-94c3-48430e8e2e77
 ms.openlocfilehash: 9abc97379dc153956e8cf3ce59ddb046623b85d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496430"
 ---
 # <a name="change-your-password-in-outlook"></a>Promena lozinke u programu Outlook
 
-Ako ste zaboravili svoju lozinku, idite na [Microsoft nalog stranicu za poništavanje lozinke](https://go.microsoft.com/fwlink/p/?linkid=841909). U suprotnom, pratite uputstva ispod.
+Ako ste zaboravili lozinku, idite na stranicu za [Poništavanje lozinke Microsoft naloga](https://go.microsoft.com/fwlink/p/?linkid=841909). U suprotnom, sledite dolenavedena uputstva.
   
-1. Izaberite svoje ime ili profil sliku u gornjem desnom uglu i izaberite **Prikaz naloga**.
-2. Pod Zdravo! Reklamni natpisi, potvrdite **Promeni lozinku**.
-3. Odaberite novu lozinku i izaberite **Sačuvaj**.
+1. Izaberite svoje ime ili sliku profila u gornjem desnom uglu i izaberite stavku " **Prikaži nalog**".
+2. Pod naslovom Hello! reklamni natpis, izaberite stavku **Promeni lozinku**.
+3. Odaberite novu lozinku i kliknite na dugme **Sačuvaj**.
 
-Da biste saznali više, pogledajte [Promeni lozinku za Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).
+Da biste saznali više, pogledajte odeljak [Promena lozinke u Outlook.com](https://support.office.com/article/2138d690-811c-4545-b2f3-e4dbe80c9735.aspx).

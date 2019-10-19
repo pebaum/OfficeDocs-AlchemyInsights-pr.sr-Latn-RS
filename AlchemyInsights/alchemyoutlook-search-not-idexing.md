@@ -1,5 +1,5 @@
 ---
-title: Alhemija - Outlook pretrage ne idexing
+title: Alhemy-Outlook Search ne odekanje
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
 ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505845"
 ---
-# <a name="outlook-search-not-indexing"></a>Outlook pretrage ne indeksiranja
+# <a name="outlook-search-not-indexing"></a>Outlook pretraga ne indeksira
 
-Svesni smo Outlook pretragu pitanja vezanih za nedavni bezbednosnih ispravki za Windows.
+Svesni smo da Outlook Search ima problema u vezi sa nedavnim bezbednosnim ispravkama za Windows.
   
-Prilikom pretraživanja u programu Outlook, možda dobijete jednu od ovih grešaka: **nešto je krenulo naopako i mogao dovršiti pretraživanje**ili **Rezultati pretrage možda biti nepotpuni jer se stavke još indeksiraju**. Fix je izdat kao opcionalna ispravka operativnog sistema Windows. Instalirajte ta koja odgovara na verziju operativnog sistema Windows se pojavljuje ovaj problem na: 
+Kada pretražujete u programu Outlook, možete da dobijete neku od ovih grešaka: **nešto nije u redu i vaša pretraga nije mogla biti dovršena**, ili **Rezultati pretrage mogu biti nepotpuni jer se stavke još uvek indeksiraju**. Popravka je izdata kao opcionalna ispravka za Windows. Instalirajte onaj koji odgovara verziji operativnog sistema Windows na koju vidite ovaj problem: 
   
-> [Windows 7 - 27 juna 2017 ažuriranje](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7-jun 27, 2017 Update](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Ažuriranje za Windows 8.1 - 27 juna 2017](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1-jun 27, 2017 Update](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Verzija Windows 10 1703 - 27 juna 2017 ažuriranja](https://support.microsoft.com/kb/4022716.aspx)
+> [Windows 10 verzija 1703-jun 27, 2017 Update](https://support.microsoft.com/kb/4022716.aspx)
     
-Za najnovije informacije, pogledajte članak: [Outlook poznati problemi u junu 2017 bezbednosnih ispravki](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) pitanje #5. 
+Za najnovije informacije pogledajte članak: [poznati problemi sa Outlookom u junu 2017 problem sa bezbednosnim ispravkama](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) #5. 
   
 

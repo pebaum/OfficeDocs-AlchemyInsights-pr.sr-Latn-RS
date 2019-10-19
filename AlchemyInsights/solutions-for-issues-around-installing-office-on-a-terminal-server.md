@@ -1,5 +1,5 @@
 ---
-title: Rešenja za probleme oko instaliranja sistema office na Terminal serveru
+title: Rešenja za probleme oko instaliranja sistema Office na Terminal serveru
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501489"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rešenja za probleme oko instaliranja sistema office na Terminal serveru
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Rešenja za probleme oko instaliranja sistema Office na Terminal serveru
 
-Da biste koristili deljeni računar aktivaciju, morate imati plan za Office 365 koji uključuje Office 365 ProPlus.
+Za korišćenje deljenog aktiviranja računara morate imati Office 365 plan koji uključuje Office 365 ProPlus.
   
-- Da li deljeni računar aktivacija omogućena za Office 365 ProPlus
+- Proverite da li je aktivacija deljenog računara omogućena za Office 365 ProPlus
     
-- Uverite se da je aktivacija za Office 365 ProPlus uspela
+- Proverite da li je aktivacija za Office 365 ProPlus uspela
     
-- Pregledajte poruke o greškama za aktivaciju deljeni računar:
+- Pregledajte poruke o greškama za aktivaciju deljenog računara:
     
-  - „Proizvoda koji smo našli u vaš račun ne može koristiti za aktiviranje sistema Office u deljeni računar scenarija”
+  - "Proizvodi koje smo pronašli u vašem nalogu ne mogu se koristiti za aktiviranje sistema Office u deljenim računarskim scenarijima"
   
-Ova greška znači da imate plan za Office 365 koji uključuje Office 365 ProPlus.
+Ova greška znači da nemate Office 365 plan koji uključuje Office 365 ProPlus.
     
-  - „Nelicencirane proizvoda”
+  - "Nelicenciran proizvod"
     
-  - Potvrdu da je korisnik dodeljen licencu za Office 365 ProPlus.
+  - Proverite da li je korisniku dodeljena licenca za Office 365 ProPlus.
     
-  - Proverite da je korisnik potpisuje sa njenom korisnički račun za Office 365
+  - Proverite da li se korisnik prijavljuje sa svojim korisničkim nalogom za Office 365
     
-  - Proverite da li postoji povezanost između deljenog računara i interneta.
+  - Proverite da li postoji mogućnost povezivanja između deljenog računara i interneta.
     
-Za druge savjeti, molim vas pogledajte: [Rešavanje problema sa aktivacija deljenih računara za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+Za druge savete za rešavanje problema pogledajte: [Rešavanje problema sa aktivacijom deljenog računara za Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

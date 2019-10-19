@@ -1,5 +1,5 @@
 ---
-title: '8000016: kako da izbrišete fasciklu'
+title: '8000016: brisanje fascikle'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556543"
 ---
 # <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Kako da izbrišete fasciklu u programu Outlook na Webu
 
-1. U oknu fascikle, kliknite desnim tasterom miša na fasciklu ili potfasciklu koju želite da izbrišete.
-2. Potvrdite **Brisanje fascikle**.
-3. Izaberite **OK** da biste potvrdili.
+1. U oknu sa fasciklama kliknite desnim tasterom miša na fasciklu ili potfasciklu koju želite da izbrišete.
+2. Izaberite stavku **Izbriši fasciklu**.
+3. Izaberite **OK** da potvrdite.
 
-Da biste saznali više, vidim [rad sa fascikle za poruke u programu Outlook na Webu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Više informacija potražite u članku [rad sa fasciklama sa porukama u programu Outlook na vebu](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

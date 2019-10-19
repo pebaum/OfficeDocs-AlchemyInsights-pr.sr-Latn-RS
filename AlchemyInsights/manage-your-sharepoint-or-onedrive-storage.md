@@ -1,5 +1,5 @@
 ---
-title: Upravljanje SharePoint ili OneDrive za skladištenje
+title: Upravljanje SharePoint ili OneDrive skladištem
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497097"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Upravljanje SharePoint ili OneDrive za skladištenje
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Upravljanje SharePoint ili OneDrive skladištem
 
- **SharePoint na mreži**
+ **SharePoint online**
   
-Za većinu organizacija, SharePoint skladišta se upravlja automatski tako da ne morate da postavite ograničenja po kolekciji lokacija. Da biste proverili koliko prostora za skladištenje SharePoint imate:
+Za većinu organizacija SharePoint prostor za skladištenje se automatski upravlja tako da ne morate da postavljate ograničenja po kolekciji lokacija. Da biste proverili koliko SharePoint prostora za skladištenje imate:
   
-- U novu SharePoint admin centru, na gornjem redu na stranici "lokacije", potražite dostupne i ukupan prostor za skladištenje.
+- U novom SharePoint administratoru centra, u gornjem desnom uglu stranice "lokacije" potražite raspoloživo i ukupno skladište.
     
-Info o kako se izračunava svoj limit, potražite [SharePoint Online ograničenja](https://go.microsoft.com/fwlink/p/?LinkID=856113). Kupiti dodatni prostor za skladištenje, vidim [Promena prostora za skladištenje za svoju pretplatu](https://go.microsoft.com/fwlink/?linkid=866428).
+Za informacije o tome kako se izračunava ograničenje, pogledajte [SharePoint ograničenja na mreži](https://go.microsoft.com/fwlink/p/?LinkID=856113). Da biste kupili dodatni skladišni prostor, pogledajte odeljak [Promena prostora za skladištenje pretplate](https://go.microsoft.com/fwlink/?linkid=866428).
   
  **OneDrive**
   
-Da biste promenili podrazumevano skladište za nove i postojeće korisnike OneDrive:
+Da biste promenili podrazumevano skladište za nove i postojeće OneDrive korisnike:
   
-- Idite na [stranice za skladištenje OneDrive admin centra](https://admin.onedrive.com/?v=StorageSettings)i unos novog iznosa u GB.
+- Idite na [stranicu skladišta u usluzi OneDrive admin Center](https://admin.onedrive.com/?v=StorageSettings)i unesite novi iznos u GB.
     
-Provjeriti koliko prostora za skladištenje koristite u svojim OneDrive, vidim [Upravljanje tvoj OneDrive za poslovni prostor za skladištenje](https://go.microsoft.com/fwlink/?linkid=866429). Info o skladišta koja dolazi uz svaki plan, potražite [OneDrive za poslovne usluge opis](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+Da biste proverili koliko prostora za skladištenje koristite u usluzi OneDrive, pogledajte odeljak [Upravljanje OneDrive za skladištenje poslovnih prostora](https://go.microsoft.com/fwlink/?linkid=866429). Za informacije o skladištu koje dobijate uz svaki plan pogledajte odeljak [OneDrive za opis poslovnog servisa](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

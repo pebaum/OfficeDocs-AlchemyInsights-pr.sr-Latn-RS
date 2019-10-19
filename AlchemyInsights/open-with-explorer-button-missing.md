@@ -1,5 +1,5 @@
 ---
-title: Otvori pomoću programa Explorer dugme nedostaje
+title: Nema dugmeta "Otvori pomoću programa Explorer"
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543075"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>Nestala je na otvorenom sa Explorer dugme
+# <a name="the-open-with-explorer-button-is-missing"></a>Nedostaje dugme "Otvori pomoću programa Explorer"
 
-Dugme " **Otvori pomoću programa Explorer** " se ne pojavljuje u modernom iskustvo SharePoint i OneDrive. Da biste otvorili biblioteku dokumenata u datoteku programa Explorer, potražite je u programu Internet Explorer i izaberite meni prikaz \> **prikaz u datoteku programa Explorer**. Opciju **prikaza u datoteku programa Explorer** nije dostupna u programu Microsoft Edge, Google Chrome ili Firefox. 
+Dugme " **Otvori pomoću programa Explorer** " ne pojavljuje se u modernom iskustvu sistema SharePoint i OneDrive. Da biste otvorili biblioteku dokumenata u istraživaču datoteka, potražite je u programu Internet Explorer, a zatim \> **u istraživaču datoteka izaberite prikaz**menija "Prikaz". Opcija " **Prikaži u istraživaču datoteka** " nije dostupna u aplikaciji Microsoft Edge, Google hrom ili Firefox. 
   
 > [!NOTE]
-> Otvoriti pomoću programa Explorer je podržan samo putem programa Internet Explorer. Umesto toga, [sinhronizujete datoteke SharePoint sa novom klijentu sinhronizaciju OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji omogućava [Datoteke na zahtjev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite sve vaše datoteke na OneDrive bez upotrebe lokalne skladišni prostor. 
+> Otvaranje pomoću programa Explorer podržava samo Internet Explorer. Umesto toga, [sinhronizujte SharePoint datoteke pomoću novog OneDrive klijenta za sinhronizaciju](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) koji obezbeđuje [datoteke na zahtev](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Pristupite svim datotekama u usluzi OneDrive bez korišćenja lokalnog prostora za skladištenje. 
   
 

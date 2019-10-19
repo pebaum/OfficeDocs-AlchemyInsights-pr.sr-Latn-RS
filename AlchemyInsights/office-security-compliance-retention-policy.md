@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753774"
 ---
 # <a name="more-info-about-retention-policies"></a>Više informacija o smernicama za zadržavanje
@@ -26,13 +26,13 @@ Za većinu organizacija obim i kompleksnost podataka se povećava dnevno-e-pošt
 
 ## <a name="a-from-security-and-compliance-center"></a>A) iz centra za bezbednost i usaglašenost
 
-- Idi na bezbednost i usaglašenost _ Gt_upravljanje podacima _ Gt_ zadržavanje podataka
+- Idi na bezbednost i usaglašenost > upravljanje podacima > zadržavanje
   - Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/retention-policies) članak
 
-- Posetite lokaciju bezbednost i usaglašenost _ Gt_ eDiscovery> Advanced eDiscovery 
+- Posetite lokaciju bezbednost i usaglašenost > eDiscovery> Advanced eDiscovery 
   - Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) članak
 
-- Idi na bezbednost i usaglašenost _ Gt_ klasifikovanje > zadržavanja
+- Posetite lokaciju bezbednost i usaglašenost > klasifikovanje > zadržavanje
   - Pogledajte ove članke
     - [Oznake osetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Pregled nalepnica](https://docs.microsoft.com/office365/securitycompliance/labels)

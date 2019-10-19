@@ -1,5 +1,5 @@
 ---
-title: Dozvole za prenošenje
+title: Nasleđivanje dozvola
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554972"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kako funkcioniše nasleđivanje dozvole u SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kako funkcioniše nasleđivanje dozvola u sistemu SharePoint?
 
-Podrazumevano, dozvole u SharePoint se prenose sa visine u hijerarhiji. Tako je datoteku nasleđuje svoje dozvole iz fascikle, koji se nasleđuje svoje dozvole od biblioteke, koji se nasleđuje svoje dozvole od lokacije, koji se nasleđuje svoje dozvole od kolekcija lokacija.
+Podrazumevano, dozvole u sistemu SharePoint su nasleđene od višeg u hijerarhiji. Zato datoteka nasleđuje dozvole iz fascikle koja nasleđuje dozvole iz biblioteke, što nasleđuje dozvole od lokacije, što nasleđuje dozvole iz kolekcije lokacija.
   
-Za informacije o uklanjanju jedinstvene dozvole i vraćanju nasledstvo, pogledajte [Uređivanje i Upravljanje dozvolama za listu ili biblioteku](https://go.microsoft.com/fwlink/?linkid=869946).
+Informacije o uklanjanju jedinstvenih dozvola i vraćanju nasleđivanja potražite [u članku uređivanje dozvola za listu ili biblioteku](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Ne može da pročita Outlook.com email u Google Chrome sa AdBlock
+title: Ne mogu da čitam Outlook.com e-poštu u Google Chrome sa AdBlock-om
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537673"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Ne može da čita mail u Google Chrome sa AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Ne mogu da čitam e-poštu u Google Chrome sa AdBlock-om
 
-Ako mogu da čitate ili pišete e-pošte kada koristite Google Chrome sa oznakom tipa datoteke AdBlock:
+Ako ne možete da čitate ili pišete e-poštu kada koristite Google Chrome sa ekstenzijom za AdBlock:
 
-- Koristite [Microsoft ivice](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ili neki drugi web pregledač.
-- Izuzmi Outlook.com iz AdBlock postavke. U gornjem desnom uglu Google Chrome, izaberite **AdBlock** a zatim **ne pokrene na stranicama u ovom domenu**. Osvežite pregledač da biste ponovo učitali Outlook.com.
+- Koristite [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ili neki drugi Web pregledač.
+- Izuzmi Outlook.com iz postavki AdBlock. U gornjem desnom uglu Google Chrome izaberite **Adblock** , a zatim izaberite opciju **ne Pokreni se na stranicama na ovom domenu**. Osvežite pregledač da biste ponovo učitali Outlook.com.

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com personalizovane email adresa nije slanja ili primanja
+title: Outlook.com personalizovana e-adresa ne šalje ili prima
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545885"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moj personalizovani Outlook.com e-adresa nije slanja ili primanja
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moja personalizovana Outlook.com e-adresa ne šalje ili prima
 
-Izaberite ikonu na traci sa alatkama da biste otvorili kontrolne table premium dijamant.
+Izaberite ikonu "dijamantska" na traci sa alatkama da biste otvorili Premium kontrolnu tablu.
 
-Ako ne vidite ikonu sa dijamant u prijemnom (i vidite reklame), to znači da Office 365 pretplata je istekla. Idite na [https://account.microsoft.com/services](https://account.microsoft.com/services) da ponovo aktivirate pretplatu, zatim ponovo povežite vašeg domena, koristite korake u „Početak”.
+Ako ne vidite ikonu "dijamantski" u prijemnom poštanskom sandučetu (a vi vidite oglase), to znači da je vaša pretplata na Office 365 istekla. Idite da [https://account.microsoft.com/services](https://account.microsoft.com/services) biste ponovo aktivirali pretplatu, a zatim ponovo priključite vaš domen pomoću koraka u okviru opcije "Započni".
 
-Ako karticu „Personalized email adresa” ima crvenu statusnu traku, vašeg domena je možda istekla.
+Ako kartica "personalizovana e-adresa" ima crvenu statusnu traku, moguće je da je domen istekao.
 
-Pročitajte više korake za rešavanje problema na [personalizovanih e-adrese u Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Pročitajte više koraka za rešavanje problema na [personalizovanim e-adresama u sistemu Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

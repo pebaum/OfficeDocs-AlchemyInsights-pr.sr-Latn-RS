@@ -13,10 +13,10 @@ ms.custom:
 - "9000144"
 - "1670"
 ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738103"
 ---
 # <a name="workflow-is-not-starting"></a>Tok posla ne počinje
@@ -42,7 +42,7 @@ ms.locfileid: "36738103"
         Više informacija: [Očisti istoriju toka posla](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
-## <a name="related-topics"></a>Povezane teme
+## <a name="related-topics"></a>Srodne teme
 Želite li da isprobate Microsoft protok na SharePoint mreži?
 - [Kreiraj tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i protok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 

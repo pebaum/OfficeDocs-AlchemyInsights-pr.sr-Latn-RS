@@ -1,5 +1,5 @@
 ---
-title: Vraćanje izbrisanih lokacije
+title: Vraćanje izbrisane lokacije u prethodno stanje
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
 ms.openlocfilehash: 9e4e9ade058c60ecd7a6ce1b2a40c4996ac5676f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552492"
 ---
-# <a name="restore-a-deleted-site"></a>Vraćanje izbrisanih lokacije
+# <a name="restore-a-deleted-site"></a>Vraćanje izbrisane lokacije u prethodno stanje
 
-Kada je admin briše lokaciji, smještena je u kolekciji lokacija korpa za otpatke, gde se on nalazi na 93 dana pre nego što ga se trajno brišu. Da biste se vratili na lokaciju:
+Kada administrator izbriše lokaciju, ona se smešta u korpu za otpatke kolekcije lokacija, gde se čuva već 93 dana pre nego što se trajno izbriše. Da biste vratili lokaciju u prethodno stanje:
   
-1. U novu SharePoint admin centru, na glavnoj traci kliknite na **Otpatke** . 
+1. U novom SharePoint administratoru centra izaberite stavku **Korpa za otpatke** na glavnoj traci. 
     
-2. Potvrdite izbor u polju za potvrdu pored kolekciju lokacija u prethodno stanje.
+2. Potvrdite izbor u polju za potvrdu pored kolekcije lokacija koju želite da vratite u prethodno stanje.
     
-3. Izaberite stavku **oporavak izbrisanih stavki**.
+3. Kliknite na **obnovi izbrisane stavke**.
     
-Vraćanje izbrisanih komunikacije lokacije, možete da koristite novi SharePoint admin centar. U suprotnom, morate koristiti Microsoft PowerShell. Da biste se vratili na lokaciju koja pripada grupi programa Office 365, potrebno je da vratite grupi u centru za administratora Exchange servera. Grupe možete vratiti u prethodno stanje za 30 dana, nakon što su izbrisane.
+Da biste vratili izbrisanu komunikacionu lokaciju, možete koristiti novi SharePoint admin Center. U suprotnom, treba da koristite Microsoft PowerShell. Da biste vratili lokaciju koja pripada Office 365 grupi, potrebno je da vratite grupu u prethodno stanje u Exchange admin Center. Grupe se mogu obnoviti na 30 dana nakon brisanja.
   
 

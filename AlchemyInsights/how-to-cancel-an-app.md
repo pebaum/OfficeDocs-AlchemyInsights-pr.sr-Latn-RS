@@ -1,5 +1,5 @@
 ---
-title: Kako se otkazuje aplikaciju
+title: Kako otkazati aplikaciju
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542133"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Kako se otkazuje softver kao usluga apps. 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Kako da otkažete aplikacije za softver kao što je usluga 
 
-1. U centru za Microsoft 365 za admin, da u **obračunu** > [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. U Microsoft 365 admin Center, na stranicu "proizvodi za **naplatu** > [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) ", a zatim odaberite karticu " **aplikacije** ".
 
-2. Pronađite i izaberite aplikaciju kojom želite da upravljate.
+2. Pronađite i izaberite aplikaciju u kojoj želite da upravljate.
 
-3. Pod **Postavke & radnje**, izaberite **Otkaži pretplatu**.
+3. U okviru **postavke & radnje**izaberite **Otkaži pretplatu**.

@@ -1,5 +1,5 @@
 ---
-title: Ograničenja i velike datoteke u SharePoint
+title: Ograničenja i velike datoteke u sistemu SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497601"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje nije moguće otpremiti SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Datoteke koje se ne mogu otpremiti na SharePoint online
 
-Ako datoteku ne otpremim na SharePoint Online, uverite se da:
+Ako datoteka neće da se otpremi na SharePoint online, uverite se:
   
-- To je manje od 15 GB u veličini.
+- Veličina je manja od 15 GB.
     
-- Celu putanju, uključujući ime datoteke je manje od 400 znakova.
+- Celokupna putanja, uključujući i ime datoteke, iznosi manje od 400 znakova.
     
-- Ime datoteke ne sadrže znakove " \* : \< \> ? / \ | i nije na listi [nevažeća](https://go.microsoft.com/fwlink/?linkid=866430)imena.
+- Ime datoteke ne sadrži znakove " \* :? \< \> / \ | i nije na listi [nevažećih imena](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Ako pokušavate da otpremite datoteku koristeći aplikaciju OneDrive na radnoj površini, vidim [ograničenja i ograničenja kada vršite sinhronizaciju datoteka i fascikli](http://go.microsoft.com/fwlink/p/?LinkID=717734) ili [popraviti OneDrive sinhronizacijom](https://go.microsoft.com/fwlink/?linkid=866431).
+Ako pokušavate da otpremite datoteku korišćenjem aplikacije OneDrive radne površine, pogledajte [ograničenja i ograničenja kada sinhronizujete datoteke i fascikle](http://go.microsoft.com/fwlink/p/?LinkID=717734) ili [popravite OneDrive probleme sa sinhronizacijom](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

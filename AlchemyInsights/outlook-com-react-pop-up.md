@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com reagovala sam uzrok smrti
+title: 8000091 Outlook.com da reaguje pop
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545489"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je spremna za primenu
+# <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je spreman za vreme
 
-Znamo da neki kupci mogu li da vidim iskačući prozor „Outlook.com je spreman za udarni termin” svaki put kad su za prijavljivanje, a mi radimo na fiks.
+Svesni smo da neki kupci mogu videti "Outlook.com je spreman za vreme" kada se svaki put prijavi, a mi radimo na popravni.
 
 Izvini zbog toga.
 
-[Saznajte više o novim Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Saznajte više o novom Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,5 +1,5 @@
 ---
-title: Povezivanje klasične lokaciju tima SharePoint grupi
+title: Povezivanje klasične SharePoint Team lokacije sa grupom
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504792"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Povezivanje klasične SharePoint timskih lokacija novi Office 365 grupama
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>Povezivanje klasičnih SharePoint Team lokacija sa novim Office 365 grupama
 
-Procenjivati da li će kolekcijama lokacija SharePoint su spremni za povezivanje sa Office 365 grupe, koristite [SharePoint modernizacija skener alat](https://go.microsoft.com/fwlink/?linkid=873066). Ove alatke mogu da ti pomognem da isplaniram tvoja strategija modernizacije lokacije i će kreirati na raport, uključujući i oblasti na koje treba obratiti pažnju.
+Da biste procenili da li su kolekcije SharePoint lokacija spremne za povezivanje sa Office 365 grupama, koristite [alatku za skeniranje SharePoint modernizacije](https://go.microsoft.com/fwlink/?linkid=873066). Ova alatka vam može pomoći da planirate strategiju modernizacije lokacije i da ćete kreirati detaljan izveštaj, uključujući i oblasti kojima je potrebna pažnja.
   
-Ako želite da dozvolite administratori kolekcije lokacija povezati klasični timskih lokacija iz nove komande menija dodajemo nove grupe, ne treba mi ništa uraditi. Ako, međutim, želite da onemogućite ovu opciju, moraćete da promenite podrazumevanu postavku. [Saznajte kako](https://go.microsoft.com/fwlink/?linkid=2004316). Napomena to globalno i SharePoint admini u Office 365 uvek moći će povezati lokacije pomoću PowerShell cmdlet ili API nove grupe.
+Ako želite da dozvolite administratorima kolekcije lokacija da povežu klasične timske lokacije sa novim grupama iz nove komande menija, mi dodajete, ne morate ništa da radite. Međutim, ako želite da onemogućite ovu opciju, biće potrebno da promenite podrazumevanu postavku. [Saznajte kako](https://go.microsoft.com/fwlink/?linkid=2004316). Imajte na umu da će globalni i SharePoint administratori u sistemu Office 365 uvek moći da povežu lokacije sa novim grupama pomoću PowerShell cmdda ili API.
   
 

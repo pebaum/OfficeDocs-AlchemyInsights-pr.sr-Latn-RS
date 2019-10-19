@@ -1,5 +1,5 @@
 ---
-title: Doživljava ponovio odzivnike lozinke u programu Outlook za Mac?
+title: U programu Outlook za Mac imate ponovljene upite o lozinkama?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/22/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
 ms.openlocfilehash: 7da849fbacbbc32272731cf5829b26437983af4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36526621"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Doživljava ponovio odzivnike lozinke u programu Outlook za Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>U programu Outlook za Mac imate ponovljene upite o lozinkama?
 
-Smo možete da obezbedite neki specijalizirani Outlook za Mac pomoć direktno iz aplikacije.
+Mi možemo da pružimo više specijalizovanih programa Outlook za Mac pomoć direktno iz aplikacije.
   
-Molim te, idi u pogođenim korisnika Mac, otvorite Outlook i kliknite na **pomoć** \> **Kontakt podrška**.
+Idite kod korisnikovog Mac-a, otvorite Outlook i kliknite na dugme " **pomoć** \> za **kontakt**".
   
-Da biste saznali više o korišćenju Outlook Mac-app podrška za korisnike, pogledajte ovaj članak: [novi kontakt podržavaju funkciju 2016 Outlook za Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
+Da biste saznali više o korišćenju programa Outlook za korisnike Mac in aplikacije, pogledajte ovaj članak: [nova funkcija za podršku kontaktima u programu Outlook 2016 za Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517.aspx)
   
 
