@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740155"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="7c1ba-102">550 5.7.501 zabranjen pristup, otkriveno je spam zloupotreba</span><span class="sxs-lookup"><span data-stu-id="7c1ba-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="f407f-102">550 5.7.501 zabranjen pristup, otkriveno je spam zloupotreba</span><span class="sxs-lookup"><span data-stu-id="f407f-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="7c1ba-103">Do ove poruke obično dolazi kada korisnici šalju e-poruke sa IP adresa koristeći početni *. onmicrosoft.com* domen koji je dodeljen novim zakupima u sistemu Office 365.</span><span class="sxs-lookup"><span data-stu-id="7c1ba-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="7c1ba-104">Najlakši način da rešite ovaj problem je da:</span><span class="sxs-lookup"><span data-stu-id="7c1ba-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="f407f-103">Do ove poruke obično dolazi kada korisnici šalju e-poruke sa IP adresa koristeći početni *. onmicrosoft.com* domen koji je dodeljen novim zakupima u sistemu Office 365.</span><span class="sxs-lookup"><span data-stu-id="f407f-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="f407f-104">Najlakši način da rešite ovaj problem je da:</span><span class="sxs-lookup"><span data-stu-id="f407f-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="7c1ba-105">[Dodajte domen vašem stanantu](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="7c1ba-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="f407f-105">[Dodajte domen vašem stanantu](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="f407f-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="7c1ba-106">[Promenite primarnu e-adresu korisnika](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) u novi prilagođeni domen koji ste upravo dodali.</span><span class="sxs-lookup"><span data-stu-id="7c1ba-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="f407f-106">[Promenite primarnu e-adresu korisnika](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) u novi prilagođeni domen koji ste upravo dodali.</span><span class="sxs-lookup"><span data-stu-id="f407f-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>

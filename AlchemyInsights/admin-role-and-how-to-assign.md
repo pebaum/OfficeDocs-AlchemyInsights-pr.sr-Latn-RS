@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737098"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="99927-102">Šta su administratorske uloge i kako ih dodeljujete?</span><span class="sxs-lookup"><span data-stu-id="99927-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="2ac0a-102">Šta su administratorske uloge i kako ih dodeljujete?</span><span class="sxs-lookup"><span data-stu-id="2ac0a-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="99927-103">Izgleda da imate neka pitanja u vezi sa admin ulogama.</span><span class="sxs-lookup"><span data-stu-id="99927-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="99927-104">Ovi članci bi trebalo da odgovore na sva vaša pitanja.</span><span class="sxs-lookup"><span data-stu-id="99927-104">These articles should answer all your questions.</span></span>
+<span data-ttu-id="2ac0a-103">Izgleda da imate neka pitanja u vezi sa admin ulogama.</span><span class="sxs-lookup"><span data-stu-id="2ac0a-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="2ac0a-104">Ovi članci bi trebalo da odgovore na sva vaša pitanja.</span><span class="sxs-lookup"><span data-stu-id="2ac0a-104">These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="99927-105">Osnovni podaci o ulogama administratora</span><span class="sxs-lookup"><span data-stu-id="99927-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [<span data-ttu-id="2ac0a-105">Osnovni podaci o ulogama administratora</span><span class="sxs-lookup"><span data-stu-id="2ac0a-105">About admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [<span data-ttu-id="99927-106">Dodeljivanje administratorske uloge</span><span class="sxs-lookup"><span data-stu-id="99927-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [<span data-ttu-id="2ac0a-106">Dodeljivanje administratorske uloge</span><span class="sxs-lookup"><span data-stu-id="2ac0a-106">Assign admin roles</span></span>](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-<span data-ttu-id="99927-107">Niste odgovorili na pitanje?</span><span class="sxs-lookup"><span data-stu-id="99927-107">Didn't answer your question?</span></span> <span data-ttu-id="99927-108">nema problema!</span><span class="sxs-lookup"><span data-stu-id="99927-108">No problem!</span></span> <span data-ttu-id="99927-109">Koristite opciju "Hajde da vas zovemo" da biste pričali sa inženjerka za podršku.</span><span class="sxs-lookup"><span data-stu-id="99927-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="2ac0a-107">Niste odgovorili na pitanje?</span><span class="sxs-lookup"><span data-stu-id="2ac0a-107">Didn't answer your question?</span></span> <span data-ttu-id="2ac0a-108">nema problema!</span><span class="sxs-lookup"><span data-stu-id="2ac0a-108">No problem!</span></span> <span data-ttu-id="2ac0a-109">Koristite opciju "Hajde da vas zovemo" da biste pričali sa inženjerka za podršku.</span><span class="sxs-lookup"><span data-stu-id="2ac0a-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   
