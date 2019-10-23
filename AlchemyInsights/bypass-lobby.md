@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376813"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637791"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrola uvodnog postavljanja i nivoa učestvovanja
 
-Ove postavke kontrolišu koji učesnici sastanka čekaju u predvorju pre nego što budu primljeni na sastanak i nivo učešća koji su dozvoljeni na sastanku. Možete koristiti funkciju PowerShell da biste ažurirali postavke smernica za sastanke koje još uvek nisu primenjene (sa oznakom "dolazak uskoro") u okviru administratorskog centra timova.  Pogledajte niže na primer, fascikla PowerShell cmdtime koja omogućava svim korisnicima da zaobiđu lobiranje.  
+Ako želite da dozvolite svima, uključujući pozivne, spoljne i anonimne korisnike za zaobilaženje lobija, možete da koristite funkciju PowerShell da biste to uradili. Evo primera menjanja globalnih smernica za sastanak za vašu organizaciju:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Ova cmdda je trenutno potrebna upotreba Skype-a za modul Business PowerShell. Da biste dobili instalacioni program koji će koristiti ovu cmdsaciju, pogledajte Upravljanje smernicama putem PowerShell.
+
+Možete podesiti novu smernicu koju ćete zatim morati da primenite na korisnike. Ako izmenite globalnu smernicu ona će se automatski primenjivati na korisnike. Za sve promene smernica potrebno je da sačekate najmanje 4 sata i do 24 časa da bi smernice stupile na snagu.
+
+Uverite se da ste pregledali dokumentaciju ispod pre nego što napravite ove promene da biste razumeli tačno šta to dozvoljava.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Razumevanje timova sa kontrolama lobira za sastanke
 
 - [Automatsko priznate osobe](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) su smernice po organizatoru koje kontrolišu da li se osobe direktno pridružuju sastanku ili čekaju u predvorju dok ih ne primi ovlašćeni korisnik.
 
@@ -30,15 +40,4 @@ Ove postavke kontrolišu koji učesnici sastanka čekaju u predvorju pre nego š
 
 - [Dozvoli organizatorima da zamene "Postavljanje](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) " (**uskoro**) je smernica po organizatoru koja kontroliše da li organizator sastanka može da zameni postavke za uvodnu postavku koju je administrator postavio u **Automatski primi osobe** i **Dozvoli pozivnu vezu korisnici zaobilaze lobi** kada planiraju novi sastanak.
 
-**Napomena:** Pročitajte [Upravljanje smernicama za sastanak u timovima](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) za kompletan pregled smernica za sastanke Microsoft timova. 
-
-
-**Primer PowerShell**
-
-Ako želite da dozvolite svima, uključujući spoljne ili anonimne korisnike, da zaobiđete lobi, možete da koristite i funkciju PowerShell da biste izvršili ovaj zadatak.  Evo primera menjanja globalnih smernica za sastanak za vašu organizaciju.   
-
-(Obavezno Pregledajte gorenavedenu dokumentaciju pre nego što napravite ove promene da biste razumeli tačno šta to dozvoljava.)
-
-Set-CsTeamsMeetingPolicy-identitet Global-Autoprijem-korisnici "svi"-Allowpstnuserstobypasslob$TRUE
-
-Više informacija potražite u članku [Set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Napomena:** Pročitajte [Upravljanje smernicama za sastanak u timovima](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) za kompletan pregled smernica za sastanke Microsoft timova.
