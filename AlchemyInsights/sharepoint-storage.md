@@ -1,9 +1,8 @@
 ---
-title: SharePoint za skladištenje
+title: SharePoint skladište
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502740"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658271"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Upravljanje SharePoint Online skladište
+# <a name="manage-your-sharepoint-online-storage"></a>Upravljanje SharePoint skladištem na mreži
 
-Za većinu organizacija, SharePoint skladišta se upravlja automatski tako da ne morate da postavite ograničenja po kolekciji lokacija. Da biste proverili koliko prostora za skladištenje SharePoint imate:
-  
-- U novu SharePoint admin centru, na gornjem redu na stranici "lokacije", potražite dostupne i ukupan prostor za skladištenje.
+Saznajte kako se na osnovu plana [izračunava zatezno skladište](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) .
 
-Info o kako se izračunava svoj limit, potražite [SharePoint Online ograničenja](https://go.microsoft.com/fwlink/p/?LinkID=856113). Kupiti dodatni prostor za skladištenje, vidim [Promena prostora za skladištenje za svoju pretplatu](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Info o nadgledanju skladište na pojedinačne lokacije koristeći PowerShell i upravljanje ručno, za skladištenje kolekcija lokacija potražite u odeljku [ograničenje skladištenja za upravljanje lokacijom kolekcije](https://go.microsoft.com/fwlink/?linkid=867833)
+Za većinu organizacija SharePoint skladište se automatski upravlja tako da ne morate da postavljate ograničenja po kolekciji lokacija.
+
+Saznajte kako da [prikažete ukupan i raspoloživi prostor za skladištenje za svoju organizaciju](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Saznajte kako da [upravljate ograničenjima za skladištenje pojedinačnih kolekcija lokacija](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Ako je vaša lokacija izvan svemira ili želite da saznate koja biblioteka ili lista koristi prostor, idite na > **metriku za skladištenje** **postavki lokacije**(potrebne su dozvole za rad administratora kolekcije lokacija).
+
+Saznajte kako da [nadgledate ograničenja skladištenja lokacije pomoću programa PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Saznajte kako da [kupite dodatno skladište](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 6632bb0c09c7ce99f14cd55582025b37a846369d
+ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637791"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37654270"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Kontrola uvodnog postavljanja i nivoa učestvovanja
 
@@ -24,7 +24,7 @@ Ako želite da dozvolite svima, uključujući pozivne, spoljne i anonimne korisn
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ova cmdda je trenutno potrebna upotreba Skype-a za modul Business PowerShell. Da biste dobili instalacioni program koji će koristiti ovu cmdsaciju, pogledajte Upravljanje smernicama putem PowerShell.
+Ova cmdda je trenutno potrebna upotreba Skype-a za modul Business PowerShell. Da biste dobili instalacioni program koji će koristiti ovu cmdsaciju, pogledajte [Upravljanje smernicama putem PowerShell](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
 Možete podesiti novu smernicu koju ćete zatim morati da primenite na korisnike. Ako izmenite globalnu smernicu ona će se automatski primenjivati na korisnike. Za sve promene smernica potrebno je da sačekate najmanje 4 sata i do 24 časa da bi smernice stupile na snagu.
 
