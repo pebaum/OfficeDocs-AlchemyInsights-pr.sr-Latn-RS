@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36528529"
 ---
-# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="2d82c-102">Ograničenja Veb resursa Veb stranice (HTML)</span><span class="sxs-lookup"><span data-stu-id="2d82c-102">Webpage (HTML) web resources limitations</span></span>
+# <a name="webpage-html-web-resources-limitations"></a><span data-ttu-id="af86f-102">Ograničenja Veb resursa Veb stranice (HTML)</span><span class="sxs-lookup"><span data-stu-id="af86f-102">Webpage (HTML) web resources limitations</span></span>
 
-* <span data-ttu-id="2d82c-103">HTML Veb resurs ne može da sadrži nijedan kôd koji mora biti izvršen na serveru.</span><span class="sxs-lookup"><span data-stu-id="2d82c-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="2d82c-104">ASP.NET stranice nije moguće otpremiti kao HTML Web resursi.</span><span class="sxs-lookup"><span data-stu-id="2d82c-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
+* <span data-ttu-id="af86f-103">HTML Veb resurs ne može da sadrži nijedan kôd koji mora biti izvršen na serveru.</span><span class="sxs-lookup"><span data-stu-id="af86f-103">An HTML web resource can’t contain any code that must be executed on the server.</span></span> <span data-ttu-id="af86f-104">ASP.NET stranice nije moguće otpremiti kao HTML Web resursi.</span><span class="sxs-lookup"><span data-stu-id="af86f-104">ASP.NET pages can’t be uploaded as HTML web resources.</span></span>
 
-* <span data-ttu-id="2d82c-105">HTML Web resursi mogu da prihvate samo ograničeni broj parametara niske upita.</span><span class="sxs-lookup"><span data-stu-id="2d82c-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="2d82c-106">Dodatne informacije: [Pass parametri za HTML Web resurse](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="2d82c-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
+* <span data-ttu-id="af86f-105">HTML Web resursi mogu da prihvate samo ograničeni broj parametara niske upita.</span><span class="sxs-lookup"><span data-stu-id="af86f-105">HTML web resources can only accept a limited number of query string parameters.</span></span> <span data-ttu-id="af86f-106">Dodatne informacije: [Pass parametri za HTML Web resurse](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span><span class="sxs-lookup"><span data-stu-id="af86f-106">More information: [Pass parameters to HTML web resources](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)</span></span>
 
-[<span data-ttu-id="2d82c-107">Web resursi Veb stranice (HTML)</span><span class="sxs-lookup"><span data-stu-id="2d82c-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[<span data-ttu-id="af86f-107">Web resursi Veb stranice (HTML)</span><span class="sxs-lookup"><span data-stu-id="af86f-107">Webpage (HTML) web resources</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
