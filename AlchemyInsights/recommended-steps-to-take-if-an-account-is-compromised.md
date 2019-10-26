@@ -9,26 +9,26 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666566"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36745447"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Preporučeni postupak koji treba preduzeti ako je nalog ugrožen
 
 [VIDEO: Popravka ugroženog Office 365 naloga](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
-1. [Poništite lozinku korisnika](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c) odmah. Ne šaljite krajnjem korisniku novu lozinku putem e-pošte.
+1. [Poništite lozinku korisnika](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) odmah. Ne šaljite krajnjem korisniku novu lozinku putem e-pošte.
 
-2. Uklonite sve sumnjive [adrese za prosleđivanje](https://support.office.com/article/ab5eb117-0f22-4fa7-a662-3a6bdb0add74) na nivou poštanskog sandučeta.
+2. Uklonite sve sumnjive [adrese za prosleđivanje](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding) na nivou poštanskog sandučeta.
 
 3. Uklonite sva sumnjiva [pravila prijemnog poštanskog sandučeta](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED) postavljena u poštansko sanduče.
 
 4. Ako je korisniku onemogućeno slanje e-pošte, [idite na opciju „Korisnici sa ograničenim pristupom“ da deblokirate nalog](https://protection.office.com/?hash=/restrictedusers). Kada završite, korisniku bi slanje poruka trebalo da bude ponovo omogućeno u roku od jednog sata.
 
-5. Uklonite korisnički nalog u bilo kojoj [grupi sa ulogom administratora](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504) dok ne budete sigurni da nalog više nije ugrožen.
+5. Uklonite korisnički nalog u bilo kojoj [grupi sa ulogom administratora](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) dok ne budete sigurni da nalog više nije ugrožen.
 
-Da biste umanjili potencijalno buduće curenje podataka ili ugrožavanje naloga, preporučujemo da čitate naš članak o [najboljim postupcima za Office 365 bezbednost](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3).
+Da biste umanjili potencijalno buduće curenje podataka ili ugrožavanje naloga, preporučujemo da pročitate naš [plan za bezbednost za Office 365 ](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
