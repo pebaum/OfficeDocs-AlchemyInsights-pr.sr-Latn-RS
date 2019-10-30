@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 6643a13ab0c001d882169d280e7b29e0410b288a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36737635"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769749"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Kreiranje i upravljanje poštanskim sandučićima
 
-Da biste kreirali i izmenili Poštanske sandučiće soba, pogledajte odeljak [Kreiranje poštanskih sandučića soba i upravljanje njima](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Da biste kreirali i izmenili Poštanske sandučiće soba u Exchange admin Center, pogledajte odeljak [Kreiranje poštanskih sandučića soba i upravljanje njima](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
 Da biste saznali više o poštanskim sandučićima i opremi (poznatim i kao Poštanske sandučiće resursa), pogledajte [Poštanske sandučiće za sobe i opremu](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

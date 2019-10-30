@@ -1,8 +1,7 @@
 ---
-title: 1800021 kako da kreirate pravilo u programu Outlook za Mac
+title: 1800021 kako se kreira pravilo u programu Outlook za Mac
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541131"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769101"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kako da kreirate pravilo u programu Outlook za Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kako se kreira pravilo u programu Outlook za Mac
 
-1. Kreiranje fascikle da držite e-mail poruke koju pravilo, koren sanduče, **Organizuj** na kartici, izaberite **Novu fasciklu**, otkucajte ime fascikle i pritisnite taster Enter.
+1. Da biste kreirali fasciklu za držanje e-poruka koje je poslala pravilo, izaberite osnovno poštansko sanduče, na kartici " **Organizovanje** " izaberite stavku " **Nova fascikla**", otkucajte ime fascikle i pritisnite taster ENTER.
 
-    Ako ti 
+2. Na listi poruka izaberite e-poruku za koju želite o kreiranju pravila.
 
-2. U listi poruka, izaberite e-poruku za koju želite da o Kreiranje pravila.
+3. Na kartici **Početak** izaberite stavku **pravila**, a zatim izaberite stavku **Kreiraj pravilo**.
 
-3. **Kartici,** izaberite **pravila**, a zatim izaberite stavku **Kreiraj pravilo**.
+4. U okviru **kada nova poruka stigne** , uredite kriterijume tako da odgovaraju vašim potrebama. 
 
-4. U okviru **kada stigne nova poruka** uređivanje kriterijuma prema svojim potrebama. 
-
-Za detaljna uputstva o kreiranju prilagođenih pravila, potražite u odeljku [Kreiranje pravilo u programu Outlook za Mac](https://aka.ms/AA1uy0v)
+Detaljna uputstva o kreiranju prilagođenih pravila potražite u članku [Kreiranje pravila u programu Outlook za Mac](https://aka.ms/AA1uy0v)
   

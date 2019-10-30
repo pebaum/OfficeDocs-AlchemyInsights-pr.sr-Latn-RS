@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 6fc5645028c9fb9df2606c0d03b67e87ae15087c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344251"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769821"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Deinstaliranje ili isključivanje timova iz novih ili postojećih Office instalacija
 
-Microsoft timovi su sada uključeni kao deo Officea 365 ProPlus, Office 365 Business i Office za Mac.
+Microsoft timovi su uključeni u deo Officea 365 ProPlus, Office 365 Business i Office za Mac.
 
 - Koristite [alatku za primenu sistema Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) da biste izuzeli timove iz novih instalacija sistema Office.
 - Da biste *deinstalirali* timove sa uređaja koji radi pod operativnim sistemom Windows, pogledajte odeljak [Deinstaliranje Microsoft timova](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Da biste očistili Microsoft timove sa više ciljnih mašina ili korisnika, pogledajte [Čišćenje Microsoft timova za raspoređivanje](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).

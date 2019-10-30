@@ -2,7 +2,6 @@
 title: Kreiranje SharePoint lokacije
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738211"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769605"
 ---
 # <a name="create-a-sharepoint-site"></a>Kreiranje SharePoint lokacije
 
@@ -31,10 +30,10 @@ Za informacije o kreiranju SharePoint lokacija možete da vidite sledeće:
 
 
   
-> [! Saveti
-> - Ne možete da kreirate lokaciju sa istom URL adresom postojeće lokacije. Ako ste izbrisali lokaciju i želite da ponovo koristite URL adresu, moguće je da izbrisana lokacija još uvek postoji pod **izbrisanim lokacijama**. Da biste upravljali izbrisanim lokacijama pogledajte, [Izbrišite lokaciju](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Da biste potpuno uklonili lokaciju sa programom PowerShell, pogledajte primer " [Ukloni-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) ".
-> - Neki korisnici možda neće moći da kreiraju lokaciju. Pogledajte odeljak [Upravljanje kreiranjem lokacije na lokaciji SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Moguće je da je lokacija zaglavljena pri **kreiranju** duže od očekivanog. Ako je prošlo više od 24 časa od kada ste prvi put videli ovaj problem, molimo vas da prijavite tiket za podršku. U mnogim slučajevima već radimo na rešenju. Molimo vas da nam date najmanje 24 sata da završimo rešenje.
-> - Ako je potrebno da kreirate novu timsku lokaciju koja ne sadrži Office 365 grupu, 
+**Saveti:**
+- Ne možete da kreirate lokaciju sa istom URL adresom postojeće lokacije. Ako ste izbrisali lokaciju i želite da ponovo koristite URL adresu, moguće je da izbrisana lokacija još uvek postoji pod **izbrisanim lokacijama**. Da biste upravljali izbrisanim lokacijama pogledajte, [Izbrišite lokaciju](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Da biste potpuno uklonili lokaciju sa programom PowerShell, pogledajte primer " [Ukloni-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) ".
+- Neki korisnici možda neće moći da kreiraju lokaciju. Pogledajte odeljak [Upravljanje kreiranjem lokacije na lokaciji SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- Moguće je da je lokacija zaglavljena pri **kreiranju** duže od očekivanog. Ako je prošlo više od 24 časa od kada ste prvi put videli ovaj problem, molimo vas da prijavite tiket za podršku. U mnogim slučajevima već radimo na rešenju. Molimo vas da nam date najmanje 24 sata da završimo rešenje.
+- Ako je potrebno da kreirate novu timsku lokaciju koja ne sadrži Office 365 grupu, 
 
 

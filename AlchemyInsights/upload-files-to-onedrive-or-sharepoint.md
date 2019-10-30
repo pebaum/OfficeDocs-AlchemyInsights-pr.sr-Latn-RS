@@ -1,5 +1,5 @@
 ---
-title: Otpremanje datoteke na OneDrive ili SharePoint
+title: Otpremanje datoteka u OneDrive ili SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532525"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769893"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Otpremanje datoteke na OneDrive ili SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Otpremanje datoteka u OneDrive ili SharePoint
 
-1. U web pregledaču, idite na lokaciju gde želite da otpremite datoteke.
+1. U Web pregledaču idite do lokacije na kojoj želite da otpremite datoteke.
     
-2. Otvorite datoteku Explorer i potražite datoteke koje želite da otpremite.
+2. Otvorite istraživač datoteka i potražite datoteke koje želite da otpremite.
     
-3. Izaberite datoteke i prevucite ih na lokaciju u OneDrive ili SharePoint. Napomena: Ako koristite Microsoft Edge, Mozilla FireFox ili Google Chrome, možete takođe otpremite u fasciklu i sve datoteke u njoj.
+3. Izaberite datoteke i prevucite ih na lokaciju u usluzi OneDrive ili SharePoint. Napomena: Ako koristite Microsoft Edge, Mozilla FireFox ili Google Chrome, možete i da otpremite fasciklu i sve datoteke u njoj.
     
-> [!NOTE]
->  Možete da otpremite datoteke do 15 GB u veličini. > punu putanju do datoteke (uključujući ime datoteke) mogu biti više od 400 znakova. >, ako je potrebno da otpremi više od 100 datoteka, [koristite OneDrive klijent za sinhronizaciju](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Beleške:**
+- Možete da otpremite datoteke veličine do 15 GB. 
+- Puna putanja datoteke (uključujući i ime datoteke) ne može da bude dužine više od 400 znakova. 
+- Ako treba da otpremite više od 100 datoteka, [koristite OneDrive klijent za sinhronizaciju](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

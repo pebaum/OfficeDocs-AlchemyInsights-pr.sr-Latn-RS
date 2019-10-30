@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545193"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768851"
 ---
-# <a name="issues-with-mfa"></a>Problemi sa MFA
-Postoji nekoliko stvari koje treba da proverite da li korisnici ne mogu da se prijave upotrebom provere identiteta sa više faktora (MFA)
+# <a name="issues-with-azure-mfa"></a>Problemi sa Azure MFA
+Postoji nekoliko stvari koje treba da proverite ako korisnik ne može da se prijavi pomoću opcije za potvrdu identiteta sa više faktora (MFA)
 
 1. Moguće je da je korisnik blokiran u programu Azure. Ako je to slučaj, potvrda identiteta za tog određenog korisnika biće automatski odbijena. [Molimo vas da sledite korake iz ovog članka da biste ih deblokirali.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

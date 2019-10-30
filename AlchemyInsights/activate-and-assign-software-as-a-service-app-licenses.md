@@ -3,7 +3,6 @@ title: Aktiviraj i dodeli licence za aplikaciju "softver kao a"
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: d9cd02a778a7a979271b38e3df06c5bc7c1bdf6a
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 9ea12fcd222f10890b0e6ee66a185d6f4acb4073
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36385734"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766329"
 ---
 # <a name="activate-and-assign-software-as-a-service-app-licenses"></a>Aktiviraj i dodeli licence za aplikaciju "softver kao a" 
 
@@ -27,7 +26,7 @@ ms.locfileid: "36385734"
 
 2. Pronađite i izaberite aplikaciju u kojoj želite da upravljate.
 
-3. U okviru **licence**izaberite stavku **Podešavanje naloga u poruci o grešci**.  
+3. U okviru **licence**izaberite stavku **Podešavanje naloga**.  
 
 ## <a name="to-assign-app-licenses"></a>Da biste dodelili licence za aplikacije
 

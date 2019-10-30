@@ -1,9 +1,8 @@
 ---
-title: Aktivirajte pretplatu za nova sa product key
+title: Aktiviranje nove pretplate pomoću šifre proizvoda
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495657"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766401"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivirajte pretplatu za nova sa product key
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktiviranje nove pretplate pomoću šifre proizvoda
 
-1. Da biste aktivirali novu pretplatu sa proizvoda, pređite na [https://office.com/setupkey](https://office.com/setupkey) stranicu.
+1. Da biste aktivirali novu Office 365 pretplatu sa šifrom proizvoda, idite na [https://office.com/setupkey](https://office.com/setupkey)lokaciju.
 
-2. Unesite šifru proizvoda Office 365 i pratite odzivnike da aktivirate svoju pretplatu. Ako imate problema sa aktiviranjem, vidi ovu [listu uobičajenih grešaka ključa proizvoda i rešenja](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Unesite šifru proizvoda za Office 365 i sledite odzive da biste aktivirali pretplatu. Ako imate problema sa aktiviranjem, pogledajte ovu [listu uobičajenih grešaka i rešenja o ključu proizvoda](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

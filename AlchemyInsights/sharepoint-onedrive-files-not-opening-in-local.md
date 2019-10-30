@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750858"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766797"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>Problemi pri otvaranju Office datoteka sa SharePoint
 
@@ -29,5 +29,5 @@ Ako imate problema sa otvaranjem Office datoteka i dokumenata sa SharePoint-a na
 
 Više informacija ili detalja potražite u članku, [Rešavanje problema pri otvaranju dokumenata u SharePoint bibliotekama](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**Napomena**: Ako imate problema sa dokumentima koji se otvaraju u pregledaču ili klijentu po podrazumevanoj vrednosti, možda će biti potrebno da promenite postavku biblioteke. Da biste to uradili, krećite se do biblioteke koja ima problema > Gear u gornjem desnom uglu > postavke biblioteke > više postavki > otvaranje dokumenata u pregledaču.
+**Napomena:** Ako imate problema sa dokumentima koji se podrazumevano otvaraju u pregledaču ili klijentu, možda će biti potrebno da promenite postavku biblioteke. Da biste to uradili, krećite se do biblioteke koja ima problema > brzinu u gornjem desnom uglu > **Postavke** >  biblioteke**Napredne postavke** > **Otvaranje dokumenata u pregledaču**.
 
