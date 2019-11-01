@@ -1,5 +1,5 @@
 ---
-title: 665 prima previše Cecu ili spam u poštanskom sandučetu?
+title: 665 da li dobijate previše phiša ili bezvredne pošte u poštanskom sandučetu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4ed84484431d430840c5c31c4275e366758f508f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665918"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911645"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Da li primate previše Cecu ili spam u poštanskom sandučetu?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Da li u poštansko sanduče primate previše Phish ili bezvredne pošte?
 
-Kao administrator za Microsoft 365, najbolji način da biste utvrdili zašto je dostavljeno phishing ili spam poruka je da podnese uzorak korporaciji Microsoft u [Podnescima Explorer](https://protection.office.com/reportsubmission). Dobijate neposredne povratne informacije vezane za filtriranje poruka i zbog toga ima problema.
+Kao Microsoft 365 admin, najbolji način da utvrdite zašto je isporučena phishing ili spam poruka jeste da prosledite uzorak korporaciji Microsoft u [istraživaču prosleđivanja](https://protection.office.com/reportsubmission). Odmah ćete dobiti povratne informacije vezane za filtriranje poruka i zašto postoje problemi.
 
-Da bi bilo easer, možete dozvoliti korisnicima da prijavite direktno korporaciji Microsoft putem se [izveštaj poruka programskog dodatka](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Da biste ga učinili opuštenim, možete dozvoliti korisnicima da direktno prijave korporaciji Microsoft putem [programskog dodatka za poruku izveštaja](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+
+Da **li ste znali?**: sada možete da prosledite uzorke direktno iz [praćenja poruka](https://protection.office.com/messagetrace) i E5/ATP plana 2 kupci mogu da podnesu uzorke iz [istraživača pretnji](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).

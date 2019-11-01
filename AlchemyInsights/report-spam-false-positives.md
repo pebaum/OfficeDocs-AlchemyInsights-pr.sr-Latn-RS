@@ -1,5 +1,5 @@
 ---
-title: 975 želite li prijaviti spam laћno pozitivan Microsoftu?
+title: 975 želite li da prijavite bezvrednu poštu koja je netačno pozitivna korporaciji Microsoft?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,15 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: dcae6f9b0a98d360e541309fd7017d864ace5959
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a35b7217b28001bbe23fab0d78f855b50c353bc4
+ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666458"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911609"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Želite li da prijavite spam laћno pozitivan korporaciji Microsoft?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Želite li da prijavite bezvrednu poštu nepozitivnu za Microsoft?
 
-Kao neki admin, najbolji način da biste utvrdili zašto je dostavljeno phishing ili spam poruka je da podnese uzorak korporaciji Microsoft u [Podnescima Explorer](https://protection.office.com/reportsubmission). Da bi bilo easer, možete dozvoliti korisnicima da prijavite direktno korporaciji Microsoft putem se [izveštaj poruka programskog dodatka](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kao administrator, najbolji način da utvrdite zašto je prevarantska ili bezvredna poruka isporučena jeste da korporaciji Microsoft prosledite uzorak u [istraživaču priloga](https://protection.office.com/reportsubmission). Da biste ga učinili opuštenim, možete dozvoliti korisnicima da direktno prijave korporaciji Microsoft putem [programskog dodatka za poruku izveštaja](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-Savetujemo opreznost ako odlučite da [biste preskočili Office 365 spam filtere](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+Savetujemo vam da odlučite da [zaobiđete filtere za Office 365 spam](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+
+Da **li ste znali?**: sada možete da prosledite uzorke direktno iz [praćenja poruka](https://protection.office.com/messagetrace) i E5/ATP plana 2 kupci mogu da podnesu uzorke iz [istraživača pretnji](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
