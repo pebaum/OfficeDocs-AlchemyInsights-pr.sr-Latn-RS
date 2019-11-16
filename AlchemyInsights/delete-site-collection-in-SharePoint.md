@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
 ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36748194"
 ---
-# <a name="delete-a-site-collection"></a><span data-ttu-id="aa430-102">Brisanje kolekcije lokacija</span><span class="sxs-lookup"><span data-stu-id="aa430-102">Delete a site collection</span></span>
+# <a name="delete-a-site-collection"></a><span data-ttu-id="abe37-102">Brisanje kolekcije lokacija</span><span class="sxs-lookup"><span data-stu-id="abe37-102">Delete a site collection</span></span>
 
-<span data-ttu-id="aa430-103">Kada kao globalni ili SharePoint administrator u sistemu Office 365 izbrišete lokaciju (koja se prethodno naziva "kolekcija lokacija"), ona se premešta u korpu za otpatke kolekcije lokacija i zadržava se za 93 dana.</span><span class="sxs-lookup"><span data-stu-id="aa430-103">When you, as a global or SharePoint admin in Office 365, delete a site (previously called a "site collection"), it's moved to the site collection Recycle Bin and retained for 93 days.</span></span> 
+<span data-ttu-id="abe37-103">Kada kao globalni ili SharePoint administrator u sistemu Office 365 izbrišete lokaciju (koja se prethodno naziva "kolekcija lokacija"), ona se premešta u korpu za otpatke kolekcije lokacija i zadržava se za 93 dana.</span><span class="sxs-lookup"><span data-stu-id="abe37-103">When you, as a global or SharePoint admin in Office 365, delete a site (previously called a "site collection"), it's moved to the site collection Recycle Bin and retained for 93 days.</span></span> 
 
-<span data-ttu-id="aa430-104">Kada izbrišete lokaciju, sve unutar nje će biti izbrisane uključujući:</span><span class="sxs-lookup"><span data-stu-id="aa430-104">When you delete a site, everything within it is deleted including:</span></span>
+<span data-ttu-id="abe37-104">Kada izbrišete lokaciju, sve unutar nje će biti izbrisane uključujući:</span><span class="sxs-lookup"><span data-stu-id="abe37-104">When you delete a site, everything within it is deleted including:</span></span>
 
-- <span data-ttu-id="aa430-105">Biblioteke dokumenata i datoteke.</span><span class="sxs-lookup"><span data-stu-id="aa430-105">Document libraries and files.</span></span>
-- <span data-ttu-id="aa430-106">Liste i podatke sa liste.</span><span class="sxs-lookup"><span data-stu-id="aa430-106">Lists and list data.</span></span>
-- <span data-ttu-id="aa430-107">Postavke i istoriju lokacije.</span><span class="sxs-lookup"><span data-stu-id="aa430-107">Site settings and history.</span></span>
-- <span data-ttu-id="aa430-108">Sve podlokacije i njihov sadržaj.</span><span class="sxs-lookup"><span data-stu-id="aa430-108">Any sub-sites and their contents.</span></span>
+- <span data-ttu-id="abe37-105">Biblioteke dokumenata i datoteke.</span><span class="sxs-lookup"><span data-stu-id="abe37-105">Document libraries and files.</span></span>
+- <span data-ttu-id="abe37-106">Liste i podatke sa liste.</span><span class="sxs-lookup"><span data-stu-id="abe37-106">Lists and list data.</span></span>
+- <span data-ttu-id="abe37-107">Postavke i istoriju lokacije.</span><span class="sxs-lookup"><span data-stu-id="abe37-107">Site settings and history.</span></span>
+- <span data-ttu-id="abe37-108">Sve podlokacije i njihov sadržaj.</span><span class="sxs-lookup"><span data-stu-id="abe37-108">Any sub-sites and their contents.</span></span>
 
-<span data-ttu-id="aa430-109">Trebalo bi da obavestite administratori lokacije i sve vlasnike podlokacije pre nego što izbrišete lokaciju kako bi mogli da premeštaju svoje podatke na drugu lokaciju, kao i da kažu korisnicima kada će lokacije biti izbrisane.</span><span class="sxs-lookup"><span data-stu-id="aa430-109">You should notify the site admins and any subsite owners before you delete a site so they can move their data to another location, and also tell users when the sites will be deleted.</span></span> 
+<span data-ttu-id="abe37-109">Trebalo bi da obavestite administratori lokacije i sve vlasnike podlokacije pre nego što izbrišete lokaciju kako bi mogli da premeštaju svoje podatke na drugu lokaciju, kao i da kažu korisnicima kada će lokacije biti izbrisane.</span><span class="sxs-lookup"><span data-stu-id="abe37-109">You should notify the site admins and any subsite owners before you delete a site so they can move their data to another location, and also tell users when the sites will be deleted.</span></span> 
 
-<span data-ttu-id="aa430-110">Više informacija potražite u članku [Brisanje kolekcije lokacija](https://docs.microsoft.com/sharepoint/delete-site-collection).</span><span class="sxs-lookup"><span data-stu-id="aa430-110">For more information, see [Delete a site collection](https://docs.microsoft.com/sharepoint/delete-site-collection).</span></span> 
+<span data-ttu-id="abe37-110">Više informacija potražite u članku [Brisanje kolekcije lokacija](https://docs.microsoft.com/sharepoint/delete-site-collection).</span><span class="sxs-lookup"><span data-stu-id="abe37-110">For more information, see [Delete a site collection](https://docs.microsoft.com/sharepoint/delete-site-collection).</span></span> 

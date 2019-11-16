@@ -9,36 +9,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
 ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36753810"
 ---
-# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="650e9-102">Nije uspjelo aktiviranje toka posla koji nedostaje</span><span class="sxs-lookup"><span data-stu-id="650e9-102">Missing Workflow Failed to Activate</span></span>
+# <a name="missing-workflow-failed-to-activate"></a><span data-ttu-id="f2cc1-102">Nije uspjelo aktiviranje toka posla koji nedostaje</span><span class="sxs-lookup"><span data-stu-id="f2cc1-102">Missing Workflow Failed to Activate</span></span>
 
-<span data-ttu-id="650e9-103">U Microsoft SharePoint kolekciji lokacija ne možete dodati globalno tok posla koji je moguće ponovo koristiti (kao što je "odobrenje-SharePoint 2010") u listu ili biblioteku.</span><span class="sxs-lookup"><span data-stu-id="650e9-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
+<span data-ttu-id="f2cc1-103">U Microsoft SharePoint kolekciji lokacija ne možete dodati globalno tok posla koji je moguće ponovo koristiti (kao što je "odobrenje-SharePoint 2010") u listu ili biblioteku.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span>
   
-<span data-ttu-id="650e9-104">Da biste riješili taj problem, slijedite ove korake:</span><span class="sxs-lookup"><span data-stu-id="650e9-104">To resolve this issue, follow these steps:</span></span> 
+<span data-ttu-id="f2cc1-104">Da biste riješili taj problem, slijedite ove korake:</span><span class="sxs-lookup"><span data-stu-id="f2cc1-104">To resolve this issue, follow these steps:</span></span> 
   
-1. <span data-ttu-id="650e9-105">Otvorite osnovnu Web lokaciju kolekcije lokacija u programu SharePoint Designer 2013.</span><span class="sxs-lookup"><span data-stu-id="650e9-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
+1. <span data-ttu-id="f2cc1-105">Otvorite osnovnu Web lokaciju kolekcije lokacija u programu SharePoint Designer 2013.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-105">Open the root website of the site collection in SharePoint Designer 2013.</span></span>
   
-2. <span data-ttu-id="650e9-106">U okviru **objekti lokacije**izaberite stavku **Tokovi posla**.</span><span class="sxs-lookup"><span data-stu-id="650e9-106">Under **Site Objects**, select **Workflows**.</span></span> 
+2. <span data-ttu-id="f2cc1-106">U okviru **objekti lokacije**izaberite stavku **Tokovi posla**.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-106">Under **Site Objects**, select **Workflows**.</span></span> 
   
-3. <span data-ttu-id="650e9-107">U **novom** odeljku trake **tokova posla** izaberite opciju **tok posla**koji je moguće ponovo koristiti.</span><span class="sxs-lookup"><span data-stu-id="650e9-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
+3. <span data-ttu-id="f2cc1-107">U **novom** odeljku trake **tokova posla** izaberite opciju **tok posla**koji je moguće ponovo koristiti.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-107">In the **New** section of the **Workflows** ribbon, select **Reusable Workflow**.</span></span> 
   
-4. <span data-ttu-id="650e9-108">U obrascu **Kreiranje toka posla** koji je moguće ponovo koristiti unesite ime \* \* *Repair2010* \* \*.</span><span class="sxs-lookup"><span data-stu-id="650e9-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="650e9-109">Za **tip platforme**izaberite stavku **SharePoint 2010 tok posla**, a zatim kliknite na dugme **u redu**.</span><span class="sxs-lookup"><span data-stu-id="650e9-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
+4. <span data-ttu-id="f2cc1-108">U obrascu **Kreiranje toka posla** koji je moguće ponovo koristiti unesite ime \* \* *Repair2010* \* \*.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-108">On the **Create Reusable Workflow** form, enter the name \*\* *Repair2010* \*\*.</span></span> <span data-ttu-id="f2cc1-109">Za **tip platforme**izaberite stavku **SharePoint 2010 tok posla**, a zatim kliknite na dugme **u redu**.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-109">For **Platform Type**, click **SharePoint 2010 Workflow**, and then click **OK**.</span></span> 
   
-1. <span data-ttu-id="650e9-110">U odeljku **Sačuvaj** na traci **toka posla** izaberite stavku **Objavi**.</span><span class="sxs-lookup"><span data-stu-id="650e9-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
+1. <span data-ttu-id="f2cc1-110">U odeljku **Sačuvaj** na traci **toka posla** izaberite stavku **Objavi**.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-110">In the **Save** section of the **Workflow** ribbon, select **Publish**.</span></span> 
   
-2. <span data-ttu-id="650e9-111">U odeljku " **Upravljanje** " na traci **toka posla** izaberite opciju " **Objavi globalno**".</span><span class="sxs-lookup"><span data-stu-id="650e9-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="650e9-112">U dijalogu za potvrđivanje koji se pojavljuje izaberite **"u redu"**.</span><span class="sxs-lookup"><span data-stu-id="650e9-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
+2. <span data-ttu-id="f2cc1-111">U odeljku " **Upravljanje** " na traci **toka posla** izaberite opciju " **Objavi globalno**".</span><span class="sxs-lookup"><span data-stu-id="f2cc1-111">In the **Manage** section of the **Workflow** ribbon, select **Publish Globally**.</span></span> <span data-ttu-id="f2cc1-112">U dijalogu za potvrđivanje koji se pojavljuje izaberite **"u redu"**.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-112">In the confirmation dialog box that appears, select **OK**.</span></span> 
   
-3. <span data-ttu-id="650e9-113">U Web pregledaču pronađite osnovnu Veb lokaciju kolekcije lokacija, a zatim pristupite **postavkama** \> **kolekcije**lokacija.</span><span class="sxs-lookup"><span data-stu-id="650e9-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="650e9-114">Zatim Preklapaj funkciju **tokova posla** :</span><span class="sxs-lookup"><span data-stu-id="650e9-114">Then, toggle the **Workflows** feature:</span></span> 
+3. <span data-ttu-id="f2cc1-113">U Web pregledaču pronađite osnovnu Veb lokaciju kolekcije lokacija, a zatim pristupite **postavkama** \> **kolekcije**lokacija.</span><span class="sxs-lookup"><span data-stu-id="f2cc1-113">In a web browser, locate the root website of the site collection, and then access **Site Settings** \> **Site Collection Features**.</span></span> <span data-ttu-id="f2cc1-114">Zatim Preklapaj funkciju **tokova posla** :</span><span class="sxs-lookup"><span data-stu-id="f2cc1-114">Then, toggle the **Workflows** feature:</span></span> 
   
-<span data-ttu-id="650e9-115">· Ako je funkcija *aktivirana* , kliknite na dugme **"Deaktiviraj",** a zatim kliknite na dugme " **Aktiviraj**".</span><span class="sxs-lookup"><span data-stu-id="650e9-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
+<span data-ttu-id="f2cc1-115">· Ako je funkcija *aktivirana* , kliknite na dugme **"Deaktiviraj",** a zatim kliknite na dugme " **Aktiviraj**".</span><span class="sxs-lookup"><span data-stu-id="f2cc1-115">· If the feature is  *Activated*  , click **Deactivate,** and then click **Activate**.</span></span> 
   
-<span data-ttu-id="650e9-116">· Ako je funkcija *deaktivirana* , kliknite na dugme " **Aktiviraj**".</span><span class="sxs-lookup"><span data-stu-id="650e9-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
+<span data-ttu-id="f2cc1-116">· Ako je funkcija *deaktivirana* , kliknite na dugme " **Aktiviraj**".</span><span class="sxs-lookup"><span data-stu-id="f2cc1-116">· If the feature is  *Deactivated*  , click **Activate**.</span></span> 
   
-<span data-ttu-id="650e9-117">Za više informacija pogledajte sledeći [članak](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="650e9-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
+<span data-ttu-id="f2cc1-117">Za više informacija pogledajte sledeći [članak](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="f2cc1-117">For more information please refer to the following [article](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).</span></span>
   
 
