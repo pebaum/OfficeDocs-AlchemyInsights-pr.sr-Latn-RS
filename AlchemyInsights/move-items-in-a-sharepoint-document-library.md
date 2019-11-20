@@ -13,24 +13,31 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 6e68e021525b9bff1c9666d0db5b44ea5d72c753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549053"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711734"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Premeštanje stavki u SharePoint biblioteci dokumenata
 
-Stavke možete da premestite na različitim lokacijama unutar biblioteke dokumenata. Ako ste [podesili opciju objavljivanja ciljni](https://go.microsoft.com/fwlink/?linkid=622980), te stavke možete premeštati na lokacija. Kada premeštate dokumente, njihove istorije je takođe se preselila.
+Stavke možete premeštati na različite lokacije u biblioteci dokumenata.
   
-1. U web pregledaču, potražite datoteke, fascikle ili veza koje želite da premestite, a zatim kliknite na dugme **Premesti u**.
+1. U Web pregledaču potražite datoteke, fascikle ili veze koje želite da premestite, a zatim kliknite na dugme " **Premesti u**".
 
     > [!NOTE]
-    > **Premeštanje** nije dostupna ako koristite klasični iskustvo SharePoint Online.
+    > **Premeštanje u** nije dostupno ako koristite klasičan doživljaj SharePoint online.
   
-2. Ispod **Odaberite odredište**, izaberite lokaciju na koju želite da premestite artikle. Ako se selimo u drugu lokaciju ili podlokaciju, a ne vidim na listi, kliknite na dugme **Pregledaj lokacije** pogledati potpunu listu lokacija koje možete da premestite.
+2. U okviru **Odaberite odredište**, izaberite lokaciju na koju želite da premestite stavke. Ako se krećete na neku drugu lokaciju ili podlokaciju i ne vidite je na listi, kliknite na dugme " **Pregledaj lokacije** " da biste videli kompletnu listu lokacija na koje možete da se krećete.
 
-    Da biste kreirali novu fasciklu da premestite datoteke, izaberite lokaciju u hijerarhiji fascikli, izaberite stavku **Nova fascikla**, unesite ime fascikle i kliknite na znak za potvrdu da biste sačuvali ime.
+    Da biste kreirali novu fasciklu u koju ćete premestiti datoteke, izaberite lokaciju u hijerarhiji fascikli, izaberite stavku **Nova fascikla**, unesite ime za fasciklu i kliknite na oznaku potvrde da biste sačuvali ime.
 
 3. Kliknite na dugme **Premesti ovde**.
+
+ Kada se datoteka pomera, ona će se i dalje pojaviti u izvornom direktorijumu dok se ne premesti na odredište, a zatim će biti izbrisan. Datoteka će ostati u korpi za otpatke izvornih lokacija nakon dovršetka premeštanja i da bude podložna normalnom rasporedu za otpatke osim ako ga korisnik ne oporavi iz korpe za otpatke.
+
+Više informacija potražite u članku:
+
+ - [Premeštanje ili kopiranje datoteka u sistemu SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support članak)
+ - [Premeštanje datoteka iz bilo koje fascikle u sistemu Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak u Microsoft tehničkoj zajednici) 
