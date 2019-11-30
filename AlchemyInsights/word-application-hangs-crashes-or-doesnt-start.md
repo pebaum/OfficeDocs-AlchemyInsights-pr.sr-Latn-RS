@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027135"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628184"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word otkazuje ili ne reaguje
 
@@ -31,7 +31,7 @@ Ako se Word ne pokrene, pokušajte sledeće:
 1.   Na Windows radnoj površini zatvorite Outlook i pritisnite tastere CTRL + ALT + DEL da biste otvorili upravljač zadacima. 
 2. Na kartici **procesi** , ako su pokrenuti Word procesi, izaberite ih i odaberite **Krajnji zadatak**. Takođe se preporučuje da ponovo pokrenete računar da biste obrisali sve od memorije.
 
-    Ako program Word nastavi da pada ili se drži tokom pokretanja, pogledajte [otvorene Office aplikacije u bezbednom režimu na Windows računaru](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) da biste je pokrenuli u bezbednom režimu.
+    Ako program Word nastavi da pada ili se drži tokom pokretanja, pogledajte [otvorene Office aplikacije u bezbednom režimu na Windows računaru](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) da biste je pokrenuli u bezbednom režimu.
 
 Ako i dalje imate problema, pogledajte sledeće članke: 
 - [Dobijam grešku "Zaustavi rad" prilikom pokretanja Office aplikacija na RAČUNARU](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
