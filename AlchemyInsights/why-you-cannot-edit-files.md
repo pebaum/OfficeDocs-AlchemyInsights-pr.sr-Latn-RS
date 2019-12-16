@@ -1,7 +1,7 @@
 ---
 title: Datoteke su zaključane za uređivanje
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 4/26/2018
 ms.audience: ITPro
@@ -9,18 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: b73797749acae52aae66875691669930e1589904
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "9000123"
+- "1622"
+- "1713"
+ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748374"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049423"
 ---
 # <a name="why-cant-i-edit-files"></a>Zašto ne mogu da uređujem datoteke?
 
 Ako je dokument, radni list ili prezentacija zaključan za uređivanje i ne može da se otvori u Windows Desktop aplikacijama, možda je datoteka već uređivana od strane nekog drugog ili su odjavljene datoteke. Hajde da brzo pogledamo neke od razloga [zbog kojih možda nećete moći da uređujete datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Ako imate biblioteke sa **odjavom, potrebnim** ili kolonama **za proveru valjanosti** ili metapodacima ili kada je **Radna verzija stavki** postavljena **samo na korisnike koji mogu da uređuju** ili **samo korisnici koji mogu da odobre stavke** u postavkama verzije programa Biblioteku:
+Ako imate biblioteke sa **odjavom, potrebnim** ili kolonama **za validaciju** ili metapodacima ili kada je **Radna verzija stavki** postavljena **samo na korisnike koji mogu da uređuju** ili **samo korisnici koji mogu da odobre stavke** u postavkama verzije biblioteke:
 
 - Za SharePoint biblioteke dokumenata te stavke će biti sinhronizovane samo za čitanje.
 

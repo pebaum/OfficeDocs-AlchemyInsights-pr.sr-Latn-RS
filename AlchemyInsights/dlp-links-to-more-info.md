@@ -1,7 +1,7 @@
 ---
-title: Više informacija o problemima i Uroniti
-ms.author: stephow
-author: stephow-MSFT
+title: Više informacija o problemima sa DLP-a
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665229"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052303"
 ---
-# <a name="information-about-dlp-issues"></a>Informacije o problemima i Uroniti
+# <a name="information-about-dlp-issues"></a>Informacije o problemima sa DLP-a
 
-I Uroniti politika, možete identifikovati, nadgledati, i automatski zaštitite poverljive informacije preko Office 365.
+Pomoću datoteke sa DLP-om možete da identifikujete, nadgledate i automatski zaštitite osetljive informacije širom Officea 365.
 
-Molim vas da posjetite ove veze za više informacija:
+Molimo vas da posetite ove veze za više informacija:
 
-- [Pregled sprečavanje gubitka podataka](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [Koji su tipovi poverljive informacije potražite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [Kreiranje prilagođenih poverljive informacije tipa](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [Slanje e-pošte obaveštenja i Prikaži savete politike](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [Zaštitite datoteke SharePoint Online sa oznakama zadržavanja i Uroniti](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [I Uroniti i Microsoft timova](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [Pregled sprečavanja gubitka podataka](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [Kako izgledaju tipovi osetljivih informacija](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [Kreiranje prilagođenog osetljivog tipa informacija](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [Slanje obaveštenja e-poštom i prikazivanje saveta o smernicama](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [Zaštita SharePoint datoteka na mreži sa oznakama za zadržavanje i DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP i Microsoft timovi](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-Da biste testirali vaše podatke sa tipom ugrađene ili prilagođene poverljive informacije, koristite opciju za **testiranje tipa** pod **klasifikacija** > **tipovi osetljivih informacija**. Više informacija potražite u [Test vrste prilagođenih poverljive informacije](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Da biste testirali podatke pomoću ugrađenog ili prilagođenog tipa sa osetljivim informacijama, koristite opciju " **tip testa** " u okviru liste sa**osetljivim informacijama o** **klasifikaciji** > . Za više informacija pogledajte odeljak [testiranje prilagođenih osetljivih tipova informacija](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

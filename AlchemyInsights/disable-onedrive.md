@@ -1,7 +1,7 @@
 ---
-title: Onemogućavanje OneDrive
-ms.author: efrene
-author: efrene
+title: Onemogućavanje usluge OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512905"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052951"
 ---
-# <a name="disable-onedrive"></a>Onemogućavanje OneDrive
+# <a name="disable-onedrive"></a>Onemogućavanje usluge OneDrive
 
-Postoji nekoliko načina, u zavisnosti od vaših poslovnih potreba možete onemogućiti pristup OneDrive i njegove usluge:
+Postoji nekoliko načina na koje možete onemogućiti pristup usluzi OneDrive i njegovim uslugama u zavisnosti od vaših poslovnih potreba:
 
-[Raskidanje veze, skrivanje ili deinstalirati aplikaciju OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[Raskidanje veze, sakrivanje ili Deinstalacija aplikacije OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[Samo dozvoli sinhronizaciju za određene organizacije](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[Dozvoli sinhronizovanje samo za određene organizacije](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[Onemogućavanje kreiranja lokacije OneDrive za neke korisnike](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[Onemogući kreiranje OneDrive lokacije za neke korisnike](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[Kontrolisanje pristupa SharePoint Online i OneDrive podataka na osnovu mrežne lokacije](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[Kontrolisanje pristupa SharePoint Online i OneDrive podacima na osnovu mrežne lokacije](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[Onemogući lične OneDrive za sinhronizaciju](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[Onemogući ličnu OneDrive sinhronizaciju](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[Upravljanje vezama sa Windows uređaja na OneDrive i druge usluge](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[Upravljanje vezama sa Windows uređaja u usluzi OneDrive i drugim uslugama](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

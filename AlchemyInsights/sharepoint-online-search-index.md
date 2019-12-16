@@ -1,37 +1,37 @@
 ---
-title: Pretraživanje na mreži u sistemu SharePoint
-ms.author: efrene
-author: efrene
+title: Pretraga u sistemu SharePoint online
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507645"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044057"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Sadržaja za pretraživanje i indeksiranje u SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Popisivanje i indeksiranje sadržaja u sistemu SharePoint online
 
-Sadržaj mora biti popisan i dodati indeks za pretraživanje korisnicima nalaženje su tražite u SharePoint Online. Sadržaj popisuje automatski na osnovu unapred definisanih popisivanja raspored (nije moguće promeniti raspored popisivanja). Pauk je pokupi sadržaja koji se promenio od poslednjeg popisivanja i ažurira indeks. Kako bi se sadržaj popisuje i ažurira indeks, obratite pažnju na sledeće:
+Sadržaj mora biti popisan i dodat indeksu pretrage da bi korisnici pronašli ono što traže u sistemu SharePoint online. Sadržaj se automatski popisuje na osnovu unapred definisanog rasporeda popisivanja (raspored popisivanja ne može biti promenjen). Pauk bira sadržaj koji se promenio od poslednjeg popisivanja i ažurira indeks. Da biste se uverili da je sadržaj popisan, a indeks ažuriran, imajte na umu sledeće:
 
-- Uverite se da sadržaj možete pronaći tako [što mogu pretraživati sadržaj lokacije](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Uverite se da sadržaj možete pronaći tako što ćete [izvršiti pretraživo sadržaj lokacije](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Kada promenite upravljanog svojstva ili kada promenite mapiranje od popisan i uspeo svojstva, lokacije mora biti ponovo popisanih promene će se odraziti u indeksu za pretraživanje. 
+- Kada promenite upravljano svojstvo ili kada ste promenili mapiranje popisanih i upravljanih svojstava, lokacija mora biti ponovo popisana pre nego što se promene odraze u indeks pretrage. 
 
-    Jer tvoj promenama u šemi pretraživanja, a ne na stvarne lokacije, pauk neće automatski ponovo indeksirati na lokaciji. 
+    Pošto su promene napravljene u šemi pretrage, a ne na trenutnoj lokaciji, pauk neće automatski ponovo indeksirati lokaciju. 
 
-    Za više informacija, vidi [ručno zatražite pretraživanje i ponovno indeksiranje lokacije, u biblioteku ili listu](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Više informacija potražite u članku [ručno traženje popisivanja i ponovno indeksiranje lokacije, biblioteke ili liste](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Čekaj najmanje 24 sata nakon ručno zatražite popisivanja i pun ponovo indeksirati da vidim ako i dalje imate problem. 
+- Sačekajte najmanje 24 časa nakon što ručno zahtevate popisivanje i kompletan reindeks da biste videli da li i dalje dolazi do problema. 
 
-    Ako više od 24 sata je prošlo od kada si pokrenuo popisivanja i pun ponovo indeksirati, molim vas, zovite podršku slučaj. U mnogim slučajevima, već radimo na rešenje. Molim vas, dajte nam barem 24 sata da biste dovršili rešenje.
+    Ako je prošlo više od 24 časa od kada ste pokrenuli popisivanje i puni ponovo indeks, evidentirali ste predmet podrške. U mnogim slučajevima već radimo na rešenju. Molimo vas da nam date najmanje 24 sata da završimo rešenje.
 
 > [!IMPORTANT]
-> Ako na lokaciju, dokumenta (biblioteka), ili lista je izbrisana i još uvek prikazuje u rezultatima pretraživanja, korisnici treba da dobiju neki **Greška 404 datoteka nije pronađena** pri pokušaju da joj pristupite. Ovaj problem bi trebalo da bude evidentirana kao predmet podršku za dalju istragu. 
+> Ako je lokacija, dokument (biblioteka) ili lista izbrisana, a i dalje prikazana u rezultatima pretrage, korisnici bi trebalo da dobiju **grešku 404 datoteku koja nije pronađena** kada pokušate da joj pristupite. Ovaj problem bi trebalo da bude evidentiran kao predmet podrške za dalju istragu. 
 
 
 

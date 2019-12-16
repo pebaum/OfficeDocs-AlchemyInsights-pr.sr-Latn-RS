@@ -1,7 +1,7 @@
 ---
 title: Spoljna deljenje u sistemu SharePoint online
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+- "2389"
+ms.openlocfilehash: 867727395a5e0653a12cb0ea091bf841c6f4f84f
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735979"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049783"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>Spoljna deljenje u sistemu SharePoint online
 
-Ako vaša organizacija obavlja posao koji podrazumeva deljenje dokumenata ili saradnju sa dobavljačima, klijentima ili kupcima, možete da koristite [funkcije spoljnog deljenja na SharePoint mreži](https://docs.microsoft.com/sharepoint/external-sharing-overview) da biste delili sadržaj sa osobama van vašeg Organizacija.
+Ako vaša organizacija obavlja posao koji podrazumeva deljenje dokumenata ili saradnju sa dobavljačima, klijentima ili kupcima, možete da koristite [funkcije spoljnog deljenja na SharePoint mreži](https://docs.microsoft.com/sharepoint/external-sharing-overview) da biste delili sadržaj sa osobama izvan vaše organizacije.
 
 Za više informacija o spoljnoj deljenju pogledajte dolenavedene veze:
 

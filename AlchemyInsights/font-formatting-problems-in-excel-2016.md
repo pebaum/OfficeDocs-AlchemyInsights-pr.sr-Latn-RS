@@ -1,7 +1,7 @@
 ---
-title: Oblikovanje fontovima u Excel 2016
-ms.author: dludwig
-author: dludwig
+title: Problemi sa oblikovanjem fonta u programu Excel 2016
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,14 +13,14 @@ ms.custom:
 - "232"
 - "2200006"
 ms.assetid: 8fdd1a0c-6c90-43f1-af70-d200d758b3d6
-ms.openlocfilehash: 808fb5caefcd07885ac2b29d3f499cc5cb824fc3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a727f1ffc7b90db53d10223a4bd3017d25eeda6c
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524641"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051979"
 ---
-# <a name="font-formatting-problems-in-excel"></a>Fontovima oblikovanja u programu Excel
+# <a name="font-formatting-problems-in-excel"></a>Problemi sa oblikovanjem fonta u programu Excel
 
-U programu Excel 2016, oblikovanje fonta možda neće moći ispravno prikazati u ćeliji. Ovo se može dogoditi ako ćelija sadrži više od jedne vrste Oblikovanje fonta. Na primer, ako neki likovi su podebljani, a drugi nisu podebljani, možda nećete videti podebljano oblikovanje će se pojaviti. Ili ako imate različite obojene znakove u istoj ćeliji, možda nećete videti boje ispravno prikazan. Naš Inženjerski tim je upoznat sa tim problemom, a trenutno radi na fiks. U međuvremenu, pokušajte da koristite drugi font. Ili, pokušajte da koristite više vrsta oblikovanja unutar iste ćelije, dok se ovaj problem je rešen.
+U programu Excel 2016, Oblikovanje fontova možda neće biti ispravno prikazano u ćeliji. Do ovoga može doći ako ćelija sadrži više vrsta oblikovanja fonta. Na primer, ako su neki znakovi podebljani, a drugi nisu podebljani, možda nećete videti podebljani oblik. Ako u istoj ćeliji imate različite obojene znakove, možda nećete videti da se boje ispravno prikazuju. Naš Inženjerski tim je svestan ovog problema i trenutno radi na popravci. U međuvremenu, pokušajte da koristite drugi font. Ili pokušajte da izbegnete korišćenje više vrsta oblikovanja unutar iste ćelije dok se ovaj problem ne otkloni.
   

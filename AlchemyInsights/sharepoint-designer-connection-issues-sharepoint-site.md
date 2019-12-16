@@ -1,7 +1,7 @@
 ---
-title: Pitanja za povezivanje SharePoint Designer
-ms.author: efrene
-author: efrene
+title: Problemi sa SharePoint dizajnerom
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,35 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: a4aeaeaea5743c276b907c78317ff30f5610be81
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508437"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051727"
 ---
-# <a name="sharepoint-designer-connection-issues"></a>Pitanja za povezivanje SharePoint Designer 
+# <a name="sharepoint-designer-connection-issues"></a>Problemi sa SharePoint dizajnerom 
 
-Ako SharePoint Designer se suočava sa pitanjima za povezivanje sa SharePoint lokacijama, pokušajte sledeće zajedničkim rešenjima.
+Ako SharePoint Designer ima problema sa povezivanjem sa SharePoint lokacijama, isprobajte sledeća uobičajena rešenja.
 
-1. korak: Provjerite da SharePoint Designer 2013 se ažurira sa [SharePoint Designer sa servisnim paketom 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) i [2. avgust 2016 ažuriranje za SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
+1. korak: proverite da li se SharePoint Designer 2013 ažurira pomoću [SharePoint Designer servisnog paketa 1](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) i [2. avgusta, 2016 Update za SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
 
 
-2. korak: Brisanje datoteke lokalnog keša:
+2. korak: brisanje lokalnih datoteka keša:
 
 1. Zatvorite SharePoint Designer 2013.
 
-2. Na lokalnom računaru, uklonite sve datoteke pronađene u svakoj od sljedećih mapa.
+2. Na lokalnom računaru uklonite sve datoteke pronađene u svakoj od sledećih fascikli.
 
-    - %APPDATA%\Microsoft\Web server Extensions\Cache
+    - %APPDATA%\Microsoft\Web% Ekstenioni\keš
     - %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache
     - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-3. Otvorite SharePoint Designer 2013 i unesite račun da vidimo da li radi.
+3. Otvorite SharePoint Designer 2013 i ponovo unesite nalog da biste videli da li radi.
 
-3. korak: [Omogućavanje moderne potvrde identiteta za Office 2013 na uređajima Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+3. korak: [Omogućavanje moderne potvrde identiteta za Office 2013 na Windows uređajima](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
 
-4. korak: Administratori morat ćete **Omogućiti prilagođena skripta** u SharePoint Admin Center postavkama da biste dozvolili povezivanje na SharePoint Designer. Vidim [Dozvoli ili sprečavaju adaptirani scenario](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) za više informacija.
+4. korak: Administratori će morati da **dozvole prilagođenu skriptu** u postavkama sistema SharePoint admin Center da bi dozvolili povezivanje sa SharePoint dizajnerom. Više informacija potražite u članku [Dozvoljavanje ili sprečavanje prilagođene skripte](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
 
 

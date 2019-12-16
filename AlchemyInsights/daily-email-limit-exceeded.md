@@ -1,9 +1,8 @@
 ---
-title: Daily Mail ograničenje je prekoračeno. Tok posla je obustavljen.
-ms.author: efrene
-author: efrene
+title: Premašen je dnevni limit e-pošte. Tok posla je obustavljen.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514483"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053131"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Daily Mail je prekoračeno ograničenje. Tok posla je obustavljen.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Premašen je dnevni limit e-pošte. Tok posla je obustavljen.
 
-Ova greška može biti primljen u sljedećim scenarijima:
+Ova greška može biti primljena u sledećim slučajevima:
 
-- Imate toka posla u SharePoint na mreži koja koristi SharePoint 2010 ili SharePoint 2013 toka posla platforma tip.
-- Tok je konfigurisan da pošaljete poruku prilagođene e-pošte za više od 200 korisnika po jedan, više od 10 000 primalaca dnevno ili više od 30 poruka u minuti.
-- Kada pokrenete tok posla, zar ne poslati poruku e-pošte i primetite na sljedeći način:
-    - Za tok posla pomoću SharePoint 2013 tip platforme, pregledate na stranicu " **Status toka posla** ". Na stranici "Status toka posla", **Unutrašnja Status** je podešen na **pokrenuto**, a balon informacija prikazuje **nije moguće poslati primaocu**.
+- Imate tok posla na SharePoint mreži koji koristi tip platforme SharePoint 2010 ili SharePoint 2013 Workflow.
+- Tok posla je konfigurisan da šalje prilagođenu e-poruku u više od 200 korisnika u isto vreme, više od 10.000 primalaca dnevno ili više od 30 poruka u minuti.
+- Kada pokrenete tok posla, e-poruka se ne šalje i primetićete sledeće ponašanje:
+    - Za tok posla koji koristi tip SharePoint 2013 platforme, potražite stranicu " **Status toka posla** ". Na stranici "Status toka posla", **unutrašnji status** je postavljen na " **pokrenuto**", a "informacioni balon" **ne može da pošalje primaocu**.
 
-Da biste rešili ovaj problem, konfigurišite vaš tok posla za slanje e-poruka bez prekoračenja [ograničenja za Exchange Online pošiljaoca](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Na primer, koristite pauze u toku posla, pošaljite e-poštu grupi programa Office 365, grupi za distribuciju ili pošta omogućena bezbednost grupe ili manje od 200 primaocima istovremeno pošaljete poruku.
+Da biste zaobišli ovaj problem, konfigurišite tok posla za slanje e-poruka bez prekoračenja [ograničenja za Exchange online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Na primer, koristite pauzu u toku posla, pošaljite e-poruku u Office 365 grupu, grupu za distribuciju ili bezbednosnu grupu za koju je omogućena pošta ili pošaljite poruku na manje od 200 primalaca.
 
 
-Za više informacija, pogledajte sledeći [članak](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
+Više informacija potražite u sledećem [članku](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Povezane teme
-- [Kreiranje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [Kreiraj tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint i protok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
