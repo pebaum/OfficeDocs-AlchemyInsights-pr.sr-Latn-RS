@@ -1,5 +1,5 @@
 ---
-title: Kako zatvoriti radnu površinu Analitika
+title: Kako zatvoriti nalog za analitiku radne površine
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800572"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771121"
 ---
-# <a name="working-with-desktop-analytics"></a>Rad sa površine Analitika
+# <a name="working-with-desktop-analytics"></a>Rad sa analitiku radne površine
 
-Izgleda da ti se raspituju o radnoj površini Analytics. Možda moći da pomogne sa precizniji odgovor ako ti preoblikujte pitanje.
+Izgleda kao da pitate za analitiku radne površine. Možda ćemo moći da pomognemo sa preciznijim odgovorom ako ponovo postavite pitanje.
 
-- [Da li je to radna površina Analytics?](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [Kako da podesite radne površine Analitika](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [Često postavljana pitanja](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [Rešavanje problema sa površine Analitika](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [Šta je to analitiku radne površine?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Podešavanje analitike radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Najčešće postavljana pitanja](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Rešavanje problema sa analitiku radne površine](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

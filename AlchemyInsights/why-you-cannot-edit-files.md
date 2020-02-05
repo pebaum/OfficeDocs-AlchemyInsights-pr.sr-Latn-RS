@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049423"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771157"
 ---
 # <a name="why-cant-i-edit-files"></a>Zašto ne mogu da uređujem datoteke?
 
-Ako je dokument, radni list ili prezentacija zaključan za uređivanje i ne može da se otvori u Windows Desktop aplikacijama, možda je datoteka već uređivana od strane nekog drugog ili su odjavljene datoteke. Hajde da brzo pogledamo neke od razloga [zbog kojih možda nećete moći da uređujete datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Brzo pogledajte neke od razloga [zbog kojih možda nećete moći da uređujete datoteku](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Ako imate biblioteke sa **odjavom, potrebnim** ili kolonama **za validaciju** ili metapodacima ili kada je **Radna verzija stavki** postavljena **samo na korisnike koji mogu da uređuju** ili **samo korisnici koji mogu da odobre stavke** u postavkama verzije biblioteke:
 

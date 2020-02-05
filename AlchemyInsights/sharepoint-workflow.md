@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050935"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770473"
 ---
 # <a name="workflows-in-sharepoint"></a>Tokova posla u sistemu SharePoint
 
-SharePoint tokovi posla su unapred programirane mini aplikacije koje unapređuju i automatizuju veliki broj poslovnih procesa. Tokovi posla mogu da se kreću od prikupljanja potpisa, povratnih informacija ili odobrenja za plan ili dokument, da bi se pratili trenutni status rutinske procedure.
+SharePoint tokovi posla su unapred programirane aplikacije koje unapređuju veliki broj poslovnih procesa. Za više informacija pogledajte dolenavedene veze.
 
-**Prvi koraci:** Ako samo prvi koraci koristite SharePoint tokove posla, [više informacija potražite u članku uvod u SharePoint tokove posla](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Koraci
 
-**Microsoft protok**: razmislite o korišćenju Microsoft toka umesto klasičnih rešenja SharePoint toka posla. Više informacija potražite u članku [Kreiranje toka za listu ili biblioteku u sistemu SharePoint Online ili OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Ako samo prvi koraci koristite SharePoint tokove posla, pogledajte članak [Uvod u SharePoint tokove posla](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Rešavanje problema i otklanjanje grešaka u toku posla**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Rešavanje problema i otklanjanje grešaka u SharePoint toku posla
 
-Tokovi posla za otklanjanje grešaka podseća na prethodne verzije. Više informacija potražite u članku [otklanjanje grešaka u SharePoint tokovima posla](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). Više informacija o rešavanju problema potražite u članku [Rešavanje problema sa proverom valjanosti radnog toka posla SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Pogledajte u članku [rešavanje grešaka SharePoint provere toka posla](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) i [otklanjanja grešaka SharePoint tokova posla](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Automatizacija napajanja
+
+Razmotrite upotrebu opcije za [automatizaciju napajanja](https://docs.microsoft.com/power-automate/modern-approvals) umesto klasičnih SharePoint rešenja toka posla.

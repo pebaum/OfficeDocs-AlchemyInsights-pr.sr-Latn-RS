@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800578"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771085"
 ---
 # <a name="cant-create-a-compatibility-assessment"></a>Nije moguće kreirati procenu kompatibilnosti
 
-Configuration Manager je uspješno konfiguriran uređaja, ali površinu Analytics nije moguće kreirati procenu kompatibilnosti. To ne mora kompletan set podataka za konfiguraciju uređaja (popis) ili instalirane aplikacije (zalihe).
+Upravljač konfiguracije krajnje tačke Microsoft je uspešno konfigurisao uređaj, ali analitiku radne površine ne može da kreira procenu kompatibilnosti. Ne postoji kompletan skup podataka za konfiguraciju uređaja (popis) ili instalirane aplikacije (zalihe).
 
-To je često ispravljeno automatski kada uređaj pokuša ponovo. Ako to potraje, uverite se da uređaj može da komunicira sa uslugom. Za više informacija, pogledajte [krajnjih tačaka](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) i [Nedostaju podaci](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Ovaj problem se često ispravlja automatski kada se uređaj ponovo vrši. Ako se ponavlja, uverite se da uređaj može da komunicira sa uslugom. Više informacija potražite u članku [krajnje tačke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) i [Podaci koji nedostaju](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

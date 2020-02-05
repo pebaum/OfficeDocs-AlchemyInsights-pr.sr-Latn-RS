@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051547"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771193"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Uobičajene teme i rešenja za SharePoint online
 
 Evo nekih često zahtevanih tema za probleme sa SharePoint mrežom:
+
+- **Prvi koraci**: koristite [SharePoint look knjigu](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) da biste izgradili prelepu, snažnu internu mrežu koja povezuje radno mesto. Pogledajte [primere](https://lookbook.microsoft.com/) i dobijte [smernice dizajna](https://spdesign.azurewebsites.net/). Pogledajte [intro na SharePoint Online da](https://docs.microsoft.com/sharepoint/introduction) biste dobili sveukupan uvod u SharePoint online.
 
 - **Dozvole**: [napravite strategiju za dozvole](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) i [razumete nivoe dozvola](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Evo nekih često zahtevanih tema za probleme sa SharePoint mrežom:
 
 - **Osavremeni SharePoint**: pregledajte [Vodič do modernog iskustva u sistemu SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) i [osavremeniti vaše klasične SharePoint lokacije](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) da biste započeli premeštanje.
 
-- **Prvi koraci**: Saznajte kako da prvi [koraci sa lokacijom SharePoint online](https://docs.microsoft.com/sharepoint/introduction) pomoću strategija za upravljanje lokacijom.
+**Napomena:** Za određeniji odgovor o SharePoint problemu, ukratko Preformulišite vaše pitanje i uključite sve greške koje vidite ili funkcije koje koristite.

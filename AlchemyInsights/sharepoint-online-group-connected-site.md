@@ -10,30 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 14ad9dd094902c85eaf0398c76003cea20ad4c0a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051115"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770365"
 ---
-# <a name="issues-when-creating-or-group-connected-sites-in-sharepoint-online"></a>Problemi prilikom kreiranja ili grupisanja povezanih lokacija u sistemu SharePoint online
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemi prilikom kreiranja grupe povezane lokacije u sistemu SharePoint
 
-Došlo je do nekoliko uobičajenih problema prilikom kreiranja ili ponovnog kreiranja grupe povezane lokacije.
+1. Došlo je do nekih uobičajenih problema prilikom kreiranja ili ponovnog kreiranja grupe povezane lokacije.
+Ako ste izbrisali grupu i povezanu lokaciju i želite da kreirate drugu lokaciju sa istom URL adresom, moraćete trajno da uklonite prethodnu lokaciju.
 
- Ako ste izbrisali grupu i povezanu lokaciju i želite da kreirate drugu lokaciju sa istom URL adresom, moraćete trajno da uklonite prethodnu lokaciju.
+   - Preuzimanje [ljuske za upravljanje SPO](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429) -a
+   - Više informacija o početku rada sa programom PowerShell potražite u članku [Prvi koraci u usluzi SharePoint Shell Management ljuske](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
+   - Uklonite lokaciju sa izbrisanih lokacija koristeći [stranicu ukloni-Prebrisedshell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) cmdto. PowerShell je potreban za trajno brisanje grupnih lokacija.
 
-Preuzimanje [ljuske za upravljanje SPO](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429) -a
+1. Ako kreirate grupu povezanu lokaciju i primite upozorenje: **druga grupa sa istim pseudonimom već postoji**, proverite postojeće grupe iz [sistema Office 365 iz administratorskog centra](https://admin.microsoft.com/AdminPortal/Home#/groups). Da biste rešili problem, izbrišite postojeću grupu ako više nije potrebna ili kreirajte lokaciju sa dodeljenim drugim pseudonimom.
 
- Više informacija o početku rada sa programom PowerShell potražite [u članku prvi koraci u usluzi SharePoint Shell Management ljuske](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps)
+1. Postoje različiti načini za kreiranje i korišćenje modernih grupa sa SharePoint-om.
 
-Uklonite lokaciju sa izbrisanih lokacija koristeći [stranicu ukloni-Prebrisedshell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) cmdto.
-
-Ako kreirate grupu povezanu sa grupom i primite upozorenje druga grupa sa istim pseudonimom već postoji, proverite postojeće grupe iz [sistema Office 365 iz administratorskog centra](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/groups). Da biste rešili problem, izbrišite postojeću grupu ako više nije potrebna ili kreirajte lokaciju sa dodeljenim drugim pseudonimom.
-
-Postoje različiti načini za kreiranje i korišćenje modernih grupa sa SharePoint-om.
-
-Postojeće lokacije možete da povežete sa Office 365 grupom. Više informacija potražite u članku [Povezivanje Office 365 grupe pomoću SharePoint korisnika koji je neodređen](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-
-Potrebno je da kreirate lokaciju tima da biste kreirali Office 365 grupu povezanu lokaciju. Više informacija potražite u članku [Kreiranje lokacije tima u sistemu SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d).
-
+   - Postojeće lokacije možete da povežete sa Office 365 grupom. Više informacija potražite u članku [Povezivanje Office 365 grupe pomoću SharePoint korisničkog interfejsa](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Potrebno je da kreirate [lokaciju tima](https://admin.microsoft.com/sharepoint)da biste kreirali Office 365 grupu povezanu lokaciju.
