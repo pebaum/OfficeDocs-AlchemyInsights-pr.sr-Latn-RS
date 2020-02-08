@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611711"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855565"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>Praćenje ili nepraćenje SharePoint lokacije
 
-Postoji više načina za pronalaženje i praćenje lokacija, vesti i sadržaja koji vas interesuje u sistemu SharePoint. Ovo će vam omogućiti da lako pronađete informacije na listi i dozvolite vam da vidite aktivnost iz sistema SharePoint.
+Ako korisnici imaju problema sa sljedećim ili nesljedećim SharePoint resursima, dovršite ove korake:
 
-Pogledajte video da biste [pronašli i pratili lokacije i vesti](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
-
-Ako ne možete da pratite ili da pratite lokaciju, vesti ili sadržaj i smatrate da rezultati nisu ono što se očekuje, pogledajte da li je problem povezan sa jednim korisnikom ili svim korisnicima unutar vaše organizacije. Ako se problem susreće sa svim korisnicima, možda postoji problem sa privremenim servisom.
-
-Proverite da li je vaša organizacija uticala na [instrument za zdravstvo](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
+* Zamolite korisnika da se odjavi i ponovo prijavi u SharePoint i pokušajte da izvršite iste korake da biste sledili/otkačili praćenje SharePoint resursa.
+* Utvrdite da li je problem sa određenom lokacijom ili svim lokacijama. Ako dođe do problema sa određenim lokacijama, uverite se da je funkcija "sledeći sadržaj" aktivna za lokaciju tako što ćete otići na **Postavke lokacije > Upravljanje funkcijama lokacije > sledeći sadržaj**. Ako je funkcija podešena na "aktivno", pokušajte da deaktivirate i ponovo aktivirate ovu funkciju za tu lokaciju.
+* Zamolite korisnika da pokuša drugi Internet pregledač da vidi da li je problem specifičan za korisnički pretraživač.
+* Ako svi korisnici i sve lokacije imaju isti problem, proverite [kontrolnu tablu usluge](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste videli da li je vaša organizacija uticala na to.
