@@ -8,19 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
-ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
+ms.openlocfilehash: 5da73df5e7b09faf13fcf911dcc11a6e11540497
+ms.sourcegitcommit: 1e66f4850b0f06db1d1be82dc97f849abca80d38
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "37611711"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "41855565"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="cf3b6-102">Praćenje ili nepraćenje SharePoint lokacije</span><span class="sxs-lookup"><span data-stu-id="cf3b6-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="4bdd8-102">Praćenje ili nepraćenje SharePoint lokacije</span><span class="sxs-lookup"><span data-stu-id="4bdd8-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="cf3b6-103">Postoji više načina za pronalaženje i praćenje lokacija, vesti i sadržaja koji vas interesuje u sistemu SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cf3b6-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="cf3b6-104">Ovo će vam omogućiti da lako pronađete informacije na listi i dozvolite vam da vidite aktivnost iz sistema SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cf3b6-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
+<span data-ttu-id="4bdd8-103">Ako korisnici imaju problema sa sljedećim ili nesljedećim SharePoint resursima, dovršite ove korake:</span><span class="sxs-lookup"><span data-stu-id="4bdd8-103">If users are experiencing issues following or unfollowing SharePoint resources, complete these steps:</span></span>
 
-<span data-ttu-id="cf3b6-105">Pogledajte video da biste [pronašli i pratili lokacije i vesti](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="cf3b6-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
-
-<span data-ttu-id="cf3b6-106">Ako ne možete da pratite ili da pratite lokaciju, vesti ili sadržaj i smatrate da rezultati nisu ono što se očekuje, pogledajte da li je problem povezan sa jednim korisnikom ili svim korisnicima unutar vaše organizacije.</span><span class="sxs-lookup"><span data-stu-id="cf3b6-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="cf3b6-107">Ako se problem susreće sa svim korisnicima, možda postoji problem sa privremenim servisom.</span><span class="sxs-lookup"><span data-stu-id="cf3b6-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
-
-<span data-ttu-id="cf3b6-108">Proverite da li je vaša organizacija uticala na [instrument za zdravstvo](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="cf3b6-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+* <span data-ttu-id="4bdd8-104">Zamolite korisnika da se odjavi i ponovo prijavi u SharePoint i pokušajte da izvršite iste korake da biste sledili/otkačili praćenje SharePoint resursa.</span><span class="sxs-lookup"><span data-stu-id="4bdd8-104">Ask the user to sign-out and sign back into SharePoint and try the same steps to follow/unfollow the SharePoint resource.</span></span>
+* <span data-ttu-id="4bdd8-105">Utvrdite da li je problem sa određenom lokacijom ili svim lokacijama.</span><span class="sxs-lookup"><span data-stu-id="4bdd8-105">Determine if the issue is with a specific site or all sites.</span></span> <span data-ttu-id="4bdd8-106">Ako dođe do problema sa određenim lokacijama, uverite se da je funkcija "sledeći sadržaj" aktivna za lokaciju tako što ćete otići na **Postavke lokacije > Upravljanje funkcijama lokacije > sledeći sadržaj**.</span><span class="sxs-lookup"><span data-stu-id="4bdd8-106">If the issue occurs with specific sites, ensure the “Following Content” feature is active for the site by going to **Site Settings > Manage Site Features > Following Content**.</span></span> <span data-ttu-id="4bdd8-107">Ako je funkcija podešena na "aktivno", pokušajte da deaktivirate i ponovo aktivirate ovu funkciju za tu lokaciju.</span><span class="sxs-lookup"><span data-stu-id="4bdd8-107">If the feature is set to Active, try deactivating and activating the feature again for the site.</span></span>
+* <span data-ttu-id="4bdd8-108">Zamolite korisnika da pokuša drugi Internet pregledač da vidi da li je problem specifičan za korisnički pretraživač.</span><span class="sxs-lookup"><span data-stu-id="4bdd8-108">Ask the user to try a different Internet browser to see if the issue is specific to the user’s browser.</span></span>
+* <span data-ttu-id="4bdd8-109">Ako svi korisnici i sve lokacije imaju isti problem, proverite [kontrolnu tablu usluge](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste videli da li je vaša organizacija uticala na to.</span><span class="sxs-lookup"><span data-stu-id="4bdd8-109">If all users and all sites are experiencing the same issue, check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
