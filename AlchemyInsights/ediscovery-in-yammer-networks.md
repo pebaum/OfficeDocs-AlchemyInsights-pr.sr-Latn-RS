@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033915"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162926"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery na mreži Yammer
 
 Sada možete da izvršite eDiscovery pretrage za sadržaj Yammer u sistemu Office 365.  Izvođenje eDiscovery pretraga ili izvoz na Yammer sadržaj zahteva sledeće:
 
-1. Prvo morate da migrirate svoju mrežu preduzeća Yammer u osnovni režim da biste svoje poruke i datoteke na mreži učinili vidljivim.
-
-   > [!NOTE] 
-   >Ako ste Office 365 novi kupac od Jan. deveti 2020 i mreža Yammer je već u osnovnom režimu, podaci su sada vidljivi sa eDiscovery.
+1. Prvo morate da migrirate svoju mrežu preduzeća Yammer u osnovni režim da biste svoje poruke i datoteke na mreži učinili vidljivim. **Napomena: Ako ste novi Office 365 klijent od Jan. 9 2020 i mreža Yammer je već u osnovnom režimu, podaci su sada vidljivi sa eDiscovery**.
 
 2. Za izlazak iz kupaca, eDiscovery za Yammer će biti dostupan kada se završi alatka za poravnavanje izvornog režima, a migracija izvornog režima se dovršava za Yammer.
 
