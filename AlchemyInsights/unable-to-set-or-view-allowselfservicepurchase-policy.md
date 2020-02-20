@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091758"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158575"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nije moguće podesiti ili prikazati smernicu Allowsebservicepurchase
 
@@ -29,11 +29,11 @@ Do ovoga je možda došlo zbog starije verzije bezbednosti sloja transporta (TLS
 Pokušajte sledeće korake da biste omogućili/podesili TLS protokol na 1,2, proverite i pokušajte ponovo.
  1. Na komandnoj liniji PowerShell (PS C:\) unesite sledeću komandu da biste podesili TLS protokol na verziju 1,2:
 
-    \[Net. Servicepoinmanager]:: SecurityProtocol = \[net. Securityprotokoltype]:: Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. Provjerite TLS Protocol (e) u upotrebi, sa sledećom komandom:
 
-    \[Net. Servicepoinmanager]:: SecurityProtocol 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. Ponovo pokušajte da dobijete ili ažurirate komande po potrebi.
 
