@@ -1,5 +1,5 @@
 ---
-title: Outlook.com nedostaje fascikle
+title: Outlook.com fascikle koje nedostaju
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536197"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260256"
 ---
-# <a name="find-missing-folders"></a>Traženje nestalih fascikle
+# <a name="find-missing-folders"></a>Pronađi fascikle koje nedostaju
 
-Ako ne vidite vaše fascikle, proverite da li vaše fascikle nisu se srušio. U lijevom oknu izaberite na strelicu pored **fascikle** .
-  
-Ako slučajno izbrišete fasciklu, možete ga spasiti ako je i dalje u fascikli "Izbrisane stavke". Da biste saznali više, pročitajte [restaurirala izbrisane poruke e-pošte na Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Postoji poznati problem gde fascikle su nestali. Radimo ovo popraviti. I dalje možete pronaći stavke sačuvane u nedostaju fasciklama pomoću **pretrage** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, a može da pomogne ako biste se odjavili, a zatim se ponovo prijavite. [Kliknite ovde da biste se odjavili.](https://login.live.com/logout.srf)
+Neki korisnici možda neće moći da vide levo okno sa fasciklama kada se prikazuju na malom ekranu.
+
+- Razvijanje okna sa fasciklama samo kada je to potrebno. Izaberite ikonu tri reda na levoj bočnoj traci da biste prikazali ili sakrili fascikle.
+- Otvorite [Postavke rasporeda](https://outlook.live.com/mail/options/mail/layout) i izaberite stavku **Sakrij okno za čitanje** , a zatim **Sačuvajte**. Ovo će ekranu dati više prostora za prikazivanje fascikli.
+
+Ako slučajno izbrišete fasciklu, možete je oporaviti ako se ona još uvek nalazi u fascikli "Izbrisane stavke". Da biste saznali više, pročitajte [Vraćanje izbrisanih e-poruka u Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
