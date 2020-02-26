@@ -3,6 +3,7 @@ title: Isprazni fasciklu "Izbrisane stavke" u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768706"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277945"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Isprazni fasciklu "Izbrisane stavke"
 
-Da biste počistili sve izbrisane Outlook poruke, idite u [fasciklu "Izbrisane stavke](https://outlook.live.com/mail/deleteditems)" i izaberite stavku " **prazna fascikla**", zatim izaberite stavku " **spasi stavke izbrisane iz ove fascikle** " iznad liste poruka i ponovo izaberite stavku **"prazna fascikla** ".
+1. Otvorite fasciklu "Izbrisane stavke" i izaberite **praznu fasciklu**.
+2. Izaberite **stavke** koje se ne spasti na vrhu stranice i ponovo izaberite **praznu fasciklu** .
 
-Ako ste izbrisali mnogo poruka, možda će biti potrebno izvesno vreme da se te stavke pomeraju ili da budu očišćene iz fascikle "Izbrisane stavke". Ostavite otvoren prozor pregledača sve dok se stavke ne izbrišu.
+**Nije moguće isprazniti fasciklu "Izbrisane stavke"**
 
-Ako poruke ne uspeju da se ispravno izbrišu, pokušajte da izbrišete manji broj poruka.
+- Ako ste izbrisali mnogo e-poruka, možda će biti potrebno izvesno vreme da se te stavke pomeraju ili da budu izbrisane iz fascikle "Izbrisane stavke". Ostavite otvoren prozor pregledača dok se brisanje odvija.
+- Ako e-poruka i dalje ne bude ispravno izbrisana, izaberite manju grupu za brisanje.
+- Ako se izbrisano e-pošta vrati, to može biti zbog toga što ste nedavno izbrisali mnogo e-poruka. Pokušajte ponovo kasnije.
