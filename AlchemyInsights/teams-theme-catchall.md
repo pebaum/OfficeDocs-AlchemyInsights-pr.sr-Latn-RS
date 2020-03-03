@@ -11,16 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 88e139e9d1179dd1afb14686a4c4e3ee5e211ebc
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
+ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626398"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42371536"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Zajedničke teme i rešenja timova
 
 Za specifičnije odgovore o pitanju Microsoft timova, ukratko Preformulišite vaše pitanje i uključite sve greške koje vidite ili funkcije koje koristite.
+
+Ako vam je potrebna pomoć pri pružanju podrške udaljenim radnicima (WFH) sa timovima, pregledajte [pomoćne radnike koji koriste Microsoft timove](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
 
 Evo nekih dodatnih resursa:
 
