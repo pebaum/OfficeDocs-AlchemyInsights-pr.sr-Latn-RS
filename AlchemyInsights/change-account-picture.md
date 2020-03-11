@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: 0467bd04eb2f46a88f7e429aa7cf6d085d416dbc
-ms.sourcegitcommit: 867184426f2ed48e3e845544d7ce185d731c2fb3
+ms.openlocfilehash: c96cf829c192456291e2926e4a8e7312e43583bd
+ms.sourcegitcommit: c6c5d3f753038e3eee852111c6581e55c2f6c686
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39814295"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42574385"
 ---
 # <a name="change-account-picture"></a>Promena slike naloga
 
-Ako koristite korisničko ime i lozinku za prijavljivanje u Windows 10, koristite lokalni nalog. Da biste promenili sliku lokalnog naloga:
+Ako koristite korisničko ime i lozinku za prijavljivanje u Windows 10, koristite lokalni nalog. **Da biste promenili sliku lokalnog naloga**:
 
 1. Idite na " **Start** > "**Postavke** > **naloga** > za**informacije**.
-2. U okviru stavke **Kreiranje slike**izaberite stavku **Pregledaj za jednu**. Ili, ako vaš uređaj ima kameru, izaberite **fotoaparat** i nemojte da je selim. 
-    Napomena: Windows pamti poslednje tri slike koje ste koristili. Izaberite sliku na stranici sa **informacijama** da biste prešli na onu.
+2. U okviru stavke **Kreiranje slike**kliknite na dugme **Potraži**. Ili, ako uređaj ima kameru, kliknite na dugme " **kamera** " i nemojte da je selim. 
+    **Napomena**: Windows pamti poslednje tri slike koje ste koristili. Kliknite na sliku na stranici sa informacijama da biste se prebacili na onu.
 
 Ako koristite e-adresu i lozinku za prijavljivanje, koristite Microsoft nalog. Da biste promenili sliku Microsoft naloga:
 
 1. Prijavite se na stranicu sa **informacijama** sa Microsoft nalogom.
-2. Izaberite stavku **Dodaj sliku** ili **promenite sliku**, a zatim sledite uputstva.
+2. Kliknite na dugme **Dodaj sliku** ili **promenite sliku**, a zatim sledite uputstva.
 
-[Nabavite dodatnu pomoć za podešavanje Microsoft naloga i upravljanje njima](https://support.microsoft.com/products/microsoft-account?category=manage-account)
+[Nabavite dodatnu pomoć za podešavanje Microsoft naloga i upravljanje njima](https://support.microsoft.com/products/microsoft-account?category=manage-account).

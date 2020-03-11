@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365182"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584491"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Korišćenje isečka & skice za hvatanje, označavanje i deljenje slika
 
@@ -27,7 +27,8 @@ Crtež se sada naziva **odsečak & skicom**. **Da biste brzo uzimali odsečak**:
 2. Odaberite tačku na ivici oblasti koju želite da kopirate i kliknite dvaput na kursor. 
 
 3. Pomerite kursor da biste istakli oblast koju želite da uhvatite. Oblast koju uhvatite će se pojaviti na ekranu.
-:::image type="content" source="media/snipone.png" alt-text="slika istaknute selekcije":::
+
+   ![slika istaknute selekcije](media/snipone.png)
 
 Slika koju ste predobili je sačuvana u ostavi, spremna za lepljenje u e-poruku ili dokument. 
 
@@ -35,4 +36,4 @@ Slika koju ste predobili je sačuvana u ostavi, spremna za lepljenje u e-poruku 
 
 - Kliknite na ikonu "obaveštenja" koja se nalazi na krajnjoj desnoj strani trake zadataka. zatim kliknite na sliku koju ste upravo snimili. Odsečak se otvara u aplikaciji isečak & crtež.
 
-:::image type="content" source="media/sniptwo.png" alt-text="slika slike prikazana u aplikaciji za isecanje":::
+   ![slika slike koja se prikazuje u aplikaciji za isecanje](media/sniptwo.png)
