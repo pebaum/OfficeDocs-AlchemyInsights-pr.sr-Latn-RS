@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 07df61fdc78cc66bff530b85239f10c4a7cde498
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164183"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600002"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementirati QoS i nadgledni kvalitet poziva u timovima
 
-Program za analitiku poziva i kontrolnu tablu za kvalitet poziva možete da koristite za rešavanje problema sa kvalitetom poziva u Microsoft timovima. Da biste saznali više o kvalitetu usluge (QoS), pozovite analitiku i kontrolnu tablu za kvalitet poziva (CQD), pogledajte članak [implementirati QoS i nadgledni kvalitet poziva u Microsoft timovima](https://docs.microsoft.com/en-us/microsoftteams/monitor-call-quality-qos). 
+Program za analitiku poziva i kontrolnu tablu za kvalitet poziva možete da koristite za rešavanje problema sa kvalitetom poziva u Microsoft timovima. Da biste saznali više o kvalitetu usluge (QoS), pozovite analitiku i kontrolnu tablu za kvalitet poziva (CQD), pogledajte članak [implementirati QoS i nadgledni kvalitet poziva u Microsoft timovima](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 

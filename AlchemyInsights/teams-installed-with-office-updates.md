@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908758"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599498"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft timovi instalirani sa ažuriranjima Officea
 
@@ -32,6 +32,6 @@ Ako vaša organizacija nije spremna da rasporedi timove, možete da ***izuzmete 
 
 Da biste ***deinstalirali timove*** sa uređaja koji radi pod operativnim sistemom Windows, pogledajte odeljak [Deinstaliranje Microsoft timova](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Da biste očistili Microsoft timove sa više ciljnih mašina ili korisnika, pogledajte [Microsoft čišćenje raspoređivanja timova](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Ako koristite deljene računare, usluge udaljene radne površine (RDS) ili virtualnu infrastrukturu radne površine (VDI), pogledajte [deljene računarske i Vdi okruženja sa Microsoft timovima](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Ako koristite Office za Mac računar, pogledajte [instalacije Microsoft timova na Mac računaru](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Ako koristite deljene računare, usluge udaljene radne površine (RDS) ili virtualnu infrastrukturu radne površine (VDI), pogledajte [deljene računarske i Vdi okruženja sa Microsoft timovima](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Ako koristite Office za Mac računar, pogledajte [instalacije Microsoft timova na Mac računaru](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Napomena:** Nakon instalacije timova, [automatski se ažurira](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) približno svake dve nedelje novim karakteristikama i kvalitetom kvaliteta. 

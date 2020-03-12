@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157700"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600397"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Penzionisanje zastarelog eDiscovery alata
 
@@ -37,7 +37,7 @@ Kao rezultat nove i poboljšane eDiscovery funkcionalnosti u centru za usaglaša
     - [Setholdonpoštanske sandučići](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonpoštanske sandučiće](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Vremenska osa za penziju**:
 - April 1, 2020: nećete moći da kreirate nove pretrage i zadrškama, ali i dalje možete da pokrećete, uređujete i brišete postojeće pretrage na vlastitu odgovornost. Microsoft podrška više neće podržavati eDiscovery & zauzima u EAC-u.
@@ -46,9 +46,9 @@ Kao rezultat nove i poboljšane eDiscovery funkcionalnosti u centru za usaglaša
 
 **Više informacija potražite u članku**:
 
- - [Migriranje nasleđenih eDiscovery pretraga i zadrška za Microsoft 365 centar za usaglašavanje](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Penzionisanje zastarelog eDiscovery alata](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Najčešća pitanja o eDiscovery i na mestu na kojem se nalazi mesto](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Migriranje nasleđenih eDiscovery pretraga i zadrška za Microsoft 365 centar za usaglašavanje](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Penzionisanje zastarelog eDiscovery alata](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Najčešća pitanja o eDiscovery i na mestu na kojem se nalazi mesto](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

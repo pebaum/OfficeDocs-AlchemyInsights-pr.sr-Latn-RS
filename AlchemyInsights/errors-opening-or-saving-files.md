@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031628"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600146"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Otklanjanje grešaka pri otvaranju ili čuvanju Word datoteka
 
@@ -25,7 +25,7 @@ Ako imate problema sa otvaranjem ili čuvanjem Word dokumenata, pokušajte slede
 - [Instalirajte ispravke za Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Za listu najnovijih ispravki za Office pogledajte [najnovije ispravke](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Rešavanje problema sa oštećenim dokumentima u programu Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Popravljanje Office aplikacije](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Ako dokument sadrži praćene promene, koristite predloge u [programu Word usporava ili prestaje da se odaziva ako postoje prevelike praćene promene ili komentari](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) da biste rešili problem.
+- Ako dokument sadrži praćene promene, koristite predloge u [programu Word usporava ili prestaje da se odaziva ako postoje prevelike praćene promene ili komentari](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) da biste rešili problem.
 
 Ako ste dobili grešku kao što je jedan od sledećih, koristite predloge u [poruci o grešci u sistemu Office kada je datoteka blokirana pomoću postavki smernica registratora](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

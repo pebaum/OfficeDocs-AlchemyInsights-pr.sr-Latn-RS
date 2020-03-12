@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322768"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600578"
 ---
 # <a name="modernize-the-classic-home-page"></a>Osavremeniti klasičnu matičnu stranicu
 
 Novija ispravka za matične stranice lokacije "Klasični SharePoint tim" utiče na matičnu stranicu klasičnih timskih lokacija (ima # 0) kada matična stranica sadrži *isključivo podrazumevane Web segmente* kao što su "prvi koraci", "biblioteka dokumenata" i "Feedovi za vesti".
 
-Pogledajte u šetnju kroz promenu [ovde](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Pogledajte u šetnju kroz promenu [ovde](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Napomena: na lokacijama klasičnih timova koji sadrže prilagođeni sadržaj neće se automatski ažurirati.**
 

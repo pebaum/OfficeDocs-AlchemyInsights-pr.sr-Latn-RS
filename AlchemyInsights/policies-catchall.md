@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274967"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599966"
 ---
 # <a name="teams-policies"></a>Smernice timova
 
@@ -27,7 +27,7 @@ Microsoft postavke timova kontrolišu smernice. Da biste izvršili promenu, mora
 Smernice timova su podeljene u sledeće oblasti:
 
 - [Smernice timova](https://docs.microsoft.com/MicrosoftTeams/teams-policies) kontrolišu korisnika otkrivanja privatnih timova u potrazi i stvaranju privatnih kanala.  
-- [Smernice za sastanke](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolišu šta korisnici mogu da urade sa sastancima timova, uključujući kontrolu lobija. Za pomoć oko lobiranja, kao što je konfigurisanje timova da priznaju sve, vide [kontrolu uvodničkih postavki i nivoa učešća](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Smernice za sastanke](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) kontrolišu šta korisnici mogu da urade sa sastancima timova, uključujući kontrolu lobija. Za pomoć oko lobiranja, kao što je konfigurisanje timova da priznaju sve, vide [kontrolu uvodničkih postavki i nivoa učešća](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Smernice za razmenu poruka](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) kontrolišu šta korisnici mogu da urade sa ćaskanjem i porukama, uključujući Uključivanje ili isključivanje ćaskanja, brisanje razgovora, zahtevanje potvrde o čitanju, korišćenje gipsa i sličica i još mnogo toga.
 - [Smernice za podešavanje aplikacija](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) kontrolišu koje aplikacije su dostupne korisnicima, uključujući i aplikacije za Prilagođeno i treće strane i redosled kojim se oni pojavljuju.  
 - [Smernice za zadržavanje](https://docs.microsoft.com/microsoftteams/retention-policies) podataka za timove se nalaze u centru za bezbednost i usaglašenost sistema Office 365.
