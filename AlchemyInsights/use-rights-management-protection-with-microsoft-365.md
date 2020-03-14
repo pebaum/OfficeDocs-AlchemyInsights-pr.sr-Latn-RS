@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 982079c674e387018dc9f262400b0fc44b4da9fd
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
+ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559158"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42632681"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Korišćenje zaštite za upravljanje pravima sa Microsoft 365
 
-Morate aktivirati uslugu upravljanja pravima (RMS) da biste mogli da koristite funkcije Information Rights Management (IRM) za Office 365 aplikacije i usluge.
+Morate aktivirati [uslugu upravljanja pravima (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) da biste mogli da koristite funkcije Information Rights Management (IRM) za Office 365 aplikacije i usluge.
 
 1. Za zahteve za licenciranje i aktivaciju sa **microsoft 365 admin Center**potražite [u članku kako da aktivirate zaštitu upravljanja pravima iz Microsoft 365 admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365). **Napomena**: potreban je globalni administrativni račun.
 
