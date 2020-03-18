@@ -1,40 +1,49 @@
 ---
-title: Tema "timovi" katchall
+title: Teams tema CatchAll
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: b5394249037e1ccfffa42206940369040eec273a
-ms.sourcegitcommit: 221cec50b7026a8d48a743034658460b17115061
-ms.translationtype: MT
+ms.openlocfilehash: 02dacb9a6126d99c1c95637212d94c3266b230d6
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42371536"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707493"
 ---
-# <a name="teams-common-issues-and-resolutions"></a>Zajedničke teme i rešenja timova
+# <a name="teams-common-issues-and-resolutions"></a>Uobičajeni problemi i rezolucije usluge Teams
 
-Za specifičnije odgovore o pitanju Microsoft timova, ukratko Preformulišite vaše pitanje i uključite sve greške koje vidite ili funkcije koje koristite.
+Da biste dobili specifičniji odgovor, pokušajte da ponovo formulišete svoje pitanje da biste uključili sve greške koje vidite ili Teams funkcije koje koristite.
 
-Ako vam je potrebna pomoć pri pružanju podrške udaljenim radnicima (WFH) sa timovima, pregledajte [pomoćne radnike koji koriste Microsoft timove](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
+Ako vam je potrebna pomoć za raspoređivanje usluge Teams za podršku Radnika na daljinu (WFH) zbog COVID-19, pregledajte [Podrška radnicima na daljinu pomoću aplikacije Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Takođe, možda ćete biti podobni za pomoć u raspoređivanju iz programa Microsoft 365 FastTrack – posetite [FastTrack centar](https://www.microsoft.com/fasttrack) da biste prosledili zahtev.
 
-Evo nekih dodatnih resursa:
+Za sve Teams klijente:
 
-- **Omogući pristup gostu timova:** Pregledajte [listu gostiju pristupa timovima](https://docs.microsoft.com/microsoftteams/guest-access-checklist) i uverite se da su svi koraci dovršeni.
-- **Rešavanje problema sa prijavljivanjem timova:** Najpre se uverite da je [usluga Microsoft timova zdrava](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Zatim proverite da li ima nekih uobičajenih kodova grešaka i redigovanja [Zašto imam problema pri prijavljivanju u Microsoft timove?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Možda će biti potrebno i da pregledate [modele identiteta i potvrdu identiteta u Microsoft timovima](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
-- **Vratite izbrisani tim ili kanal:** 
-    - Pogledajte odeljak [Vraćanje izbrisanih timova u Microsoft timovima](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/).
-    - Izbrisani kanali unutar tima mogu se vratiti u prethodno stanje do 21 dana nakon brisanja kanala. 
-    - Da biste oporavili izbrisani kanal, pogledajte [arhivu ili vraćanje tima u prethodno stanje](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
-- **Vrati izbrisane datoteke u prethodno stanje:** Pogledajte odeljak [oporavak izbrisanih datoteka u timovima](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
-- **Rešavanje problema na tabli za nedostajuće pozivanje:**  
-    - Proverite da li je korisniku dodeljena licenca za [timove](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    - Proverite da li je korisnik ima dodeljen [plan za pozivanje](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    - Omogućite korisnike za [glas u preduzeću](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
-- **Poznati problemi sa timovima:** Pročitajte [poznate probleme za Microsoft timove](https://docs.microsoft.com/microsoftteams/known-issues).
+- **Novi ste u aplikaciji Teams?** Pogledajte [Prvi koraci uz Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+
+- **Omogućite pristup gosta usluzi Teams:** Pregledajte [kontrolne liste pristupa gosta usluzi Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) i proverite da li su svi koraci završeni.
+
+- **[Podešavanje zvučnih konferencija za Teams](https://docs.microsoft.com/alchemyinsights/how-do-i-set-up-audio-conferencing-for-teams)**
+
+- **Rešavanje problema nedostajuće tastature: **  
+
+    - Uverite se da je korisniku dodeljena [Teams licenca](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+
+    - Proverite da li korisnik ima dodeljen[Plan pozivanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).
+
+    - Omogućite korisnicima [za Enterprise Voice](https://docs.microsoft.com/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+
+- **Rešavanje problema prijavljivanja u uslugu Teams:** Prvo, uverite se da je [usluga Microsoft Teams ispravna](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Zatim proverite da li postoje uobičajeni kodovi greške i pregledajte [Zašto imam problema sa prijavljivanjem u Microsoft Teams? ](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)  Možda ćete morati da pregledate i [Modeli identiteta i potvrde identiteta u usluzi Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/identify-models-authentication).
+
+**Za korisnike obrazovanja:**
+
+Ako vaši korisnici vide poruku „Propuštate!“ Uverite ste da [Omogućavanje aplikacije Microsoft Teams za školu](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/enable-microsoft-teams). U EDU zakupcima, aplikacija Microsoft Teams podrazumevano nije omogućena; prvo ćete morati da je uključite.
+
+Zatim, pregledajte[Podučavanje i učenje na daljinu u sistemu Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) da biste saznali najnovije smernice o postavkama škole, planiranju lekcija, virtuelnom sastanku i deljenju sadržaja sa učenicima. 

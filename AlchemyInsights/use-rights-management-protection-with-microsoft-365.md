@@ -1,30 +1,30 @@
 ---
-title: Korišćenje zaštite za upravljanje pravima sa Microsoft 365
+title: Korišćenje usluge Rights Management Protection sa uslugom Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001670"
 - "3737"
-ms.openlocfilehash: 9b0764e6315dba48ad7634a0668468fcff8408f4
-ms.sourcegitcommit: 2561248cfa1a562504183d84e2252deb60e6588a
-ms.translationtype: MT
+- "3820"
+ms.openlocfilehash: e7c28230c90f61dd61b48941786c9218e06b6495
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42632681"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707386"
 ---
-# <a name="use-rights-management-protection-with-microsoft-365"></a>Korišćenje zaštite za upravljanje pravima sa Microsoft 365
+# <a name="use-rights-management-protection-with-microsoft-365"></a>Korišćenje usluge Rights Management Protection sa uslugom Microsoft 365
 
-Morate aktivirati [uslugu upravljanja pravima (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms) da biste mogli da koristite funkcije Information Rights Management (IRM) za Office 365 aplikacije i usluge.
+Morate da aktivirate uslugu [Rights Management (RMS) ](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms)da biste mogli da koristite Information Rights Management (IRM) funkcije Office 365 aplikacija i usluga.
 
-1. Za zahteve za licenciranje i aktivaciju sa **microsoft 365 admin Center**potražite [u članku kako da aktivirate zaštitu upravljanja pravima iz Microsoft 365 admin Center](https://docs.microsoft.com/azure/information-protection/activate-office365). **Napomena**: potreban je globalni administrativni račun.
+1. Za zahteve i aktivaciju licence u **Microsoft 365 centru administracije**, pročitajte članak [Kako da aktivirate Rights Management Protection od Microsoft 365 centra administracije](https://docs.microsoft.com/azure/information-protection/activate-office365). **Napomena**: zahteva globalni nalog administracije.
 
-2. Za zahteve za licenciranje i aktivaciju sa **Azure portala**pogledajte [Kako da aktivirate uslugu zaštite upravljanja pravima sa Azure portala](https://docs.microsoft.com/azure/information-protection/activate-azure). **Napomena**: ne zahteva globalni administratorski nalog.
- 
+2. Za zahteve i aktivaciju licence u **Azure portala**, pročitajte članak [Kako da aktivirate Rights Management uslugu zaštite od Azure portala](https://docs.microsoft.com/azure/information-protection/activate-azure). **Napomena**: ne zahteva globalni administratorski nalog.
 
-Više informacija potražite u članku [pokazivači za informacije o upravljanju pravima u okviru administratorskog centra](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).
+Više informacija potražite u članku [Pokazivači do informacija o usluzi Right Management u centru administracije](https://docs.microsoft.com/office365/enterprise/activate-rms-in-office-365).

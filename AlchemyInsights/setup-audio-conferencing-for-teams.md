@@ -1,5 +1,5 @@
 ---
-title: Kako da podesim audio konferenciju za Teams
+title: Podešavanje zvučnih konferencija za Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "2711"
-- "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+- "3183"
+ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692409"
+ms.locfileid: "42707735"
 ---
-# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – audio konferencija
+# <a name="setup-audio-conferencing-for-teams"></a>Podešavanje zvučnih konferencija za Teams
 
-Da li vam je potrebna pomoć da uključite ili podesite audio konferenciju u usluzi Microsoft Teams? Da li je ovaj korisnik nedavno napravljen?  Ako je to slučaj, moraćete da sačekate 2–24 časa da bi postavke stupile na snagu.    
+**Microsoft Teams – audio konferencija**
+
+Da li vam je potrebna pomoć da uključite ili podesite audio konferenciju u usluzi Microsoft Teams?
+
+Da li je ovaj korisnik nedavno kreiran?  Ako je to slučaj, moraćete da sačekate 2–24 časa da bi postavke stupile na snagu.
 
 Da biste proverili da li je korisnik licenciran za audio konferenciju i da li ima podrazumevani broj sa naplatom:
 
@@ -31,7 +34,7 @@ Da biste proverili da li je korisnik licenciran za audio konferenciju i da li im
 
 3. Potvrdite da je korisnik izabrao licence za **Audio konferencije, Microsoft Teams** i **Skype za posao Online (plan 2)**.
 
-4. U okviru **Centri administracije** kliknite na dugme **Prikaži sve**, a zatim izaberite stavku **Teams**.
+4. U okviru korisničkog **Centra administracije** kliknite na dugme **Prikaži sve**, a zatim**Teams**.
 
 5. U **Microsoft Teams centru administracije** izaberite stavku **Zastareli portal**.
 
@@ -39,4 +42,4 @@ Da biste proverili da li je korisnik licenciran za audio konferenciju i da li im
 
 7. Izaberite korisnika koji je u pitanju i proverite da li on ima **podrazumevani broj sa naplatom**.
 
-Više informacija potražite u članku [Planovi pozivanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu da bi vam pomogao sa pitanjima u vezi sa licenciranjem.
+Više informacija potražite u članku [Planovi pozivanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.
