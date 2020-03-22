@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959508"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891763"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook ne može da se poveže sa javnim fasciklama
 
-Ako pristup javnoj fascikli ne funkcioniše za nekoliko korisnika, pokušajte sledeće:
+Ako pristup javnoj fascikli ne funkcioniše za neke korisnike, pokušajte sledeće:
 
-Povežite se sa EXO PowerShell i konfigurišite DefaultPublicFolderMailbox na korisničkom nalogu problema da bi se podudarali sa jednim na radnom korisničkom računu.
+Povežite se sa EXO PowerShell i konfigurišite parametar DefaultPublicFolderMailbox na korisničkom računu za ovaj problem da bi se podudarali sa parametrom na radnom korisničkom računu.
 
 Primer:
 
@@ -31,3 +31,5 @@ Get-poštansko sanduče | FT DefaultPublicFolderMailbox, EffectivePublicFolderMa
 Set-poštansko sanduče-problem korisnik \<-DefaultPublicFolderMailbox vrednost iz prethodne komande>
 
 Sačekajte najmanje jedan sat da bi promena stupila na snagu.
+
+Ako problem i dalje postoji, sledite [ovaj postupak](https://aka.ms/pfcte) da biste rešili probleme sa pristupom javne fascikle pomoću programa Outlook.
