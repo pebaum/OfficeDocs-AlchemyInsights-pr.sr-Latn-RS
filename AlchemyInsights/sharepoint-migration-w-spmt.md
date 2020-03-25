@@ -12,14 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 49f8a4ee2b78f158ec1ce5ca7da84f6fbfff0d14
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: e7719d1fc6dda0d5bd340775219401dade2933fe
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122977"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931564"
 ---
 # <a name="sharepoint-migration-with-spmt"></a>SharePoint migracija sa SPMT
+
+**Važno**: mnogi korisnici usluge SharePoint Online i OneDrive pokreću poslovne aplikacije u odnosu na uslugu koja se pokreće u pozadini. Ovo uključuje migraciju sadržaja, sprečavanje gubitka podataka (DLP) i rešenja za rezervno kopiranje. U ovim vremenima bez presedana preduzimamo korake da bismo obezbedili da SharePoint Online i usluge OneDrive budu veoma dostupne i pouzdane za korisnike koji zavise od usluge u udaljenim radnim scenarijima.
+
+U cilju podrške ovom cilju, Implementirao sam strožije limite na aplikacije u pozadini (migracioni, DLP i Backup rešenja) tokom dana u danima u sedmici. Trebalo bi da očekujete da će ove aplikacije ostvariti veoma ograničenu propusnost tokom ovih vremena. Međutim, tokom večeri i vikenda u regionu, usluga će biti spremna da obradi znatno veći obim zahteva iz aplikacija u pozadini.
+
+**Alatka za SharePoint migraciju**
 
 Dizajniran da se koristi za migraciju koje se kreću od najmanjeg skupa datoteka do velikog obima migracije preduzeća, alatka za SharePoint migraciju će vam omogućiti da prenesete informacije u oblak i iskoristite najnoviju saradnju, obaveštajne podatke i bezbednosna rešenja sa Office-om 365.
 

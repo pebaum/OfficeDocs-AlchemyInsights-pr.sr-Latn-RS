@@ -1,5 +1,5 @@
 ---
-title: Dip ne rade kako je očekivano
+title: DLP ne radi na očekivani način
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530307"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932636"
 ---
-# <a name="dlp-not-working-as-expected"></a>Dip ne rade kako je očekivano
+# <a name="dlp-not-working-as-expected"></a>DLP ne radi na očekivani način
 
-Imate li problema sa **Podacima gubitak prevencije (Dip)** u Office 365, ne rade kako je očekivano. Ako je tako, pobrini se da tvoja **politika i Uroniti** ispravno podešen i da vaši podaci sadrže kakva **politika i Uroniti** je u potrazi za kada ga je proračunavanja.
+**Važno**: mnogi korisnici usluge SharePoint Online i OneDrive pokreću poslovne aplikacije u odnosu na uslugu koja se pokreće u pozadini. Ovo uključuje migraciju sadržaja, sprečavanje gubitka podataka (DLP) i rešenja za rezervno kopiranje. U ovim vremenima bez presedana preduzimamo korake da bismo obezbedili da SharePoint Online i usluge OneDrive budu veoma dostupne i pouzdane za korisnike koji zavise od usluge u udaljenim radnim scenarijima.
+
+U cilju podrške ovom cilju, Implementirao sam strožije limite na aplikacije u pozadini (migracioni, DLP i Backup rešenja) tokom dana u danima u sedmici. Trebalo bi da očekujete da će ove aplikacije ostvariti veoma ograničenu propusnost tokom ovih vremena. Međutim, tokom večeri i vikenda u regionu, usluga će biti spremna da obradi znatno veći obim zahteva iz aplikacija u pozadini.
+
+ **Podešavanje DLP-a**
+
+Da li imate problema sa **sprečavanjem gubitka podataka (DLP)** u sistemu Office 365 ne radi na očekivani način? Ako je tako, uverite se da je vaša **smernica za dlp** ispravno podešena i da podaci sadrže ono što ova **smernica za dlp** traži kada se proceni.
   
- **Podešavanje i Uroniti**
+DLP smernice vam omogućavaju da identifikujete i zaštitite osetljive informacije u vašoj organizaciji. Da biste mogli da podesite DLP smernice, koristite [ovde](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)informacije.
   
-Uroniti politika vam omogućava da identifikujete i zaštiti poverljive informacije u vašoj organizaciji. Za podešavanje i Uroniti politike, koristite informacije [ovde](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+ **Koje DLP smernice traže**
   
- **Potražite i Uroniti politike**
+Prilikom korišćenja **ugrađenih tipova informacija** u sistemu Office 365 Security i centar za usaglašenost, dlp smernice traže određene šare i elemente kada otkrivaju ove osetljive tipove.
   
-Kada koristite **ugrađenu poverljive informacije tipa** u Office 365 sigurnosti i usklađenosti centar, politike i Uroniti izgledati za određene obrasce i elemente otkrivanje ove osetljive tipove.
+- **Ugrađeni tipovi osetljivih informacija**
+
+    Za informacije o ugrađenim tipovima osetljivih tipova i o tome kako izgleda DLP smernica za otkrivanje osetljivih tipova, pogledajte: [koje tipove osetljivih informacija tražite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+
+- **Prilagođeni tipovi poverljivih informacija**
+
+    Ako pokušavate da kreirate prilagođene tipove poverljivih podataka, koristite sledeći članak za informacije o tome kako da kreirate prilagođeni tip osetljive prirode: [Kreirajte prilagođeni tip poverljivih informacija](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+
+**Testiranje smernica za DLP**
+
+Da biste testirali podatke pomoću ugrađenog ili prilagođenog tipa sa osetljivim informacijama, koristite opciju " **tip testa** " u okviru liste sa**osetljivim informacijama o** **klasifikaciji** > . Za više informacija pogledajte odeljak [testiranje prilagođenih osetljivih tipova informacija](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+
+ **Izveštaje**
   
-- **Tipovi ugrađeni poverljive informacije**
+- Dobijte osetljive podatke u vezi sa [Dlp izveštajima.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-    Za informacije o tipovima ugrađenih osetljiva i su se traži Uroniti politiku kada otkrivanje senzitivan tip, pogledajte: [kakva su tipovi poverljive informacije potražite](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
-
-- **Tipovi prilagođeni poverljive informacije**
-
-    Ako pokušavate da kreirate prilagođeni poverljive informacije tipa, koristite sledeći članak za informacije o tome kako da kreirate prilagođeni osetljivi tip: [Kreiraj prilagođeni poverljive informacije tip](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
-
-**Testiranje i Uroniti politiku**
-
-Da biste testirali vaše podatke sa tipom ugrađene ili prilagođene poverljive informacije, koristite opciju za **testiranje tipa** pod **klasifikacija** > **tipovi osetljivih informacija**. Više informacija potražite u [Test vrste prilagođenih poverljive informacije](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
-
- **Izveštaji**
-  
-- Dobiti uvid osetljive podatke sa [i Uroniti izveštajima.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
-
-- Videti određene detalje događaja je [Izveštaj o incidentu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Pogledajte detaljne detalje o događaju sa [izveštajem o incidentu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).

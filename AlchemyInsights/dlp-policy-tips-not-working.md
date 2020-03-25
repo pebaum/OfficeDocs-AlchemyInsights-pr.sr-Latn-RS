@@ -1,5 +1,5 @@
 ---
-title: I Uroniti politiku savjete ne radi
+title: Saveti za smernice za DLP ne rade
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530329"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932600"
 ---
-# <a name="dlp-policy-tip-issues"></a>I Uroniti politiku napojnicu pitanjima
+# <a name="dlp-policy-tip-issues"></a>Problemi sa savete za DLP smernice
 
-Kada koristite **Uroniti politike**, korisnici mogu biti obavešten o prekršaj politike sa **politike napojnice**. Admini možete da konfigurišete smernice Savjeti za prikazivanje tokom testiranja njihova politika i Uroniti ili kada je politika u režimu potpuno sprovođenje.
+**Važno**: mnogi korisnici usluge SharePoint Online i OneDrive pokreću poslovne aplikacije u odnosu na uslugu koja se pokreće u pozadini. Ovo uključuje migraciju sadržaja, sprečavanje gubitka podataka (DLP) i rešenja za rezervno kopiranje. U ovim vremenima bez presedana preduzimamo korake da bismo obezbedili da SharePoint Online i usluge OneDrive budu veoma dostupne i pouzdane za korisnike koji zavise od usluge u udaljenim radnim scenarijima.
+
+U cilju podrške ovom cilju, Implementirao sam strožije limite na aplikacije u pozadini (migracioni, DLP i Backup rešenja) tokom dana u danima u sedmici. Trebalo bi da očekujete da će ove aplikacije ostvariti veoma ograničenu propusnost tokom ovih vremena. Međutim, tokom večeri i vikenda u regionu, usluga će biti spremna da obradi znatno veći obim zahteva iz aplikacija u pozadini.
+
+**Savete za DLP smernice**
+
+Kada koristite **Dlp smernice**, korisnici mogu biti obavešteni o kršenju pravila sa **savetima za smernice**. Administratori mogu da konfigurišu savete za smernice koji će se prikazivati prilikom testiranja njihovih DLP smernica ili kada je smernica u režimu potpunog sprovođenja.
   
-Da biste konfigurisali politiku savjete o politici i Uroniti u centru za sigurnost i usaglašenost u potpuno sprovođenje režimu, postupite na sledeći način:
+Postupite na sledeći način da biste podesili savete za smernice u okviru "DLP" smernica u centru za bezbednost i usaglašenost u režimu potpunog sprovođenja.
   
-- Uverite se da politika savjete bilo **omogućeno** na Dip pravilo pomoću koraka [ovde](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- Uverite se da su saveti za smernice **omogućeni** u pravilu "dlp" koristeći korake koje [ovde](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)koristite.
 
-- Uverite se tvoj **sadržaj odgovara** šta je **potrebno** da aktivira pravilo navedeni u ovom članku [ovde](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Uverite se da se **sadržaj podudara sa** onim što je **potrebno** za aktiviranje pravila iznetih u [ovom članku.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
 
-- Politika saveti prikazuju u OWA i Outlook. Međutim, kada koristite **Outlook 2013 ili noviji**, politika napojnice su prikazana samo pod određenim uslovima. Ovi Uslovi navedeni su ovde: [podržani uslove za Outlook 2013 ili kasnije za prikazivanje politiku saveti](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Saveti za smernice prikazuju se u OWI i Outlook. Međutim, ako koristite **Outlook 2013 ili noviji**, saveti za smernice su prikazani samo pod određenim uslovima. Ovi uslovi su ovde navedeni: [podržani uslovi za Outlook 2013 ili noviji za prikazivanje saveta o smernicama](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
 
-Za dodatne informacije o Uroniti politiku savjete, vidi: [Prikaži savete smernice za politiku i Uroniti](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+Za dodatne informacije o tasterskim savetima za DLP smernice pogledajte odeljak: [Prikazivanje saveta za smernice za DLP smernice](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
