@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856481"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030414"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Uobičajeni problemi i rezolucije usluge Teams
+
+**Važno**: Zbog nedavnog povećanja korišćenja usluge Teams, kada dodelite Teams licencu korisniku možda će proći oko 24 sata pre nego što bude potpuno podešena. Do tada nećete moći da im dodelite Teams smernice i možda neće imati pristup nekim Teams funkcijama poput pozivanja i audio konferencije.
+
+**Uobičajeni problemi i rešenja**
 
 Da biste dobili specifičniji odgovor, pokušajte da ponovo formulišete svoje pitanje da biste uključili sve greške koje vidite ili Teams funkcije koje koristite.
 
