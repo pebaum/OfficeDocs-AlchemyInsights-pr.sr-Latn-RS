@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 10a0069c41d2e5128b2592425d815364a83b730f
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932492"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42958552"
 ---
 # <a name="general-migration-performance-guidance"></a>Opšta uputstva za performanse migracije
 
-**Važno**: Mnogi SharePoint Online i OneDrive klijenti pokreću aplikacije koje su kritične za poslovanje u odnosu na usluge koje se pokreću u pozadini. One uključuju rešenja za migraciju sadržaja, sprečavanje gubitka podataka (DLP) i pravljenje rezervne kopije. Tokom tih jedinstvenih vremena, preduzimamo korake da obezbedimo da SharePoint Online i OneDrive usluge ostanu u velikoj meri dostupne i pouzdane za vaše korisnike koji više nego ikada zavise od usluge u scenarijima daljinskog rada.
-
-Kao podršku za ovaj cilj, primenili smo stroža ograničenja na aplikacije u pozadini (rešenja za migraciju, DLP i pravljenje rezervne kopije) tokom dana radnim danima. Trebalo bi da očekujete da će ove aplikacije imati vrlo ograničen protok u tim vremenima. Međutim, tokom večeri i vikendom nedeljno u vašem regionu, usluga će biti spremna za obradu znatno većih količina zahteva iz aplikacija u pozadini.
+**Važno**: Tokom ovih jedinstvenih vremena, preduzimamo sve korake da bismo se uverili da će usluge SharePoint Online i OneDrive ostati dostupne u najvećoj meri – više informacija potražite u članku [Privremena prilagođavanja funkcija u usluzi SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Uputstva za performanse migracije**
 
