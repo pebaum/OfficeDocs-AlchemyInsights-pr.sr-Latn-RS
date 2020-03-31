@@ -1,5 +1,5 @@
 ---
-title: Ažuriranje detalja o plaćanju
+title: Ažuriranje informacija o kreditnoj kartici
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921828"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059894"
 ---
-# <a name="update-payment-details"></a>Ažuriranje detalja o plaćanju
+# <a name="update-credit-card-information"></a>Ažuriranje informacija o kreditnoj kartici
 
 1. U Microsoft 365 centru administracije, idite na stranicu **Naplata** \> [Načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806)stranicu.
 
