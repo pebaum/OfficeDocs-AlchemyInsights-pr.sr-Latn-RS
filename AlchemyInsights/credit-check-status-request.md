@@ -1,5 +1,5 @@
 ---
-title: Zahtev za kredit potvrdu statusa
+title: Zahtev za status potvrde o kreditu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: bd359cff76ef943b90157140888963282e9a5ce3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c7489cd4e37cc7a55c0db597aabc96c3a8592d0f
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386526"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105289"
 ---
-# <a name="credit-check-status-request"></a>Zahtev za kredit potvrdu statusa
+# <a name="credit-check-status-request"></a>Zahtev za status potvrde o kreditu
 
-Tvoj red je neobrađeni kreditne verifikacije. Ovo je normalno dovršiti za manje od 24 sata, ali može trajati do 48 sati. Kada bude završena, status vaše pretplate će promeniti na čekanju da aktivno, a usluga će biti dostupna za upotrebu.
+Vaša porudžbina čeka potvrdu kreditnog potraživanja. Ovo se obično završi za manje od 24 časa, ali može da potraje do 48 časova. Kada dovršite, status pretplate će se promeniti iz statusa "Neobrađeno" u "aktivno", a usluge će biti dostupne za upotrebu.
+
+Više informacija potražite u članku [kada je moguće zahtevati kreditnu proveru](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).

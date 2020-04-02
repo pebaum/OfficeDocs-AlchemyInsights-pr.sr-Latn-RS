@@ -11,14 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 0775f12d3778f1f6f7a53ec47ddb8f0cd71dc1af
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376811"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105361"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Zakažite sastanak u timovima
+
+**Važno**: Ako imate problema sa kreiranjem sastanka ili ne možete da pronađete opciju za sastanak u timovima, uverite se da [su korisnici koji su na mreži povezani sa Exchange online poštanskim sandučetom i da je poštansko sanduče omogućeno](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
 Sastanak možete zakazati na dva načina: 
 
@@ -29,4 +31,6 @@ Slično zakazivanju sastanka u programu Outlook, dobićete svoj sastanak kao nas
 
 Sa desne strane obrasca za planiranje možete da dodate kanal ili pojedinačne osobe ili da ostavite oba prazna da biste planirali privatnu zakazanu obavezu.
 
-Više informacija o kreiranju i zakazivanju sastanaka u Microsoft timovima potražite [u članku planiranje sastanka u timovima](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+- Više informacija o kreiranju i zakazivanju sastanaka u Microsoft timovima potražite [u članku planiranje sastanka u timovima](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+- Za ograničenja i specifikacije za sastanke pogledajte odeljak [ograničenja i specifikacije za Microsoft timove](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
