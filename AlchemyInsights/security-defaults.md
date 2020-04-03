@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682271"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118389"
 ---
 # <a name="security-defaults"></a>Podrazumevane vrednosti bezbednosti
 
-Upravljanje bezbednošću može da bude teško kada se sve češće napadi vezani za identitet postanu sve popularniji. Ovi napadi uključuju sprej za lozinke, ponovno Reprodukuj i phishing.
+Za informacije o postavkama bezbednosti, pogledajte [Šta su podrazumevane vrednosti bezbednosti?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
 Podrazumevane vrednosti bezbednosti u Azure aktivnom direktorijumu (Azure oglasa) olakšavaju bezbednost i zaštitu vaše organizacije. Podrazumevane postavke bezbednosti sadrže unapred podešene bezbednosne postavke za uobičajene napade.
 
-Microsoft čini dostupne bezbednosne podrazumevane vrednosti. Cilj je da se osigura da sve organizacije imaju osnovni nivo bezbednosti koji je omogućen bez dodatnih troškova. Uključićete bezbednosne postavke na Azure portalu. Za više informacija o podrazumevanim postavkama bezbednosti, pogledajte [Šta su podrazumevane vrednosti bezbednosti?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+Microsoft čini dostupne bezbednosne podrazumevane vrednosti. Cilj je da se osigura da sve organizacije imaju osnovni nivo bezbednosti koji je omogućen bez dodatnih troškova. Uključićete bezbednosne postavke na Azure portalu.
