@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034393"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143009"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Prvi koraci sa Teams događajima uživo
 
@@ -24,7 +24,7 @@ Microsoft Teams događaji uživo su produženje Teams sastanaka koji omogućavaj
 
 Da biste kreirali događaj uživo treba vam sledeće:
 
-- [Office 365 Enterprise E1, E3 ili E5 licenca ili Office 365 A3 ili A5 licenca](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- [Office 365 Enterprise E1, E3 ili E5 licenca ili Office 365 A3 ili A5 licenca](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Važno**: Zbog nedavnog povećanja korišćenja usluge Teams, kada dodelite Teams licencu korisniku možda će proći oko 24 sata pre nego što bude potpuno podešena. Do tada nećete moći da im dodelite Teams smernice i možda neće imati pristup nekim Teams funkcijama poput pozivanja i audio konferencije.
 
 - Dozvola za [kreiranje događaja uživo u Microsoft Teams administratorskom centru](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
