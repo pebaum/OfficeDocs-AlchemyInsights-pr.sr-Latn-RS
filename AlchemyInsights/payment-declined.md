@@ -11,25 +11,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "3564"
 - "9001506"
-ms.openlocfilehash: dc4c4f55a16fb14dd76f47e23672dc04073fbe61
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: 3fadef232adfbb71769c089bb5a0d3ae9c70711d
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164182"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160830"
 ---
-# <a name="update-or-add-a-new-payment-method"></a><span data-ttu-id="b0fb9-102">Ažuriranje ili Dodavanje novog načina plaćanja</span><span class="sxs-lookup"><span data-stu-id="b0fb9-102">Update or add a new payment method</span></span>
+# <a name="payment-declined"></a><span data-ttu-id="b4fcf-102">Plaćanje je odbijeno</span><span class="sxs-lookup"><span data-stu-id="b4fcf-102">Payment declined</span></span>
 
-1. <span data-ttu-id="b0fb9-103">Idite na račun za **naplatu** > **&** > stranicu "<a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">načini plaćanja</a> ".</span><span class="sxs-lookup"><span data-stu-id="b0fb9-103">Go to the **Billing** > **Bills & Payments** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2018806" target="_blank">Payment methods</a> page.</span></span>
-2. <span data-ttu-id="b0fb9-104">Izaberite opciju **Dodaj metod plaćanja** ili izaberite karticu ili račun u banci da biste ažurirali i izabrali stavku **Uredi**.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-104">Select **Add a payment method** or pick the card or bank account to update and select **Edit**.</span></span>
-3. <span data-ttu-id="b0fb9-105">Ažurirajte informacije o metodu plaćanja (ime na kartici ili računu u banci, adresu fakturisanja, broj telefona ili datum prestanka važenja), a zatim kliknite na dugme **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-105">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then select **Save**.</span></span>
-4. <span data-ttu-id="b0fb9-106">Ne zaboravite da promenite način plaćanja pretplate na ovaj novi način plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-106">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="b0fb9-107">Uputstva o tome kako da ovo uradite nalaze se u sledećem odeljku.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-107">Instructions on how to do this are in the next section.</span></span>
+<span data-ttu-id="b4fcf-103">Microsoft će pokušati da naplati vašu karticu više puta u 3-4 sedmica posle datuma fakture.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-103">Microsoft will attempt to charge your card multiple times in the 3-4 weeks after the invoice date.</span></span>  <span data-ttu-id="b4fcf-104">Ako ste primili samo jedno ili dva obaveštenja o odbijanju za ovaj period fakturisanja, Microsoft će automatski pokušati da ponovo naplati instrument plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-104">If you have received only one or two decline notices for this billing period, Microsoft will automatically attempt to charge your payment instrument again.</span></span>  
 
-<span data-ttu-id="b0fb9-108">Ako ste dodali novu karticu, a i dalje dobijate obaveštenje na staru kreditnu karticu, možda ćete morati da je povežete sa tom novom karticom.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-108">If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card to the subscription.</span></span>
+<span data-ttu-id="b4fcf-105">**Važno**: Ako ste dodali novu karticu, a i dalje dobijate obaveštenje na staru kreditnu karticu, možda ćete morati da povežete novu karticu sa pretplatom.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-105">**Important**: If you've added a new card and you are still getting a decline notice on the old credit card, you may need to associate that new card with the subscription.</span></span>
 
-1. <span data-ttu-id="b0fb9-109">Idite u proizvode za **naplatu** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">& usluge</a></span><span class="sxs-lookup"><span data-stu-id="b0fb9-109">Go to **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Products & services</a></span></span>
-2. <span data-ttu-id="b0fb9-110">Izaberite pretplatu koju želite da platite novom karticom ili računom u banci.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-110">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="b0fb9-111">U odeljku **naplata** , pored načina plaćanja, izaberite stavku **Uredi**.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-111">Under the **Billing** section, next to the payment method, select **Edit**.</span></span>
-3. <span data-ttu-id="b0fb9-112">Izaberite stavku **Promeni** pored trenutnog načina plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-112">Select **Change** next to the current payment method.</span></span>
-4. <span data-ttu-id="b0fb9-113">Iz padajućeg menija izaberite alternativni način plaćanja ili dodajte novi način plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b0fb9-113">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+1. <span data-ttu-id="b4fcf-106">Idite na **naplatu > [proizvodima & uslugama](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-106">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-[<span data-ttu-id="b0fb9-114">Dodavanje, ažuriranje ili uklanjanje metoda plaćanja</span><span class="sxs-lookup"><span data-stu-id="b0fb9-114">Add, update, or remove your payment methods</span></span>](https://go.microsoft.com/fwlink/?linkid=2118133)
+2. <span data-ttu-id="b4fcf-107">Izaberite pretplatu koju želite da platite novom karticom ili računom u banci.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-107">Select the subscription that you want to pay with the new card or bank account.</span></span> <span data-ttu-id="b4fcf-108">U odeljku **naplata** , pored načina plaćanja, kliknite na dugme **Uredi**.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-108">Under the **Billing** section, next to the payment method, click **Edit**.</span></span>
+
+3. <span data-ttu-id="b4fcf-109">Kliknite na dugme **Promeni** pored trenutnog načina plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-109">Click **Change** next to the current payment method.</span></span>
+
+4. <span data-ttu-id="b4fcf-110">Iz padajućeg menija izaberite alternativni način plaćanja ili dodajte novi način plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-110">From the drop-down menu, select an alternate payment method, or add a new payment method.</span></span>
+
+<span data-ttu-id="b4fcf-111">**Ažuriranje ili Dodavanje novog načina plaćanja**</span><span class="sxs-lookup"><span data-stu-id="b4fcf-111">**Update or add a new payment method**</span></span>
+
+1. <span data-ttu-id="b4fcf-112">Idite na **račune > fakturisanja & plaćanja na stranici " [načini plaćanja](https://go.microsoft.com/fwlink/p/?linkid=2018806) >** ".</span><span class="sxs-lookup"><span data-stu-id="b4fcf-112">Go to the **Billing > Bills & Payments > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)** page.</span></span>
+
+2. <span data-ttu-id="b4fcf-113">Izaberite stavku **Dodaj način plaćanja**, izaberite karticu ili račun u banci da biste ažurirali i kliknite na dugme **Uredi**.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-113">Click **Add a payment method**, pick the card, or bank account to update and click **Edit**.</span></span>
+
+3. <span data-ttu-id="b4fcf-114">Ažurirajte informacije o metodu plaćanja (ime na kartici ili računu u banci, adresu fakturisanja, broj telefona ili datum prestanka važenja), a zatim kliknite na dugme **Sačuvaj**.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-114">Update your payment method information (name on the card or bank account, billing address, phone number, or expiration date), then click **Save**.</span></span>
+
+4. <span data-ttu-id="b4fcf-115">Ne zaboravite da promenite način plaćanja pretplate na ovaj novi način plaćanja.</span><span class="sxs-lookup"><span data-stu-id="b4fcf-115">Remember to change how you are paying for your subscription(s) to this new payment method.</span></span> <span data-ttu-id="b4fcf-116">Za više informacija pogledajte članak [Dodavanje, ažuriranje ili uklanjanje načina plaćanja](https://go.microsoft.com/fwlink/?linkid=2118133).</span><span class="sxs-lookup"><span data-stu-id="b4fcf-116">For more info, see [Add, update, or remove your payment methods](https://go.microsoft.com/fwlink/?linkid=2118133).</span></span> 
