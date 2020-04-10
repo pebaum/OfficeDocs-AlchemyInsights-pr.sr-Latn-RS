@@ -1,5 +1,5 @@
 ---
-title: Proširivanje probnog perioda za Office 365 za poslovne
+title: Proširite probnu verziju sistema Office 365 za posao
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665018"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207351"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Proširivanje probnog perioda za Office 365 za poslovne
+# <a name="extend-your-trial-for-office-365-for-business"></a>Proširite probnu verziju sistema Office 365 za posao
 
-Ako vaša Probna pretplata je u roku od 15 dana nestaju, a suđenje nije proširen ranije, možete da proširite svoje suđenje za drugi period od 30 dana. Zar se ovaj put.
+Probnu verziju možete produžiti za period od 30 dana. Ovo možete da uradite samo jedanput.
   
-1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. U okviru administratorskog centra idite na proizvode za **naplatu** \> [& usluge](https://portal.office.com/adminportal/home#/subscriptions).
 
-2. Odaberite probnu pretplatu koju želite da proširite.
+2. Izaberite probnu pretplatu koju želite da proširite.
 
-3. U odeljku **sekcije & radnje** , odaberite **Proširi suđenja** i dovršite preostale korake.
+3. Kliknite na dugme " **Proširi suđenje** " i dovršite korake u čarobnjaku.
 
-4. Potrebno je da navedete informacije o kreditnoj kartici da proširi probnog perioda. Nećemo zadužiti kreditnom karticom za proširenje na suđenje.
+4. Potrebno je da navedete informacije o kreditnoj kartici da biste proširili probnu verziju. Za produženje suđenja nećemo naplatiti vašu kreditnu karticu.
 
-Da biste saznali više, pogledajte [Proširi probnog perioda za Office 365 za poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Da biste saznali više o produženju probnog ili uputstvima "korak po korak", pogledajte odeljak " [produži probnu verziju sistema Office 365 za posao](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)".

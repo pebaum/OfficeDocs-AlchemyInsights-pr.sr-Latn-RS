@@ -1,5 +1,5 @@
 ---
-title: Kako da dodate ili smanjite licence
+title: Kako dodati ili smanjiti licence
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664298"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207387"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Kako da dodate ili smanjite licence
+# <a name="how-to-add-or-reduce-licenses"></a>Kako dodati ili smanjiti licence
 
-Evo kako da uklonite Office 365 licenci ili da kupite više licenci.
+Evo kako da dodate/uklonite licence.
   
-1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. Krećite se do **naplate > [Pretplata](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Odaberite pretplatu iz kojih želite da Dodavanje/uklanjanje licence.
+2. Odaberite pretplatu sa koje želite da dodate/uklonite licence.
 
-3. Izaberite **Dodaj/ukloni licence**.
+3. Kliknite na dugme **Dodaj/ukloni licence**.
 
-4. Unesite ukupan broj korisnika potrebna.
+4. Unesite ukupan broj potrebnih korisnika. Na primer, ako trenutno imate 25 licenci i želite da uklonite 5, unesite 20 u ovo polje.
 
-    Na primer, ako trenutno imate 25 licence, a želite da uklonite 5, u ovo polje unesite samo 20.
+5. Kliknite na dugme **Prosledi promenu**.
 
-5. Odaberite **prosleđivanja promena**.
+**Napomena**: svaki novi trošak (povećanje licence) ili potraživanje (smanjenje licence) će se pojaviti na vašem sledećem računu.
 
-> [!NOTE]
-> Svaki novi trošak (licenca povećanje) ili potraživanja (smanjenje licence) će se pojaviti na tvoj slijedeći račun.
+Za informacije o dodeljiranju licenci pogledajte odeljak [dodeljivanje licenci korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Da biste saznali više, vidim da [kupim licence za svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Dodatni resursi**
+ **Resurse**
   
-- [Uklanjanje licence iz svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Upravljaj licencama za pretplatu-kupite ili uklonite](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Otkazati Office 365 za poslovne](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Otkaži Office 365 za posao](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Kupi drugi Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Kupite drugu Office 365 za poslovnu pretplatu](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
