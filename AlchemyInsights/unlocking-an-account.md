@@ -11,27 +11,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 7a1629c43fbb263439515e5e2c9dff53ab26d667
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
+ms.openlocfilehash: f66eb26df12412162e6f092c2528138bb30b7eb2
+ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211624"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "43231433"
 ---
-# <a name="unlocking-an-account"></a><span data-ttu-id="7a7d2-102">Otključavanje naloga</span><span class="sxs-lookup"><span data-stu-id="7a7d2-102">Unlocking an account</span></span>
+# <a name="unlocking-an-account"></a><span data-ttu-id="eb62e-102">Otključavanje naloga</span><span class="sxs-lookup"><span data-stu-id="eb62e-102">Unlocking an account</span></span>
 
-<span data-ttu-id="7a7d2-103">Moguće je da su korisnici izgubili pristup sistemu Office 365 zbog kucanja pogrešne lozinke.</span><span class="sxs-lookup"><span data-stu-id="7a7d2-103">It's possible users are locked out of Office 365 due to bad password attempts.</span></span> <span data-ttu-id="7a7d2-104">Da pomognete korisnicima da se ponovo prijave u Microsoft 365, možete pokušati da uradite sledeće korake.</span><span class="sxs-lookup"><span data-stu-id="7a7d2-104">To help users sign back in to Microsoft 365, you can attempt the following steps.</span></span>
+<span data-ttu-id="eb62e-103">Moguće je da su korisnici izgubili pristup sistemu Office 365 zbog kucanja pogrešne lozinke ili drugih stvari koje ugrožavaju bezbednost.</span><span class="sxs-lookup"><span data-stu-id="eb62e-103">It's possible users are locked out of Office 365 due to bad password attempts or other compromises.</span></span> <span data-ttu-id="eb62e-104">Da pomognete korisnicima da se ponovo prijave u Microsoft 365, **možete pokušati da uradite sledeće korake pre nego što otvorite Zahtev za podršku**.</span><span class="sxs-lookup"><span data-stu-id="eb62e-104">To help users sign back in to Microsoft 365, **you can attempt the following steps before opening a Support Request**.</span></span> 
 
-<span data-ttu-id="7a7d2-105">**Poništi korisničku lozinku**</span><span class="sxs-lookup"><span data-stu-id="7a7d2-105">**Reset the User Password**</span></span>
+<span data-ttu-id="eb62e-105">**Ograničena e-pošta**</span><span class="sxs-lookup"><span data-stu-id="eb62e-105">**Email Restricted**</span></span>
 
-1. <span data-ttu-id="7a7d2-106">U centru administracije izaberite stavke **Korisnici[ Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span><span class="sxs-lookup"><span data-stu-id="7a7d2-106">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+<span data-ttu-id="eb62e-106">Kao administrator, ako nekom od vaših korisnika bude onemogućeno slanje e-pošte, možete [sami da deblokirate nalog](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span><span class="sxs-lookup"><span data-stu-id="eb62e-106">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam).</span></span> <span data-ttu-id="eb62e-107">Korisnik će moći da pošalje e-poštu u roku od sat vremena nakon što ukloni ograničenje.</span><span class="sxs-lookup"><span data-stu-id="eb62e-107">The user will be able to send email within an hour after removing the restriction.</span></span>
 
-2. <span data-ttu-id="7a7d2-107">Izaberite korisnika i kliknite na **poništite lozinku**.</span><span class="sxs-lookup"><span data-stu-id="7a7d2-107">Select the user and click **Reset Password**.</span></span>
+<span data-ttu-id="eb62e-108">**Poništavanje korisničke lozinke**</span><span class="sxs-lookup"><span data-stu-id="eb62e-108">**Reset the User Password**</span></span>
 
-<span data-ttu-id="7a7d2-108">**Uverite se da je korisniku dozvoljeno da se prijavi**</span><span class="sxs-lookup"><span data-stu-id="7a7d2-108">**Make sure the user is allowed to sign in**</span></span>
+1. <span data-ttu-id="eb62e-109">U centru administracije izaberite stavke **Korisnici > Aktivni korisnici**.</span><span class="sxs-lookup"><span data-stu-id="eb62e-109">In the admin center, go to **Users > Active Users**.</span></span>
 
-1. <span data-ttu-id="7a7d2-109">U centru administracije izaberite stavke **Korisnici[ Aktivni korisnici](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span><span class="sxs-lookup"><span data-stu-id="7a7d2-109">In the admin center, go to **Users > [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.</span></span>
+2. <span data-ttu-id="eb62e-110">Izaberite korisnika i kliknite na **poništite lozinku**.</span><span class="sxs-lookup"><span data-stu-id="eb62e-110">Select the user and click **Reset Password**.</span></span>
 
-2. <span data-ttu-id="7a7d2-110">Izaberite korisnika i kliknite na **Još radnji (...)**, a zatim kliknite na **Uređivanje statusa prijavljivanja**.</span><span class="sxs-lookup"><span data-stu-id="7a7d2-110">Select the user and click **More Actions (...)**, then click **Edit sign-in status**.</span></span> 
+<span data-ttu-id="eb62e-111">**Uverite se da je korisniku dozvoljeno da se prijavi**</span><span class="sxs-lookup"><span data-stu-id="eb62e-111">**Make sure the user is allowed to sign in**</span></span>
 
-<span data-ttu-id="7a7d2-111">Za dodatne scenarije poništavanja lozinke, uključujući samouslužno poništavanje lozinke, pogledajte [Poništavanje Microsoft 365 Business lozinki](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="7a7d2-111">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+1. <span data-ttu-id="eb62e-112">U centru administracije izaberite stavke **Korisnici > Aktivni korisnici**.</span><span class="sxs-lookup"><span data-stu-id="eb62e-112">In the admin center, go to **Users > Active Users**.</span></span>
+
+2. <span data-ttu-id="eb62e-113">Izaberite korisnika i kliknite na **Još radnji (...)**, a zatim kliknite na **Uređivanje statusa prijavljivanja**.</span><span class="sxs-lookup"><span data-stu-id="eb62e-113">Select the user and click **More Actions (...)**, then click **Edit sign-in status**.</span></span>
+
+<span data-ttu-id="eb62e-114">Za dodatne scenarije poništavanja lozinke, uključujući samouslužno poništavanje lozinke, pogledajte [Poništavanje Microsoft 365 Business lozinki](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="eb62e-114">For more password reset scenarios, including Self-Service Password Reset, see [Reset Microsoft 365 business passwords](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).</span></span>
+
+
+<span data-ttu-id="eb62e-115">Kao administrator, ako nekom od vaših korisnika bude onemogućeno slanje e-pošte, možete [sami da deblokirate nalog](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **bez otvaranja slučaja podrške**.</span><span class="sxs-lookup"><span data-stu-id="eb62e-115">As an admin, if one of your users is restricted from sending email, you can [unblock the account yourself](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam) **without opening a support case**.</span></span> <span data-ttu-id="eb62e-116">Korisnik će moći da pošalje e-poštu u roku od sat vremena nakon što ukloni ograničenje.</span><span class="sxs-lookup"><span data-stu-id="eb62e-116">The user will be able to send email within an hour after removing the restriction.</span></span>
+
+<span data-ttu-id="eb62e-117">Usluga sprečava korisnika da šalje e-poštu nakon otkrivanja dokaza o ugroženom računu i/ili odlazne bezvredne pošte.</span><span class="sxs-lookup"><span data-stu-id="eb62e-117">The service prevents a user from sending email after detecting evidence of a compromised account and/or outbound spam.</span></span> <span data-ttu-id="eb62e-118">Kao predostrožnost sledite korake za [odgovaranje na ugroženi nalog e-pošte u usluzi Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) za korisnika.</span><span class="sxs-lookup"><span data-stu-id="eb62e-118">As a precaution, follow the steps in [Responding to a Compromised Email Account in Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) for the user.</span></span>
