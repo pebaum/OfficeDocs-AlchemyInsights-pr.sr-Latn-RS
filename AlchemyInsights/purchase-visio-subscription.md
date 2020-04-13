@@ -26,8 +26,8 @@ Administratori mogu da kupe pretplatu na Visio za svoju organizaciju putem **Mic
 
 2. Kliknite na stavku **[Kupovina usluga](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** da biste pregledali pretplate koje možete da kupite za organizaciju.
 
-3. Pronađite planove za Visio tako što ćete potražiti izraz „Visio“.
+3. Pronađite planove za Visio tako što ćete obaviti pretragu koristeći reč „Visio“.
 
-4. Izaberite **Plan za Visio 1** ili **Plan za Visio 2**. Oba plana nude mesečnu ili godišnju pretplatu.
+4. Izaberite **Visio Plan 1** ili **Visio Plan 2**. Oba plana nude mesečnu ili godišnju pretplatu.
 
-Dodatne informacije o razlikama između Plana za Visio 1 i Plana za Visio 2 potražite u članku [Poređenje opcija pretplate na Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options). 
+Dodatne informacije o razlikama između Visio Plana 1 i Visio Plana 2 potražite u članku [Poređenje opcija pretplate na Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options). 

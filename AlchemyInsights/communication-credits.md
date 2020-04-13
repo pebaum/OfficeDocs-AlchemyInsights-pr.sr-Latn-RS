@@ -22,7 +22,7 @@ ms.locfileid: "43158737"
 
 Kredit za komunikaciju je praktičan način za plaćanje audio konferencija i minuta plana pozivanja.  Ako želite da koristite besplatne brojeve uz Skype za posao i Microsoft Teams, treba da podesite kredit za komunikaciju.  Takođe, preporučujemo da podesite kredit za komunikaciju za planove pozivanja (domaće i međunarodne) i korisnike audio konferencija kojima je potrebna mogućnost pozivanja bilo kog odredišta.
 
-Kao administrator, sredstva možete da dodajete ručno ili da podesite automatsku dopunu, što preporučujemo.  Automatska dopuna će automatski dopuniti vaš saldo kad bude ispod iznosa koji sami odredite.  Opcije plaćanja možete da ažurirate u bilo kom trenutku. Na stranici **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)** izaberite pretplatu na kredit za komunikaciju i unesite svoje promene.
+Kao administrator, sredstva možete da dodajete ručno ili da podesite automatsku dopunu, što preporučujemo.  Automatska dopuna će automatski dopuniti vaš saldo kad bude ispod iznosa koji sami odredite.  Opcije plaćanja možete da ažurirate u bilo kom trenutku. Na stranici **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)** izaberite pretplatu na kredit za komunikaciju i unesite promene.
 
 1. Ako želite da dodate još sredstava bez podešavanja automatske dopune, kliknite na **Dodavanje sredstava** u odeljku Potrošnja i unesite iznos koji želite da dodate.
 
@@ -34,4 +34,4 @@ Kao administrator, sredstva možete da dodajete ručno ili da podesite automatsk
 
 5. Kliknite na dugme **Sačuvaj promene**.
 
-Dodatne informacije o dodavanju i upravljanju sredstvima kredita za komunikaciju potražite u članku [Dodavanje sredstava i upravljanje kreditima za komunikaciju](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Osim toga, pročitajte i članak [Podešavanje kredita za komunikaciju za organizaciju](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+Dodatne informacije o dodavanju sredstava i upravljanju kreditom za komunikaciju potražite u članku [Dodavanje sredstava i upravljanje kreditom za komunikaciju](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Osim toga, pročitajte i članak [Podešavanje kredita za komunikaciju za organizaciju](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).

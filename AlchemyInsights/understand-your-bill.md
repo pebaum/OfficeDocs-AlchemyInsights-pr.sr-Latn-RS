@@ -23,7 +23,7 @@ ms.locfileid: "43158413"
 
 **Prikaz računa**
 
-1. U Microsoft 365 centru administracije, idite na stranicu **Naplata > [Računi i plaćanja](https://go.microsoft.com/fwlink/p/?linkid=848039)**.
+1. U Microsoft 365 centru administracije idite na stranicu **Naplata > [Računi i plaćanja](https://go.microsoft.com/fwlink/p/?linkid=848039)**.
 
 2. Izaberite opseg datuma iz padajuće liste, a zatim odaberite porudžbinu koju želite da pregledate ili kliknite na link **Preuzmite fakturu u PDF formatu** da biste pregledali kopiju računa.
 
@@ -35,7 +35,7 @@ Naplaćeni iznos obuhvata cenu licence pomnoženu brojem kupljenih licenci i pot
 
 Ako se naplaćeni iznos razlikuje od očekivanog, do toga može da dođe iz nekoliko razloga:
 
-1. Pretplati ste dodali licence ili ste ih uklonili iz nje; kada se licence menjaju tokom perioda, to se odražava na sledeću fakturu.  Zbog te promene ćete možda dobiti kredit i novi račun za prethodni period pružanja usluge.
+1. Pretplati ste dodali licence ili ste ih uklonili iz nje; kada se licence menjaju tokom trajanja pretplate, to se vidi na sledećoj fakturi.  Zbog te promene ćete možda dobiti kredit i novi račun za prethodni period pružanja usluge.
 
 2. Pretplata je otkazana.  Nakon otkazivanja primićete fakturu sa neizmirenim saldom koji se umanjuje za eventualni kredit.
 

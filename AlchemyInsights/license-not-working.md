@@ -24,12 +24,12 @@ Ako je vaša pretplata istekla ili ju je onemogućio Microsoft, odnosno ako ste 
 
 **Ponovno aktiviranje pretplate**
 
-1. U centru administracije, idite na stranicu **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. U centru administracije idite na stranicu **Naplata > [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
 2. Na stranici Proizvodi i usluge pronađite pretplatu koju želite ponovo da aktivirate.
 
-3. U odeljku Naplata izaberite stavku **Ponovo aktiviraj odmah**.  Ako se nalazite u prikazu Kartice, kliknite na trotačku između stavki Ime i Dostupna količina i u meniju izaberite stavku Ponovo aktiviraj. **Napomena**: Ako ne vidite pretplatu koju tražite, možda treba da prilagodite filter Status pretplate pri vrhu stranice na opciju **Sve**.
+3. U odeljku Naplata kliknite na stavku **Ponovo aktiviraj odmah**.  Ako se nalazite u prikazu Kartice, kliknite na trotačku između stavki Ime i Dostupna količina i u meniju izaberite stavku Ponovo aktiviraj. **Napomena**: Ako ne vidite pretplatu koju tražite, možda treba da prilagodite filter Status pretplate pri vrhu stranice na opciju **Sve**.
 
-4. Potvrdite detalje plaćanja da biste ažurirali postojeće informacije o plaćanju. Kada završite sa unosom načina plaćanja, izaberite stavku **Ponovo aktiviraj**.
+4. Potvrdite detalje plaćanja da biste ažurirali postojeće informacije o plaćanju. Kada završite sa unosom načina plaćanja, kliknite na stavku **Ponovo aktiviraj**.
 
 Dodatne informacije potražite u članku [Ponovno aktiviranje pretplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
