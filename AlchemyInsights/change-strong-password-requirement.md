@@ -1,5 +1,5 @@
 ---
-title: Promena zahteva jaku lozinku
+title: Promeni jaku potrebu za lozinkom
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518773"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286292"
 ---
-# <a name="change-strong-password-requirement"></a>Promena zahteva jaku lozinku
+# <a name="change-strong-password-requirement"></a>Promeni jaku potrebu za lozinkom
 
 Microsoft zahteva jake lozinke po podrazumevanoj vrednosti. 
 
-Koristite PowerShell, možete da onemogućite jakih lozinki za određene korisnike sa ovom komandom:<br>
-*Set-MsolUser – UserPrincipalName <UserPrincipalName> – StrongPasswordRequired $false*
+Pomoću programa PowerShell možete onemogućiti jake lozinke za određene korisnike pomoću ove komande:<br>
+*Set-MsolUser – korisnički Principalname <UserPrincipalName> – obavezna $FALSE*
 
-- [Više informacija o smernice za lozinke](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Kako da se povežete sa Office 365 sa PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Više informacija na PowerShell MsolUser komande](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Više informacija o smernicama za lozinke](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Kako se povezati na Office 365 sa PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Više informacija o komandama PowerShell MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Postavljanje lozinke pojedinačnog korisnika da nikada ne istekne rok važenja](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
