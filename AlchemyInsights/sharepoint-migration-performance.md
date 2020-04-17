@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958768"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537791"
 ---
 # <a name="sharepoint-migration-performance"></a>Performanse SharePoint migracije
 
@@ -28,8 +28,8 @@ Na performanse migracije mogu da utiču infrastruktura mreže, veličina datotek
 
 Za više informacija posetite dolenavedene veze.
 
-- [Brzina Sharepoint Online i ODB migracije](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Opšta uputstva za performanse migracije](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [Izbegavanje ograničavanja ili blokiranja u usluzi SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Izbegavanje regulisanja ili blokiranja u usluzi SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
 - [Preuzimanje i instaliranje SharePoint alatke za migraciju](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
