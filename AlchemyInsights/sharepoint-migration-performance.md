@@ -1,5 +1,5 @@
 ---
-title: Performanse SharePoint migracije
+title: Vodič za performanse SharePoint migracije
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,22 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: fd37cee73e799a849dd94a1f042d2dd9a9c3f0c7
-ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
+- "3179"
+ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43537791"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552800"
 ---
-# <a name="sharepoint-migration-performance"></a>Performanse SharePoint migracije
-
-**Važno**: Tokom ovih jedinstvenih vremena, preduzimamo sve korake da bismo se uverili da će usluge SharePoint Online i OneDrive ostati dostupne u najvećoj meri – više informacija potražite u članku [Privremena prilagođavanja funkcija u usluzi SharePoint Online](https://aka.ms/ODSPAdjustments).
-
-**Performanse migracije**
+# <a name="sharepoint-migration-performance-guidance"></a>Vodič za performanse SharePoint migracije
 
 Na performanse migracije mogu da utiču infrastruktura mreže, veličina datoteke, vreme migracije i ograničavanje. Ako to razumete, lakše ćete moći da planirate i uvećate efikasnost migracije.
 
-Za više informacija posetite dolenavedene veze.
+Za više informacija posetite:
 
 - [Opšta uputstva za performanse migracije](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
