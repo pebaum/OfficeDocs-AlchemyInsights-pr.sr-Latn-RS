@@ -1,9 +1,9 @@
 ---
-title: 2681 sa Simulatom napada na Office 365
+title: 2681 na simulatoru napada u aplikaciji Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305345"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713480"
 ---
-# <a name="attack-simulator-in-office-365"></a>Simulatoru napada u Officeu 365
+# <a name="attack-simulator-in-microsoft-365"></a>Simulatoru napada u Microsoftu 365
 
-- Da li nedostaje simulatoru napada? Simulatoru napada zahteva **Office 365 napredni plan zaštite pretnji 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulatoru napada **nije** uključen u Office 365 napredni plan zaštite pretnje 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Office 365 poslovne pretplate.
+- Da li nedostaje simulatoru napada? Simulatoru napada zahteva **Office 365 napredni plan zaštite pretnji 2 (ATP plan 2)** ili **Office 365 Enterprise E5**. Simulatoru napada **nije** uključen u Office 365 napredni plan zaštite pretnje 1 (ATP plan 1), Office 365 Enterprise E3 ili bilo koje Microsoft 365 aplikacije za poslovne pretplate.
 
 - Nalog koji koristite za pokretanje simuliranog napada zahteva globalne administratorske ili administratorske dozvole za zaštitu od više faktora (MFA). Za više informacija o zahtevima za simulatoru napada pogledajte [ovu temu](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305345"
 
 - Izveštaji: Nakon dovršenog simuliranog napada, možete da izaberete stavku " **Detalji napada** " da biste videli izveštaj.
 
-- Za detaljna uputstva i nove osobine na simulatoru napada pogledajte [simulatoru napada na Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Za detaljna uputstva i nove osobine simulatora napada pogledajte [simulatoru napada u Microsoftu 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

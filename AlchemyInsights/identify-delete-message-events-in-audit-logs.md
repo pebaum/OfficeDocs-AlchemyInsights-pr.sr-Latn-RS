@@ -1,9 +1,9 @@
 ---
-title: Identifikujte brisanje poruka događaja u evidencije nadgledanja
+title: Identifikuj događaje brisanja poruka u evidencijama nadgledanja
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539223"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716510"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Evidencije nadgledanja za izbrisane e-poruka
+# <a name="audit-logs-for-deleted-email-messages"></a>Evidencija nadgledanja izbrisanih e-poruka
 
-Počev od januara 2019, Microsoft je uključivanje Korektura poštanskog sandučeta evidentiranje po podrazumevanoj vrednosti. U suprotnom, da biste pregledali brisanje poruka događaja za određenog korisnika, potrebno je da ručno omogućite brisanje radnje za nadzor. Ako poštansko sanduče nadgledanja vođenja evidencije je već omogućena za vašu organizaciju ili za određenog korisnika, sledite korake ispod.
+Počevši od januara 2019, Microsoft podrazumevano postaje uključena evidencija nadgledanja poštanskog sandučeta. U suprotnom, da biste redigovali poruke o brisanju događaja za određenog korisnika, potrebno je da ručno omogućite brisanje radnji za nadgledanje. Ako je evidencija nadgledanja za poštansko sanduče već omogućena za vašu organizaciju ili za određenog korisnika, sledite dolenavedene korake.
 
-1. Prijavite se za [Office 365 bezbednosni & usklađenosti centar](https://protection.office.com/)
+1. Prijavite se na [Microsoft 365 Security & centar za usaglašavanje](https://protection.office.com/)
 
-2. Izaberite **pretragu i istrage** i **Pretraživanje evidencije nadgledanja**.
+2. Kliknite na dugme **Pretraga i istraga** i izaberite **pretragu evidencije nadgledanja**.
 
-3. Izaberite opseg datuma u poljima **datum početka** i **datum završetka** . Navedite korisničko ime za korisnika kojeg želite da istražite (korisnika koji su izbrisane stavke). U polju **aktivnosti** , izaberite **izbrisane poruke iz fascikle izbrisane stavke** i **Moved poruke u fasciklu izbrisane stavke**.
+3. Izaberite opseg datuma u poljima **Početni datum** i **Krajnji datum** . Odredite korisničko ime za korisnika koji želite da istražite (korisnika koji je izbrisao stavke). U polju **aktivnosti** izaberite **izbrisane poruke iz fascikle "Izbrisane stavke** " i **premestite poruke u fasciklu "Izbrisane stavke**".
 
-4. Kliknite na dugme **za pretragu**.
+4. Kliknite na dugme **Pretraži**.
 
-Na listi rezultata izaberite zapis o reviziji. U Potpaleta na detalje, kliknite **Više informacija**. Dodatne informacije o izbrisanih stavki (na primer, temu i lokaciju stavke kada je izbrisana) je prikazan u polju **AffectedItems** . Svojstvo **ClientInfoString** će prikazati ako brisanje je došlo u programu Outlook, Outlook na Webu (poznatog i kao Outlook Web App), ili bilo koji drugi uređaj.
+U rezultatima izaberite zapis nadgledanja. Kliknite na dugme " **više informacija**" u prozoru "Detalji". Dodatne informacije o izbrisanom artiklu (na primer, red za temu i lokacija stavke kada je ona izbrisana) prikazane su u polju "zone za **stavke** ". Svojstvo **Clientinfostring** će prikazati da li je brisanje bilo u programu Outlook, Outlook na vebu (ranije poznato kao Outlook Web aplikacija) ili bilo koji drugi uređaj.
 
-Za više informacija, pogledajte [Determining ko podešavanje email Špedicija za poštansko sanduče](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Više informacija potražite u članku [Utvrđivanje ko je podesio Prosleđivanje e-pošte za poštansko sanduče](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Napomena**: te nije moguće preuzeti izbrisanih stavki pomoću funkcije evidencije nadgledanja. Da biste preuzeli izbrisane poruke u programu Outlook na Webu, vidim da [spasi izbrisane stavke u programu Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Napomena**: ne možete da preuzimate izbrisane stavke pomoću funkcije "evidencija nadgledanja". Da biste preuzeli izbrisane poruke u programu Outlook na vebu, pogledajte odeljak [oporavak izbrisanih stavki u Outlook Web aplikaciji](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

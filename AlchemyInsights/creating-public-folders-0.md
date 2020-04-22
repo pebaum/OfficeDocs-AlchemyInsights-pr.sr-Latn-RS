@@ -1,9 +1,8 @@
 ---
-title: Kreiranje javne fascikle
+title: Kreiranje javnih fascikli
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631842"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715374"
 ---
-# <a name="creating-public-folders"></a>Kreiranje javne fascikle
+# <a name="creating-public-folders"></a>Kreiranje javnih fascikli
 
-Vaši korisnici mogli da koristite javnim fasciklama u Office 365, morate da kreirate najmanje jedna javna fascikla poštanskog sandučeta. Da biste kreirali:
+Da bi korisnici mogli da koriste javne fascikle, moraćete da kreirate najmanje jedno poštansko sanduče javne fascikle. Da biste kreirali:
   
-1. U centru za admin Microsoft 365, idite na **Admin centri** \> **Exchange**.
+1. U Microsoft 365 admin Center posetite lokaciju **admin centre** \> **.**
 
-2. Dođite do **javnim fasciklama** \> **Poštanske sandučiće javnu fasciklu**, a zatim kliknite **Dodaj**.
+2. Krećite se **do** \> **poštanskih sandučića**javnih fascikli, a zatim kliknite na **Dodaj**.
 
-3. **Javna fascikla poštansko sanduče**, navesti ime za poštansko sanduče u javnoj fascikli.
+3. U **poštanskom sandučetu javne fascikle**Navedite ime za poštansko sanduče javne fascikle.
 
 4. Kliknite na dugme **Sačuvaj**.
 
-Kada se kreira poštansko sanduče, možete počeli da kreirate pojedinačne fascikle ili reci tvoje korisnicima da [pokrenu kreiranjem i korišćenjem javnim fasciklama u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Kada kreirate poštansko sanduče, možete da započnete kreiranje pojedinačnih fascikli ili da obavestite svoje korisnike da [započnu kreiranje i korišćenje javnih fascikli u programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

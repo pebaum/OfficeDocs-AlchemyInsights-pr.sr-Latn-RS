@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 6877c073ed366ba0d464a076c6aec5acb3477d22
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: d80f48ae5a791e30a85e23478424bc836b5da4e6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713948"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Pregled licenciranja za Microsoft tok
 
-Microsoft stream je usluga za oblak koja je licencirana na osnovu korisničke pretplate. Dostupna je kao deo prikladnih Office 365 pretplata. Pogledajte Office 365 cenovnik za informacije o svakom tipu pretplate.
+Microsoft stream je usluga za oblak koja je licencirana na osnovu korisničke pretplate. Dostupan je kao deo prikladnih Microsoft 365 pretplata. Za informacije o svakom tipu pretplate pogledajte Microsoft 365 cenovnik.
 
 - [Pregled licenciranja za Microsoft tok](https://docs.microsoft.com/stream/license-overview)

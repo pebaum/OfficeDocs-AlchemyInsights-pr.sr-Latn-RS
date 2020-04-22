@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769317"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714784"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nije moguće instalirati ili pokrenuti alatku eDiscovery EXPORT?
 
-Ako ne možete da instalirate ili pokrenete alatku Office 365 eDiscovery EXPORT da biste preuzeli rezultate pretrage, proverite sledeće stvari:
+Ako ne možete da instalirate ili pokrenete alatku za izvoz eDiscovery da biste preuzeli rezultate pretrage, proverite sledeće stvari:
   
 - Računar koji koristite zadovoljava ove preduslove:
 
@@ -43,7 +43,7 @@ Ako ne možete da instalirate ili pokrenete alatku Office 365 eDiscovery EXPORT 
 
 - Vaša organizacija može da se poveže sa krajnje tačke u programu Azure, što je ** \*. BLOB.Core.Windows.net** (džoker znak predstavlja Jedinstveni identifikator za posao izvoza).
 
-- Dodeljena vam je uloga izvoza u sistemu Office 365 bezbednosni &amp; centar za usaglašenost. Podrazumeva se da je ova uloga dodeljena samo grupi uloga menadžera eDiscovery. Pogledajte odeljak [dodeljivanje eDiscovery dozvola](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+- Vi ste dodelili ulogu izvoza u Microsoft 365 centru za usaglašenost &amp; bezbednosti. Podrazumeva se da je ova uloga dodeljena samo grupi uloga menadžera eDiscovery. Pogledajte odeljak [dodeljivanje eDiscovery dozvola](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
 Više informacija potražite u članku [izvoz rezultata pretrage sadržaja](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

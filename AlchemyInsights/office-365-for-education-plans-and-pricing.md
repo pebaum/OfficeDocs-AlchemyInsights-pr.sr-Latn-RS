@@ -1,9 +1,9 @@
 ---
-title: Office 365 za obrazovanje planove i cene
+title: Office 365 za obrazovne planove i cenovnik
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: d18a38cfd18c053313ed43ecfbf0f7fdc2a5dd19
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 01a75079f56c5ff91e54e2a085d9969521bab82c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389482"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713408"
 ---
-# <a name="get-office-365-free-for-your-entire-school"></a>Dobiti besplatan Office 365 za tvoju celu školu
+# <a name="get-microsoft-365-free-for-your-entire-school"></a>Nabavite Microsoft 365 besplatno za celu školu
 
-Poboljšanje učionici i školi saradnji sa slobodan produktivnosti alata. Moraćete da biste potvrdili da ste akreditovani akademskih ustanova da iskoristite prednosti ove ponude.
+Unapredite saradnju u učionici i školama uz besplatne alate za produktivnost. Moraćete da proverite da li ste akreditovane akademske institucije da biste iskoristili ove ponude.
   
-- [Pregledajte obrazovanje planove](https://products.office.com/academic/compare-office-365-education-plans)
+- [Pregled planova obrazovanja](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Uporedite sve planove za Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Uporedite sve Microsoft 365 pretplate](https://products.office.com/business/compare-more-office-365-for-business-plans)

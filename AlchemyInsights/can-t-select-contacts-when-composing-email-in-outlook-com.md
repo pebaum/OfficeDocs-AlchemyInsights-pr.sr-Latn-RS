@@ -1,9 +1,9 @@
 ---
-title: Ne možete izabrati kontakte prilikom sastavljanja e-pošte na Outlook.com
+title: Nije moguće izabrati kontakte prilikom pisanja e-poruke u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/4/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,13 +14,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: b74cabb36a6214c81ba90004225e1c08eeb1b262
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711681"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Ne možete izabrati kontakte prilikom sastavljanja e-pošte
+# <a name="cant-select-contacts-when-composing-email"></a>Nije moguće izabrati kontakte prilikom pisanja e-poruke
 
-Kada sastavljate novu e-poruku, neki kupci ne vidim svoju listu kontakata kada kliknu na dugmad **za** ili **Cc** . Da biste izabrali kontakt, počnite da kucate u **za** ili **Cc** poljima i srodne kontakte koji će biti prikazan.
+Kada pišete novu e-poruku, neki kupci ne vide svoju listu kontakata kada kliknu na dugmad " **za** " ili **"cc** ". Da biste izabrali kontakt, počnite da kucate u poljima " **za** " ili **"cc** ", a povezani kontakti će biti prikazani.

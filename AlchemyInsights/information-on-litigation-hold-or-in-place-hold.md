@@ -1,32 +1,32 @@
 ---
-title: Informacije na čekanju parnice ili u mestu-drži
+title: Informacije o sporu ili na čekanju
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498969"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711033"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>O parnice zadrški i drži na licu mesta
+# <a name="about-litigation-holds-and-in-place-holds"></a>O parničnom i na mestu ima
 
-- Da primenite parnice čekanje ili nadogradnju na licu mesta držite sa poštanskim sandučetom, potreban je i [licencu za Exchange Online Plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako imate bilo kakav drugi Plan, dodeljivanje je posebna licenca za [Exchange Online arhiviranje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) na račun. 
+- Da biste na poštansko sanduče primenili zadrška za jednu ili više mesta, potrebna je [licenca za Exchange online plan 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Ako imate neki drugi plan, dodelite odvojenu Exchange dozvolu za [arhiviranje na mreži](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) za nalog. 
     
-- **Da biste omogućili zadrške parnicu** za jednog korisnika, pratite korake izložio [ovde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Kada je omogućena čekanju parnice, sav sadržaj u poštansko sanduče se postavlja na čekanju.
+- **Da biste omogućili održavanje parničnog spora** za jednog korisnika, sledite [ovde](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold)navedene korake. Kada je omogućeno održavanje sudskog sporova, sav sadržaj u poštanskom sandučetu se postavlja na čekanje.
     
-- Da biste primenili je **na licu mesta držite na jednog korisnika** ili u kontakt sa **svim poštanskim sandučićima u čitavoj organizaciji**, možete da koristite smernice za zadržavanje u centru za Office 365 sigurnosti i usklađenosti tako što ćete pratiti na korake Oivičeni [ovde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Da biste primenili **na mesto** na kome se nalaze pojedinačni korisnici ili zadrška **svim poštanskim sandučićima u celoj organizaciji**, možete da koristite smernice za zadržavanje u centru za bezbednost Microsoft 365 i centar za usaglašavanje tako što ćete slediti korake navedene [ovde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > Za smernice za zadržavanje Org-wide, novi korisnici će biti automatski dodati zadršku. 
+    > Za programe zadržavanja na nivou org-a, novi korisnici će biti automatski dodati na zadrška. 
   
-- Da biste pregledali ili otkriti poštansko sanduče sadržaja koji je stavljen na čekanje, koristite **eDiscovery pretrage i izvoz**. Više informacija o korišćenju **eDiscovery pretrage i izvoz**, pratite na korake Oivičeni [ovde](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Da biste prikazali ili otkrili sadržaj poštanskog sandučeta koji je stavljen na čekanje, koristite **EDiscovery Search i Izvezi**. Za informacije o korištenju **EDiscovery Search and EXPORT**, pratite korake navedene [ovde](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

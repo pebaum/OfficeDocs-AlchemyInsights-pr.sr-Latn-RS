@@ -1,9 +1,9 @@
 ---
-title: Identifikovati IP adresu i klijent u evidencije nadgledanja
+title: Identifikuj IP adresu i klijenta u evidencijama nadgledanja
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539043"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716402"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifikovati IP adresu i klijent u evidencije nadgledanja
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identifikuj IP adresu i klijenta u evidencijama nadgledanja
 
-IP adresu koja odgovara aktivnost na Office 365 korisnik ili administrator je prikazan u evidencije nadgledanja. Informacije o klijentu se takođe evidentira. Evo ti korake za identifikaciju takve informacije
+IP adresa koja odgovara aktivnosti Microsoft 365 korisnika ili administratora prikazana je u evidencijama nadgledanja. Informacije o klijentu se takođe evidentiraju. Evo koraka za identifikovanje takvih informacija
 
-1. Prijavite se za [Office 365 bezbednosni & usklađenosti centar](https://protection.office.com/).
+1. Prijavite se na [Microsoft 365 Security & centar za usaglašavanje](https://protection.office.com/).
 
-2. Idi na **pretragu** > stranicu**za pretraživanje evidencije nadgledanja** .
+2. Idite na stranicu za**pretraživanje evidencije nadgledanja** **pretraživanja** > .
 
-   Ako ste zainteresovani za određene aktivnosti, izaberite je sa liste **aktivnosti** . U suprotnom, sve aktivnosti će biti vraćen za izabranog korisnika (podrazumevana postavka).
+   Ako ste zainteresovani za određenu aktivnost, izaberite je sa liste **aktivnosti** . Ako ne, sve aktivnosti će biti vraćene za izabranog korisnika (podrazumevana postavka).
 
-   **Napomena**: određene aktivnosti možda neće biti dostupna u meniju **aktivnosti** ; Međutim, one revizije stavki će biti vraćena ako je **Pokazati rezultate za sve aktivnosti** je izabranu (podrazumevana postavka).
+   **Napomena**: određene aktivnosti možda neće biti dostupne u meniju " **aktivnosti** "; Međutim, te stavke nadgledanja će biti vraćene ako je izabrano **Prikaz rezultata za sve aktivnosti** (podrazumevana postavka).
 
-3. Navedite korisničko ime u polju **korisnicima** , izaberite odgovarajući opseg aktivnosti i zatim kliknite na dugme **za pretragu**.
+3. Navedite korisničko ime u polju " **Korisnici** " izaberite odgovarajući opseg datuma za aktivnost, a zatim kliknite na dugme " **Pretraži**".
 
-U rezultatima, možete videti IP adresu za tu aktivnost u oknu rezultata. Izaberite nadgledanja za detaljne informacije u **detalje** Potpaleta (na primer, klijent, korisnik koji izvršava radnju, itd.).
+U rezultatima možete videti IP adresu za tu aktivnost u oknu sa rezultatima. Izaberite zapis nadgledanja da biste videli detaljne informacije o **detaljima sa detalja** (npr. klijent, korisnik koji je izvršio radnju itd.)
 
-Više informacija potražite u odeljku [Pronalaženje IP adresu računara koristi za pristup kompromitovane nalog](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Više informacija potražite u članku [PRONALAŽENJE IP adrese računara koji se koristi za pristup ugroženog naloga](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

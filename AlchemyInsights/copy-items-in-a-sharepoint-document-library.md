@@ -3,7 +3,7 @@ title: Kopiranje stavki u SharePoint biblioteci dokumenata
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: fa9be5b2b929b62d1383176c6c30c6bc9ecb1859
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711806"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715718"
 ---
 # <a name="copy-items-in-a-sharepoint-document-library"></a>Kopiranje stavki u SharePoint biblioteci dokumenata
 
@@ -39,7 +39,7 @@ ms.locfileid: "38711806"
 > [!NOTE]
 > U jednom trenutku možete kopirati do 500 MB datoteka i fascikli. > kada koristite **Kopiraj u** dokumente koji imaju istoriju verzija, kopiraju se samo najnovija verzija.
   
-Više informacija potražite u članku:
+Za više informacija pogledajte:
 
  - [Premeštanje ili kopiranje datoteka u sistemu SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support članak)
- - [Premeštanje datoteka iz bilo koje fascikle u sistemu Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak u Microsoft tehničkoj zajednici)   
+ - [Premeštanje datoteka iz bilo koje fascikle](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak u Microsoft tehničkoj zajednici)   

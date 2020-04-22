@@ -1,9 +1,9 @@
 ---
-title: Kreiranje politike Intune i profili
+title: Kreiranje pravila za Intune i profile
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715410"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Kreiranje Intune politiku i profili
+# <a name="creating-intune-policy-and-profiles"></a>Kreiranje smernica za Intune i profile
 
-U Intune, možete kreirati politiku i profili koji rade različite stvari.
+U usluzi Intune možete da kreirate smernice i profile koji rade različite stvari.
 
-- **Upis profila**: unapred da konfigurišu uređajima od strane platforme, omogućite afiniteta korisnika, koristite višestruku potvrdu identiteta, i još mnogo.
+- **Profili upisa**: prekonfigurišite uređaje po platformi, omogućite korisničku afinitet, koristite potvrdu identiteta sa više faktora i još mnogo toga.
 
-  [Šta je uređaj upisa](https://docs.microsoft.com/intune/device-enrollment), i kreiranje profila za upis za [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll), a [prozori](https://docs.microsoft.com/intune/windows-enrollment-methods) su dobre resurse.
+  [Šta je to prijavljivanje uređaja](https://docs.microsoft.com/intune/device-enrollment)i kreiranje profila upisa za [Android](https://docs.microsoft.com/intune/android-enroll), [iOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)i [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) su dobri resursi.
 
-- **Usklađenosti politike**: Definisanje pravila i postavke koje uređaji moraju pratiti biti usaglašen. Možete koristiti usklađenosti smernice za nadgledanje uređaja, i obaveštavanje korisnika nepridržavanja.
+- **Smernice usaglašenosti**: Definišite pravila i postavke koje uređaji moraju slediti da bi bili usaglašeni. Takođe možete da koristite smernice za usaglašenost da biste nadgledali uređaje i obavestili korisnike o neusaglašenosti.
 
-  Prvi koraci sa [uređajem usklađenosti politike](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Conditional access politike**: pomoći sigurnu organizacione resurse, u zavisnosti od uslova koje ste uneli. Na primer, za uređaje koji nisu usaglašeni, koristite uslovnog pristupa da biste ograničili pristup e-pošte i SharePoint.
+  Početak sa [smernicama za usaglašenost uređaja](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Smernice uslovnog pristupa**: Pomozite u zaštiti organizacionih resursa, u zavisnosti od uslova koje unosite. Na primer, za uređaje koji nisu usaglašeni, koristite uslovni pristup da biste ograničili pristup e-pošti i SharePoint-u.
 
-  [Šta je uslovno pristupa](https://docs.microsoft.com/intune/conditional-access) i [uobičajene načine upotrebe uslovnog pristupa](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) su dobre resurse da biste počeli.
+  [Šta je uslovno pristup](https://docs.microsoft.com/intune/conditional-access) i [uobičajeni načini korišćenja uslovnog pristupa](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) su dobri resursi za početak.
 
-- **Konfiguracija profila**: Upravljanje funkcijama i postavkama uređaja, uključujući postavke e-pošte, dodajte WiFi mreža, koristite ugrađeni predlošci, kontrolu iOS i macOS uređaj funkcije i drugo.
+- **Profili konfiguracije**: Upravljajte funkcijama i postavkama na uređajima, uključujući postavke e-pošte, dodajte Wi-Fi mrežu, koristite ugrađene predloške, kontrole iOS i MacOS uređaje i još mnogo toga.
 
-  Početak profile [konfiguracije uređaja](https://docs.microsoft.com/intune/device-profiles).
+  Pogledajte u [profilima za konfiguraciju uređaja](https://docs.microsoft.com/intune/device-profiles).
 
-Korisne veze:
+Korisni linkovi:
 
-- [Uobičajena pitanja, pitanja i odluke pomoću uređaja politike i profili u Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Uobičajena pitanja, pitanja i rešenja sa smernicama i profilima uređaja u usluzi Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Rešavanje problema sa politikom i profili u Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Rešavanje problema sa smernicama i profilima u usluzi Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

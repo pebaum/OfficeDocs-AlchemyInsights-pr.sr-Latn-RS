@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627932"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715646"
 ---
 # <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>Popravljanje Office aplikacija "nije moguće pronaći poruku sa povezanim Office licencama"
 
 Ako dobijete ovu poruku, pokušajte sledeće:
 
-1. Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da ne blokiraju pristup internetu u Office aplikacijama. Pogledajte [Office 365 URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da ne blokiraju pristup internetu u Office aplikacijama. Pogledajte [Microsoft 365 URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. Uklonite i [ponovo dodelite Office licencu](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) za pogođeni korisnik. 
 3. Otvorite Office aplikaciju i [odjavite](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) se sa svih postojećih korisničkih naloga.
 4. Idite na postavke operativnog sistema Windows > **naloge** > **e-pošte & naloge**i uklonite sve naloge na poslu osim na njemu.

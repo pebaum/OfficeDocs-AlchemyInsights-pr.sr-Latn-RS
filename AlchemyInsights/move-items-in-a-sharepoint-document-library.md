@@ -3,7 +3,7 @@ title: Premeštanje stavki u SharePoint biblioteci dokumenata
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "453"
 - "5300013"
 ms.assetid: 8f240745-f75d-412d-9588-4fc7ad862041
-ms.openlocfilehash: 63d2115c6c167ade1d39f8cdeca08de1a2e12d17
-ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
+ms.openlocfilehash: 1f8ebd035511775dc355a5efd548b331fc6797c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38711734"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713588"
 ---
 # <a name="move-items-in-a-sharepoint-document-library"></a>Premeštanje stavki u SharePoint biblioteci dokumenata
 
@@ -37,7 +37,7 @@ Stavke možete premeštati na različite lokacije u biblioteci dokumenata.
 
  Kada se datoteka pomera, ona će se i dalje pojaviti u izvornom direktorijumu dok se ne premesti na odredište, a zatim će biti izbrisan. Datoteka će ostati u korpi za otpatke izvornih lokacija nakon dovršetka premeštanja i da bude podložna normalnom rasporedu za otpatke osim ako ga korisnik ne oporavi iz korpe za otpatke.
 
-Više informacija potražite u članku:
+Za više informacija pogledajte:
 
  - [Premeštanje ili kopiranje datoteka u sistemu SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support članak)
- - [Premeštanje datoteka iz bilo koje fascikle u sistemu Office 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak u Microsoft tehničkoj zajednici) 
+ - [Premeštanje datoteka iz bilo koje fascikle u Microsoft 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članak u Microsoft tehničkoj zajednici) 

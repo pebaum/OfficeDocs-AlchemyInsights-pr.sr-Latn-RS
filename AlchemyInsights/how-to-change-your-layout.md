@@ -3,7 +3,7 @@ title: 8000059 kako da promenite raspored
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "993"
 - "8000059"
 ms.assetid: 8ea65090-8e05-4ab8-a30c-3bb6db6b75dd
-ms.openlocfilehash: be859fdc896f1e0489f31ea8f5f9a16a0ceeb6b7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 583f13900746f8fbc722bfceecaa56052efab369
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541729"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711213"
 ---
 # <a name="how-to-change-your-layout"></a>Kako da promenite raspored
 
-To je lako promeniti postavke u Outlook.com tako da izgleda i ponaša se onako kako vi to želite. Izaberite **Postavke** na traci sa alatkama za najpopularnije opcije.
+Možete lako da promenite postavke u Outlook.com tako da ona izgleda i ponaša se na način na koji želite. Izaberite **Postavke** na traci sa alatkama za najpopularnije opcije.
 
-Da biste videli sve opcije rasporeda, izaberite **Postavke** > **e** > [**rasporeda**](https://outlook.live.com/mail/options/mail/layout).
+Da biste videli sve opcije rasporeda, izaberite[**raspored**](https://outlook.live.com/mail/options/mail/layout)**pošte** > " **Postavke** > ".
   

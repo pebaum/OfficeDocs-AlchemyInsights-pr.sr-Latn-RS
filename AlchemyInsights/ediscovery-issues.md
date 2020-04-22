@@ -3,7 +3,7 @@ title: 1829-ediscovery-pitanja
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714492"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery pitanja
+# <a name="ediscovery-issues"></a>eDiscovery problemi
 
-U potrazi za eDiscovery opcije? Sa ponovno dizajniranih za navigaciju u bezbednosti & usklađenosti centar, eDiscovery opcije možda pomereno već.  EDiscovery opcije možete pronaći na sledećim lokacijama u bezbednosti & usklađenosti centar zasnovan na šta pokušavate da radim:
+Tražite opcije za eDiscovery? Kada je ponovo dizajnirana navigacija u bezbednosnom & centru za usaglašavanje, vaše eDiscovery opcije su možda već premeštene.  Možete da pronađete eDiscovery opcije na sledećim lokacijama u bezbednosnom & centru za usaglašavanje na osnovu onoga što pokušavate da uradite:
 
-- Koristi pretragu sadržaja traženju vašoj organizaciji za sadržaj u e-poštu, dokumente, Skype poslovne razgovore, i zatim izvoz podataka - idu u **potragu za pretragu sadržaja >**
+- Koristite pretragu sadržaja da biste pretražili organizaciju za sadržaj u e-pošti, dokumentima, Skype-u za poslovne razgovore, a zatim izvezli podatke-idite u **> pretraživanje sadržaja**
 
-- Kreirajte jedan eDiscovery slučaj za pretraživanje sadržaja i mesto sadržaja lokacije na čekanju - idi da **eDiscovery > eDiscovery**
+- Kreiranje eDiscovery predmeta za pretraživanje sadržaja i postavljanje lokacija sadržaja na čekanje na **eDiscovery > eDiscovery**
 
-- Koristite novo rešenje do kraja napredne eDiscovery za identifikaciju i komunikaciju sa druge.od, očuvanje nastojnik podatke relevantne u slucaju, prikupi podatke i dodate u skup pregled, a smanjiti obim podataka primenom Analitika na ubiranje se nepotrebne podatke i Fokusiraj se na šta od najvećeg značaja za slučaj - u **eDiscovery > napredne eDiscovery**
+- Koristite novo napredno eDiscovery rešenje da biste identifikovali i komunicirali sa funkcioneri, sačuvali podatke o kastodi podacima koji su relevantni za predmet, prikupili podatke i dodali ga skupu za redigovanje i smanjili jačinu podataka tako što ćete primeniti analitiku da biste razbili nepotrebne podatke i fokusirali se na ono što je najvažnije za slučaj-idi na **eDiscovery > Advanced eDiscovery**
 
-Za više informacija, pogledajte:
+Za više informacija pogledajte:
 
-- [Sadržaja za pretragu u sistemu Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Pretraživanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [eDiscovery slučajeva u bezbednosti & usklađenosti centar](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [eDiscovery slučajevi u bezbednosnoj & centru za usaglašavanje](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Napredna eDiscovery rešenje u Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Napredno eDiscovery rešenje u operativnom sistemu Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

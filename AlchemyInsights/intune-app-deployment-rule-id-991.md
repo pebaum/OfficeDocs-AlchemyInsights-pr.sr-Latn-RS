@@ -1,8 +1,8 @@
 ---
-title: Id pravila Intune aplikacija za raspoređivanje 991
+title: "\"Intune\" pravilo primene aplikacije 991"
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714020"
 ---
-# <a name="intune-app-deployment"></a>Intune aplikacija za raspoređivanje
+# <a name="intune-app-deployment"></a>Primena aplikacije Intune
 
-Primene aplikacija sa Intune je trodelni proces:
+Primena aplikacija sa Intune je tri koraka:
   
-1. **Dodavanje aplikacija** - možete dodati aplikaciju App radnji ili otpremi na liniju za poslovne aplikacije.
+1. **Dodavanje aplikacije** -možete da dodate aplikaciju za prodavnicu aplikacija ili da otpremite liniju poslovnih aplikacija.
 
-2. **Dodeljivanje aplikaciju** - određivanje obima raspoređivanja aplikacije.
+2. **Dodeljivanje aplikacije** – utvrđivanje obima raspoređivanja aplikacije.
 
-3. **Monitoring apps** - Prikažite status instalacije aplikacija, lista otkrio apps i upravljanje apps nabavljeni iz app radnji.
+3. **Nadgledanje aplikacija** -pogledajte status instalacije aplikacija, listu otkrivenih aplikacija i upravljajte aplikacijama kupljenim iz prodavnica aplikacija.
 
-Pročitano [Šta je Intune aplikacija za upravljanje](https://docs.microsoft.com/intune/app-management) za informacije o podešavanju i zaštitu aplikacije i njegovo uvećavanje.
+Pročitajte [Šta je "Intune" Upravljanje](https://docs.microsoft.com/intune/app-management) aplikacijama za obaveštenja i informacije o konfigurisanju i zaštiti aplikacija.
   

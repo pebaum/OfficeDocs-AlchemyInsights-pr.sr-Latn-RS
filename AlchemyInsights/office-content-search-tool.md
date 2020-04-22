@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713300"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Alatka za pretragu sadržaja da biste pronašli važne informacije
 
@@ -26,6 +26,6 @@ Pre korišćenja [pretrage sadržaja](https://sip.protection.office.com/contents
 
 Više o pretraživanju sadržaja potražite tako što ćete pregledati [zahteve i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [istražujući delimično indeksirane stavke](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i druge rezultate koje treba da budu svesne.
 
-Kada pregledate postavke konfiguracije i ograničenja pretrage sadržaja, pogledajte odeljak [Pretraga</a> sadržaja da biste potražili stavke koje se nalaze na njima, kao što su e-pošta, dokumenti i razgovori o neposrednu razmenu poruka u vašoj Office 365 organizaciji](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Kada pregledate postavke konfiguracije i ograničenja pretrage sadržaja, pogledajte odeljak [Pretraga</a> sadržaja da biste potražili stavke koje se nalaze na njima, kao što su e-pošta, dokumenti i razgovori o neposrednu razmenu poruka u vašoj organizaciji](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Za kompletan korak u pretrazi sadržaja pogledajte odeljak [Traženje sadržaja u sistemu Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) za više informacija.

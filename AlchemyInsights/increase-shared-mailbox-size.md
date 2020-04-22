@@ -1,22 +1,22 @@
 ---
-title: 1815 poveća veličinu Deljeno poštansko sanduče
+title: 1815 povećanje veličine deljenog poštanskog sandučeta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 7e31c3cff7f21dce9435ae47c717465680ef624b
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52e4e313319ec55111ee656e1eef0b01ada88ca9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765371"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711177"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>Povećavanje veličine Deljeno poštansko sanduče
+# <a name="increase-the-size-of-a-shared-mailbox"></a>Povećavanje veličine deljenog poštanskog sandučeta
 
-Možete povećati veličinu deljene poštansko sanduče iz podrazumevanu veličinu od 50 GB na 100 GB dodeljivanjem Deljeno poštansko sanduče licence za Exchange Online P2 (koja je uključena u okviru E3 i E5 licence). Kada dodelite dozvole P2 Deljeno poštansko sanduče u [aktivni korisnici](https://portal.office.com/adminportal/home), veličina će biti automatski povećan u roku od 15 minuta.
+Veličinu deljenog poštanskog sandučeta možete povećati sa podrazumevane veličine od 50 GB do 100 GB dodeljivanjem deljenog poštanskog sandučeta Exchange online P2 licence (koja se nalazi u okviru E3 i E5 licenci). Kada dodelite P2 licencu deljenom poštanskom sandučetu u [aktivnim korisnicima](https://portal.office.com/adminportal/home), veličina će se automatski povećati u roku od 15 minuta.

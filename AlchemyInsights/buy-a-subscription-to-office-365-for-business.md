@@ -1,5 +1,5 @@
 ---
-title: Kupite pretplatu na Office 365 za posao
+title: Kupite pretplatu na Microsoft 365 za posao iz vašeg besplatnog probnog poslovanja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218309"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712221"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Kupite pretplatu na Office 365 za posao
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Kupite pretplatu na Microsoft 365 od vaše besplatne probne verzije
 
-Pokušali ste Office 365 i sada ste spremni da kupite. Imate dve opcije prilikom kupovine Officea 365 od probne verzije:
+Pokušali ste Microsoft 365, a sada ste spremni da kupite. Imate dve opcije za kupovinu Microsoft 365 od probne verzije:
   
  **Kupi isti plan kao i suđenje**
   
@@ -35,7 +35,7 @@ Pokušali ste Office 365 i sada ste spremni da kupite. Imate dve opcije prilikom
 
 3. Pronađite pretplatu koju želite da kupite, izaberite stavku " **kupi**" i sledite korake za odjavljivanje.
 
-Da biste saznali više, pogledajte odeljak [kupovina pretplate na Office 365 za poslovanje iz besplatnog probnog sistema](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Da biste saznali više, pogledajte odeljak [kupovina pretplate na Microsoft 365 za poslovanje iz besplatnog probnog procesa](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Rešavanje problema**
 
