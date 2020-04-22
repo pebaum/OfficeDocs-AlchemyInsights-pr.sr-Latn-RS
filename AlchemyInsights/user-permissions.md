@@ -2,40 +2,40 @@
 title: Korisničke dozvole
 ms.author: mikeplum
 author: MikePlumleyMSFT
-ms.date: 5/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36531949"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710529"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="ad87a-102">Korisničke dozvole u sistemu SharePoint i OneDrive</span><span class="sxs-lookup"><span data-stu-id="ad87a-102">User permissions in SharePoint and OneDrive</span></span>
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="f1380-102">Korisničke dozvole u sistemu SharePoint i OneDrive</span><span class="sxs-lookup"><span data-stu-id="f1380-102">User permissions in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="ad87a-103">Ako korisnik u vašoj organizaciji ne može da pristupi SharePoint ili OneDrive, uverite se da imaju licencu koja uključuje SharePoint i OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ad87a-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
+<span data-ttu-id="f1380-103">Ako korisnik u vašoj organizaciji ne može da pristupi SharePoint ili OneDrive, uverite se da imaju licencu koja uključuje SharePoint i OneDrive.</span><span class="sxs-lookup"><span data-stu-id="f1380-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
   
-1. <span data-ttu-id="ad87a-104">Idite na [stranicu "aktivni korisnici" u Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/users) i izaberite korisnika.</span><span class="sxs-lookup"><span data-stu-id="ad87a-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
+1. <span data-ttu-id="f1380-104">Idite na [stranicu "aktivni korisnici" u Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/users) i izaberite korisnika.</span><span class="sxs-lookup"><span data-stu-id="f1380-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
     
-2. <span data-ttu-id="ad87a-105">Proverite da li je u okviru **licence proizvoda**dodeljena licenca i da li je izabrana **SharePoint online** .</span><span class="sxs-lookup"><span data-stu-id="ad87a-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="f1380-105">Proverite da li je u okviru **licence proizvoda**dodeljena licenca i da li je izabrana **SharePoint online** .</span><span class="sxs-lookup"><span data-stu-id="f1380-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
- <span data-ttu-id="ad87a-106">Da biste korisniku dali dozvolu za pristup SharePoint lokaciji:</span><span class="sxs-lookup"><span data-stu-id="ad87a-106">To give a user permission to access a SharePoint site:</span></span> 
+ <span data-ttu-id="f1380-106">Da biste korisniku dali dozvolu za pristup SharePoint lokaciji:</span><span class="sxs-lookup"><span data-stu-id="f1380-106">To give a user permission to access a SharePoint site:</span></span> 
   
-1. <span data-ttu-id="ad87a-107">Otvorite lokaciju u Web pregledaču.</span><span class="sxs-lookup"><span data-stu-id="ad87a-107">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="f1380-107">Otvorite lokaciju u Web pregledaču.</span><span class="sxs-lookup"><span data-stu-id="f1380-107">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="ad87a-108">Ako lokacija pripada Office 365 grupi, kliknite na ikonu "Postavke" u gornjem desnom uglu, a zatim izaberite stavku " **dozvole za lokaciju**".</span><span class="sxs-lookup"><span data-stu-id="ad87a-108">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="ad87a-109">Kliknite na dugme " **Pozovi osobe**", a zatim odaberite da dodate članove u Office 365 grupu ili da delite samo lokaciju.</span><span class="sxs-lookup"><span data-stu-id="ad87a-109">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="f1380-108">Ako lokacija pripada Office 365 grupi, kliknite na ikonu "Postavke" u gornjem desnom uglu, a zatim izaberite stavku " **dozvole za lokaciju**".</span><span class="sxs-lookup"><span data-stu-id="f1380-108">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="f1380-109">Kliknite na dugme " **Pozovi osobe**", a zatim odaberite da dodate članove u Office 365 grupu ili da delite samo lokaciju.</span><span class="sxs-lookup"><span data-stu-id="f1380-109">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="ad87a-110">Za lokaciju za komunikaciju, u gornjem desnom uglu kliknite na dugme **Deljenje lokacije** , unesite ime osobe, a zatim izaberite nivo dozvola (čitanje, uređivanje ili puna kontrola).</span><span class="sxs-lookup"><span data-stu-id="ad87a-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="f1380-110">Za lokaciju za komunikaciju, u gornjem desnom uglu kliknite na dugme **Deljenje lokacije** , unesite ime osobe, a zatim izaberite nivo dozvola (čitanje, uređivanje ili puna kontrola).</span><span class="sxs-lookup"><span data-stu-id="f1380-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="ad87a-111">Za lokaciju klasične ekipe kliknite na dugme " **deli** " u gornjem desnom uglu.</span><span class="sxs-lookup"><span data-stu-id="ad87a-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="ad87a-112">Unesite ime osobe koju želite da pozovete ili otkucajte sve da biste ih delili sa svima u vašoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="ad87a-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="ad87a-113">Kliknite na dugme **deli**.</span><span class="sxs-lookup"><span data-stu-id="ad87a-113">Click **Share**.</span></span>
+    <span data-ttu-id="f1380-111">Za lokaciju klasične ekipe kliknite na dugme " **deli** " u gornjem desnom uglu.</span><span class="sxs-lookup"><span data-stu-id="f1380-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="f1380-112">Unesite ime osobe koju želite da pozovete ili otkucajte sve da biste ih delili sa svima u vašoj organizaciji.</span><span class="sxs-lookup"><span data-stu-id="f1380-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="f1380-113">Kliknite na dugme **deli**.</span><span class="sxs-lookup"><span data-stu-id="f1380-113">Click **Share**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="ad87a-114">Ako ste član neke lokacije, a ne vlasnik, možete da pozovete osobe na lokaciju, ali će vaš poziv generisati zahtev za pristup koji vlasnik lokacije može da odobri ili odbije.</span><span class="sxs-lookup"><span data-stu-id="ad87a-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
+> <span data-ttu-id="f1380-114">Ako ste član neke lokacije, a ne vlasnik, možete da pozovete osobe na lokaciju, ali će vaš poziv generisati zahtev za pristup koji vlasnik lokacije može da odobri ili odbije.</span><span class="sxs-lookup"><span data-stu-id="f1380-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
   
-[<span data-ttu-id="ad87a-115">Saznajte kako da delite datoteku ili fasciklu sa korisnikom</span><span class="sxs-lookup"><span data-stu-id="ad87a-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
+[<span data-ttu-id="f1380-115">Saznajte kako da delite datoteku ili fasciklu sa korisnikom</span><span class="sxs-lookup"><span data-stu-id="f1380-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
   
 
