@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116536"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722634"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Otklanjanje greške pri Office aktivaciji 0xD000000C
 
-- Uverite se da internet radi na Mac računaru na kom pokušavate da izvršite instalaciju. Ovo možete da uradite tako što ćete otvoriti internet pregledač i otići na www.microsoft.com. Ako se stranica učita, internet veza radi.
+- Uverite se da internet radi na Mac računaru na kom pokušavate da izvršite instalaciju. Ovo možete da uradite tako što ćete otvoriti internet pregledač i otići na [Microsoft](https://www.microsoft.com). Ako se stranica učita, internet veza radi.
 
 - Napustite sve Office aplikacije.
 

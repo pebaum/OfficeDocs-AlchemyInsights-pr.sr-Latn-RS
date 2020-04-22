@@ -3,7 +3,7 @@ title: Promena servera imena
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5"
 - "14"
-ms.openlocfilehash: 51532f42e7cbd39ebad3f0160465218c6e1454a2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 572f8befd84f55cb07a3535852a46e735d3ed620
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36736663"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706769"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Ažuriranje servera imena domena u usluzi Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Ažurirajte servere imena domena tako da ukazuju na Microsoft
 
 Napomena: Promena servera imena ponekad može da potraje do 48 časova.
   
-Da biste podesili domen u usluzi Office 365, serveri imena u registru treba da se ažuriraju. Kreirajte ili uredite zapise servera imena u registru domena.
+Da biste podesili domen u sistemu Microsoft 365, serveri imena u registru treba da se ažuriraju. Kreirajte ili uredite zapise servera imena u registru domena.
   
 1. Idite na veb sajt registra domena i pronađite oblast gde možete da uredite servere imena.
   
@@ -35,5 +35,5 @@ Da biste podesili domen u usluzi Office 365, serveri imena u registru treba da s
 
 3. Sačuvajte promene.
 
-Takođe možete da pronađete detaljna uputstva u ovom članku: [Promena servera imena radi podešavanja usluge Office 365 pomoću bilo kog registra domena](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Takođe možete da pronađete detaljna uputstva u ovom članku: [Promena servera imena pomoću bilo kog registra domena](https://docs.microsoft.com//office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

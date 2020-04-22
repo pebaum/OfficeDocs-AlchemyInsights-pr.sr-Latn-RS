@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664838"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712616"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Dobijate previše bezvredne elektronske pošte ili reklama u poštanskom sandučetu?
 
-Pogledajte [Kako da smanjite bezvrednu elektronsku poštu u usluzi Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) za rešavanje problema bezvredne elektronske pošte.
+Pogledajte [Kako da smanjite bezvrednu elektronsku poštu](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) za rešavanje problema bezvredne elektronske pošte.
   
 Najbolji način da prijavite ove vrste problema je da:
   

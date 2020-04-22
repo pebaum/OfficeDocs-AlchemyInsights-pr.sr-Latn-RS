@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692409"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709953"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – audio konferencija
 
-Da li vam je potrebna pomoć da uključite ili podesite audio konferenciju u usluzi Microsoft Teams? Da li je ovaj korisnik nedavno napravljen?  Ako je to slučaj, moraćete da sačekate 2–24 časa da bi postavke stupile na snagu.    
+Da li vam je potrebna pomoć da uključite ili podesite audio konferenciju u usluzi Microsoft Teams? Da li je ovaj korisnik nedavno napravljen?  Ako je to slučaj, moraćete da sačekate 2–24 časa da bi postavke stupile na snagu.
 
 Da biste proverili da li je korisnik licenciran za audio konferenciju i da li ima podrazumevani broj sa naplatom:
 
@@ -39,4 +39,4 @@ Da biste proverili da li je korisnik licenciran za audio konferenciju i da li im
 
 7. Izaberite korisnika koji je u pitanju i proverite da li on ima **podrazumevani broj sa naplatom**.
 
-Više informacija potražite u članku [Planovi pozivanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu da bi vam pomogao sa pitanjima u vezi sa licenciranjem.
+Više informacija potražite u članku [Planovi pozivanja](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu da bi vam pomogao sa pitanjima u vezi sa licenciranjem.
