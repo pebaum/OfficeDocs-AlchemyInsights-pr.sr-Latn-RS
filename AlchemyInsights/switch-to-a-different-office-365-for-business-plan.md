@@ -1,5 +1,5 @@
 ---
-title: Prebacivanje na drugi Office 365 za poslovni plan
+title: Prebacivanje na drugi Microsoft 365 za poslovni plan
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548012"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763807"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Prebacivanje na drugi Office 365 za poslovni plan
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Prebaci se na drugi Microsoft 365 za poslovnu pretplatu
 
-Kada se vaše poslovne promene, ili su vam potrebne više funkcija sistema Office 365, možete da izvršite nadogradnju na novi plan.
+Kada se poslovne promene ili vam trebaju dodatne funkcije, možete da izvršite nadogradnju na novi plan.
   
 1. U okviru administratorskog centra idite na **proizvode za \> naplatu [& usluge](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

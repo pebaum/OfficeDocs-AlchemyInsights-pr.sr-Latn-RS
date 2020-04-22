@@ -1,9 +1,9 @@
 ---
-title: Oporavak izbrisanih e-pošte u programu Outlook na Webu
+title: Vraćanje izbrisanih e-poruka u programu Outlook na Webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/9/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "8000011"
 - "1996"
-ms.openlocfilehash: 730d0910302357ded8125e861a7827da204613c5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0db8d9d523721a9e890f530a8bdc12890d98d333
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556075"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765679"
 ---
-# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Oporavak izbrisanih e-pošte u programu Outlook na Webu
+# <a name="recover-deleted-email-in-outlook-on-the-web"></a>Vraćanje izbrisanih e-poruka u programu Outlook na Webu
 
-1. U lijevom oknu, izaberite fasciklu "Izbrisane stavke" ili fasciklu "Neželjena e-pošta".
+1. U levom oknu izaberite fasciklu "Izbrisane stavke" ili fasciklu "Neželjena e-pošta".
 
-2. Postupite na neki od sledećih:
+2. Postupite na neki od sledećih načina:
 
-    - Fasciklu "Izbrisane stavke": Izaberite poruku koju želite da spasite i da izaberete da **vratite u prethodno stanje**. Ako poruka nije u fascikli "Izbrisane stavke", izaberite **oporaviti stavke koje su izbrisane iz ove fascikle** na vrhu liste poruka izaberite poruku koju želite da spasete i izaberite stavku **Vrati u prethodno stanje**.
+    - Fascikla "Izbrisane stavke": Izaberite poruku koju želite da spasete i izaberite stavku " **Vrati u prethodno stanje**". Ako se poruka ne nalazi u fascikli "Izbrisane stavke", izaberite stavku " **spasi stavke izbrisane iz ove fascikle** " na vrhu liste poruka, izaberite poruku koju želite da spasete i izaberite stavku " **Vrati u prethodno stanje**".
 
-    - Neželjene e-pošte fascikle: Izaberite poruku koju želite da se oporavi, a **nije neželjena**.
+    - Fascikla neželjene e-pošte: Izaberite poruku koju želite da spasete, a zatim izaberite stavku " **Nije neželjeno**".
 
-Da biste saznali više, vidim da [spasi izbrisane poruke e-pošte u programu Outlook na Webu](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
+Da biste saznali više, pogledajte odeljak [oporavak izbrisanih e-poruka u programu Outlook na vebu](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).

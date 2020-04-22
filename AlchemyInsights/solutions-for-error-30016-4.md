@@ -1,9 +1,9 @@
 ---
-title: Rešenja za 30016-4
+title: Rešenja za grešku 30016-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/11/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,23 +14,23 @@ ms.custom:
 - "828"
 - "2000020"
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: d6190c1686389f8c77ad5fea587212cc2700e9d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa9dfb5916768863004b5533fd8148e0ec478e24
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501957"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757035"
 ---
-# <a name="solutions-for-error-30016-4"></a>Rešenja za 30016-4
+# <a name="solutions-for-error-30016-4"></a>Rešenja za grešku 30016-4
 
-Kada pokušate da deinstalirate Office 365 ProPlus sa računara i dobijete poruku o grešci, **nešto je krenulo naopako 30016-4**, to znači da disk jedinica **% temp %** mapirana na jedinicu koja nije **% ProgramFiles %**.
+Kada pokušate da deinstalirate Microsoft 365 aplikacije za Enterprise sa računara i dobijete poruku o grešci, **nešto je krenulo naopako 30016-4**, to znači da je **% temp%** jedinica mapirano na disk jedinicu koja nije **% ProgramFiles%**.
   
-Da biste otklonili, preuzmite i instalirajte na [podršci i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy)
+Da biste popravili, preuzeli i instalirali [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-1. Kada se otvore, iz **deinstalirate Office proizvodima** izaberite verziju želite deinstalirati i kliknite na dugme **dalje**.
+1. Kada se otvori, od **deinstaliranja Office proizvoda** izaberite verziju koju želite da deinstalirate i kliknite na dugme **dalje**.
 
-2. Nastavite kroz ekrane i ponovo pokrenite računalo kada se od vas zatraži.
+2. Nastavite da prolazite kroz ekrane i ponovo pokrenite računar kad se to zatraži.
 
-    Nakon ponovnog pokretanja, podrške i pomoćnik za oporavak automatski ponovo otvara da biste dovršili proces deinstalacije.
+    Nakon ponovnog pokretanja, pomoćnik za podršku i oporavak će se automatski ponovo otvoriti da bi dovršio proces deinstalacije.
 
-3. Pratite preostale upite i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.
+3. Sledite preostale odzive i [ponovo instalirajte Office](https://portal.office.com/OLS/MySoftware.aspx) ili zatvorite pomoćnika.

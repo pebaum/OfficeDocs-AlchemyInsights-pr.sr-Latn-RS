@@ -2,36 +2,36 @@
 title: Podešavanje pretplate na O365 Business Essentials
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744727"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767803"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Podešavanje pretplate na O365 Business Essentials
 
-Kreiranje Office 365 naloga i dodavanje domena
+Kreirajte Microsoft 365 naloge i dodajte svoj domen
   
-- U ovom koraku koristite čarobnjak za instalaciju da biste kreirali Office 365 naloge za korisnike i dodali sopstveni domen. Čarobnjak vam omogućava da personalizujete korisnički ID i e-poštu svih vaših preduzeća, kao što je [rob@contoso.com](mailto:rob@contoso.com).
+- U ovom koraku koristite čarobnjak za instalaciju da biste kreirali Microsoft 365 naloge za korisnike i dodali sopstveni domen. Čarobnjak vam omogućava da personalizujete korisnički ID i e-poštu svih vaših preduzeća, kao što je [rob@contoso.com](mailto:rob@contoso.com).
     
 - Posetite [Microsoft 365 admin Center](https://login.partner.microsoftonline.cn/).
     
-- Da biste pokrenuli čarobnjak, odaberite komandu " **Idi na**". Da biste saznali više, pogledajte odeljak [Dodavanje domena u Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Da biste pokrenuli čarobnjak, odaberite komandu " **Idi na**". Da biste saznali više, pogledajte odeljak [Dodavanje domena u Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
 Uvoz e-pošte
   
-- Premestite postojeću e-poštu i kontakte iz drugih sistema e-pošte u Office 365 poštansko sanduče da biste mogli da je vidite na jednom mestu. Za opcije migracije [Migrirajte e-poštu i kontakte na Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Premestite postojeću e-poštu i kontakte iz drugih sistema e-pošte u Microsoft 365 poštansko sanduče da biste mogli da je vidite na jednom mestu. Za opcije migracije, [Migrirajte e-poštu i kontakte u Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
 - Povezivanje naloga e-pošte
     
-  - Pored upravljanja Office 365 e-poštom u programu Outlook, možete da povežete i druge naloge e-pošte sa programom Outlook, kao što su gmail i yahoo nalozi. To vam omogućava da upravljate celom e-poštom na jednom mestu. Možete da povežete do 5 naloga e-pošte sa programom Outlook. Više detalja potražite [u članku povezivanje naloga e-pošte u programu Outlook na Webu (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Pored upravljanja e-poštom u programu Outlook, možete da povežete i druge naloge e-pošte sa programom Outlook, kao što su gmail i yahoo nalozi. To vam omogućava da upravljate celom e-poštom na jednom mestu. Možete da povežete do 5 naloga e-pošte sa programom Outlook. Više detalja potražite [u članku povezivanje naloga e-pošte u programu Outlook na Webu (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
     
 Instaliranje Skype-a za posao
   
@@ -39,7 +39,7 @@ Instaliranje Skype-a za posao
     
 Skladištenje datoteka na mreži
   
-- Da biste saznali koje lokacije za skladištenje su najbolje za vaše poslovanje, pogledajte [gde možete skladištiti datoteke u sistemu Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kada za njih kreirate Office 365 naloge, svako će automatski dobiti lokaciju skladišta za **OneDrive** u informatičkom oblaku. Pomoću usluge OneDrive možete pristupiti datotekama preko svojih računara, telefona i tableta. 
+- Da biste saznali koje lokacije za skladištenje su najbolje za vaše poslovanje, pogledajte [gde možete skladištiti datoteke u aplikaciji Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Kada za njih kreirate Microsoft 365 naloge, svako će automatski dobiti lokaciju skladišta za **OneDrive** u informatičkom oblaku. Pomoću usluge OneDrive možete pristupiti datotekama preko svojih računara, telefona i tableta. 
     
 U [ovom članku](https://docs.microsoft.com/office365/admin/setup/setup)se mogu naći detaljni koraci za instalaciju.
   

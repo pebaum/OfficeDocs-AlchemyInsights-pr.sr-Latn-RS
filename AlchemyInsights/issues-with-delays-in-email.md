@@ -1,8 +1,8 @@
 ---
-title: 323 pitanja sa kašnjenja u e-poruci
+title: 323 problemi sa kašnjenjima u e-poruci
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "323"
 - "3100002"
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 49752f57f11d74fbd5ebde08661ff8334a72525d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 343c5d63f33bbb56cb0de67d0f2ecd56122cd638
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497853"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762943"
 ---
-# <a name="delays-in-email-message-delivery"></a>Odlaganja u isporuku poruka e-pošte
+# <a name="delays-in-email-message-delivery"></a>Kašnjenja u isporuci e-poruke
 
-Izgleda da imate problema sa poštom protok. Imamo dijagnostiku koji će vam pomoći da identifikujete mnoge uobičajene probleme protok pošte. Kliknite na dugme **Pokreni dijagnostiku** ispod.
+Izgleda da imate problem sa protokom pošte. Imamo dijagnostiku koja će pomoći u identifikovanju mnogih uobičajenih problema vezanih za tok pošte. Izaberite stavku **Pokreni dijagnostiku** ispod.
