@@ -1,9 +1,9 @@
 ---
-title: Izveštaj o deljenju datoteka i fascikli na SharePoint lokaciji
+title: Izveštaj o deljenju datoteka i fascikli na SharePoint sajtu
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627372"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693176"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Izveštaj o deljenju datoteka i fascikli na SharePoint lokaciji
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Izveštaj o deljenju datoteka i fascikli na SharePoint sajtu
 
 Možete da kreirate CSV datoteku koja detaljno predstavlja svaku jedinstvenu datoteku, korisnika, dozvolu i vezu na datoj SharePoint lokaciji ili OneDrive biblioteci. Ovo vam može pomoći da razumete kako se deljenje koristi i da li se sve datoteke ili fascikle dele sa gostima.
 

@@ -3,7 +3,7 @@ title: Povećaj veličinu poštanskog sandučeta za Enterprise SKUs
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: c7c7c3d17bb0be0a31c80b39b587f1e085a12d84
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: cc3842bf7226079b8542cb95aa0cdbf00d95361f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739291"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671255"
 ---
 # <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>Šta treba uraditi ako je veličina vašeg poštanskog sandučeta već 100 GB
 
@@ -26,7 +26,7 @@ Da biste omogućili arhiviranje e-pošte:
   
 1. U Microsoft 365 admin Center posetite lokaciju **admin centre** \> **.** 
     
-2. Odaberite **** \> **Poštanske sandučiće**primalaca i izaberite poštansko sanduče. 
+2. Odaberite **Recipients** \> **Poštanske sandučiće**primalaca i izaberite poštansko sanduče. 
     
 3. U oknu sa detaljima koji se nalazi **u okviru arhive na mestu**, odaberite opciju **Omogući**. 
     

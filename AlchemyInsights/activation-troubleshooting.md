@@ -1,8 +1,8 @@
 ---
-title: Aktivacija za rešavanje problema
+title: Rešavanje problema sa aktivacijom
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495585"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676439"
 ---
-# <a name="activation-troubleshooting"></a>Aktivacija za rešavanje problema
+# <a name="activation-troubleshooting"></a>Rešavanje problema sa aktivacijom
 
-Na **Kontrolnoj tabli** \> **Programi i funkcije**, potraga za Office. Trebalo bi da vidite Microsoft Office 365 ProPlus ili Microsoft Office 365 Business. Ako vidite više verzija sistema Office na listi, deinstalirati verziju koje ne koristite.
+U **programima i funkcijama** **kontrolne table** \> potražite termin "Office". Trebalo bi da vidite Microsoft 365 aplikacije za poslovne ili Microsoft 365 aplikacije za posao. Ako vidite navedeno više verzija sistema Office, deinstalirajte verziju koju ne koristite.
   
-Ako ne možete deinstalirati uspješno pomoću kontrolne table, koristite [podršku i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) da biste deinstalirali verzija ne koristite.
+Ako ne možete uspešno da deinstalirate pomoću kontrolne table, koristite [Pomoćnik za podršku i oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) da biste deinstalirali verziju koju ne koristite.
   
-Ako Office je i dalje bez dozvole, vrati se na **Kontrolnoj tabli** \> **Programi i funkcije**. Kliknite desnim tasterom miša preostalih Office instalaciju, izaberite **Izmeni** (ili promeni), a zatim izaberite **Online popravke**. Online popravku može potrajati neko vreme. Zatim ponovo pokrenite Office i prijavite se koristeći svoj posao ili školu nalog, ako bude zatraženo.
+Ako Office i dalje nije licenciran, vratite se na **programe i funkcije** **kontrolne table** \> . Kliknite desnim tasterom miša na preostalu instalaciju sistema Office, izaberite stavku **Izmeni** (ili promenite), a zatim izaberite stavku **Popravka na mreži**. Popravka na mreži može potrajati neko vreme. Zatim ponovo pokrenite Office i prijavite se pomoću poslovnog ili školskog naloga ako vam bude zatraženo.
   
-Ako Office je i dalje bez dozvole, preuzmite i pokrenite [aktivaciju za rešavanje problema sa](https://aka.ms/SARA-OfficeActivation-Alchemy) na pogođenim sekretarici da rešite probleme za aktivaciju.
+Ako Office i dalje nije licenciran, preuzmite i pokrenite [program za rešavanje problema sa aktiviranjem](https://aka.ms/SARA-OfficeActivation-Alchemy) na računaru sa pogođenim računarom da biste rešili probleme sa aktivacijom.
   
-Za više informacija, pogledajte: [nelicencirane proizvoda i aktivacije greške u kancelariji](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Više informacija potražite u članku: [Nelicencirana greška proizvoda i aktivacije u sistemu Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

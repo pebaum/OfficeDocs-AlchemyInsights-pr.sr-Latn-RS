@@ -3,18 +3,18 @@ title: Outlook radna površina se opoziva ili zamenjuje e-poruku
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36496125"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687524"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Opozivanje ili zamenjivanje e-poruke programa Outlook
 
@@ -37,4 +37,4 @@ Traženje i brisanje e-poruka u vašoj organizaciji
 - [Kreirajte pretragu sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) da biste pronašli poruku za brisanje.
 - [Poveži se sa bezbednošću i PowerShell centra za usaglašavanje](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Ako koristite nepotvrdu identiteta sa više faktora, pogledajte odeljak [Povezivanje sa lokacijom Office 365 Security i centar za usaglašavanje pomoću višefaktora potvrde identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Ako koristite nepotvrdu identiteta sa više faktora, pogledajte odeljak [Povezivanje sa programom Microsoft 365 Security i centar za usaglašavanje pomoću višefaktora potvrde identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

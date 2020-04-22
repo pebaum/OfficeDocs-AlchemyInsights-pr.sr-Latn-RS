@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687416"
 ---
 # <a name="a1-license-for-microsoft-365"></a>A1 licenca za Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530436"
 
 - Ako vaš institut još uvek nije podesio Microsoft 365 Education, a vi želite da besplatno dodate Office 365, možete da [Započnete](https://www.microsoft.com/education/products/office) tako što ćete obezbediti e-poštu. 
 
-- Ako tražite da se **prebacite** iz drugog akademskog plana na A1 plan, pogledajte članak [Prebacivanje na drugi plan](https://docs.microsoft.com/sr-latn-RS/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Ako tražite da se **prebacite** iz drugog akademskog plana na A1 plan, pogledajte članak [Prebacivanje na drugi plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Da biste dodelili korisnike za A1 plan, pročitajte članak [Dodela licence korisnicima](https://docs.microsoft.com/sr-latn-RS/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Da biste dodelili korisnike za A1 plan, pročitajte članak [Dodela licence korisnicima](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Važno**: Možda ćete morati da sačekate do 24 časa da bi promene stupile na snagu. 
 

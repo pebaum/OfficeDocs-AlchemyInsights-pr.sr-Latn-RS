@@ -1,9 +1,9 @@
 ---
-title: Oporavak izbrisanih e-pošte na Outlook.com
+title: Spasi izbrisanu e-poštu u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: a5ef44f8024e5718f26df9fd4f7f2ef4a6390544
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc2b78e4cef7c7dac208ce893c1700b680b58217
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545405"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666971"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Oporavak izbrisanih e-pošte Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Spasi izbrisane e-poruke Outlook.com
 
-1. U oknu sa leve strane, izaberite **Izbrisane stavke**.
-2. Izaberite stavku koju želite da spasite i da izaberete da **vratite u prethodno stanje**.
-3. Ako poruka nije izbrisane stavke, izaberite **oporaviti stavke koje su izbrisane iz ove fascikle** na vrhu prozora.
+1. U levom oknu izaberite stavku **Izbrisane stavke**.
+2. Izaberite stavku koju želite da spasete i izaberite " **Vrati u prethodno stanje**".
+3. Ako poruka nije u izbrisanim stavkama, izaberite stavku **"spasi stavke izbrisane iz ove fascikle** " na vrhu prozora.
 
- **Važne informacije o izbrisanih stavki:**
+ **Važne informacije o izbrisanim stavkama:**
   
-- Stavke iz fascikli izbrisane stavke su spasen za 30 dana.
-- Ako se niste prijavili na račun vaše kartice za 365 dana, vaš email će biti izbrisane i mogu biti spasena.
-- Nije moguće da se oporavi e-pošte brišu nalozi dete.
+- Stavke uklonjene iz fascikle "Izbrisano" se spasne na 30 dana.
+- Ako se niste prijavili na svoj nalog za 365 dana, e-poruka će biti izbrisana i ne može biti spasena.
+- Nije moguće oporaviti e-poštu izbrisanu sa podređenih naloga.
 
-Da biste saznali više, vidim [Vraćanje izbrisanih poruka e-pošte u Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, pogledajte odeljak [Vraćanje izbrisanih e-poruka u Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

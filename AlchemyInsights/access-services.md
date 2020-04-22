@@ -1,9 +1,9 @@
 ---
-title: Usluge pristupa
+title: Access usluge
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: 2e645d3462d48227624e3d416d37d422c5d8baed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 165417510a0b7d19ddbd7afefff9cd12713e90da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495693"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43686624"
 ---
-# <a name="access-services"></a>Usluge pristupa
+# <a name="access-services"></a>Access usluge
 
-Funkcija usluge pristupa u SharePoint Online je u mirovinu. Novi zasnovan na Access web aplikacija i baza podataka web više ne mogu biti kreirani, a postojeće web aplikacije i web baze podataka neće biti zatvorena do aprila, 2018. Površine baze podataka Access (.accdb) su nije pogođena ova promena. Preporučuje se da Microsoft PowerApps kao alternativu Access web aplikacija i baza podataka web. 
+Funkcija pristupa uslugama na lokaciji SharePoint online je u penziji. Nove Web aplikacije i Web baze podataka zasnovane na programu Access više ne mogu da se kreiraju, a postojeće Web aplikacije i Web baze podataka biće zatvorena do aprila, 2018. Ova promena ne utiče na Access baze podataka na radnoj površini (. accdb). Preporučujemo Microsoft PowerApps kao alternativu pristupu Web aplikacijama i Web bazama podataka. 
   
-[Saznajte više o Microsoft PowerApps](https://powerapps.microsoft.com/)
+[Saznajte više o Microsoft Poweraplikacijama](https://powerapps.microsoft.com/)
   

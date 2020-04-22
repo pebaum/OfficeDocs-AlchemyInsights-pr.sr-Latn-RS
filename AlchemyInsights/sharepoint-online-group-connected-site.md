@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770365"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642158"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemi prilikom kreiranja grupe povezane lokacije u sistemu SharePoint
 
@@ -26,7 +26,7 @@ Ako ste izbrisali grupu i povezanu lokaciju i želite da kreirate drugu lokaciju
    - Više informacija o početku rada sa programom PowerShell potražite u članku [Prvi koraci u usluzi SharePoint Shell Management ljuske](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Uklonite lokaciju sa izbrisanih lokacija koristeći [stranicu ukloni-Prebrisedshell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) cmdto. PowerShell je potreban za trajno brisanje grupnih lokacija.
 
-1. Ako kreirate grupu povezanu lokaciju i primite upozorenje: **druga grupa sa istim pseudonimom već postoji**, proverite postojeće grupe iz [sistema Office 365 iz administratorskog centra](https://admin.microsoft.com/AdminPortal/Home#/groups). Da biste rešili problem, izbrišite postojeću grupu ako više nije potrebna ili kreirajte lokaciju sa dodeljenim drugim pseudonimom.
+1. Ako kreirate grupu povezanu lokaciju i primite upozorenje: **druga grupa sa istim pseudonimom već postoji**, proverite postojeće grupe iz [Microsoft 365 admin Center](https://admin.microsoft.com/AdminPortal/Home#/groups). Da biste rešili problem, izbrišite postojeću grupu ako više nije potrebna ili kreirajte lokaciju sa dodeljenim drugim pseudonimom.
 
 1. Postoje različiti načini za kreiranje i korišćenje modernih grupa sa SharePoint-om.
 

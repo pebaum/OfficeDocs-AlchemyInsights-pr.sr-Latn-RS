@@ -3,7 +3,7 @@ title: Otvaranje datoteke samo za čitanje
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702788"
 ---
 # <a name="file-open-read-only"></a>Otvaranje datoteke samo za čitanje
 
@@ -37,7 +37,7 @@ Datoteke sa interneta i drugih potencijalno nebezbednih lokacija mogu da sadrže
   
  **Da li je OneDrive puna?**
   
-Ako je datoteka uskladištena u usluzi OneDrive, a vaš prostor za skladištenje u usluzi OneDrive je pun, nećete moći da sačuvate dokument dok ne budete pod dodeljenim prostorom. Slobodno mesto u usluzi OneDrive možete da proverite tako što ćete kliknuti na ikonu OneDrive u okviru centra za obaveštenja i odabrati stavku "Upravljanje skladištem" [http://onedrive.live.com](http://onedrive.live.com)ili možete da odete na nju, da se prijavite i zabeležite količinu upotrebljenog prostora u donjem levom uglu ekrana.
+Ako je datoteka uskladištena u usluzi OneDrive, a vaš prostor za skladištenje u usluzi OneDrive je pun, nećete moći da sačuvate dokument dok ne budete pod dodeljenim prostorom. Slobodno mesto u usluzi OneDrive možete da proverite tako što ćete kliknuti na ikonu OneDrive u okviru centra za obaveštenja i odabrati stavku "Upravljanje skladištem" [https://onedrive.live.com](https://onedrive.live.com)ili možete da odete na nju, da se prijavite i zabeležite količinu upotrebljenog prostora u donjem levom uglu ekrana.
   
  **Da li je Office aktiviran?**
   

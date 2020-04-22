@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: a171c30d9e58aeafc270e60a5a4fa4cd7db4135f
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 804ed86b45d73d17931c18ee23c7fb120c68723e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977488"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704539"
 ---
 # <a name="information-about-dlp-issues"></a>Informacije o problemima sa DLP-a
 
@@ -24,7 +24,7 @@ ms.locfileid: "42977488"
 
 **Informacije o smernicama za DLP**
 
-Pomoću datoteke sa DLP-om možete da identifikujete, nadgledate i automatski zaštitite osetljive informacije širom Officea 365.
+Pomoću datoteke sa DLP-om možete da identifikujete, nadgledate i automatski zaštitite osetljive informacije na lokaciji Microsoft 365.
 
 Molimo vas da posetite ove veze za više informacija:
 

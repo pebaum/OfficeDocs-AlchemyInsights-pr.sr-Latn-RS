@@ -12,23 +12,23 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: a28fd31412967841063f65ddd8ef2ee97fb6f89b
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: a737cb708219730612954535f000761ac99365b2
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068423"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645650"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Provera postavki prosleđivanja e-pošte za poštansko sanduče
 
-Lako možete da proverite postavke prosleđivanja e-pošte na Office 365 poštanskom sandučetu. Samo sledite ove korake.
+Lako možete da proverite postavke prosleđivanja e-pošte na Microsoft 365 poštanskom sandučetu. Samo sledite ove korake.
   
 > Ako se radi o korisničkom poštanskom sandučetu, otvorite **korisnike** \> **aktivnih korisnika** i izaberite korisnika čije poštansko sanduče prosleđujete. Na kartici " **Pošta** " izaberite stavku " **Upravljaj prosleđivanjem e-pošte**".
 
 > Ako je ovo deljeni poštansko sanduče, idite u **grupe** \> **deljenih poštanskih sandučića** i izaberite zajedničko poštansko sanduče koje prosleđujete. Izaberite stavku **Uredi** za prosleđivanje e-pošte.
 
-Više informacija potražite u članku [Konfigurisanje prosleđivanja e-pošte u sistemu Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Više informacija potražite u članku [Konfigurisanje prosleđivanja e-pošte u programu Microsoft 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
   
-Da biste poslali uputstva korisnicima kako bi mogli da podese Prosleđivanje e-pošte na vlastitim poštanskim sandučićima, usmerite ih da [prosleđuju e-poštu sa officea 365 na drugi nalog e-pošte](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Imajte na umu da možete da prosledite samo jednu e-adresu. Ako je potrebno da podesite prosleđivanje u grupu ljudi, Kreirajte listu distribucije (u **grupi),** Dodajte svoje korisnike, a zatim konfigurišite prosleđivanje u tu grupu.
+Da biste poslali uputstva korisnicima kako bi mogli da podese Prosleđivanje e-pošte na vlastitim poštanskim sandučićima, usmerite ih da [prosleđuju e-poštu sa Microsoft 365 na drugi nalog e-pošte](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Imajte na umu da možete da prosledite samo jednu e-adresu. Ako je potrebno da podesite prosleđivanje u grupu ljudi, Kreirajte listu distribucije (u **grupi),** Dodajte svoje korisnike, a zatim konfigurišite prosleđivanje u tu grupu.
   
-Da li imate radnika koji odlaze? Za preporučene korake pogledajte odeljak [Uklanjanje bivšeg zaposlenog iz sistema Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .
+Da li imate radnika koji odlaze? Za preporučene korake pogledajte odeljak [Uklanjanje bivšeg zaposlenog iz programa Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) .

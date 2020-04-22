@@ -1,9 +1,9 @@
 ---
-title: Uređivanje fakturisanja profila za aplikacije
+title: Uredi profil naplate za aplikacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606909"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703909"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Uređivanje fakturisanja profila za aplikacije
+# <a name="edit-billing-profile-for-apps"></a>Uredi profil naplate za aplikacije
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Da biste promenili fakturisanja profil na apps
+## <a name="to-change-the-billing-profile-on-apps"></a>Promena profila naplate u aplikacijama
 
-1. Idi da se **naplate** > [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice, a zatim odaberite karticu **Apps** .
+1. Idite na stranicu "[& usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) **naplate** > ", a zatim odaberite karticu " **aplikacije** ".
 
-2. Pronađite i izaberite aplikaciju kojom želite da upravljate.  
+2. Pronađite i izaberite aplikaciju u kojoj želite da upravljate.  
 
-3. Pored **naplate profil**, izaberite **Uređivanje** i odaberite fakturisanja profil koji želite da pridružite aplikaciju.
+3. Pored **profila fakturisanja**izaberite stavku **Uredi** i odaberite profil fakturisanja koji želite da povežete sa aplikacijom.
 
-## <a name="edit-billing-profiles"></a>Uređivanje profila za naplatu
+## <a name="edit-billing-profiles"></a>Uredi profile za naplatu
 
-1. Idite na u **obračunu** > [plaćanja računa &](https://go.microsoft.com/fwlink/p/?linkid=848039) stranice, a zatim odaberite **naplate profile**.
+1. Idite na stranicu "računi za **naplatu** > [&](https://go.microsoft.com/fwlink/p/?linkid=848039) ", a zatim odaberite **profile fakturisanja**.
 
-2. Odaberite fakturisanja profil sa liste da biste uredili.
+2. Odaberite profil naplate sa liste za uređivanje.

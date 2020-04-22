@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661310"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687632"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 smernice za upozorenje
+# <a name="alert-policies"></a>Smernice za upozorenje
 
-Office 365 Security & centar za usaglašavanje nudi [podrazumevane smernice za obaveštenja](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) koje aktiviraju obaveštenja za organizacije sa Office 365 Enterprise ili Office 365 vladom E1/G1, E3/G3 ili E5/G5 pretplatom. Zbog toga administratori mogu da prime obaveštenje e-poštom na obaveštenje koje je poslao Office365Alerts@microsoft.com sa temom predmeta kao što je "upozorenje o niskoj ozbiljnosti: *ime smernica za obaveštenja*". Obaveštenja o obaveštenju se šalju kada se budu aktivirane obaveštenja za uobičajene aktivnosti, kao što su korisnici:
+Microsoft 365 Security & centar za usaglašavanje nudi [podrazumevane smernice za obaveštenja](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) koje aktiviraju obaveštenja za organizacije sa Office 365 Enterprise ili Office 365 vladom E1/G1, E3/G3 ili E5/G5 pretplatom. Zbog toga administratori mogu da prime obaveštenje e-poštom na obaveštenje koje je poslao Office365Alerts@microsoft.com sa temom predmeta kao što je "upozorenje o niskoj ozbiljnosti: *ime smernica za obaveštenja*". Obaveštenja o obaveštenju se šalju kada se budu aktivirane obaveštenja za uobičajene aktivnosti, kao što su korisnici:
 
 - Kreirajte pravila prijemnog poštanskog sandučeta koja prosleđuju e-poštu.
 - Dodelite dozvole njihovom poštanskom sandučetu.

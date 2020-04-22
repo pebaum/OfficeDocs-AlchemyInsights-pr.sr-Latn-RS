@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 904b282ef8ecfa8144203da49b5ed41f824bcf20
-ms.sourcegitcommit: 9f594bef6725e846f343ba8eb4fe5620727971e5
+ms.openlocfilehash: 2b709313a1b88e2c3e0f99ad9f445910f0ca0fa5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/22/2020
-ms.locfileid: "42564531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671507"
 ---
 # <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>Dodavanje, uklanjanje ili Sprečavanje korisnika da menjaju fotografije profila
 
-- **Dodavanje fotografija profila:** Fotografije profila mogu da dodaju administrator u [aplikaciji Microsoft 365 admin Center, aktivnim korisnicima](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ili [Azure upravljanju korisnicima aktivnog direktorijuma](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Ako ne vidite opciju "Promeni fotografiju", uverite se da je licenca dodeljena tom korisniku. Korisnici mogu da dodaju ili da ga izmene u korisničkom profilu iz bilo koje Microsoft 365 usluge tako što će kliknuti na njihove inicijale/fotografije u gornjem desnom uglu ekrana. Za više informacija o dodavanju fotografije profila pogledajte odeljak [Dodavanje fotografije profila u Office 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **Dodavanje fotografija profila:** Fotografije profila mogu da dodaju administrator u [aplikaciji Microsoft 365 admin Center, aktivnim korisnicima](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ili [Azure upravljanju korisnicima aktivnog direktorijuma](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  Ako ne vidite opciju "Promeni fotografiju", uverite se da je licenca dodeljena tom korisniku. Korisnici mogu da dodaju ili da ga izmene u korisničkom profilu iz bilo koje Microsoft 365 usluge tako što će kliknuti na njihove inicijale/fotografije u gornjem desnom uglu ekrana. Za više informacija o dodavanju fotografije profila pogledajte odeljak [Dodavanje fotografije profila u Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
 - **Uklanjanje fotografija profila:** Administrator može da ukloni fotografije profila u aplikaciji " [Upravljanje korisnicima za korisnike Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) " ili korisnika u svom korisničkom profilu Microsoft tima.
 
-- **Blokiranje promena fotografija profila:** Promene fotografija mogu da se blokiraju za sve Microsoft 365 * dodavanjem smernica za Outlook Web aplikacije po tom članku, [zaključavanje fotografija ili ograničavanje dozvola za promenu slike za Office 365 profile](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **Blokiranje promena fotografija profila:** Promene fotografija mogu da se blokiraju za sve Microsoft 365 * dodavanjem smernica za Outlook Web aplikacije po članku, [zaključavanje fotografija ili ograničavanje dozvola za promenu fotografije Microsoft 365 profila](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
 * Imajte u vidu da Microsoft timovi trenutno ne podržavaju smernice Outlook Web aplikacije da bi blokirali promene fotografija, ali planiraju da dodaju podršku za ovu funkciju početkom 2020.

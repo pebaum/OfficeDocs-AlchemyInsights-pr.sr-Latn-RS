@@ -1,9 +1,9 @@
 ---
-title: Prepaid obnove
+title: Prepaid obnova
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666710"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666791"
 ---
-# <a name="prepaid-office-365-renewal"></a>Prepaid Office 365 obnove
+# <a name="prepaid-microsoft-365-renewal"></a>Prepaid Microsoft 365 obnova
 
-1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. U centru administracije, idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Pronaći pretplate želite da proširite. Izaberite **datum završetka proširi**u odeljku **naplate** .
+2. Pronađite pretplatu koju želite da proširite. U odeljku **naplata** izaberite stavku **Proširi datum završetka**.
 
-3. U oknu **Proširi pretplatu** , izaberite **koristi nove i Nekorištene product key šifru**, a zatim kliknite na dugme **dalje**.
+3. U oknu za **Proširivanje pretplate** izaberite opciju **koristi novu i neiskorišćenu šifru proizvoda**, a zatim kliknite na dugme **dalje**.
 
 4. Unesite šifru proizvoda, a zatim kliknite na dugme **dalje**.
 
 > [!NOTE]
-> Ako imate više od jednog proizvoda, možete da izaberete da **biste dodali drugu šifru proizvoda** unesite ih.
+> Ako imate više od jedne šifre proizvoda, možete izabrati stavku **Dodaj drugu šifru proizvoda** da biste ih uneli.
 
-5. Pregled detalja porudžbine, a zatim izaberite **Redeem**.
+5. Pregledajte detalje porudžbine, a zatim izaberite " **Preuzmi**".
 
-Da biste saznali više, pogledajte [Dodaj licence da ili da se produži pretplatu platili koristite šifru proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Da biste saznali više, pogledajte odeljak [Dodavanje licenci ili proširivanje pretplate koja je plaćena za korišćenje šifre proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

@@ -1,8 +1,8 @@
 ---
-title: Kôd greške 550 5.7.705 zabranjen je pristup, stanar je premašila prag
+title: Kôd greške 550 5.7.705 pristup odbijen, stanarka je premašio prag
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527233"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703004"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 zabranjen pristup, stanar je premašila prag
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>550 5.7.705 pristup odbijen, stanarka je premašio prag
 
-Ova poruka se pojavljuje kada previše spam ili masovne pošte poslat je vaša organizacija i stavljamo blok na odlazne pošte.
-Uobičajeni uzroci su kompromitovane lokalne servere ili kompromitovane administratorske naloge koji su korišćeni za kreiranje linije spajanja. U svakom stanju možete dozvoliti spam da prođe kroz vašu organizaciju.
+Ova poruka se javlja kada je vaša organizacija poslala previše spam ili masovne pošte i mi plasiramo blok odlazne pošte.
+Uobičajeni uzroci su ugroženi na servere ili ugroženi administrativni nalozi koji su korišćeni za kreiranje konektora. Oba uslova mogu dozvoliti da bezvredna pošta prođe kroz vašu organizaciju.
 
-Da biste uklonili ovaj blok, treba da razume i objasniti uzrok agent za podršku, kao ispravili osnovni problem.
-Jednom kad budete spremni, kliknite na dugme ispod da **nas kontaktirate** .
+Da biste uklonili ovaj blok, potrebno je da razumete i objasnite uzrok agenta za podršku, kao i da ispravite osnovni problem.
+Kliknite na dugme " **obratite nam** se ispod" kada budete spremni.

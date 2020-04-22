@@ -1,9 +1,9 @@
 ---
-title: Odbijene kreditne kartice
+title: Odbijena kreditna kartica
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665222"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705099"
 ---
-# <a name="declined-credit-card"></a>Odbijene kreditne kartice
+# <a name="declined-credit-card"></a>Odbijena kreditna kartica
 
-Ako ti platim kreditnom karticom, a tvoja kreditna kartica je odbijena, primite e-mail pustiti te znati da smo bili nije moguće obraditi uplatu. Dvostruka Provera da će se pojaviti [Detalji kreditne kartice](https://go.microsoft.com/fwlink/p/?linkid=842054) , broj kartice, datum isteka, ime na kreditnu karticu, i adresa, uključujući i grad, država i POŠTANSKI broj, baš kao što to rade na kreditnu karticu i izvodu kreditne kartice. Možete da ažurirate informacije o kreditnom karticom i odmah dostavlja plaćanje koristeći opciju **sredi saldo** na stranici [proizvodi & uslugama](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Ako platite kreditnom karticom, a vaša kreditna kartica je odbijena, dobićete e-poruku koja vas obaveštava da ne možemo da obrađujemo plaćanje. Dvaput proverite da li su [Detalji kreditne](https://go.microsoft.com/fwlink/p/?linkid=842054) kartice-broj kartice, rok važenja, ime na kreditnoj kartici i adresa, uključujući grad, DRŽAVU i ZIP kôd, prikazani tačno kao na kreditnoj kartici i u izvodu sa kreditnim karticama. Informacije o kreditnoj kartici možete ažurirati i odmah proslediti uplatu pomoću opcije " **izmirsaldo** " na stranici " [proizvodi & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) ". 
 
-Da biste saznali više, Pogledajte „šta ako moja kreditna kartica je istekla i moja isplata je već istekao”? u da [plati za svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Da biste saznali više, pogledajte odeljak "Šta ako je moja kreditna kartica istekla i moja isplata je zakasna?" u [okviru plate za Microsoft 365 za poslovnu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Ako nastavite da vidite „odbijenih” poruku, obratite se vaša banka. Moguće da je vaše kreditne kartice nije aktivna — na primer, ako ste nedavno dobili kreditne kartice u poštu sa ažuriranim važenja, i dalje morate da ga aktivirate. Vaša banka takođe može da ako je vaše kreditne kartice nije odobren za transakcije na internetu, međunarodne ili periodični.
+Ako i dalje budete videli poruku "odbijena", obratite se banci. Moguće je da vaša kreditna kartica nije aktivna – na primer, ako ste nedavno primili kreditnu karticu u poruci sa ažuriranim datumom prestanka važenja, možda ćete ipak morati da ga aktivirate. Vaša banka takođe može da vam kaže da vaša kreditna kartica nije odobrena za mrežne, međunarodne ili periodične transakcije.
   
-Za dodatne informacije pogledajte [otklanjanje poteškoća kreditne kartice i bankovne račune](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Dodatne informacije potražite u članku [Rešavanje problema sa kreditnim karticama i računima u banci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
