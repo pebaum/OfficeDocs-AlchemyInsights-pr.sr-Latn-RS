@@ -1,9 +1,9 @@
 ---
-title: Outlook.com ne može da odjavi se
+title: Outlook.com ne može da se odjavi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547829"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666863"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="88fe9-102">Nije moguće odjaviti iz Outlook.com</span><span class="sxs-lookup"><span data-stu-id="88fe9-102">Unable to sign out of Outlook.com</span></span>
+# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="80a21-102">Nije moguće odjavljivanje iz Outlook.com</span><span class="sxs-lookup"><span data-stu-id="80a21-102">Unable to sign out of Outlook.com</span></span>
 
-<span data-ttu-id="88fe9-103">Da se odjavi se sa Outlook.com, izaberite svoje ime ili sliku u gornjem desnom uglu ekrana, a zatim izaberite da **biste se odjavili**.</span><span class="sxs-lookup"><span data-stu-id="88fe9-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
+<span data-ttu-id="80a21-103">Da biste se odjavili iz Outlook.com, izaberite svoje ime ili sliku u gornjem desnom uglu ekrana, a zatim izaberite stavku " **Odjavljivanje**".</span><span class="sxs-lookup"><span data-stu-id="80a21-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
 
-<span data-ttu-id="88fe9-104">Ako ne vidite sliku na vrhu ekrana, proverite da ako ad blokira uključena.</span><span class="sxs-lookup"><span data-stu-id="88fe9-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="88fe9-105">Ponekad to sprečava sliku koja prikazuje.</span><span class="sxs-lookup"><span data-stu-id="88fe9-105">Sometimes this prevents the picture from showing.</span></span>
+<span data-ttu-id="80a21-104">Ako ne vidite sliku na vrhu ekrana, proverite da li je uključeno blokiranje oglasa.</span><span class="sxs-lookup"><span data-stu-id="80a21-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="80a21-105">Ponekad to sprečava prikazivanje slike.</span><span class="sxs-lookup"><span data-stu-id="80a21-105">Sometimes this prevents the picture from showing.</span></span>
 
-<span data-ttu-id="88fe9-106">Ako i dalje ne možete potpisati iz Outlook.com, kliknite na [https://login.live.com/logout.srf](https://login.live.com/logout.srf) zatim zatvorite sve prozore pregledača.</span><span class="sxs-lookup"><span data-stu-id="88fe9-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>
+<span data-ttu-id="80a21-106">Ako još uvek ne možete da se odjavite iz Outlook.com [https://login.live.com/logout.srf](https://login.live.com/logout.srf) , kliknite na zatvorite sve prozore pregledača.</span><span class="sxs-lookup"><span data-stu-id="80a21-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>

@@ -3,7 +3,7 @@ title: Brisanje SharePoint lokacije
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 7/30/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,43 +11,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: aa881dd6618f6912b854929db625f4cbaeb048d7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36514073"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705027"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="c200a-102">Brisanje lokacija koje pripadaju Office 365 grupi</span><span class="sxs-lookup"><span data-stu-id="c200a-102">Delete sites that belong to an Office 365 group</span></span>
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a><span data-ttu-id="7f41b-102">Brisanje lokacija koje pripadaju Office 365 grupi</span><span class="sxs-lookup"><span data-stu-id="7f41b-102">Delete sites that belong to an Office 365 group</span></span>
 
-<span data-ttu-id="c200a-103">Kada korisnici kreiraju novu lokaciju tima iz sistema SharePoint Home ili kreirate novu timsku lokaciju iz novog SharePoint administratorskog centra, automatski će se kreirati odgovarajuća Office 365 grupa.</span><span class="sxs-lookup"><span data-stu-id="c200a-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="c200a-104">Office 365 Team-povezane lokacije se takođe kreiraju kada kreirate Office 365 grupu ili tim u Microsoft timovima.</span><span class="sxs-lookup"><span data-stu-id="c200a-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="c200a-105">Da biste izbrisali SharePoint lokaciju koja pripada Office 365 grupi, potrebno je da izbrišete samu grupu Office 365.</span><span class="sxs-lookup"><span data-stu-id="c200a-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
+<span data-ttu-id="7f41b-103">Kada korisnici kreiraju novu lokaciju tima iz sistema SharePoint Home ili kreirate novu timsku lokaciju iz novog SharePoint administratorskog centra, automatski će se kreirati odgovarajuća Office 365 grupa.</span><span class="sxs-lookup"><span data-stu-id="7f41b-103">When users create a new team site from SharePoint Home or you create a new team site from the new SharePoint admin center, a corresponding Office 365 group is automatically created.</span></span> <span data-ttu-id="7f41b-104">Office 365 Team-povezane lokacije se takođe kreiraju kada kreirate Office 365 grupu ili tim u Microsoft timovima.</span><span class="sxs-lookup"><span data-stu-id="7f41b-104">Office 365 group-connected team sites are also created when you create an Office 365 group or a team in Microsoft Teams.</span></span> <span data-ttu-id="7f41b-105">Da biste izbrisali SharePoint lokaciju koja pripada Office 365 grupi, potrebno je da izbrišete samu grupu Office 365.</span><span class="sxs-lookup"><span data-stu-id="7f41b-105">To delete a SharePoint site that belongs to an Office 365 group, you need to delete the Office 365 group itself.</span></span> 
   
-1. <span data-ttu-id="c200a-106">Idite na [stranicu "grupe" Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="c200a-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
+1. <span data-ttu-id="7f41b-106">Idite na [stranicu "grupe" Microsoft 365 admin Center](https://portal.office.com/adminportal/home#/groups).</span><span class="sxs-lookup"><span data-stu-id="7f41b-106">Go to the [Groups page of the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).</span></span>
     
-2. <span data-ttu-id="c200a-107">Potvrdite izbor u polju za potvrdu pored grupe.</span><span class="sxs-lookup"><span data-stu-id="c200a-107">Select the check box next to the group.</span></span>
+2. <span data-ttu-id="7f41b-107">Potvrdite izbor u polju za potvrdu pored grupe.</span><span class="sxs-lookup"><span data-stu-id="7f41b-107">Select the check box next to the group.</span></span>
     
-3. <span data-ttu-id="c200a-108">Izaberite stavku **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="c200a-108">Select **Delete**.</span></span>
+3. <span data-ttu-id="7f41b-108">Izaberite stavku **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="7f41b-108">Select **Delete**.</span></span>
     
-<span data-ttu-id="c200a-109">Napomena: kada izbrišete grupu, može doći do kašnjenja pre nego što se lokacija ukloni iz sistema SharePoint.</span><span class="sxs-lookup"><span data-stu-id="c200a-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
+<span data-ttu-id="7f41b-109">Napomena: kada izbrišete grupu, može doći do kašnjenja pre nego što se lokacija ukloni iz sistema SharePoint.</span><span class="sxs-lookup"><span data-stu-id="7f41b-109">NOTE: When you delete a group, there can be a delay before the site is removed from SharePoint.</span></span>
   
-<span data-ttu-id="c200a-110">**Brisanje lokacija za komunikaciju ili klasičnih lokacija:**</span><span class="sxs-lookup"><span data-stu-id="c200a-110">**Delete communication sites or classic sites:**</span></span>
+<span data-ttu-id="7f41b-110">**Brisanje lokacija za komunikaciju ili klasičnih lokacija:**</span><span class="sxs-lookup"><span data-stu-id="7f41b-110">**Delete communication sites or classic sites:**</span></span>
 
-1. <span data-ttu-id="c200a-111">Idite na lokaciju.</span><span class="sxs-lookup"><span data-stu-id="c200a-111">Go to the site.</span></span>
+1. <span data-ttu-id="7f41b-111">Idite na lokaciju.</span><span class="sxs-lookup"><span data-stu-id="7f41b-111">Go to the site.</span></span>
   
-2. <span data-ttu-id="c200a-112">Kliknite na ikonu " **Postavke** " u gornjem desnom uglu.</span><span class="sxs-lookup"><span data-stu-id="c200a-112">Click the **Settings** icon in the upper right.</span></span> 
+2. <span data-ttu-id="7f41b-112">Kliknite na ikonu " **Postavke** " u gornjem desnom uglu.</span><span class="sxs-lookup"><span data-stu-id="7f41b-112">Click the **Settings** icon in the upper right.</span></span> 
   
-3. <span data-ttu-id="c200a-113">Izaberite stavku **Postavke lokacije**.</span><span class="sxs-lookup"><span data-stu-id="c200a-113">Click **Site settings**.</span></span> <span data-ttu-id="c200a-114">U odeljku **informacije o lokaciji** ili **Radnje lokacije**kliknite na dugme **Izbriši ovu lokaciju**, a zatim izaberite stavku **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="c200a-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
+3. <span data-ttu-id="7f41b-113">Izaberite stavku **Postavke lokacije**.</span><span class="sxs-lookup"><span data-stu-id="7f41b-113">Click **Site settings**.</span></span> <span data-ttu-id="7f41b-114">U odeljku **informacije o lokaciji** ili **Radnje lokacije**kliknite na dugme **Izbriši ovu lokaciju**, a zatim izaberite stavku **Izbriši**.</span><span class="sxs-lookup"><span data-stu-id="7f41b-114">Under **Site Information** or **Site Actions**, click **Delete this site**, and then click **Delete**.</span></span>
   
-<span data-ttu-id="c200a-115">**Brisanje SharePoint kolekcije lokacija:**</span><span class="sxs-lookup"><span data-stu-id="c200a-115">**Delete a SharePoint site collection:**</span></span>
+<span data-ttu-id="7f41b-115">**Brisanje SharePoint kolekcije lokacija:**</span><span class="sxs-lookup"><span data-stu-id="7f41b-115">**Delete a SharePoint site collection:**</span></span>
 
-<span data-ttu-id="c200a-116">Da biste izbrisali lokaciju:</span><span class="sxs-lookup"><span data-stu-id="c200a-116">To delete a site:</span></span>
+<span data-ttu-id="7f41b-116">Da biste izbrisali lokaciju:</span><span class="sxs-lookup"><span data-stu-id="7f41b-116">To delete a site:</span></span>
   
-1. <span data-ttu-id="c200a-117">U novom SharePoint administratoru centra, na stranici lokacije, kliknite na **polje za potvrdu** pored lokacije koju želite da izbrišete.</span><span class="sxs-lookup"><span data-stu-id="c200a-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
+1. <span data-ttu-id="7f41b-117">U novom SharePoint administratoru centra, na stranici lokacije, kliknite na **polje za potvrdu** pored lokacije koju želite da izbrišete.</span><span class="sxs-lookup"><span data-stu-id="7f41b-117">In the new SharePoint admin center, on the Sites page, click the **check box** next to the site you want to delete.</span></span> 
     
-2. <span data-ttu-id="c200a-118">Na traci sa alatkama trake kliknite na dugme **Izbriši.**</span><span class="sxs-lookup"><span data-stu-id="c200a-118">On the ribbon toolbar, click **Delete.**</span></span>
+2. <span data-ttu-id="7f41b-118">Na traci sa alatkama trake kliknite na dugme **Izbriši.**</span><span class="sxs-lookup"><span data-stu-id="7f41b-118">On the ribbon toolbar, click **Delete.**</span></span>
     
-<span data-ttu-id="c200a-119">**Da li ste slučajno izbrisali lokaciju?**</span><span class="sxs-lookup"><span data-stu-id="c200a-119">**Deleted a site by accident?**</span></span>
+<span data-ttu-id="7f41b-119">**Da li ste slučajno izbrisali lokaciju?**</span><span class="sxs-lookup"><span data-stu-id="7f41b-119">**Deleted a site by accident?**</span></span>
 
-<span data-ttu-id="c200a-120">Pogledajte odeljak [Vraćanje izbrisane kolekcije lokacija](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="c200a-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
+<span data-ttu-id="7f41b-120">Pogledajte odeljak [Vraćanje izbrisane kolekcije lokacija](https://go.microsoft.com/fwlink/?linkid=867660).</span><span class="sxs-lookup"><span data-stu-id="7f41b-120">See [Restore a deleted site collection](https://go.microsoft.com/fwlink/?linkid=867660).</span></span>
   
 

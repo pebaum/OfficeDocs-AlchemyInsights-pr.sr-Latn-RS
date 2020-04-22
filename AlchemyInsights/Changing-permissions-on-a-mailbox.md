@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: fa226612a9b9bfa8e6ca0b287fc51969d95e3469
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734395"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692527"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a><span data-ttu-id="77623-102">Menjanje dozvola za poštansko sanduče</span><span class="sxs-lookup"><span data-stu-id="77623-102">Changing permissions on a mailbox</span></span>
+# <a name="changing-permissions-on-a-mailbox"></a><span data-ttu-id="ba188-102">Menjanje dozvola za poštansko sanduče</span><span class="sxs-lookup"><span data-stu-id="ba188-102">Changing permissions on a mailbox</span></span>
 
-<span data-ttu-id="77623-103">Ako je korisnicima potreban pristup Office 365 poštanskim sandučićima koji nisu njihovi, potrebno je da im date dozvole za rad sa tim poštanskim sandučićima.</span><span class="sxs-lookup"><span data-stu-id="77623-103">If users need access to Office 365 mailboxes other than their own, they need to be given permissions to work with those mailboxes.</span></span> <span data-ttu-id="77623-104">Način na koji dodeljujete te dozvole zavisi od tipa poštanskog sandučeta.</span><span class="sxs-lookup"><span data-stu-id="77623-104">How you assign those permissions depends on the mailbox type.</span></span> <span data-ttu-id="77623-105">Ako je korisnicima potreban pristup:</span><span class="sxs-lookup"><span data-stu-id="77623-105">If users need access to:</span></span>
+<span data-ttu-id="ba188-103">Ako je korisnicima potreban pristup poštanskim sandučićima koji nisu njihovi, potrebno je da im date dozvole za rad sa tim poštanskim sandučićima.</span><span class="sxs-lookup"><span data-stu-id="ba188-103">If users need access to mailboxes other than their own, they need to be given permissions to work with those mailboxes.</span></span> <span data-ttu-id="ba188-104">Način na koji dodeljujete te dozvole zavisi od tipa poštanskog sandučeta.</span><span class="sxs-lookup"><span data-stu-id="ba188-104">How you assign those permissions depends on the mailbox type.</span></span> <span data-ttu-id="ba188-105">Ako je korisnicima potreban pristup:</span><span class="sxs-lookup"><span data-stu-id="ba188-105">If users need access to:</span></span>
   
-- <span data-ttu-id="77623-106">Poštanske sandučiće drugih korisnika-pogledajte [da li želite da dozvole za poštansko sanduče date drugom korisniku u officeu 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).</span><span class="sxs-lookup"><span data-stu-id="77623-106">Other user's mailboxes - please see [Give mailbox permissions to another user in Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).</span></span>
+- <span data-ttu-id="ba188-106">Poštanske sandučiće drugih korisnika-pogledajte [da dodelite dozvole za poštansko sanduče drugom korisniku](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).</span><span class="sxs-lookup"><span data-stu-id="ba188-106">Other user's mailboxes - please see [Give mailbox permissions to another user](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).</span></span>
     
-- <span data-ttu-id="77623-107">Deljeni poštansko sanduče-pogledajte odeljak [Dodavanje ili uklanjanje članova iz deljenog poštanskog sandučeta](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).</span><span class="sxs-lookup"><span data-stu-id="77623-107">A shared mailbox - please see [Add or remove members from a shared mailbox](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).</span></span>
+- <span data-ttu-id="ba188-107">Deljeni poštansko sanduče-pogledajte odeljak [Dodavanje ili uklanjanje članova iz deljenog poštanskog sandučeta](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).</span><span class="sxs-lookup"><span data-stu-id="ba188-107">A shared mailbox - please see [Add or remove members from a shared mailbox](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).</span></span>
     
-<span data-ttu-id="77623-108">Ako dozvole ne rade ispravno nakon što izvršite gorenavedene korake, idite u Exchange admin Center i pokušajte da postavite dozvole odatle (pogledajte članak [Upravljanje dozvolama za primaoce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).</span><span class="sxs-lookup"><span data-stu-id="77623-108">If permissions do not work correctly after you do the above steps, go to the Exchange admin center and try to set the permissions from there (see [Manage permissions for recipients](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).</span></span>
+<span data-ttu-id="ba188-108">Ako dozvole ne rade ispravno nakon što izvršite gorenavedene korake, idite u Exchange admin Center i pokušajte da postavite dozvole odatle (pogledajte članak [Upravljanje dozvolama za primaoce](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).</span><span class="sxs-lookup"><span data-stu-id="ba188-108">If permissions do not work correctly after you do the above steps, go to the Exchange admin center and try to set the permissions from there (see [Manage permissions for recipients](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).</span></span>
   
