@@ -16,7 +16,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591609"
+ms.locfileid: "43599295"
 ---
 # <a name="onedrive-storage-plans"></a>Plan za OneDrive skladište
 
