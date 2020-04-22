@@ -1,8 +1,8 @@
 ---
-title: 323 pitanja sa kašnjenja u e-poruci
+title: 323 problemi sa kašnjenjima u e-poruci
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "323"
 - "3100002"
 ms.assetid: a825b451-9746-4ab5-bc31-7679b3a48d5e
-ms.openlocfilehash: 49752f57f11d74fbd5ebde08661ff8334a72525d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 343c5d63f33bbb56cb0de67d0f2ecd56122cd638
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497853"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762943"
 ---
-# <a name="delays-in-email-message-delivery"></a><span data-ttu-id="254ac-102">Odlaganja u isporuku poruka e-pošte</span><span class="sxs-lookup"><span data-stu-id="254ac-102">Delays in email message delivery</span></span>
+# <a name="delays-in-email-message-delivery"></a><span data-ttu-id="3ab7b-102">Kašnjenja u isporuci e-poruke</span><span class="sxs-lookup"><span data-stu-id="3ab7b-102">Delays in email message delivery</span></span>
 
-<span data-ttu-id="254ac-103">Izgleda da imate problema sa poštom protok.</span><span class="sxs-lookup"><span data-stu-id="254ac-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="254ac-104">Imamo dijagnostiku koji će vam pomoći da identifikujete mnoge uobičajene probleme protok pošte.</span><span class="sxs-lookup"><span data-stu-id="254ac-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="254ac-105">Kliknite na dugme **Pokreni dijagnostiku** ispod.</span><span class="sxs-lookup"><span data-stu-id="254ac-105">Click **Run Diagnostics** below.</span></span>
+<span data-ttu-id="3ab7b-103">Izgleda da imate problem sa protokom pošte.</span><span class="sxs-lookup"><span data-stu-id="3ab7b-103">It looks like you have a mail flow issue.</span></span> <span data-ttu-id="3ab7b-104">Imamo dijagnostiku koja će pomoći u identifikovanju mnogih uobičajenih problema vezanih za tok pošte.</span><span class="sxs-lookup"><span data-stu-id="3ab7b-104">We have diagnostics that will help identify many common mail flow problems.</span></span> <span data-ttu-id="3ab7b-105">Izaberite stavku **Pokreni dijagnostiku** ispod.</span><span class="sxs-lookup"><span data-stu-id="3ab7b-105">Click **Run Diagnostics** below.</span></span>

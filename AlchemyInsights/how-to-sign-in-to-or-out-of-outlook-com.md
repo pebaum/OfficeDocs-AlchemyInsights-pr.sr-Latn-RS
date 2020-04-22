@@ -1,24 +1,24 @@
 ---
-title: Kako da se prijavite za ili iz Outlook.com
+title: Prijavljivanje u Outlook.com ili odjavljivanje iz njega
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: d933335b986d1a991dcd20a557b467a82722ebea
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ce8425a22b5a20a0854c75c07ab4d394d4c81cb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540123"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763297"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="93630-102">Kako da se prijavite za ili iz Outlook.com</span><span class="sxs-lookup"><span data-stu-id="93630-102">How to sign in to or out of Outlook.com</span></span>
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a><span data-ttu-id="6d7a4-102">Prijavljivanje u Outlook.com ili odjavljivanje iz njega</span><span class="sxs-lookup"><span data-stu-id="6d7a4-102">How to sign in to or out of Outlook.com</span></span>
 
-<span data-ttu-id="93630-103">Ako ne mogu da se prijavite u svoje Outlook.com, Hotmail, Live ili MSN nalog e-pošte ili niste sigurni kako se prijavljivanje ili odjavljivanje, [Evo nekih rešenja](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="93630-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
+<span data-ttu-id="6d7a4-103">Ako ne možete da se prijavite u vaš Outlook.com, Hotmail, Live ili MSN nalog e-pošte ili niste sigurni kako da se prijavite ili se odjavite, [Evo nekih rešenja](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span><span class="sxs-lookup"><span data-stu-id="6d7a4-103">If you can't sign in to your Outlook.com, Hotmail, Live, or MSN email account, or you're not sure how to sign in or sign out, [here are some solutions](https://go.microsoft.com/fwlink/p/?linkid=2005840).</span></span>
   
-<span data-ttu-id="93630-104">Ako i dalje imate problema sa potpisivanja u, vidimo se [kad ne mogu da se prijavite u vaš Microsoft nalog](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="93630-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
+<span data-ttu-id="6d7a4-104">Ako i dalje imate problema pri prijavljivanju, pogledajte [kada ne možete da se prijavite na Microsoft nalog](https://go.microsoft.com/fwlink/p/?linkid=837479).</span><span class="sxs-lookup"><span data-stu-id="6d7a4-104">If you're still having problems with signing in, see [When you can't sign in to your Microsoft account](https://go.microsoft.com/fwlink/p/?linkid=837479).</span></span>
