@@ -1,9 +1,9 @@
 ---
-title: Potrebne licence za Microsoft ToDo
+title: Zahtevane licence za Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552185"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722670"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Potrebne licence za Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Zahtevane licence za Microsoft ToDo
 
-[Potrebne licence za Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Zahtevane licence za Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Korisnik mora imati jednu od sledećih licence da biste koristili Microsoft ToDo:
+Korisnik mora da ima jednu od sledećih licenci da bi koristio Microsoft ToDo:
   
-- Osnove poslovnog
+- Business Essentials
 
 - Poslovni Premium
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 Prvline F1
 
-- Bilo kakav plan za Office 365 Enterprise
+- Bilo koji Office 365 Enterprise plan
 
-- Osigurajte produktivno poslovne
+- Obezbeđivanje produktivnih biznisa
 
-- Osigurajte produktivno Enterprise E3
+- Obezbedno produktivno preduzeće E3
 
-- Osigurajte produktivno Enterprise E5
+- Obezbedno produktivno preduzeće E5
 
-- Bilo kakav plan za Office 365 obrazovanje
+- Svaki Office 365 plan obrazovanja
 
-- Microsoft 365 A3
+- Microsoft 365 a3
 
-- Microsoft 365 A5
+- Microsoft 365 a5
 
-Pored licencu za važeći proizvod, potrebno je jedan od sledećih verzija sistema Exchange Online za dauradim da sinhronizacija korisničkih podataka:
+Pored važeće licence za proizvod, jedna od sledećih verzija programa Exchange online je potrebna da bi bilo moguće sinhronizovati korisničke podatke:
   
-- Exchange Online Plan 1
+- Exchange online plan 1
 
-- Exchange Online Plan 2
+- Exchange online plan 2
 
 - Exchange Essentials
 
-- Exchange Online Kiosk
+- Exchange online kiosk
 
-- Exchange Online POP
+- Exchange online POP
 
-[Dodeljivanje licence na korisničke naloge sa Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Dodeljivanje licenci korisničkim nalozima pomoću Officea 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

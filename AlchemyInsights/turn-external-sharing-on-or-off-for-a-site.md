@@ -1,9 +1,9 @@
 ---
-title: Okreni spoljni Uključivanje ili isključivanje deljenja za lokaciju
+title: Uključivanje ili isključivanje spoljne deljenja za lokaciju
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: c0671e54b9d707bd63c7af275bfc4adc353019c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031807336e93fbf1862af01bbd78d14d048ac6b3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559171"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732010"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Okreni spoljni Uključivanje ili isključivanje deljenja za SharePoint lokacije
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Uključivanje ili isključivanje spoljne deljenja za SharePoint lokaciju
 
 Za lokaciju:
   
-1. U novu SharePoint admin centru, u lijevom oknu, kliknite na **lokacijama**.
+1. U novom SharePoint administratoru centra, u levom oknu izaberite stavku **lokacije**.
     
-2. Izaberite lokaciju ili lokacije, a na glavnoj traci kliknite **Deljenje**.
+2. Izaberite lokaciju ili lokacije i na glavnoj traci kliknite na dugme **Deljenje**.
     
-Podrazumevano, novim lokacijama koje korisnici kreiraju i (tima koji pripadaju grupama Office 365) kao i komunikacije lokacije imaju isti deljenja postavljanje kao postavke vašeg širom organizacije, osim ako je postavka širom organizacije omogućava deljenje datoteka pomoću veza koje se ne zahteva za prijavljivanje. U ovom slučaju, na lokacijama dozvoli deljenje sa novim i postojećim spoljnim korisnicima koji se prijavite. Da biste promenili postavke za pojedine lokacije, koristite novi SharePoint admin centar.
+Po podrazumevanoj vrednosti, nove lokacije koje korisnici kreiraju (obe lokacije koje pripadaju Office 365 grupama i lokacijama za komunikaciju) imaju istu postavku deljenja kao i postavke za celu organizaciju, osim ako postavka za celu organizaciju ne dozvoljava deljenje datoteka pomoću veza koje ne zahtevaju prijavljivanje. U ovom slučaju, lokacije omogućavaju deljenje sa novim i postojećim spoljnim korisnicima koji se prijave. Koristite novi SharePoint admin Center da biste promenili postavke za određene lokacije.
   
 > [!NOTE]
-> Spoljni deljenja postavku za bilo koju lokaciju može biti restriktivniji nego što je vaša postavka širom organizacije, ali ne više popustljivog nego postavku širom organizacije. 
+> Postavka spoljnog deljenja za svaku lokaciju može da bude restriktivnija od postavke za celu organizaciju, ali ne i veća od postavke za celu organizaciju. 
   
 

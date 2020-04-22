@@ -1,8 +1,8 @@
 ---
-title: Rešavanje na „Ne je prihvaćena domena” greška
+title: Rešavanje greške "nije prihvaćen domen"
 ms.author: pebaum
 author: pebaum
-ms.date: 5/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: ec1ab2d24d81ddfc949344a72493f4ad0d98f7a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b5b5ee24400e7cc088308c12e8ff003b68186f9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559531"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724826"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a>Ima grešku u „Parametar nije moguće pronaći”?
+# <a name="got-a-parameter-cannot-be-found-error"></a>Greška u grešci "nije moguće pronaći parametar"?
 
-Ako dobijete poruku o grešci **„parametar nije moguće pronaći koji odgovara ime parametra "EmailAddresses”**, to znači da traje malo duže za Office 365 da biste završili podešavanje podstanara, ili prilagođenih domena, ako ste nedavno dodali jedan.
+Ako dobijete poruku o grešci **"nije moguće pronaći parametar koji se podudara sa imenom parametra" Emailadrese "**, to znači da je duže vreme za Microsoft 365 da dovrši podešavanje tenora ili prilagođeni domen ako ste nedavno dodali jedan.
   
-Instalacioni proces traje do 4 sata da biste dovršili. Sačekajte malo, tako da podesite proces ima vremena da završi, a zatim pokušajte ponovo.
+Proces podešavanja može potrajati do 4 časa da bi se dovršio. Sačekajte malo, tako da proces podešavanja ima vremena za završetak i pokušajte ponovo.
   

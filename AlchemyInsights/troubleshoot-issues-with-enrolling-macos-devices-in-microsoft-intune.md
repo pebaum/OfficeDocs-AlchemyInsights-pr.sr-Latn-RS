@@ -1,9 +1,9 @@
 ---
-title: Rešavanje problema sa upiљem macOS uređaja u Microsoft Intune
+title: Rešavanje problema sa počinje upis MacOS uređajima u programu Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 6c2293852554ce9be066975c4b8937444e544779
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b5322a6054294ff475323ade91a052e2dd678a37
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500013"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43736136"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Rešavanje problema sa upiљem macOS uređaja u Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Rešavanje problema sa počinje upis MacOS uređajima u programu Microsoft Intune
 
-Pregledajte resurse dole navedene riješiti tvoj problem sada.
+Pregledajte dole navedene resurse da biste odmah rešili problem.
   
-1. Koristite [Intune rešavanje problema Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da utvrdite i otklonite uobičajene upisa otkazivanja. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.
+1. Koristite [Intune za rešavanje problema](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste ustanovili i rešili uobičajene greške u uvrštavanju. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune/help-desk-operators) za više detalja.
 
-2. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) na listu uobičajenih grešaka koje sprečavaju upisa i rezolucijama svakom.
+2. Pregledajte [ovaj dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) da biste dobili listu uobičajenih grešaka koje sprečavaju upis i rešenja.
 
-3. Da [biste saznali kako da se upišu macOS uređaja u Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
+3. [Saznajte kako da prijavite macOS uređaje u programu Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
 
-[Pogledajte Vodič za krajnjeg korisnika da se prijavi macOS uređaj u Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Odjavljivanje sa krajnjim korisničkim vodičem radi prijave macOS uređaja u usluzi Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

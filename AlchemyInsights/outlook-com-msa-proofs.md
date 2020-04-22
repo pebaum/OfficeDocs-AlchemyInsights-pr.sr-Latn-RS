@@ -1,9 +1,9 @@
 ---
-title: Kako ih zovete Outlook.com MSA
+title: Outlook.com MSA dokaza
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535981"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745915"
 ---
-# <a name="security-info-and-security-codes"></a>Informacija o bezbednosti i sigurnosti šifre
+# <a name="security-info-and-security-codes"></a>Bezbednosne informacije i bezbednosni kodovi
 
-Da biste dodali informacije o bezbednosti vaš Microsoft nalog:
+Da biste dodali bezbednosne informacije u Microsoft nalog:
 
-1. Prijavite se na [osnove bezbednosti](https://account.microsoft.com/security) sa Microsoft nalogom.
-1. Izaberite **sigurnost kontakt info**.
-1. Izaberite **Dodavanje informacija o bezbednosti** i pratite uputstva za unesite telefonski broj ili e-mail adresa.
-1. Primit ćete sigurnosni kod na taj telefonski broj ili e-mail adresa. Unesite sigurnosni kod koji ste primili u prozor za **Dodavanje informacija o bezbednosti** i kliknite na dugme **dalje**.
+1. Prijavite se u [osnove bezbednosti](https://account.microsoft.com/security) pomoću Microsoft naloga.
+1. Izaberite **informacije o bezbednosnom kontaktu**.
+1. Izaberite stavku **Dodaj bezbednosne informacije** i sledite uputstva da biste uneli broj telefona ili e-adresu.
+1. Dobićete bezbednosni kôd na tom broju telefona ili na e-adresi. Unesite bezbednosni kôd koji ste dobili u prozoru **Dodavanje bezbednosnih informacija** i kliknite na dugme " **dalje**".
 
-Izaberite ako želite da biste uklonili telefonski broj ili e-mail adresa, **uklonite** pored nje.
+Ako želite da uklonite telefonski broj ili e-adresu, izaberite opciju " **Ukloni** pored".
 
-Ako želite da promenite koji je telefonski broj ili adresa e-pošte prima obaveštenja o bezbednosti, izabrati da **promenite opcije upozorenja**.
+Ako želite da promenite telefonski broj ili e-adresu koja prima bezbednosna upozorenja, izaberite opciju " **Promeni opcije upozorenja**".
 
-Da biste saznali više, pročitajte [Microsoft nalog info i verifikacija kodovima](https://support.microsoft.com/help/12428/).
+Da biste saznali više o tome, pročitajte [bezbednosne informacije i verifikacioni kôd Microsoft naloga](https://support.microsoft.com/help/12428/).

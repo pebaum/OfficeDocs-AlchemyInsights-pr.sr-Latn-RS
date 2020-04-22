@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP i SMTP postavke u programu Outlook na Webu
+title: Postavke za POP, IMAP i SMTP u programu Outlook na Webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556508"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721149"
 ---
 # <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & SMTP postavke za Outlook na Webu
 
-Ako želite da dodate vaš račun za Office 365 da druga aplikacija za poštu koji podržava POP, IMAP ili SMTP, evo moraćete ručno server postavke:
+Ako želite da dodate Microsoft 365 nalog u drugu aplikaciju za poštu koja podržava POP, IMAP ili SMTP, evo postavki ručnog servera koje će vam biti potrebne:
   
-- **Ime IMAP servera:** outlook.office365.com
+- **Ime IMAP servera:** Outlook.Office365.com
 - **IMAP priključak:** 993
-- **Metod šifrovanja IMAP:** SSL/TLS
-- **POP server imena:** outlook.office365.com  
-- **POP porta:** 995  
-- **Metod šifrovanja POP:** SSL/TLS  
-- **Ime SMTP servera:** smtp.office365.com
+- **Metod IMAP šifrovanja:** SSL/TLS
+- **Ime pop servera:** Outlook.Office365.com  
+- **Pop port:** 995  
+- **Metod za pop šifrovanje:** SSL/TLS  
+- **Ime SMTP servera:** SMTP.Office365.com
 - **SMTP port:** 587
-- **Metod šifrovanja SMTP:** STARTTLS
+- **Metod SMTP šifrovanja:** STARTOVI

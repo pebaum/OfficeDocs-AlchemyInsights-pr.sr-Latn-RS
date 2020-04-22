@@ -1,28 +1,28 @@
 ---
-title: Outlook.com promeniti izgled vašeg poštanskog sandučeta
+title: Outlook.com promena izgleda poštanskog sandučeta
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547708"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721999"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Promenite izgled vašeg poštanskog sandučeta Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Promena izgleda Outlook.com poštanskog sandučeta
 
-Možete da promenite izgled poruka okna liste i čitanje u Outlook.com.
+Izgled liste poruka i okna za čitanje možete da promenite u Outlook.com.
 
-- Da biste promenili raspored u prozoru poruke, otvorite svoje opcije [okna za čitanje](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Da biste promenili način sortiranja e-pošti, na vrhu liste poruka izaberite **Filter** > **Sortiraj po** i odaberite kako želite da sortirate e-pošti.
-- Da grupišete poruke po razgovoru, otvorite svoje opcije [poruka organizacija](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Da biste fokusirali prijemnog uključili ili isključili, otvorite svoje opcije [rasporeda](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Da biste promenili raspored prozora poruke, otvorite opcije okna za [čitanje](https://outlook.live.com/mail/options/mail/layout/readingPane) .
+- Da biste promenili način sortiranja e-pošte, na vrhu liste **poruka izaberite stavku** > **Sortiraj po** želji i odaberite način na koji želite da sortirate e-poruke.
+- Da biste grupisali poruke po razgovoru, otvorite svoje opcije [organizacije poruka](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Da biste uključili ili isključili fokusirano prijemno poštansko sanduče, otvorite opcije [rasporeda](https://outlook.live.com/mail/options/mail/layout/focused) .

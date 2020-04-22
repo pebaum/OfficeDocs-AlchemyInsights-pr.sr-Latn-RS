@@ -1,8 +1,8 @@
 ---
-title: Rad sa iOS VPP aplikacija pravilo Id 1018
+title: Rad s iOS VPP Applications ID 1018
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: a0bbc1f49f251ef4f16300c8cca98e219008d17e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 88a1ef66bf337b3a0094976c122330591aee77ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558019"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719971"
 ---
-# <a name="working-with-ios-vpp-applications"></a>Rad sa iOS aplikacije VPP
+# <a name="working-with-ios-vpp-applications"></a>Rad u radu sa iOS VPP aplikacijama
 
-Čitao [kako upravljati iOS aplikacije dobavljena pomoću volumena nabavke program sa Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) da biste saznali više o funkcijama, ograničenja i korake kako bi koristiti Apple volumena nabavke programa, kao i podršku za to u Microsoft Intune.
+Pročitajte [Kako da upravljate aplikacijama za iOS koje su kupljene pomoću programa za kupovinu volumena pomoću programa Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) da biste saznali više o funkcijama, ograničenjima i koracima za korišćenje programa za kupovinu volumena u Apple sistemu i podršku za nju u programu Microsoft Intune.
   
- **Uobičajene probleme:** „Aplikaciju za iOS VPP je dodeljen moji korisnici, ali je instalacija nije uspjela”.
+ **Česta pitanja:** "Za svoje korisnike sam dodelio" iOS VPP aplikaciju ", ali Instalacija nije uspela."
   
-- Ovo se može dogoditi ako jedan VPP token koristi preko više dobavljača za upravljanje mobilnim uređajem. VPP simboli iz jabuke se može koristiti samo kod jednog dobavljača. Ako ste koristili oznaku za VPP sa više dobavljača, morate ponovo da otpremite simbol da Intune.
+- Do ovoga može doći ako se u više dobavljača za upravljanje mobilnim uređajima koristi jedan VPP simbol. VPP tokena iz jabuke može da se koristi samo sa jednim dobavljačem. Ako ste koristili VPP Token sa više dobavljača, morate ponovo da otpremite oznaku u Intune.
 
-- Instalaciju možete takođe propasti ako ukupan broj instalacija premašiti broj licenci. Da biste prikazali izveštaj o korišćenju za vaše licence, idi da **Intune mobilne aplikacije** \> **aplikacija za licence** stranice. Da biste saznali kako da povratite licence u upotrebi, pogledajte [Ovaj članak.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- Instalacija takođe može da otkaže ako ukupan broj instalacija premaši broj licenci. Da biste pogledali izveštaj o korišćenju vaših licenci, idite na stranicu "Intune licence za aplikacije za **mobilnu** \> **aplikaciju"** . Da biste saznali kako da povratite licence u upotrebi, pogledajte [Ovaj članak.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

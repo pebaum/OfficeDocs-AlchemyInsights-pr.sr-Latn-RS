@@ -2,7 +2,7 @@
 title: Ransomver napad u sistemu SharePoint ili OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054283"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742819"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomver napad u sistemu SharePoint ili OneDrive
 
@@ -32,8 +32,8 @@ Odmah zaustavite/pauzirate OneDrive sinhronizaciju (ako postoji) ili Prekinite v
 
 Za više informacija o tome kako da vratite u prethodno stanje pogledajte:
 
-- [Vraćanje u OneDrive biblioteku](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Vraćanje biblioteke dokumenata u prethodno stanje](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Vraćanje OneDrive biblioteke](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Vraćanje biblioteke dokumenata](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Za više informacija o naprednoj zaštiti pretnji (ATP) pogledajte:
 - [ATP za SharePoint, OneDrive i timove](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)

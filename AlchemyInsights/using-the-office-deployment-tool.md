@@ -1,8 +1,8 @@
 ---
-title: Koristeći alatku za raspoređivanje Office
+title: Korišćenje alatke za primenu sistema Office
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531589"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726262"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Koristeći alatku za raspoređivanje Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Korišćenje alatke za primenu sistema Office (ODT)
 
-Alat za raspoređivanje Office (ODT) se koristi za raspoređivanje Office 365 verzije sistema Office. Alatku za raspoređivanje Office (setup.exe) se pokreće iz komandne linije i koristi XML datoteku za konfiguraciju da biste utvrdili koje postavke da biste primenili prilikom primene Office.
+Koristite alatku za primenu sistema Office (ODT) da biste primenili Office 365 verzije sistema Office. Alatka za primenu sistema Office (Setup. exe) se pokreće sa komandne linije i koristi XML datoteku za konfiguraciju da bi utvrdila koje postavke treba primeniti prilikom primene sistema Office.
   
-1. Preuzmite najnoviju verziju programa Office alatke za raspoređivanje sa lokacije [Microsoft Download Center](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Preuzmite najnoviju verziju alatke za primenu sistema Office sa [lokacije Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. [Alatka za prilagođavanje sistema Office (OCT)](https://config.office.com) koristite da biste izabrali željene opcije raspoređivanja i kreiranje XML datoteke za konfiguraciju. Izvoz datoteke za konfiguraciju i to lokalno na istoj fascikli gde se nalazi na setup.exe.
+2. Koristite [alatku za prilagođavanje sistema Office (OCT)](https://config.office.com) da biste izabrali željene postavke za raspoređivanje i kreirali XML datoteku za konfiguraciju. Izvezite datoteku za konfiguraciju i smestite je lokalno u istu fasciklu u kojoj se nalazi datoteka Setup. exe.
 
-    **Napomena:** Office instalacije problemi se obično pojaviti termin da misconfigured ili malformatted datoteke za konfiguraciju. Da biste izbegli takvim pitanjima, preporučujemo da koristite alatku za prilagođavanje sistema Office da biste kreirali datoteku za konfiguraciju. Takođe, možete da uvezete postojeće datoteke za konfiguraciju u alatku za prilagođavanje sistema Office.
+    **Napomena:** Problemi sa instalacijom sistema Office se obično javljaju zbog pogrešno konfigurisanih ili neoblikovanih datoteka za konfiguraciju. Da biste izbegli takve probleme, preporučujemo da koristite alatku za prilagođavanje sistema Office da biste kreirali datoteku za konfiguraciju. Postojeće datoteke za konfiguraciju možete da uvezete i u alatku za prilagođavanje sistema Office.
 
-3. Iz komandnoj liniji, prebacite se na lokaciju gde se nalazi setup.exe i pokrenuti alatku za raspoređivanje Office u režimu za preuzimanje i navedite datoteku konfiguracije koju ste upravo sačuvali. U ovom primeru, konfiguracijska datoteka je koja se zove Configuration.xml:
+3. Na osnovu pune komandne linije prebacite se na lokaciju na kojoj se nalazi instalacija. exe i pokrenite alatku za primenu sistema Office u režimu preuzimanja i navedite datoteku za konfiguraciju koju ste upravo sačuvali. U ovom primeru, Konfiguraciona datoteka se zove konfiguracija. XML:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. Pokrenite alatku za raspoređivanje Office u podesite režim i navedite datoteku za konfiguraciju.
+4. Pokrenite alatku za primenu sistema Office u režimu konfigurisanja i navedite datoteku za konfiguraciju.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Napomena:** Ovaj korak morate pokrenuti sa klijentskog računara na kojem želite da instalirate Office i morate imati lokalne administratorske dozvole na taj kompjuter.
+    **Napomena:** Morate da pokrenete ovaj korak sa klijentskog računara na kojem želite da instalirate Office i morate imati lokalne administratorske dozvole na tom računaru.
 
-Da biste saznali više o korišćenju alatka za primenu Office za Office 365 ProPlus scenariji primene, pogledajte [Pregled Office alatke za primenu](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Za više detalja o tome kako se koristi alatka za prilagođavanje sistema Office, pogledajte [Pregled Office alatke za prilagođavanje](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Pogledajte odeljak [pregled alatke za primenu sistema Office](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)da biste saznali više o korišćenju alatke za primenu sistema Office za Microsoft 365 aplikacije za scenarije raspoređivanja poslovnih informacija. Više detalja o korišćenju alatke za prilagođavanje sistema Office potražite u članku [pregled alatke za prilagođavanje sistema Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

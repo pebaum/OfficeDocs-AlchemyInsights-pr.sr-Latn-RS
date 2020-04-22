@@ -1,9 +1,9 @@
 ---
-title: Pokušaju pronalaženja suđenje?
+title: Pokušavate da pronađete probnu verziju?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533101"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732344"
 ---
-# <a name="trying-to-find-a-trial"></a>Pokušaju pronalaženja suđenje?
+# <a name="trying-to-find-a-trial"></a>Pokušavate da pronađete probnu verziju?
 
-Ako biste želeli da probam nove usluge, možete pronaći spisak pretplata dostupna za suđenje u centru za admin Microsoft 365.
+Ako želite da isprobate nove usluge, možete da pronađete listu pretplata koja su dostupna za probnu verziju u Microsoft 365 admin Center.
   
-1. U centru za admin, pređite na **obračunu** \> stranicu [usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. U okviru administratorskog centra idite na stranicu " **Billing** \> [usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu".
 
-2. Izaberite pretplatu koja odgovara vašim potrebama, a zatim izaberite **dobiti besplatnu probnu**.
+2. Izaberite pretplatu koja zadovoljava vaše potrebe, a zatim izaberite stavku **Dobijte besplatnu probnu verziju**.
 
     > [!NOTE]
-    > Nisu sve pretplate su dostupni kao suđenje. Ako ne vidite dugme **dobiti besplatnu probnu** kada ti prelasku pretplatu miša, to znači da suđenje nije dostupna.
+    > Nisu sve pretplate dostupne kao suđenje. Ako ne vidite dugme " **Preuzmi besplatnu probnu verziju** " prilikom miša preko pretplate, to znači da suđenje nije dostupno.
   
-3. Ti može biti zatraženo da unesete kreditnu karticu ili drugi način plaćanja da pruži dodatne verifikacije kao mjeru sigurnosti. Neće ti biti optužen za ovu besplatnu probnu. Smo će zadržati svoje informacije o plaćanju na datoteci, a neće da ga koristite za svaka kupovina bez vašeg odobrenja.
+3. Od vas se može zatražiti da unesete kreditnu karticu ili drugi način plaćanja kako biste obezbedili dodatnu proveru kao meru bezbednosti. Nećete biti optuženi za ovo besplatno suđenje. Zadržaćemo vaše informacije o plaćanju u datoteci i nećete ga koristiti za kupovinu bez vašeg odobrenja.
 
-4. Odaberite **probaj sada**.
+4. Kliknite na dugme " **pokušaj odmah**".

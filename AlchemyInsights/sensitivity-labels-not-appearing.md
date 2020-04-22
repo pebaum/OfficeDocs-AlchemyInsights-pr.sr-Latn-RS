@@ -3,7 +3,7 @@ title: Oznake osećajnosti se ne pojavljuju
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048666"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758497"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Oznake osećajnosti se ne pojavljuju
 
-Oznake osećajnosti vam omogućavaju da klasifikujete i zaštitite svoj osetljivi sadržaj. One se mogu kreirati u Microsoft 365 centru za usaglašavanje, Microsoft 365 bezbednosnom centru ili Office 365 Security & centru za usaglašavanje u okviru stavke klasifikacija > oznake osećajnosti. Više informacija o ovoj funkciji potražite u članku [Pregled oznaka osetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Oznake osećajnosti vam omogućavaju da klasifikujete i zaštitite svoj osetljivi sadržaj. One se mogu kreirati u Microsoft 365 centru za usaglašavanje, Microsoft 365 bezbednosnom centru ili Microsoft 365 Security & centar za usaglašavanje u okviru stavke "klasifikacija > oznake osećajnosti". Više informacija o ovoj funkciji potražite u članku [Pregled oznaka osetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Ako ste konfigurisali oznake osetljivosti, ali se one ne pojavljuju u Office aplikacijama, proverite sledeće:
 
 - Potvrdite da je oznaka osetljivosti [objavljena](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) na korisnike i grupe koje želite.
 
-- Potvrdite da korisnik koristi aplikaciju koja podržava oznake osećajnosti-pogledajte [oznake osetljivosti u dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Potvrdite da korisnik koristi aplikaciju koja podržava oznake osećajnosti-pogledajte [oznake osetljivosti u dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
 - Ako [migrirate oznake za zaštitu informacija o zaštiti podataka](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), imajte na [umu navedene informacije](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 

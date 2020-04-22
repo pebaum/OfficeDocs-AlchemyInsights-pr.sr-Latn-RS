@@ -1,8 +1,8 @@
 ---
-title: Ažuriranje servera imena domena u usluzi Office 365
+title: Ažurirajte ime domena u domenu da biste na Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742199"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720007"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Ažuriranje servera imena domena u usluzi Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Ažurirajte ime domena u domenu da biste na Microsoft
 
 Napomena: Promena servera imena ponekad može da potraje do 48 časova.
   
-Da biste podesili domen u usluzi Office 365, serveri imena u registru treba da se ažuriraju. Kreirajte ili uredite zapise servera imena u registru domena.
+Da biste podesili svoj domen sa korporacijom Microsoft, potrebno je ažurirati imena imenervera u vašem matičar. Kreirajte ili uredite zapise servera imena u registru domena.
   
 1. Idite na veb sajt registra domena i pronađite oblast gde možete da uredite servere imena.
 
@@ -34,5 +34,5 @@ Da biste podesili domen u usluzi Office 365, serveri imena u registru treba da s
 
 3. Sačuvajte promene.
 
-Takođe možete da pronađete detaljna uputstva u ovom članku: [Promena servera imena radi podešavanja usluge Office 365 pomoću bilo kog registra domena](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+U ovom članku takođe možete pronaći detaljna uputstva: [Promena imena imenicervera da biste podesili Microsoft 365 sa bilo kojim matičdomene domena](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

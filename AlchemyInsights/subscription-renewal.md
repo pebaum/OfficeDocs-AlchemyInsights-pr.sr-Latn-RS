@@ -1,9 +1,9 @@
 ---
-title: Obnova pretplate
+title: Obnavljanje pretplate
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666026"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741841"
 ---
-# <a name="subscription-recurring-billing"></a>Periodični naplate pretplate
+# <a name="subscription-recurring-billing"></a>Pretplata na periodičnu naplatu
 
-Ako vas zanima kada ti jednom mesečno ili godišnje pretplate na Office 365 biti naplaćen (ako je uključena **za periodično fakturisanje** ) ili istekne (ako je **periodično naplate** isključeno):
+Ako želite da saznate kada će biti naplaćeno mesečno ili godišnje pretplata (ako je **periodična naplata** uključena) ili istekne (ako je **periodična naplata** isključena):
   
-1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. U centru administracije, idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Za pretplatu koju želite znati više o, pod **naplate**, pogledajte **Renews na** ili **Expiring na** datum.
+2. Za pretplatu o kojoj želite da saznate više o tome, u okviru **naplata**, pogledajte **ponovo informacije o** datumu **ili u toku** .
 
-4. Za promenu, izaberite **Uređivanje** , a zatim u oknu postavke **za periodično fakturisanje** , izaberite **ISKLJUČI** da biste ga isključili. Ako periodični naplate već isključen, izaberite **mesečni** ili **jednom** da biste ga uključili.
+4. Da biste napravili promenu, izaberite stavku " **Uredi** ", a zatim u oknu "postavke **periodičnog fakturisanja** " izaberite stavku " **Isključi** " da biste ga isključili. Ako je periodična naplata već isključena, izaberite opciju " **mesečno** " ili **jednom** da biste je uključili.
 
-Da biste saznali više, vidim [Red ponavljanja za naplatu ili isključivanje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Da biste saznali više, pogledajte članak [Isključivanje ili uključivanje periodične naplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

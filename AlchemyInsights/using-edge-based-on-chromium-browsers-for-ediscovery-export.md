@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741261"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726226"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Korišćenje Microsoft Edge na bazi Hromium pregledača za Ediscovery izvoz
 
-Zbog nedavne promene, Microsoft Edge pregledači više neće imati omogućenu podršku za ClickOnce. Da biste nastavili da koristite alatku Microsoft Office 365 eDiscovery EXPORT, moraćete da koristite Microsoft Internet Explorer ili da omogućite podršku ClickOnce na lokaciji Microsoft Edge. 
+Zbog nedavne promene, Microsoft Edge pregledači više neće imati omogućenu podršku za ClickOnce. Da biste nastavili da koristite alatku Microsoft 365 eDiscovery EXPORT, biće potrebno da koristite Microsoft Internet Explorer ili da omogućite podršku ClickOnce na lokaciji Microsoft Edge. 
 
 Da biste omogućili podršku ClickOnce u aplikaciji Microsoft Edge na bazi Hromium: 
 1. U pregledaču Microsoft Edge posetite edge://flags/#edge-Kliknite jedanput.
