@@ -1,9 +1,9 @@
 ---
-title: 8000071 Outlook.com fiks email za sinhronizaciju - francuski
+title: 8000071 Outlook.com popravljanje e-poruke sinhronizacija-francuski
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,15 +15,15 @@ ms.custom:
 - "1147"
 - "1148"
 - "8000071"
-ms.openlocfilehash: 649d9e265bcac8ea157988708bbcef47bfe255fe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b28c449c398fe5e7c2aec1894cef5fdacbe3b2d4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722066"
 ---
-# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a><span data-ttu-id="d8734-102">Résoudre les problèmes de om des poruke</span><span class="sxs-lookup"><span data-stu-id="d8734-102">Résoudre les problèmes de synchronisation des messages</span></span>
+# <a name="rsoudre-les-problmes-de-synchronisation-des-messages"></a><span data-ttu-id="efbac-102">Résupdre problèmes de Sinhrona des poruke</span><span class="sxs-lookup"><span data-stu-id="efbac-102">Résoudre les problèmes de synchronisation des messages</span></span>
 
-<span data-ttu-id="d8734-103">Saj vous ne moћete pas moj brat je u ou recevoir des courriers électroniques, ou ne peut pas se connecter u Outlook.com, [essayez stezaljka ces rešenja](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d8734-103">Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecter à Outlook.com, [essayez ces solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="efbac-103">Si Ru pouvez pas envoer u recevoir des courriers électronieti, a ne peut pas se konekter à Outlook.com, [essajejz ces Solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="efbac-103">Si vous ne pouvez pas envoyer ou recevoir des courriers électroniques, ou ne peut pas se connecter à Outlook.com, [essayez ces solutions](https://support.office.com/fr-fr/article/résoudre-les-problèmes-de-synchronisation-des-messages-outlook-com-d39e3341-8d79-4bf1-b3c7-ded602233642?ui=fr-FR&rs=fr-FR&ad=FR?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="d8734-104">Saj vous ne moћete pas vous connecter a kako trenirati svog Hotmail ou Outlook.com, découvrez [komentar se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d8734-104">Si vous ne pouvez pas vous connecter à votre Hotmail ou Outlook.com, découvrez [comment se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="efbac-104">Si Login pouvez pas rekonekter à je Hotmail Ou Outlook.com, découvrez [komentar se konekter Ou se dekonekter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="efbac-104">Si vous ne pouvez pas vous connecter à votre Hotmail ou Outlook.com, découvrez [comment se connecter ou se déconnecter de Outlook.com](https://support.office.com/fr-fr/article/comment-se-connecter-et-se-déconnecter-d-outlook-com-e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

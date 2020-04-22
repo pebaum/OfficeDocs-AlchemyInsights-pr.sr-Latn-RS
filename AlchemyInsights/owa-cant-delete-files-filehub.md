@@ -1,9 +1,9 @@
 ---
-title: Nije moguće izbrisati datoteke ili slike iz datoteke u programu Outlook na Webu
+title: Nije moguće izbrisati datoteke ili fotografije iz datoteka programa Outlook na Webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 7e6a6d0fd6493a27908d3885eb90570dce54f3bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4d0930992f107121b79453bfc359e2cde5a87fa8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557479"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720338"
 ---
-# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a><span data-ttu-id="ff7f8-102">Nije moguće izbrisati datoteke ili slike iz datoteke u programu Outlook na Webu</span><span class="sxs-lookup"><span data-stu-id="ff7f8-102">Can't delete files or photos from files in Outlook on the web</span></span>
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a><span data-ttu-id="767d7-102">Nije moguće izbrisati datoteke ili fotografije iz datoteka programa Outlook na Webu</span><span class="sxs-lookup"><span data-stu-id="767d7-102">Can't delete files or photos from files in Outlook on the web</span></span>
 
-<span data-ttu-id="ff7f8-103">**Datoteka** prikazuje datoteke i fotografije priložene poruke u poštanskom sandučetu.</span><span class="sxs-lookup"><span data-stu-id="ff7f8-103">**Files** shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="ff7f8-104">Da biste uklonili datoteke i slike iz datoteke, potrebno je da izbrišete poruke e-pošte su priloženi.</span><span class="sxs-lookup"><span data-stu-id="ff7f8-104">To remove files and photos from Files, you need to delete the email messages they're attached to.</span></span> <span data-ttu-id="ff7f8-105">Kada izbrišete poruke, morate da ih izbrišete iz fascikli izbrisane stavke.</span><span class="sxs-lookup"><span data-stu-id="ff7f8-105">After deleting the messages, you also need to delete them from your Deleted Items folder.</span></span>
+<span data-ttu-id="767d7-103">**Datoteke** prikazuju datoteke i fotografije priložene uz poruke u vašem poštanskom sandučetu.</span><span class="sxs-lookup"><span data-stu-id="767d7-103">**Files** shows the files and photos attached to messages in your mailbox.</span></span> <span data-ttu-id="767d7-104">Da biste uklonili datoteke i fotografije iz datoteka, potrebno je da izbrišete e-poruke na koje su priložene.</span><span class="sxs-lookup"><span data-stu-id="767d7-104">To remove files and photos from Files, you need to delete the email messages they're attached to.</span></span> <span data-ttu-id="767d7-105">Nakon što izbrišete poruke, potrebno je da ih izbrišete i iz fascikle "Izbrisane stavke".</span><span class="sxs-lookup"><span data-stu-id="767d7-105">After deleting the messages, you also need to delete them from your Deleted Items folder.</span></span>
