@@ -1,32 +1,32 @@
 ---
-title: Office 365 napredne pretnja zaštita
+title: Office 365 napredna zaštita pretnji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 680f182fbc2f0110a4aa4ed168b35a1a694b2ef4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664514"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710349"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 napredne pretnja zaštita
+# <a name="office-365-advanced-threat-protection"></a>Office 365 napredna zaštita pretnji
 
-- Sigurno priloge, sigurno veze i anti-phishing spadaju od Office 365 napredni pretnja zaštitu (ATP). Enterprise E5, obrazovanje A5 i Microsoft 365 Business uključuju ATP. Svi drugi planovi zahtijevaju ATP pretplatu na dodatak.
+- Bezbedni prilozi, bezbedne veze i anti-phishing su deo Officea 365 napredna zaštita pretnji (ATP). Enterprise E5, obrazovanje a5 i Microsoft 365 Business Premium uključuju ATP. Svi ostali planovi zahtevaju ATP pretplatu.
 
-- Morate da dodelite odgovarajuće dozvole da zaštiti korisnike od strane Office 365 ATP. Potražite u [ovoj temi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) za uputstva za masovno primenite dozvole korisnicima.
+- Potrebno je da dodelite odgovarajuće licence da biste zaštitili svoje korisnike na Office 365 ATP. Pogledajte [ovu temu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) za uputstva o masovnoj primeni licenci vašim korisnicima.
 
-- Globalni administratori sistema Office 365 ili bezbednosni administratori mogu da pristupe Office 365 ATP funkcije u bezbednosti & usklađenosti centra na **Opasnost Managmeent** \> **politiku**.
+- Globalni administratori ili bezbednosni administratori mogu da pristupe Office 365 ATP funkcijama u okviru bezbednosnog & centra za usaglašavanje u \> **smernicama** **upravljanja pretnjama** .
 
-- Sigurno priloge i bezbedna veza politike mogu biti obuhvaćena te čitavu organizaciju, određene domene ili manjim grupama korisnika.
+- Bezbedni prilozi i smernice za bezbedne veze mogu da vam se nalaze u vidu celokupne organizacije, određenih domena ili manjih grupa korisnika.
 
-- Postoji podrazumevani ATP sigurnom prilog politika. Ti treba da [kreirate politiku](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) i primenite na korisnike.
+- Ne postoji podrazumevana ATP smernica priloga. Potrebno je da [kreirate smernice](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) i da je primenite na korisnike.
 
-- Tamo je podrazumevani ATP bezbedna veza politika koja se odnosi na sve u vašoj organizaciji. Da biste uredili ovu politiku ili da biste kreirali prilagođene smernice, pročitajte [ovu temu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Postoje podrazumevane ATP smernice za bezbedne veze koje se primenjuju na svakoga u vašoj organizaciji. Da biste uredili ove smernice ili kreirali prilagođene smernice, pogledajte [ovu temu](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).

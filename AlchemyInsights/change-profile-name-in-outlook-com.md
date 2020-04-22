@@ -1,9 +1,9 @@
 ---
-title: 8000006 ime profila promena u Outlook.com
+title: 8000006 promena imena profila u Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: 597d8ca1a468b2620f97d3c4a0a2a3ebf5e8df00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 71ccabc7b4e75d462d59dcfd4907aedafeacad4b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518809"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706611"
 ---
-# <a name="change-your-profile-name"></a>Promenite ime profila
+# <a name="change-your-profile-name"></a>Promena imena profila
 
-1. Idi da [Vaša Microsoft nalog info](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. Idite na [informacije o Microsoft nalogu](https://go.microsoft.com/fwlink/p/?linkid=860841).
     
-2. Izaberite da **biste uredili ime**. 
+2. Izaberite **Uredi ime**. 
     
-3. Unesite ime i prezime, i izaberite **Sačuvaj**. 
+3. Unesite ime i prezime i kliknite na dugme " **Sačuvaj**". 
     
-Molim vas, dozvolite do 24 sati za promene u ime profila imale efekta.
+Dozvolite do 24 časa da promene vaše ime profila stupe na snagu.
   
-Da biste saznali više, vidim da [promenite ime u Outlook.com ili slika za profil](https://go.microsoft.com/fwlink/?linkid=873110).
+Da biste saznali više, pogledajte odeljak [Promena fotografije profila ili imena u Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
   
 

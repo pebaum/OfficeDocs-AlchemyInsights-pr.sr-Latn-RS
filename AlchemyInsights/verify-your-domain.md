@@ -1,9 +1,9 @@
 ---
-title: Provjerite vaš domen
+title: Proverite svoj domen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531373"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710457"
 ---
-# <a name="verify-your-domain"></a>Provjerite vaš domen
+# <a name="verify-your-domain"></a>Proverite svoj domen
 
- **Zapis se verovatno nije menjao preko interneta.**
+ **Zapis verovatno nije ažuriran preko interneta.**
   
-Obično samo traje nekoliko minuta za nas da bi mogli da vidite novi zapis, ali ponekad to može potrajati i nekoliko sati. 
+Obično nam je potrebno samo nekoliko minuta da bismo mogli da vidimo novi zapis, ali ponekad može da traje već nekoliko sati. 
   
-- Ako ste čekali ste to već dugo, ponovo proverite da ste kopirati i nalepiti točna vrijednost u TXT zapis verifikacije na vaš domaćin DNS. Jedan zajednički problem je ne uključujući u „MS =” deo zapisa. Treba nam to!
+- Ako ste već dugo čekali, dvaput proverite da li ste kopirali i nalepili tačnu vrednost u zapis za verifikaciju u TXT na DNS domaćinu. Jedno od uobičajenih problema ne uključuje deo zapisa "MS =". Potrebna nam je i to!
 
-- Kod nekih DNS domaćini, morate uzeti dodatni korak da biste sačuvali datoteku u zoni (gde je DNS zapis uskladišten) tako da to će ažurirati preko interneta. Uverite se da ste sačuvali promene tako Office 365 možete da vidite i provjerite zapisnik.
+- Kod nekih DNS domaćina morate da preduzmete dodatni korak da biste sačuvali datoteku zone (gde se nalazi DNS zapis) tako da će se ažurirati preko interneta. Uverite se da ste sačuvali promene tako da Microsoft može da vidi i potvrdi zapis.

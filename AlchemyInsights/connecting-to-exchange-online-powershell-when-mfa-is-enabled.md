@@ -1,9 +1,9 @@
 ---
-title: 761 povezuje sa Exchange Online PowerShell kada MFA je omogućeno
+title: 761 povezivanje sa Exchange online PowerShell kada je MFA omogućena
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: efcc1138a6ae71e7093f665722c8bafe730d70d6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517081"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705819"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Povezivanje sa Exchange Online PowerShell kada MFA je omogućeno
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Poveži se sa Exchange online PowerShell kada je MFA omogućena
 
-Ako nalog ima višestruku potvrdu identiteta (MLU) omogućena, potrebno je da pratite ova uputstva da biste se povezali sa Exchange Online PowerShell: [Povezivanje sa Exchange Online PowerShell koristeći višestruku potvrdu identiteta](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
+Ako vaš nalog ima omogućenu potvrdu identiteta sa više faktora (MFA), potrebno je da sledite ova uputstva da biste se povezali sa Exchange online PowerShell: [Poveži se sa Exchange online PowerShell koristeći višefaktoru provjeru autentičnosti](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
 
-**Napomena**: čak i ako ste se ranije povezivali Exchange Online PowerShell u prošlosti koristeći [običan veza uputstva](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), potrebno je da koristite uputstva za povezivanje MFA nakon MFA je omogućeno za svoj nalog.
+**Napomena**: iako ste u prošlosti koristili [redovne instrukcije za povezivanje](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), potrebno je da koristite instrukcije MFA za vezu nakon što je MFA omogućena za vaš nalog.

@@ -1,9 +1,9 @@
 ---
-title: 127 se greška u TenantAccessBlockedException prilikom pristupanja e-pošte?
+title: 127 prilikom pristupanja e-pošti došlo je do greške pri pristupanju.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523993"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708917"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Sve greške u TenantAccessBlockedException prilikom pristupanja e-pošte?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Dobijanje greške prilikom pristupanja e-pošti na Tenaaccessovu grešku?
 
-Postoje nekoliko različitih razloga zašto dobivate ovu grešku. Na primer:
+Postoji nekoliko različitih razloga zbog kojih možete da dobijete ovu grešku. Na primer:
 
-- Proverite da li vaša pretplata je važeća na u **obračunu** \> [proizvode & usluge](https://portal.office.com/adminportal/home#/subscriptions) stranice u centru za admin Microsoft 365.
+- Proverite da li je vaša pretplata važeća na stranici " [usluge &](https://portal.office.com/adminportal/home#/subscriptions) za **naplatu** \> " u Microsoft 365 admin Center.
 
-- Potvrdu za bilo istekle obaveštenja na u **obračunu** \> [plaćanja računa &](https://portal.office.com/adminportal/home#/billoverview) stranicu u admin centar za Microsoft 365.
+- Proverite da li u Microsoft 365 admin Center ima bilo kakva obaveštenja o plaćanju na osnovu računa za **naplatu** \> [&](https://portal.office.com/adminportal/home#/billoverview) .
 
-- Ako naplatu i pretplatama za vaš račun je nedavno ažurirano, potrebno je vreme za promene da propagira. Pokušajte ponovo za nekoliko minuta, a ako problem potraje, obratite se nama.
+- Ako su naplata i pretplate za vaš nalog nedavno ažurirane, možda će biti potrebno vreme da se promene umnože. Pokušajte ponovo za nekoliko minuta, a ako problem potraje, kontaktirajte nas.

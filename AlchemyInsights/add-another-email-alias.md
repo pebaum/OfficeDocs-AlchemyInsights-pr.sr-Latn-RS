@@ -3,7 +3,7 @@ title: Dodavanje drugog pseudonima e-pošte
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 09edadb004fefd1bda92a5242886aa0414f87752
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737347"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708533"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Kreiranje ili Dodavanje pseudonima e-pošte za korisnika
 
@@ -30,10 +30,10 @@ Treba da kreirate pseudonim e-pošte za korisnika ili da dodate dodatnu e-adresu
     
 4. U polje za **pseudonim** otkucajte novu e-poruku, a zatim odaberite stavku **Dodaj**. Ako ste pretplatu kupili od GoDaddy ili nekog drugog partnera, da biste postavili novi pseudonim kao primarni, morate otići na konzolu za upravljanje GoDaddy/partnerom. 
     
-    **Važno**: Ako dobijete poruku o grešci " **nije moguće pronaći parametar koji se podudara sa imenom parametra" emailadrese**"to znači da je duže vreme za Office 365 da dovrši podešavanje tenora ili prilagođeni domen ako ste nedavno dodali jedan . Proces podešavanja može potrajati do 4 časa da bi se dovršio. Sačekajte malo, tako da proces podešavanja ima vremena za završetak i pokušajte ponovo. Ako problem potraje, pozovite podršku i oni će izvršiti potpunu sinhronizaciju.
+    **Važno**: Ako dobijete poruku o grešci " **nije moguće pronaći parametar koji se podudara sa imenom parametra" emailadrese**"to znači da je duže vreme za Microsoft da dovrši podešavanje vašeg tenora ili prilagođeni domen ako ste nedavno dodali jedan. Proces podešavanja može potrajati do 4 časa da bi se dovršio. Sačekajte malo, tako da proces podešavanja ima vremena za završetak i pokušajte ponovo. Ako problem potraje, pozovite podršku i oni će izvršiti potpunu sinhronizaciju.
     
     Obično je potrebno oko 30 minuta da novi pseudonim stupi na snagu.
     
-    **Za više detalja pogledajte članak:** [Dodavanje drugog pseudonima e-pošte za korisnika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
+    **Više detalja potražite u ovom članku:** [Dodavanje drugog pseudonima e-pošte za korisnika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

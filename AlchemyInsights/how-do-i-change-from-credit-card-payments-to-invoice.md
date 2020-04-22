@@ -1,9 +1,9 @@
 ---
-title: Kako da promenim od plaćanja kreditnom karticom za fakturisanje?
+title: Kako da promenim plaćanje sa kreditne kartice u fakturisanje?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: fc469365c988c6c4fb754a2a0b85374a9d1ccd27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523129"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710025"
 ---
-# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako da promenim od plaćanja kreditnom karticom za fakturisanje?
+# <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako da promenim plaćanje sa kreditne kartice u fakturisanje?
 
 > [!NOTE]
-> Mogućnost da plati fakturu je dostupna samo ako vaša pretplata na Office 365 košta preko određeni iznos (koji se razlikuje od do lokacija usluge). Ček će možda biti potreban za veće plaćanja fakture. Da biste saznali više, vidim da [plati za svoje Office 365 za poslovne pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
+> Opcija plaćanja po fakturi je raspoloživa samo ako vaša pretplata košta određeni iznos (koji varira po lokaciji usluge). Za veća plaćanja faktura može biti potrebna kreditna provera. Da biste saznali više, pogledajte odeljak [plaćanje pretplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. U centru za admin, pređite na **obračunu** \> [proizvode & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) stranice.
+1. U centru administracije, idite na stranicu **Naplata** \> [Proizvodi i usluge](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Izaberite pretplatu koju želite da promenite. U odeljku **naplate** , izaberite opciju " **Uredi** " za tvoj trenutni način plaćanja.
+2. Izaberite pretplatu koju želite da promenite. U odeljku " **naplata** " izaberite opciju " **Uređivanje** " za trenutni način plaćanja.
 
-3. U okviru **Promena odakle ti novac za ovu pretplatu** , izaberite **Promena**, odaberite ili dodati drugi način plaćanja, a zatim izaberite **sačuvati**.
+3. U **promenite način plaćanja za ovo** polje za pretplatu, izaberite stavku **Promeni**, odaberite ili dodajte drugi način plaćanja, a zatim kliknite na dugme **Sačuvaj**.
 
    > [!NOTE]
-   > Ako ova opcija nije prikazana, to znači da prebacivanje iz kreditne kartice ili računa u banci za fakturisanje nije dostupna za pretplatu jer se pretplata ne ispunjava minimalne cijene iznos za naplatu po fakturi. Iznos minimalne cijene zahteva da bude naplaćen po fakturi zavisi od geografske lokacije.
+   > Ako se ova opcija ne prikaže, to znači da prebacivanje sa kreditne kartice ili računa u banci na fakturu nije dostupno za pretplatu jer pretplata ne zadovoljava minimalni iznos troškova za naplatu po fakturi. Iznos minimalnog troška koji je potreban za fakturisanje po fakturi varira po geografskoj lokaciji.
   

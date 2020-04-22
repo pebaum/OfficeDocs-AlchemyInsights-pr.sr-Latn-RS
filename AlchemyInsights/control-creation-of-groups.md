@@ -1,9 +1,9 @@
 ---
-title: Kreiranje kontrole iz grupe
+title: Kontrola kreiranja grupa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.prod: office-online-server
@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516685"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705639"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Kreiranje kontrole Office 365 grupa
+# <a name="control-creation-of-office-365-groups"></a>Kontrola stvaranja Office 365 grupa
 
-Po podrazumevanim postavkama, svi korisnici unutar preduzeća sposobni za kreiranje grupa. Ako je potrebno, sposobni ste da promenite ovo i dodelite prava da kreirate grupe na skup ljudi u vašoj kompaniji. Imajte na umu da je ovo imati uticaj na stvaranje grupa iz bilo koji Office 365 usluge (kao što su Outlook, timovi, planer i tako dalje).
+Po podrazumevanoj vrednosti, svi korisnici unutar preduzeća mogu da kreiraju grupe. Ako je potrebno, možete da promenite ovo i dodelite pravo da kreirate grupe za grupu osoba unutar vašeg preduzeća. Imajte na umu da će ovo uticati na kreiranje grupa iz bilo koje Microsoft 365 usluge (kao što su Outlook, timovi, planer itd.).
   
-Uputstvo: [Upravljanje koji možete da kreirate Office 365 grupe](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Uputstva: [Upravljajte ko može da kreira Office 365 grupe](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

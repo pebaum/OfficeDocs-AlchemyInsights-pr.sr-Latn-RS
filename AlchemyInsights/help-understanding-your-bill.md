@@ -1,9 +1,9 @@
 ---
-title: Pomoć razumevanje vaš račun
+title: Pomozite u razumevanju vašeg računa
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 97b26cb0843233bea281cac2363ff4ccf1bec58e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523093"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710097"
 ---
-# <a name="help-understanding-your-bill"></a>Pomoć razumevanje vaš račun
+# <a name="help-understanding-your-bill"></a>Pomozite u razumevanju vašeg računa
 
-Iznos naplaćen za svoje Office 365 za poslovne pretplatu odražava cena licenci koje je pomnoženo brojem licence kupljene i bilo koji zahtevani porez/naknada.
+Iznos koji je fakturisan za vašu pretplatu odražava cenu licence pomnožen sa brojem licenci kupljenim i svim potrebnim porezima/naknadama.
   
-Ako je iznos naplaćen različite onda očekuje, postoji nekoliko razloga, to se može desiti:
+Ako se iznos koji je fakturisan razlikuje od očekivanog, postoji nekoliko razloga zbog kojih se to može dogoditi:
   
-- Licence su dodati ili ukloniti iz vaše pretplate. Kada licence su promenjene srednjoročnom periodu, ovo se ogleda u sledećoj fakturi. Možda ćete videti kredita i ponovo Bil za prethodni period servisiranja u obzir ova promena.
+- Licence su dodate ili uklonjene iz vaše pretplate. Kada se licence promene u srednjoročnom periodu, to se odražava na sledeću fakturu. Zbog te promene ćete možda dobiti kredit i novi račun za prethodni period pružanja usluge.
 
-- Pretplata je otkazano. Ćete primiti fakturu nakon otkazivanja sa bilo koji razlika salda minus nikakve kredite.
+- Pretplata je otkazana. Nakon otkazivanja primićete fakturu sa neizmirenim saldom koji se umanjuje za eventualni kredit.
 
-- Vaša pretplata obnovi za novi mandat i cena licenci se promenilo.
+- Pretplata je obnovljena za novi period, a cena licence se promenila.
 
-Za više informacija o vašu fakturu, pogledajte: [razumem vašu fakturu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Više informacija o fakturi potražite u članku: [razumevanje fakture](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

@@ -1,9 +1,9 @@
 ---
-title: Već je platio?
+title: Već plaćen?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e7ddb784b195767477962b94542cd292cb0c7ce1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386201"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708189"
 ---
-# <a name="already-paid"></a>Već je platio?
+# <a name="already-paid"></a>Već plaćen?
 
-Ako vas već poslali plaćanja, pusti nas da znate:
+Ako ste već poslali uplatu, možete nam dozvoliti da znamo:
   
-1. U centru za admin, pređite na **obračunu** \> [pretplate na](https://go.microsoft.com/fwlink/p/?linkid=842054) stranici.
+1. U okviru administratorskog centra idite na stranicu [pretplate](https://go.microsoft.com/fwlink/p/?linkid=842054) za **naplatu** \> .
 
-2. Odaberite pretplatu, a u odeljku " **moj račun** ", odaberite **Prikaz Bil**.
+2. Odaberite pretplatu, a u odeljku **moj račun** odaberite opciju **Prikaži račun**.
 
-3. Na stranici **Bil detalja** , odaberite **već platio?** Vas će se tražiti da unesete informacije vezane za plaćanje koji je poslat.
+3. Na stranici sa **detaljima o računu** odaberite **već plaćen?** Od vas će biti zatraženo da unesete informacije koje se odnose na plaćanje koje ste poslali.
 
-4. Kada je unesete sve potrebne informacije, odaberite **poslati**.
+4. Kada budu unete sve zahtevane informacije, odaberite opciju " **Pošalji**".

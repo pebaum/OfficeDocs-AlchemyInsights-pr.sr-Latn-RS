@@ -3,7 +3,7 @@ title: Provera statusa sinhronizacije identiteta u AAD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36738535"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706323"
 ---
 # <a name="check-aad-identity-sync-status"></a>Provera statusa sinhronizacije identiteta u AAD
 
@@ -30,5 +30,5 @@ Proveravanje statusa sinhronizacije je jednostavno:
 
 - U oknu za sinhronizaciju direktorijuma izaberite stavku idi na "Upravljanje prljavim sinhronizacijom".
 
-Ako postoji problem sa sinhronizacijom direktorijuma, greške su navedene na ovoj stranici. Više informacija o različitim greškama na koje možete naići potražite u članku [Prikazivanje grešaka pri sinhronizaciji direktorijuma u sistemu Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Ako postoji problem sa sinhronizacijom direktorijuma, greške su navedene na ovoj stranici. Za više informacija o različitim greškama na koje možete naići, pogledajte odeljak [Prikazivanje grešaka pri sinhronizaciji direktorijuma](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

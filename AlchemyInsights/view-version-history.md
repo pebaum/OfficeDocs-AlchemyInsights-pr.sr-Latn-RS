@@ -2,26 +2,26 @@
 title: Prikaz istorije verzija
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 34c73c42-e4a0-41ab-8eb8-a834d4bb04c4
-ms.openlocfilehash: 816638036f2374f13b62f7f87fffce1090338fd7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c9cdc5065e3f54fd996611d82aa0479b79a634ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531301"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707273"
 ---
-# <a name="view-version-history-of-a-file-or-list-item"></a>Prikaz istorije verzija za datoteku ili stavku liste
+# <a name="view-version-history-of-a-file-or-list-item"></a>Prikaz istorije verzija datoteke ili stavke liste
 
-1. Idite na SharePoint lokaciji i otvorite listu ili biblioteku iz trake za brzo pokretanje. Ako se ime liste ili biblioteke ne pojavljuje, kliknite na **sadržaj lokacije** "ili" **Prikaži sav sadržaj lokacije**, a zatim kliknite na ime.
+1. Idite na SharePoint lokaciju i otvorite listu ili biblioteku sa trake za brzo pokretanje. Ako se ime liste ili biblioteke ne pojavljuje, kliknite na **sadržaj lokacije** ili **Prikažite sav sadržaj lokacije**, a zatim kliknite na ime.
     
-2. Kliknite desnim tasterom miša u prostor između artikal ili ime dokumenta i datum, a zatim iz menija izaberite stavku **Istorije verzija** . Možda ćete morati da se pomerite menija da biste prikazali **Istoriju verzija**. Ako ga ne vidite, kliknite na dugme sa tri tačke (...) u dijaloškom okviru, a zatim izaberite stavku **Istorije verzija**.
+2. Kliknite desnim tasterom miša na razmak između imena stavke ili dokumenta i datuma, a zatim u meniju izaberite stavku **Istorija verzija** . Možda će biti potrebno da pomerite meni da biste videli **istoriju verzija**. Ako je ne vidite, kliknite na tri tačke (...) u okviru za dijalog, a zatim izaberite stavku **Istorija verzija**.
     
-3. U okviru za dijalog istorija verzija, postavite pokazivač na verziju želite prikaz i kliknite na strelicu sa desne strane da se lista opcija. Izaberite stavku **Prikaz**.
+3. U dijalogu "Istorija verzija" postavite pokazivač na verziju koju želite da prikažete i kliknite na strelicu nadole na desnoj strani da biste dobili listu opcija. Kliknite na dugme **Prikaži**.
     
 [Saznajte više o istoriji verzija](https://go.microsoft.com/fwlink/?linkid=875709)
   

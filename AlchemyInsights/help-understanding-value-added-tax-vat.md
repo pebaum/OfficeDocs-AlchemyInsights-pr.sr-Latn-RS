@@ -1,9 +1,9 @@
 ---
-title: Pomozi razumevanje vrednost dodaje porez (PDV)
+title: Pomoć u razumevanju poreza na dodatu vrednost (PDV)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390526"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710133"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomozi razumevanje vrednost dodaje porez (PDV)
+# <a name="help-understanding-value-added-tax-vat"></a>Pomoć u razumevanju poreza na dodatu vrednost (PDV)
 
-Ako se nalazite u zemlji koja se koristi mogućnošću porez na dodatu (PDV), kao što su Velika Britanija, Microsoft Invoicing izračunava PDV za tebe, i primenjuje iznos na tvoj fakture.
+Ako se nalazite u zemlji koja koristi porez na dodatu vrednost (PDV), kao što je Velika Britanija, Microsoft fakturisanje izračunava PDV za vas i primenjuje iznos na fakture.
   
-Zbog poreza, morate navesti tvoj poreski broj u postavkama za fakturisanje.
+Iz poreskih razloga, morate navesti i poreski broj u postavkama za fakturisanje.
   
-Ne mogu da dodate ili uklonite stope PDV-a, ali možete da promenite podrazumevani stopa PDV-a u postavkama. Po podrazumevanoj vrednosti, "Fakturisanje" koristi uslugu za validaciju poreski brojevi, ali preporučujemo da ste pročitali [VIES odricanje odgovornosti](https://go.microsoft.com/fwlink/?LinkID=841741) koji je objavila Evropska komisija. Ako odaberete da onemogućite uslugu, morate da proverite sve poreski brojevi.
+Ne možete dodavati ili uklanjati stope PDV-a, ali možete promeniti podrazumevanu stopu PDV-a u podešavanjima. Po podrazumevanoj vrednosti, fakturisanje koristi uslugu za proveru registraciona brojeva PDV-a, ali preporučujemo da čitate [VIES odricanje odgovornosti](https://go.microsoft.com/fwlink/?LinkID=841741) koje objavljuje Evropska komisija. Ako odaberete da onemogućite uslugu, morate proveriti sve brojeve registracije PDV-a.

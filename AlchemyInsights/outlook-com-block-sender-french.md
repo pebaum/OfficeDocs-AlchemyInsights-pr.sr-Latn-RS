@@ -1,9 +1,9 @@
 ---
-title: Outlook.com blokiranih pošiljalaca - francuski
+title: Outlook.com blok pošiljalac-francuski
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1156"
 - "1157"
 - "8000076"
-ms.openlocfilehash: 492b9f3251e03edf97e606a7db94e7e76a0b4570
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c8adbba7117fec22105f28fc74505f0fd9565ff
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707817"
 ---
-# <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer ou débloquer expéditeurs dans Outlook.com
+# <a name="bloquer-ou-dbloquer-expditeurs-dans-outlookcom"></a>Bloquer je bio delokerer expéditeri dans Outlook.com
 
-Saj vous recevez du courrier indésirable, vous moћete bloquer les napiљite de messagerie et des domaines que vous ne ono voulez pas recevoir des poruke. Ajouter une adresa de messagerie ou un Domain a kako trenirati svog liste des expéditeurs bloqués sipati déplacer stezaljka ces poruke directement AV-eri trenirati svog dosije courrier indésirable.
+Da li je u to bila et receeez du Kurijer indésirable, epouvez bloquer Les adrese de reca que EA domaines que Login ne, sllez pas recevoir des poruke. Ajvanjune adresa de poruke u UN Domain à je liste des expéditeri-sipati na "strne" na poruke, i to u dosijeu, Kurijer indésirable.
 
-1. Accédez a **Paramètres** > **Afficher tous les paramètres d'Outlook** > **Courrier indésirable**.
-1. Sua **Domaines et expéditeurs bloqués** sélectionnez **Ajouter**.
-1. Antre l'adresse de messagerie et sélectionnez **Enregistrer**.
+1. "Afédez **à** > " i "The Man"-Inseln "Šeli", "**eoutlook** > **Kurijer inđis**".
+1. Sups **Domaines et expéditeri** bloquejeiéleceielz **.**
+1. Entrez l'adresse de poruke o **upisu**.
 
-Sipaj plus d'informations, lisez [Bloquer ou débloquer expéditeurs dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).
+Sipajte plus ' informacije, lisez [bloquer, delokerer expéditeri dans Outlook.com](https://support.office.com/fr-fr/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy).

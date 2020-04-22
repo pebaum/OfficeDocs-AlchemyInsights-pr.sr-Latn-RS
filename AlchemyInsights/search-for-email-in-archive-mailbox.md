@@ -1,9 +1,9 @@
 ---
-title: Pretraga za e-poštu u poštanskom sandučetu arhive
+title: Traži e-poštu u poštanskom sandučetu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551609"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709277"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Pretraga za e-poštu u poštanskom sandučetu arhive
+# <a name="search-for-email-in-the-archive-mailbox"></a>Traži e-poštu u poštanskom sandučetu za arhiviranje
 
-Kada je poštansko sanduče arhive je omogućena za Office 365, možete da koristite **eDiscovery pretrage i izvoz** da otkrije sadržaj u poštansko sanduče na osnovnoj i arhive. Za informacije o korišćenju **eDiscovery izvoz pretragu** da pronađete taj sadržaj, pratite na korake Oivičeni [ovde](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Kada je za Microsoft 365 omogućeno poštansko sanduče za arhiviranje, možete da koristite **EDiscovery Search i Izvezi** da biste otkrili sadržaj u primarnom i arhivnom poštanskom sandučetu. Za informacije o korištenju **EDiscovery Search EXPORT** da biste pronašli taj sadržaj, sledite [ovde](https://docs.microsoft.com/office365/securitycompliance/export-search-results)navedene korake.
   
-Možete zadržati taj sadržaj tako što ćete dodati poštansko sanduče u smernice za zadržavanje. Ovo će staviti sadržaj u poštansko sanduče na osnovnoj "i" Arhiva sa zadrškom. Više informacija o kreiranju smernice za zadržavanje da zadrži email potražite na korake Oivičeni [ovde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Taj sadržaj možete zadržati i dodavanjem poštanskog sandučeta u smernice za zadržavanje. To će postaviti sadržaj i u primarno i u poštansko sanduče na čekanju. Za više informacija o kreiranju smernica za zadržavanje za zadržavanje e-pošte pogledajte korake navedene [ovde](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   
