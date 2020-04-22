@@ -1,9 +1,9 @@
 ---
-title: Office 365 obrazovanje za slobodan
+title: Office 365 obrazovanje besplatno
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "1426"
 - "1500009"
 ms.assetid: 8e48c645-8df6-4fb5-8da6-f13b0a3bb0cc
-ms.openlocfilehash: e22f7b0805d7e1552adfd863c856a21f3df9891c
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 21f4f0c2531005ec8146953d7f392a6ceecd66b4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713444"
 ---
-# <a name="office-365-education-for-free"></a><span data-ttu-id="8c2fa-102">Office 365 obrazovanje za slobodan</span><span class="sxs-lookup"><span data-stu-id="8c2fa-102">Office 365 Education for free</span></span>
+# <a name="office-365-education-for-free"></a><span data-ttu-id="41c4a-102">Office 365 obrazovanje besplatno</span><span class="sxs-lookup"><span data-stu-id="41c4a-102">Office 365 Education for free</span></span>
 
-[<span data-ttu-id="8c2fa-103">Office 365 obrazovanje za slobodan</span><span class="sxs-lookup"><span data-stu-id="8c2fa-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
+[<span data-ttu-id="41c4a-103">Office 365 obrazovanje besplatno</span><span class="sxs-lookup"><span data-stu-id="41c4a-103">Office 365 Education for free</span></span>](https://products.office.com/student/office-in-education?ms.officeurl=students)
   
-<span data-ttu-id="8c2fa-104">Ovo nije suđenje!</span><span class="sxs-lookup"><span data-stu-id="8c2fa-104">It's not a trial!</span></span> <span data-ttu-id="8c2fa-105">Učenici i nastavnici su podobni za Office 365 obrazovanja, koja uključuje Word, Excel, PowerPoint, OneNote, i sada Microsoft Teams, plus dodatnih učionica alatke.</span><span class="sxs-lookup"><span data-stu-id="8c2fa-105">Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>
+<span data-ttu-id="41c4a-104">To nije suđenje!</span><span class="sxs-lookup"><span data-stu-id="41c4a-104">It's not a trial!</span></span> <span data-ttu-id="41c4a-105">Učenici i nastavnici imaju pravo na Office 365 obrazovanje, koje obuhvata Word, Excel, PowerPoint, OneNote i sada Microsoft timove, plus dodatne alate za učionice.</span><span class="sxs-lookup"><span data-stu-id="41c4a-105">Students and teachers are eligible for Office 365 Education, which includes Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools.</span></span>

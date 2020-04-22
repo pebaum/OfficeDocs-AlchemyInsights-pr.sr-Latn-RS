@@ -1,9 +1,9 @@
 ---
-title: Ne prikazuje padajuće liste grupe grupi za distribuciju
+title: Grupa distribucije se ne prikazuje u listi grupa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 6c2332934537333661de90d951eae9e2a6e03cbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cfb844f640ec30ebf595f985e001b9acc93e813
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512509"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715092"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="bfcbb-102">Ne prikazuje padajuće liste grupe grupi za distribuciju</span><span class="sxs-lookup"><span data-stu-id="bfcbb-102">Distribution Group not showing in Groups list</span></span>
+# <a name="distribution-group-not-showing-in-groups-list"></a><span data-ttu-id="ead85-102">Grupa distribucije se ne prikazuje u listi grupa</span><span class="sxs-lookup"><span data-stu-id="ead85-102">Distribution Group not showing in Groups list</span></span>
 
-<span data-ttu-id="bfcbb-103">Je potrebno i do 60 minuta pre nego što nova lista distribucije se pojavljuje u centru za administraciju.</span><span class="sxs-lookup"><span data-stu-id="bfcbb-103">It can take up to 60 minutes before your new Distribution List appears in the Admin center.</span></span>
+<span data-ttu-id="ead85-103">Može da potraje do 60 minuta pre nego što se nova lista distribucije pojavi u okviru administratorskog centra.</span><span class="sxs-lookup"><span data-stu-id="ead85-103">It can take up to 60 minutes before your new Distribution List appears in the Admin center.</span></span>
   
-<span data-ttu-id="bfcbb-104">Ako želite da dodate članove ili napravite druge izmene odmah, molim vas da koristite funkciju grupe u [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).</span><span class="sxs-lookup"><span data-stu-id="bfcbb-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).</span></span>
+<span data-ttu-id="ead85-104">Ako želite da dodate članove ili da odmah izvršite uređivanje, koristite funkciju "grupe" u [Exchange admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).</span><span class="sxs-lookup"><span data-stu-id="ead85-104">If you want to add members or make other edits right now, please use the Groups feature in the [Exchange Admin Center](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).</span></span>
   

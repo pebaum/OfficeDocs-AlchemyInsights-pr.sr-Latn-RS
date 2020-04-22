@@ -1,9 +1,9 @@
 ---
-title: Otvoriti pomoću programa Explorer dugme je onemogućeno.
+title: Dugme "Otvori pomoću programa Explorer" je onemogućeno
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/19/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 9483dbaa45c8c3a5c59fb8a318bf6564dd7b1b6f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dd23a4228c930cc7c934c2943cc1e1080da253df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548369"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713120"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a><span data-ttu-id="f7073-102">Na otvorenom sa Explorer dugme je onemogućeno.</span><span class="sxs-lookup"><span data-stu-id="f7073-102">The Open with Explorer button is disabled</span></span>
+# <a name="the-open-with-explorer-button-is-disabled"></a><span data-ttu-id="da962-102">Dugme "Otvori pomoću programa Explorer" je onemogućeno</span><span class="sxs-lookup"><span data-stu-id="da962-102">The Open with Explorer button is disabled</span></span>
 
-- <span data-ttu-id="f7073-103">Potražite lokaciju SharePoint ili OneDrive u Internet Explorer 10 ili 11 godina Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="f7073-103">Browse to the SharePoint or OneDrive location in Internet Explorer 10 or Internet Explorer 11.</span></span> <span data-ttu-id="f7073-104">Dugme nije kompatibilan sa drugim web pregledačima.</span><span class="sxs-lookup"><span data-stu-id="f7073-104">The button isn't compatible with other web browsers.</span></span>
+- <span data-ttu-id="da962-103">Potražite SharePoint ili OneDrive lokaciju u programu Internet Explorer 10 ili Internet Explorer 11.</span><span class="sxs-lookup"><span data-stu-id="da962-103">Browse to the SharePoint or OneDrive location in Internet Explorer 10 or Internet Explorer 11.</span></span> <span data-ttu-id="da962-104">Dugme nije kompatibilno sa drugim Web pregledačima.</span><span class="sxs-lookup"><span data-stu-id="da962-104">The button isn't compatible with other web browsers.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="f7073-105">Otvaranje biblioteke u datoteku Explorer je pri ruci, ako je potrebno da kopirate ili premestite više datoteka i fascikli, jednom, ali ako želite da redovno radite u biblioteci, preporučujemo da ga sa sinhronizacijom.</span><span class="sxs-lookup"><span data-stu-id="f7073-105">Opening a library in File Explorer is handy if you need to copy or move multiple files and folders once, but if you want to regularly work in the library, we recommend syncing it.</span></span> <span data-ttu-id="f7073-106">Za pomoć i rešavanje problema sa drugim pitanjima otvaranja u datoteku Explorer potražite [otvoren u Explorer](https://go.microsoft.com/fwlink/?linkid=871665).</span><span class="sxs-lookup"><span data-stu-id="f7073-106">For more help and to troubleshoot other issues opening in File Explorer, see [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665).</span></span> <span data-ttu-id="f7073-107">Za informacije o podešavanju sinhronizacije, vidim [SharePoint sinhronizacije datoteke sa novom klijentu sinhronizaciju OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).</span><span class="sxs-lookup"><span data-stu-id="f7073-107">For info about setting up sync, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666).</span></span> 
+> <span data-ttu-id="da962-105">Otvaranje biblioteke u istraživaču datoteka je korisno ako je potrebno da kopirate ili premestite više datoteka i fascikli, ali ako želite redovno da radite u biblioteci, preporučujemo da je sinhronizujete.</span><span class="sxs-lookup"><span data-stu-id="da962-105">Opening a library in File Explorer is handy if you need to copy or move multiple files and folders once, but if you want to regularly work in the library, we recommend syncing it.</span></span> <span data-ttu-id="da962-106">Da biste dobili dodatnu pomoć i rešili druge probleme koji se otvaraju u istraživaču datoteka, pogledajte odeljak [Otvaranje u programu Explorer](https://go.microsoft.com/fwlink/?linkid=871665).</span><span class="sxs-lookup"><span data-stu-id="da962-106">For more help and to troubleshoot other issues opening in File Explorer, see [Open in Explorer](https://go.microsoft.com/fwlink/?linkid=871665).</span></span> <span data-ttu-id="da962-107">Više informacija o podešavanju sinhronizacije potražite u članku [Sinhronizovanje SharePoint datoteka sa novim OneDrive klijentom za sinhronizaciju](https://go.microsoft.com/fwlink/?linkid=871666).</span><span class="sxs-lookup"><span data-stu-id="da962-107">For info about setting up sync, see [Sync SharePoint files with the new OneDrive sync client](https://go.microsoft.com/fwlink/?linkid=871666).</span></span> 
   
 
