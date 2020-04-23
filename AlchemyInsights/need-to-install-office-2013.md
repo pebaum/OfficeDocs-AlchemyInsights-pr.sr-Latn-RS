@@ -2,7 +2,7 @@
 title: Potrebno je da instalirate Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538719"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761864"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="a9c95-102">Office 2013 više nije podržan u pretplate na Office 365</span><span class="sxs-lookup"><span data-stu-id="a9c95-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a><span data-ttu-id="e780d-102">Office 2013 više nije podržan u Microsoft 365 pretplatama</span><span class="sxs-lookup"><span data-stu-id="e780d-102">Office 2013 is no longer supported in Microsoft 365 subscriptions</span></span>
 
-<span data-ttu-id="a9c95-103">Od 28. februar 2017, Office 2013 više nije podržan u pretplate na Office 365.</span><span class="sxs-lookup"><span data-stu-id="a9c95-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="e780d-103">Od 28 februara 2017, Office 2013 više nije podržan u Microsoft 365 pretplatama.</span><span class="sxs-lookup"><span data-stu-id="e780d-103">Since February 28, 2017, Office 2013 is no longer supported in Microsoft 365 subscriptions.</span></span>
   
-<span data-ttu-id="a9c95-104">Da se osigura sigurnost tvoje programskog paketa Office i da vas sve najnovije funkcije, besplatno instalirati najnoviju verziju programa Office u sklopu pretplatu na Office 365.</span><span class="sxs-lookup"><span data-stu-id="a9c95-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription.</span></span> <span data-ttu-id="a9c95-105">Vidim da [nadogradite vaše korisnike da najnoviji Office klijenta](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="a9c95-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="e780d-104">Da biste osigurali bezbednost programskog paketa Office i dobili sve najnovije funkcije, instalirajte najnoviju verziju sistema Office besplatno kao deo pretplate na Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="e780d-104">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Microsoft 365 subscription.</span></span> <span data-ttu-id="e780d-105">Pogledajte odeljak [Nadogradnja korisnika na najnoviji Office klijent](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="e780d-105">See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   

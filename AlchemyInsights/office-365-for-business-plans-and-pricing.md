@@ -1,9 +1,9 @@
 ---
-title: Office 365 za poslovne planove i cene
+title: Microsoft 365 za poslovne planove i cene
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390706"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761648"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="d0b9a-102">Uporedite Office 365 za poslovne</span><span class="sxs-lookup"><span data-stu-id="d0b9a-102">Compare Office 365 for Business</span></span>
+# <a name="compare-microsoft-365-for-business"></a><span data-ttu-id="81948-102">Uporedite Microsoft 365 za posao</span><span class="sxs-lookup"><span data-stu-id="81948-102">Compare Microsoft 365 for business</span></span>
 
-<span data-ttu-id="d0b9a-103">Nema dostupnih tri različite planove sa Office 365 za posao.</span><span class="sxs-lookup"><span data-stu-id="d0b9a-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="d0b9a-104">[Uporedite Office 365 za poslovne planove i cene](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="d0b9a-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  
+<span data-ttu-id="81948-103">Postoje tri različita plana dostupna sa programom Microsoft 365 za posao.</span><span class="sxs-lookup"><span data-stu-id="81948-103">There are three different plans available with Microsoft 365 for business.</span></span> <span data-ttu-id="81948-104">[Uporedite Microsoft 365 za poslovne planove i cene](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="81948-104">[Compare Microsoft 365 for business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  

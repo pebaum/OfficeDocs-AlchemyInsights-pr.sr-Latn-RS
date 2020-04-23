@@ -1,9 +1,9 @@
 ---
-title: Kada se generiše izjavu o plaćanju?
+title: Kada je generisan izvod naplate?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530891"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759382"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="db90a-102">Kada se generiše izjavu o plaćanju</span><span class="sxs-lookup"><span data-stu-id="db90a-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="3d436-102">Kada je generisan izvod naplate</span><span class="sxs-lookup"><span data-stu-id="3d436-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="db90a-103">Svaki mesec primićete e-mail koji vam govori da je tvoj novi izpisek je dostupan u centru za admin Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="db90a-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="db90a-104">Vaša faktura sadrži dve stranice.</span><span class="sxs-lookup"><span data-stu-id="db90a-104">Your invoice contains two pages.</span></span> <span data-ttu-id="db90a-105">Strana 1 je rezime fakture i sadrži opšte informacije o fakture, naloga, iznos duga, kako da izvršite uplatu i kako da se obratite podršci.</span><span class="sxs-lookup"><span data-stu-id="db90a-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="db90a-106">Stranica 2 sadrži detalje o obračunu aktivnosti za svaku pretplatu.</span><span class="sxs-lookup"><span data-stu-id="db90a-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="3d436-103">Svakog meseca ćete primiti e-poruku koja vam saopštava da je Nova naredba fakturisanja dostupna u Microsoft 365 admin Center.</span><span class="sxs-lookup"><span data-stu-id="3d436-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="3d436-104">Vaša faktura sadrži dve stranice.</span><span class="sxs-lookup"><span data-stu-id="3d436-104">Your invoice contains two pages.</span></span> <span data-ttu-id="3d436-105">Stranica 1 je rezime fakture i sadrži opšte informacije o fakturi, porudžbini, iznosu koji dospeva, kako da izvršite uplatu i kako da se obratite podršci.</span><span class="sxs-lookup"><span data-stu-id="3d436-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="3d436-106">Stranica 2 sadrži detalje o aktivnosti naplate za svaku pretplatu.</span><span class="sxs-lookup"><span data-stu-id="3d436-106">Page 2 contains details about the billing activity for each subscription.</span></span>
   
-<span data-ttu-id="db90a-107">Da biste saznali više o obračunu koncepata, vidim [razumevanje vašu fakturu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).</span><span class="sxs-lookup"><span data-stu-id="db90a-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).</span></span>
+<span data-ttu-id="3d436-107">Da biste saznali više o konceptima naplate, pogledajte članak [razumevanje fakture](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).</span><span class="sxs-lookup"><span data-stu-id="3d436-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).</span></span>
