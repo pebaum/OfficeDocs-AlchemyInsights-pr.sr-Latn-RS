@@ -1,9 +1,9 @@
 ---
-title: Rešavanje problema sa lozinkom sinhronizacije
+title: Rešavanje problema sa sinhronizacijom lozinke
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533821"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732524"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Rešavanje problema sa lozinkom sinhronizacije
+# <a name="troubleshoot-password-synchronization"></a>Rešavanje problema sa sinhronizacijom lozinke
 
-Da biste rešili probleme gde nema lozinke koje su sinhronizovane sa Azure AD povezivanje verzija 1.1.614.0 ili novija:
+Da biste rešili probleme na koje nema sinhronizovanih lozinki sa 1.1.614.0 ili novijim verzijama za Connect Azure:
   
-1. Otvorite novu sesiju Windows PowerShell na vašem serveru Azure AD povezivanje koristeći opciju " **Pokreni kao Administrator** ".
+1. Otvorite novu sesiju Windows PowerShell na serveru za povezivanje Azure oglasa sa opcijom " **Pokreni kao administrator** ".
 
-2. Pokretanje **Set-ExecutionPolicy RemoteSigned** ili **Set-ExecutionPolicy bez nadzora**.
+2. Pokretanje **Set-izvršne smernice RemoteSigned** ili **Set-izvršne smernice neograničeno**.
 
-3. Pokrenite čarobnjak za povezivanje Azure AD.
+3. Pokrenite čarobnjak za povezivanje "Azure AD".
 
-4. Pronađite **Dodatne zadatke** stranicu, izaberite **rešavanje**i kliknite na dugme **dalje**.
+4. Krećite se do stranice sa **dodatnim zadacima** , izaberite **Rešavanje problema**, a zatim kliknite na dugme **dalje**.
 
-5. Na stranici za rešavanje problema, u meniju **start rešavanja problema, lansiranje** u PowerShell.
+5. Na stranici rešavanje problema kliknite na dugme **Pokreni da biste pokrenuli meni rešavanje problema** u programu PowerShell.
 
-6. U glavnog menija, izaberite opciju **Sinhronizacije rešavanje problema sa lozinkom**.
+6. U glavnom meniju izaberite stavku **Rešavanje problema pri sinhronizaciji lozinke**.
 
-7. U podmeniju, izaberite **lozinku sinhronizacije ne radi na svim**.
+7. U podmeniju izaberite stavku " **Sinhronizacija lozinke" ne radi uopšte**.
 
-**Razumeju rezultate za rešavanje problema zadatka**
+**Razumevanje rezultata zadatka "Rešavanje problema"**
   
-Rešavanje problema zadatka obavlja sledeće čekove:
+Zadatak rešavanja problema izvršava sledeće čekove:
   
-- Proverava da li funkcije sinhronizacije lozinku omogućen za Azure AD podstanara.
+- Proverava valjanost funkcije za sinhronizaciju lozinke za vaš Azure oglas.
 
-- Valjanost Azure AD povezivanje server nije u organizovanje režimu.
+- Proverava valjanost servera za povezivanje Azure oglasa nije u režimu za postavljanje.
 
-- Za svaku postojeću lokalne Active Directory connector (koji odgovara na postojeće Active Directory šume):
+- Za svaku postojeću liniju spajanja aktivnog direktorijuma (koja odgovara postojećoj šumi aktivnog direktorijuma):
 
 - 
-  - Proverava da li je omogućena funkcija sinhronizacije lozinku.
+  - Proverava valjanost funkcije za sinhronizaciju lozinke.
 
-  - Traži lozinku sinhronizacije otkucaje srca događaja u evidencijama događaja Windows aplikacije.
+  - Pretražuje događaje u sinhronizaciji lozinke u evidencijama događaja Windows aplikacije.
 
-  - Za svaku Active Directory domena ispod linije spajanja aktivnog direktorijuma na više lokacija:
+  - Za svaki domen aktivnog direktorijuma u okviru konektora aktivnog direktorijuma na prostoru:
 
-  - Valjanost da domen je dostupan sa Azure AD povezivanje servera.
+  - Proverava valjanost domena koji se može pristupiti sa servera za povezivanje Azure oglasa.
 
-  - Valjanost da usluga domena aktivnog direktorijuma (AD DS) nalozi koje koriste lokalne Active Directory konektor ima ispravno korisničko ime, lozinku i dozvole potrebne za sinhronizaciju lozinku.
+  - Proverava valjanost naloga za usluge domena aktivnog direktorijuma (AD DS) koje koristi linija spajanja aktivnog direktorijuma na prostoru ima ispravno korisničko ime, lozinku i dozvole potrebne za sinhronizaciju lozinke.
 
-Za dodatnu pomoć u rešavanju problema sa lozinkom pri sinhronizaciji, vidim [rešavanje lozinku sinhronizacije sa Azure AD povezivanje sinhronizacije](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Više pomoći za rešavanje problema sa lozinkom sinhronizacija potražite [u članku rešavanje problema sa sinhronizacijom lozinke pomoću programa AZURE AD Connect Sync](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

@@ -1,25 +1,25 @@
 ---
-title: Rešavanje problema sa Microsoft Intune
+title: Rešavanje problema sa programom Microsoft Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506601"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733464"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Rešavanje problema sa Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Rešavanje problema sa programom Microsoft Intune
 
-Pregledajte resurse dole navedene riješiti tvoj problem sada.
+Pregledajte resurse navedene ispod da biste odmah rešili problem.
   
-1. Koristite [Intune rešavanje problema Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da utvrdite i otklonite neke uobičajene greške. Pregledajte [ovaj](https://docs.microsoft.com/intune/help-desk-operators) dokument za više detalja.  
-2. Pregledajte [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)da biste pronašli odgovore i rešenja za uobičajene probleme.  
-3. Vidi [Zdravstvenih usluga](https://portal.office.com/AdminPortal/Home#/servicehealth) da vidite status usluge.   
-4. Pregledajte [Intune dokumentacije](https://docs.microsoft.com/intune/) za planiranje, članci, rešavanje problema članke i više. 
+1. Koristite [Intune za rešavanje problema](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) da biste ustanovili i rešili neke uobičajene greške. Pregledajte [ovaj](https://docs.microsoft.com/intune/help-desk-operators) dokument za više detalja.  
+2. Pregledajte [Intune technet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)da biste pronašli odgovore i rešenja za uobičajene probleme.  
+3. Obratite se [zdravlju usluge](https://portal.office.com/AdminPortal/Home#/servicehealth) da biste videli status usluge.   
+4. Pregledajte [Intune dokumentaciju](https://docs.microsoft.com/intune/) za planiranje, način na koji rešavate probleme i još mnogo toga. 

@@ -1,9 +1,9 @@
 ---
-title: 1221-import-export-Outlook-email-Contacts-Calendar
+title: 1221-import-export-Outlook-mail-kontakti-kalendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724678"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz i izvoz Outlook e-poštu, kontakte i stavke kalendara
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz i izvoz Outlook e-pošte, kontakata i kalendarskih stavki
 
-1. U programu Outlook, kliknite na **datoteku**.
+1. U programu Outlook kliknite na stavku **Datoteka**.
 
-2. Kliknite na dugme **Otvori & izvoz**, a zatim izaberite stavku **Uvoz i izvoz**.
+2. Kliknite na** „Otvaranje i izvoz“**, a zatim kliknite na** „Uvoz/izvoz“**.
 
-    Time se pokreće čarobnjak za uvoz i izvoz.
+    Na taj način pokreće se čarobnjak za uvoz i izvoz.
 
-Za kompletno postavljanje za uvoz i izvoz uputstva za Outlook, pogledajte [Ovaj članak](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Za kompletan skup uputstava za uvoz i izvoz za Outlook pogledajte [Ovaj članak](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Ako ste administrator i želite da Masovni uvoz više PST datoteka sa poštanskim sandučićima Office 365, pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Ako ste administrator i želite da više PST datoteka bude masovno uvezenu u Microsoft 365 Poštanske sandučiće, pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

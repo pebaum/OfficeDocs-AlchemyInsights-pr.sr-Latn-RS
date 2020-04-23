@@ -1,9 +1,9 @@
 ---
-title: 929 krivičnih prijemnog pravila da deflectTransport pravila
+title: 929. pravila prijemnog poštanskog sandučeta za Deflektna pravila
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/15/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 140cb6e85d0f08393439b023578457998a84dc62
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499617"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724606"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pravila za poštu toka (poznat i kao transportni pravila)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Pravila za tok pošte (poznata i kao pravila prevoza)
 
-- Opšti pregled pravila protok pošte: [Pošta teku pravila (pravila transporta) za uzvrat na mreži](https://technet.microsoft.com/library/jj919238.aspx)
+- Opšti pregled pravila toka pošte: [pravila protoka pošte (pravila transporta) u programu Exchange online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Podešavanje pravila za poštu protok: [Pošta teku pravila procedure za uzvrat na mreži](https://technet.microsoft.com/library/dn600436.aspx)
+- Podešavanje pravila toka pošte: [procedure pravila toka pošte u programu Exchange online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Kreirajte, izmenite i brisanje pravila protok pošte: [Upravljanje pravila za poštu protok](https://technet.microsoft.com/library/jj657505.aspx)
+- Kreiraj, izmeni i Izbriši pravila toka pošte: [Upravljanje pravilima protoka pošte](https://technet.microsoft.com/library/jj657505.aspx)
 
-Takođe možete da upravljate pravila protok pošte na Exchange Online PowerShell. Za više informacija, pogledajte [Se-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (prikaz), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (Kreiraj), [Ukloni-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (delete), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (izmenite postojeći), [Onemogući-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (Onemogući postojeći), i [Omogući-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (omogućite).
+Pravila za tok pošte možete da upravljate i u Exchange online PowerShell. Za više informacija pogledajte odeljak " [Dobijanje-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) " (prikaz), [novi-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (Kreiraj), [Ukloni-Transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (Delete), [Set-prevoznika](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (izmeni postojeće), [Onemogući-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (Onemogući postojeće) i [Omogući-transportrule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (Omogući postojeće).
 
-Dodatne pošte protok pravilo cmdlets: [Se-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (lista dostupnih radnji), [Po-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (lista dostupnih uslova i izuzetaka), [Izvoz-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (izvoz pravila) i [ Uvoz-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (uvoz pravila).
+Dodatno pravilo toka pošte cmdlet: [get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (lista dostupnih radnji), [get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (Lista raspoloživih uslova i izuzetaka), [izvoz-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (izvozne pravila) i [Uvoz-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (pravila uvoza).
