@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 076eee129607e42ffceb329df06fa6fb6da51216
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768887"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763195"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instaliranje timova kao samostalne ili sa novim ili postojećim Office instalacijama
 
-Microsoft timovi su uključeni u *nove instalacije* sistema Office 365 proplus, Office 365 Business i Office za Mac. Više informacija potražite u članku [kada će Microsoft timovi početi da budu uključeni u nove instalacije sistema Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft timovi su uključeni u *nove instalacije* Microsoft 365 aplikacija za Enterprise, Microsoft 365 aplikacije za preduzeća i Office za Mac. Više informacija potražite u članku [kada će Microsoft timovi početi da budu uključeni u nove instalacije sistema Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Pored toga, počev od verzije 1906 u mesečnom kanalu, timovi će biti *dodati postojećim instalacijama* sistema Office 365 proplus (i Office 365 Business) na uređajima koji rade pod operativnim sistemom Windows kada ažurirate postojeću instalaciju u najnoviju verziju. Za više informacija pogledajte odeljak [Šta je sa postojećim instalacijama sistema Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Pored toga, počev od verzije 1906 u mesečnom kanalu, timovi će biti *dodati postojećim instalacijama* Microsoft 365 aplikacija za Enterprise (i Microsoft 365 aplikacije za posao) na uređajima koji rade pod operativnim sistemom Windows kada ažurirate postojeću instalaciju na najnoviju verziju. Za više informacija pogledajte odeljak [Šta je sa postojećim instalacijama sistema Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 Timove možete da rasporedite kao samostalni za korisnike tako što ćete [slediti ova uputstva](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)ili možete da omogućite da vaši korisnici instaliraju timove za sebe https://teams.microsoft.com/downloads.
 

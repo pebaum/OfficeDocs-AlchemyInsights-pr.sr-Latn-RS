@@ -3,7 +3,7 @@ title: Nije isporučena SharePoint obaveštenja o obaveštenju
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: 978ca8df40736228932ae6f6a7c33ad0b159d4e5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40047081"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742061"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Nije isporučena SharePoint obaveštenja o obaveštenju
 
@@ -26,7 +26,7 @@ Proverite fasciklu "Neželjena pošta" u e-poruci, jer ponekad obaveštenja mogu
 
 Utvrdite da li **se sva obaveštenja ne isporučuju** ili ako **pojedinačna uzbuna** iz određene datoteke ili biblioteke nije isporučena.
 
-- **Pojedinačna obaveštenja se ne isporučuju**: ako pojedinačna uzbuna iz određene datoteke ili biblioteke nije isporučena, možete pokušati da je izbrišete i ponovo kreirate. Pogledajte odeljak [Upravljanje, prikazivanje ili brisanje SharePoint obaveštenja](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) da biste ponovo kreirali obaveštenje.
+- **Pojedinačna obaveštenja se ne isporučuju**: ako pojedinačna uzbuna iz određene datoteke ili biblioteke nije isporučena, možete pokušati da je izbrišete i ponovo kreirate. Pogledajte odeljak [Upravljanje, prikazivanje ili brisanje SharePoint obaveštenja](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) da biste ponovo kreirali obaveštenje.
 - **Sva obaveštenja se ne isporučuju**: ako se ne isporučuju sva obaveštenja iz više datoteka ili biblioteka, posetite [kontrolnu tablu za uslugu](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) da biste proverili da li postoje neki savetnici/incidenti koji mogu da se odvijaju sa SharePoint ili Exchange serverom. To pitanje može biti sa mogućnošću SharePoint upozorenja ili kašnjenja u e-porukama putem Exchange servera. Takođe će biti važno da imate na umu da li se e-pošta isporučuje, a ako ne, to pitanje je verovatno sa kašnjenjima Exchange servera.
 
 Najčešća pitanja o obaveštenjima:

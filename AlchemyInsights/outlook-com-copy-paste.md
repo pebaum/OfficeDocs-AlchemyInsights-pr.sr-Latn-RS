@@ -1,9 +1,9 @@
 ---
-title: Outlook.com kopiranje lepljenja
+title: Outlook.com kopiranje Nalepi
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: a02b2d86785a63ede7f49faa603d205b566b68e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8628a5dfe0b9e1d82bd7a43173221f6c1c107cbb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760498"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Kopiranje i lepljenje u Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>Kopiraj i Nalepi u Outlook.com
 
-Nema kopija ili lepljenje dugmad na Outlook.com, ali možete koristiti prečice na tastaturi:
+U Outlook.com nema dugmadi za kopiranje ili lepljenje, ali možete da koristite tasterske prečice:
 
-**Na PC:** CTRL + C za kopiranje, CTRL + X da smanji i CTRL + V da biste nalepili.
+**Na računaru:** CTRL + C za kopiranje, CTRL + X za isecanje i CTRL + V za lepljenje.
 
-**Na Mac:** CMD + C da biste kopirali, CMD + X da smanji i CMD + V da biste nalepili.
+**Na Mac:** CMD + C da biste kopirali, CMD + X za isecanje i CMD + V za lepljenje.

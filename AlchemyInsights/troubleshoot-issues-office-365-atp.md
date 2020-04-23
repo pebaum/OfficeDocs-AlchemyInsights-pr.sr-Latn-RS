@@ -1,30 +1,30 @@
 ---
-title: Rešavanje problema sa Office 365 napredni pretnja zaštitu (ATP)
+title: Rešavanje problema sa programom Office 365 napredna zaštita pretnje (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: dbdfe2ddcc4afd4477f66ffd060ddb7093af8fd6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 99bc985f2d66693aca45f0833ab47c043acc1324
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420318"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766759"
 ---
 # <a name="troubleshoot-issues-with-office-365-atp"></a>Rešavanje problema sa Office 365 ATP
 
-- **Najave kašnjenja sa isporukom poruka e-pošte**? Pokušajte da koristite opciju dinamiku isporuka za polisa ATP sigurnom priloge. Ovo će izbeći kašnjenja Isporuka poruke e-pošte istovremeno štiteći primaoce iz zlonamerne datoteke.
-- **Da li želite izveštaj greške ili false negative**? Koristite ovaj link da podnesu svoje datoteke za analizu:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Znali ste da možete da omogućite zaštitu ATP bezbedna veza za e-poštu šalju između ljudi u vašoj organizaciji**? Slijedite ove korake:
-    1. Idite na https://protection.office.com, i prijavite se.
-    2. Idite na **prijetnje** > **politiku** > **Sigurna veza**.
-    3. U okviru **politike koji se odnose na određene primaoce**, uređivanje (ili dodajte) politiku.
-    4. Izaberite **Primeni bezbedna veza ka poruke poslane unutar organizacije**.
-    5. Sačuvajte svoje politike, a omogućavaju oko 30 minuta da bi promene probijaju kroz tvoj datacenter.
-- Da biste dobili pomoć u vezi sa ATP, vidim [Zaštitu napredni pretnja programa Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+- **Obratite pažnju na odlaganje isporučivanja e-poruka**? Pokušajte da koristite opciju "Dinamičko isporučivanje" za ATP smernice za bezbedno priloge. Ovo će izbeći odlaganje isporučivanja e-poruka prilikom zaštite primalaca od zlonamernih datoteka.
+- **Želite li da izvestite o lažnim imali greške ili lažnim negativima**? Koristite ovu vezu da biste prosledili datoteku na analizu:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- Da **li ste znali da možete da omogućite ATP zaštitu bezbednih veza za e-poštu poslatu između osoba u vašoj organizaciji**? Sledite ove korake:
+    1. Idite na https://protection.office.comlokaciju i prijavite se.
+    2. Idite na**bezbedne veze** > **smernica** > za **Upravljanje pretnjama**.
+    3. U okviru **smernica koje se odnose na određene primaoce**, uredite (ili dodajte) smernice.
+    4. Izaberite stavku **Primeni bezbedne veze sa porukama poslatim u organizaciji**.
+    5. Sačuvajte smernice, a zatim dopustite oko 30 minuta da vaše promene rade putem svog Datacenter.
+- Da biste dobili dodatnu pomoć sa ATP-om, pogledajte [Office 365 dodatnu zaštitu pretnji](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).

@@ -2,7 +2,7 @@
 title: Kako proveriti status sinhronizacije lozinke?
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555391"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765607"
 ---
 # <a name="enable-password-sync"></a>Omogući sinhronizaciju lozinke
 
@@ -31,7 +31,7 @@ ms.locfileid: "36555391"
     
 3. Sada ćete videti svoj status i izvršiti promene:
     
-    **Omogućena je sinhronizacija lozinke:** (TRUE ili FALSE). Navodi da li imate omogućenu sinhronizaciju lozinke između vas i vaše Office 365 tenanta. 
+    **Omogućena je sinhronizacija lozinke:** (TRUE ili FALSE). Navodi da li imate omogućenu sinhronizaciju lozinke između vas i vašeg stananta. 
     
     **Poslednja sinhronizacija lozinke:** (vreme poslednje sinhronizacije lozinke). Ovo će prikazati upozorenje i vezu ka alatki za rešavanje problema ako je poslednja sinhronizacija bila pre više od tri dana. 
     

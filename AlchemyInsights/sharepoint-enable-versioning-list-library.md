@@ -2,7 +2,7 @@
 title: Kreiranje verzija u sistemu SharePoint i OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044237"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767407"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Kreiranje verzija u sistemu SharePoint i OneDrive 
 
@@ -39,6 +39,6 @@ Za više informacija o kreiranju verzija posetite sledeće članke.
 - [Ograničenja za kreiranje verzija](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Ako ste Office 365 kupac, kreiranje verzija je sada podrazumevano uključeno kada kreirate novu OneDrive za poslovne biblioteke i automatski će sačuvati poslednje 500 verzije dokumenta. Ovo će vam pomoći da sprečite gubljenje važnih dokumenata ili podataka. Ako imate postojeće biblioteke u usluzi OneDrive za poslovnu lokaciju ili na lokaciji vašeg tima koja nemaju omogućenu podršku, u bilo kom trenutku možete da uključite kreiranje verzija.
+>Ako ste korisnik sistema Microsoft 365, kreiranje verzija je podrazumevano uključeno kada kreirate novu OneDrive za poslovne biblioteke i automatski će sačuvati poslednje 500 verzije dokumenta. Ovo će vam pomoći da sprečite gubljenje važnih dokumenata ili podataka. Ako imate postojeće biblioteke u usluzi OneDrive za poslovnu lokaciju ili na lokaciji vašeg tima koja nemaju omogućenu podršku, u bilo kom trenutku možete da uključite kreiranje verzija.
 
 

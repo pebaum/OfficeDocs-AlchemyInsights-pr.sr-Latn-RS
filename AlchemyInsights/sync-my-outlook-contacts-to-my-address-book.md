@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 80fe96b72c9e7fdb610bf4618535bbecb9465c9d
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 497463fc70a09490bc74c40405325433b4ce0e90
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286269"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767083"
 ---
 # <a name="sync-my-outlook-contacts-to-my-address-book"></a>Sinhronizuj moje Outlook kontakte sa mojim adresarom
 
@@ -30,7 +30,7 @@ Outlook vam dozvoljava da izvezete svoje kontakte u podrazumevanu aplikaciju "Ko
 
 3. Zamenite klizač " **Kontakti za sinhronizaciju** ".
  
-Dvosmerno izvoz kontakta je podržan za Office 365, Outlook.com i hibridnu savremenu provjeru autentičnosti za Poštanske sandučiće na prostoru. Dvosmerna podrška osigurava da će svi novi kontakti koje dodate ili postojeći kontakti koje uređujete biti sinhronizovani između uređaja i Outlook naloga.
+Dvosmerno izvoz kontakta je podržan za Microsoft 365, Outlook.com i hibridnu modernu provjeru autentičnosti za Poštanske sandučiće na jednom prostoru. Dvosmerna podrška osigurava da će svi novi kontakti koje dodate ili postojeći kontakti koje uređujete biti sinhronizovani između uređaja i Outlook naloga.
  
 Za zastarele Exchange naloge možete da izvezete kontakte da bi bili sačuvani na uređaju. Kada je omogućeno **Sinhronizovanje kontakata** , novi kontakti i uređivanja koja su napravljeni u vašim kontaktima u programu Outlook biće sačuvani u aplikaciji "Kontakti" na uređaju. Međutim, uređivanja izvršena direktno u aplikaciji "Kontakti" u vašem uređaju neće biti sačuvana u programu Outlook. Imajte na umu da ne podržavamo Dodavanje/uređivanje kontakata iz programa Outlook za Android za Exchange naloge, tako da ćete morati da upravljate kontaktima iz drugog Outlook klijenta.
  

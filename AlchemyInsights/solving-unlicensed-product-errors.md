@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: 178811c81775b22676a0106283be4e516d40a95b
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 87a0a2be6b222d35acbc862eed4f14fb3e3e36ac
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628040"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764167"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Predlozi za rešavanje grešaka "nelicenciranih proizvoda"
 
 Da biste rešili greške u vezi sa "nelicenciranim proizvodom", pokušajte sledeće:
 
 - Proverite da li je vaš status pretplate istekao.
-- Uverite se da imate pretplatu koja omogućava klijentske licence, kao što su Office 365 Business ili Business Premium, i [Uverite se da je korisniku dodeljena licenca](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
+- Uverite se da imate pretplatu koja omogućava klijentske licence, kao što su Microsoft 365 aplikacije za poslovnu ili poslovnu Premium, i [Uverite se da je korisniku dodeljena licenca](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). 
 - Proverite da li se korisnik prijavljujem u Office sa istim nalogom koji ima dodeljenu licencu.
-- Proverite [Office 365 uslugu zdravstvenog sistema](https://docs.microsoft.com/office365/enterprise/view-service-health) da biste videli da li postoje neki poznati problemi sa uslugom.
-- Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da neće blokirati pristup Office aplikacijama na Internet. Pogledajte [Office 365 URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Proverite [stranicu "zdravlje usluge](https://docs.microsoft.com/office365/enterprise/view-service-health) " da biste videli da li postoje neki poznati problemi sa uslugom.
+- Proverite zaštitni zid, antivirusni softver i proxy postavke da biste potvrdili da neće blokirati pristup Office aplikacijama na Internet. Pogledajte [URL adrese i OPSEGE IP adresa](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Takođe možete probati sledeće radnje za rešavanje problema: 
 
@@ -35,7 +35,7 @@ Takođe možete probati sledeće radnje za rešavanje problema:
 - [Uspostavite početnu vrednost stanja aktivacije sistema Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state). 
 - [Izvršite popravku na mreži za Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
 
-Za dodatna rešenja za rešavanje problema pogledajte: 
+Dodatna rešenja za rešavanje problema potražite u članku: 
 
-- [Nelicencirane greške u proizvodu i aktivaciji u sistemu Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
-- ["Nažalost, ne možemo da se povežemo sa vašim nalogom. Pokušajte ponovo kasnije "Greška prilikom aktiviranja sistema Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)
+- [Greška „Nelicencirani proizvod“ i greška aktivacije u sistemu Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [„Žao nam je, ne možemo da se povežemo sa nalogom. Pokušajte ponovo kasnije“ – greška prilikom aktiviranja sistema Office](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365)

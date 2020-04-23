@@ -2,7 +2,7 @@
 title: SharePoint online reguliranje
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958749"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742223"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint online reguliranje
 
-**Važno**: u ovakvim vremenima bez presedana preduzimamo korake da bismo obezbedili da SharePoint Online i usluge OneDrive ostanu veoma dostupne – posetite [SharePoint online prilagođavanja](https://aka.ms/ODSPAdjustments) za više informacija.
+**Važno**: Tokom ovih jedinstvenih vremena, preduzimamo korake da bismo se uverili da će usluge SharePoint Online i OneDrive ostati dostupne u velikoj meri – Posetite [SharePoint Online privremena prilagođavanja funkcija](https://aka.ms/ODSPAdjustments) za više informacija.
 
 **503 server je zauzet greška**
 
 Korisnici mogu da prime 503 server je zauzet greškom prilikom pokušaja da se kreću na SharePoint ili OneDrive lokacije. 
 
-Ova greška može biti izazvana regulisanja u okviru SharePoint usluge. SharePoint online koristi ograničavanje za održavanje optimalnih performansi i pouzdanosti SharePoint usluge na mreži. Ograničavanje ograničava broj radnji korisnika ili uporedne pozive (po skripti ili kodu) da bi sprečio prekomerno korišćenje resursa. 
+Ova greška može biti izazvana regulisanja u okviru SharePoint usluge. SharePoint Online koristi ograničavanje da bi održao optimalne performanse i pouzdanost usluge SharePoint Online. Ograničavanje ograničava broj korisničkih radnji ili istovremenih poziva (po skripti ili kodu) kako bi se sprečilo prekomerno korišćenje resursa. 
 
 Za više informacija o regulisanja pogledajte, [izbegavajte ograničavanje ili blokiranje na lokaciji SharePoint online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

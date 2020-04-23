@@ -14,12 +14,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769857"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765211"
 ---
 # <a name="where-is-power-pivot"></a>Gde se nalazi napajanje?
 
@@ -41,4 +41,4 @@ Ako radite u verziji programa Excel koja podržava izvedenu akciju, proverite da
 
 **Imate više pretplata ili računa**
   
-Možda imate različite Office 365 pretplate dodeljene različitim korisničkim nalozima. Uverite se da ste se prijavili u nalog sa verzijom programa Excel koja podržava izvedenu akciju. Proverite listu [podržanih verzija](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)i sledite uputstva da biste se [prebacivali između različitih Office naloga](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Možda imate različite Microsoft 365 pretplate dodeljene različitim korisničkim nalozima. Uverite se da ste se prijavili u nalog sa verzijom programa Excel koja podržava izvedenu akciju. Proverite listu [podržanih verzija](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)i sledite uputstva da biste se [prebacivali između različitih Office naloga](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

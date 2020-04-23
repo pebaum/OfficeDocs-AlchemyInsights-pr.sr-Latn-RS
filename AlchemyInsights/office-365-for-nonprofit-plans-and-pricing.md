@@ -1,9 +1,9 @@
 ---
-title: Office 365 za neprofitnu planove i cene
+title: Office 365 za neprofitne planove i cijene
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390598"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761581"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 za neprofitnu planove i cene
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 za neprofitne planove i cijene
 
-Kvalifikovana neprofitne organizacije mogu primiti Office 365 neprofitne kao donaciju ili izvršite nadogradnju na naprednim funkcijama značajan popust na. Da se kvalifikuje za Office 365 neprofitne plan, morate da držite [prepoznat dobrotvorni status](https://go.microsoft.com/fwlink/p/?LinkID=330253) u tvoju zemlju i znak Microsoftova nediskriminacije politika. Microsoft zadržava pravo da potvrde podobnost u bilo kom trenutku i da obustavi uslugu za nepodesni organizacije.
+Kvalifikovani nedobit može da primi Office 365 neprofitabilno kao donaciju ili nadogradnju na napredne funkcije po značajnom popustu. Da biste se kvalifikovali za Office 365 neprofitni plan, morate da imate [prepoznatljiv status](https://go.microsoft.com/fwlink/p/?LinkID=330253) u svojoj zemlji i da potpišete politiku nediskriminacije korporacije Microsoft. Microsoft zadržava pravo da proveri podobnost u bilo kom trenutku i da obustavi uslugu za organizacije koje se ne mogu podesati.
   
-Pogledajte [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) za dodatna pitanja u vezi sa ovom ponudom.
+Pogledajte [FAQ](https://products.office.com/nonprofit/office-365-nonprofit) za dodatna pitanja o ovoj ponudi.
   
 - [Pregledajte neprofitne planove](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [Uporedite sve planove za Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Uporedite sve Microsoft 365 pretplate](https://products.office.com/business/compare-more-office-365-for-business-plans)

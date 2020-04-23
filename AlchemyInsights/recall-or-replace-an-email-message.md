@@ -1,9 +1,9 @@
 ---
-title: Opozovete ili zamenite e-poruku
+title: Opozivanje ili zamenjivanje e-poruke
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553446"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742769"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Opozovete ili zamenite e-poruku u Office 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Opozivanje ili zamenjivanje e-poruke u programu Microsoft 365
 
-- Možete **samo opoziv poruke koje se šalju osobe u vašoj organizaciji**. Ako je poruka poslata na Gmail adresu, na primer, da mogu da se setim to.
-- Možete **samo opoziv poruke poslane iz Outlook 2016 za PC**. Ako korisnik pošalje poruku koristeći Outlook za Mac ili Outlook na Webu, mogu da se setim.
-- Ako si ti neki admin, možete **opoziv poruke u ime korisnika pomoću PowerShell**. Ne mogu da se setim poruke iz centra za administraciju. Pomerite se do „Traženje i brisanje poruke e-pošte u vašoj organizaciji” za više informacija.
+- Možete **samo da opozovete poruke koje se šalju osobama iz vaše organizacije**. Na primer, ako je poruka poslata na gmail adresu, ne možete je opozvati.
+- Možete **samo da opozovete poruke poslate iz programa Outlook 2016 za računar**. Ako korisnik pošalje poruku pomoću programa Outlook za Mac ili Outlook na Webu, ne možete je opozvati.
+- Ako ste administrator, možete da **opozovete poruke u ime korisnika pomoću programa PowerShell**. Ne možete da opozovete poruke iz administratorskog centra. Pomerite se nadole da biste dobili više informacija "potražite i izbrišite e-poruke u vašoj organizaciji".
 
-**Opozovete ili zamenite e-poruku koju ste poslali**
+**Opozivanje ili zamenjivanje e-poruke koju ste poslali**
 
-1. U oknu fascikle na levoj strani prozora programa Outlook, odaberite fasciklu poslate stavke.
-2. Otvorite poruku koju želite da opozovete. Ti mora dvaput kliknite na ikonu da biste otvorili poruku. Što ćete izabrati poruku, tako da se pojavljuje u oknu za čitanje neće vam dozvoliti da opoziv poruke.
-3. Na kartici poruka, izaberite **Radnje** > **Opozovi ovu poruku**.
-4. Odaberite **Izbriši nepročitane kopije ove poruke** ili **Izbriši nepročitane kopije i zameni ih novom porukom**, a zatim izaberite **OK**.
-5. Ako šaljete poruku zamenu, napišite poruku, a zatim izaberite **Pošalji**.
-6. Uspeh ili neuspeh opoziva poruke zavisi od primalaca postavke u programu Outlook.
+1. U oknu sa fasciklama na levoj strani prozora programa Outlook Odaberite fasciklu "Poslate stavke".
+2. Otvorite poruku koju želite da opozovete. Morate dvaput kliknuti da biste otvorili poruku. Ako izaberete poruku tako da se pojavi u oknu za čitanje, nećete dozvoliti da opozovete poruku.
+3. Na kartici poruke izaberite **Radnje** > **Opozovi ovu poruku**.
+4. Odaberite stavku " **Izbriši nepročitane kopije" ove poruke** ili **Izbrišite nepročitane kopije i zamenite ih novom porukom**, a zatim kliknite na **dugme "u redu"**.
+5. Ako šaljete poruku za zamenu, napišite poruku, a zatim kliknite na dugme " **Pošalji**".
+6. Uspeh ili neuspeh opoziva poruke zavisi od postavki primalaca u programu Outlook.
 
-Za više informacija, uključujući i kako da proverim opoziva, pogledajte [opoziv "ili" zameni e-poruku koju ste poslali](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+Za više informacija, uključujući i to kako da proverite opoziv, pogledajte odeljak [opoziv ili zamenjivanje e-poruke koju ste poslali](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Traženje i brisanje poruke e-pošte u vašoj organizaciji*** Za pretraživanje i brisanje poruke e-pošte u vašoj organizaciji, to je najlakše, ako si globalne admin. Ako nisi globalne admin, vaš račun mora se dodati u grupu uloga Menadžera za eDiscovery, ili u ulogu upravljanja usklađenosti pretrage. Da biste izbrisali poruke, moraćete da se pridruži grupi uloga upravljanje organizacijom ili uloga za upravljanje pretraživanja i očisti. Dozvole za ove uloge dodeljuju na [Centar za sigurnost & usklađenosti](https://protection.office.com/).
+***Traženje i brisanje e-poruka u vašoj organizaciji*** Da biste potražili i izbrisali e-poruke u vašoj organizaciji, najlakše je ako ste globalni administrator. Ako niste globalni administrator, vaš nalog mora biti dodat grupi uloga eDiscovery Manager ili u ulogu upravljanja pretragom usaglašenosti. Da biste izbrisali poruke, potrebno je da se pridružite grupi uloga za upravljanje organizacijom ili u ulozi za pretraživanje i čišćenje. Dozvole za ove uloge se dodeljuju u okviru [bezbednosnog & centra za usaglašavanje](https://protection.office.com/).
 
-1. [Kreiraj sadržaj pretragu](https://docs.microsoft.com/office365/securitycompliance/content-search) pronaći poruku da biste je izbrisali.
-2. [Povezivanje sa bezbednosti & usklađenosti centar PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Kreirajte pretragu sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) da biste pronašli poruku za brisanje.
+2. [Povezivanje sa bezbednošću & PowerShell centra za usaglašavanje](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Ako koristite MFA, vidim da je [Povezivanje sa Office 365 bezbednosti & usklađenosti centar PowerShell koristeći višestruku potvrdu identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Ako koristite MFA, pogledajte odeljak [Povezivanje sa programom Microsoft 365 security & PowerShell centra za usaglašavanje pomoću višefaktora potvrde identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

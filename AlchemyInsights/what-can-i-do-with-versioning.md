@@ -1,30 +1,30 @@
 ---
-title: Kako mogu sa praćenjem verzija?
+title: Šta mogu da uradim sa kreiranjem verzija?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531337"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765355"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Kako mogu sa praćenjem verzija?
+# <a name="what-can-i-do-with-versioning"></a>Šta mogu da uradim sa kreiranjem verzija?
 
-Možete da koristite kreiranje verzija u SharePoint listi i biblioteka da:
+U SharePoint listama i bibliotekama možete da koristite kreiranje verzija za:
   
-- **Praćenje istorije verzije**. Kada je omogućeno kreiranje verzija, možete videti kada stavka ili datoteka promenjena i ko ih je promenio. Vi možete da vidite kada su promenjena svojstva (informacije o datoteci). Na primer, ako neko promeni krajnji rok za stavku liste, ta informacija se pojavljuje u istoriji verzija. Takođe možete videti komentare ljudi prave prilikom prijavljivanja datoteke u bibliotekama. 
+- **Praćenje istorije verzije**. Kada je omogućeno kreiranje verzija, možete da vidite kada je stavka ili datoteka promenjena i ko ju je promenio. Takođe, možete da vidite kada su promenjene svojstva (informacije o datoteci). Na primer, ako neko promeni datum dospeća stavke liste, ta informacija se pojavljuje u istoriji verzija. Takođe, možete da vidite komentare koji će se praviti prilikom provere datoteka u bibliotekama. 
     
-- **Vraćanje prethodne verzije**. Ako si pogrešila u trenutnoj verziji, ako trenutnu verziju je oštećen ili ako jednostavno volite bolje prethodnu verziju, trenutnu verziju možete da zamenite prethodni zadatak. Obnovljena verzija postaje novi trenutnu verziju. 
+- **Vraćanje prethodne verzije**. Ako ste napravili grešku u trenutnoj verziji, ako je trenutna verzija oštećena ili ako vam je ona jednostavno kao bolja verzija, ovu verziju možete zameniti prethodnom. Vraćena verzija postaje nova trenutna verzija. 
     
-- **Prikaz prethodne verzije**. Možete prikazati prethodnu verziju bez zamenjivanja tekuće verzije. Ako pregledate istoriju verzija unutar Microsoft Office dokument, kao što je Word ili Excel datoteka, možete da uporedite dve verzije da biste utvrdili šta, koje su razlike. 
+- **Prikažite prethodnu verziju**. Možete da pregledate prethodnu verziju bez zamene trenutne verzije. Ako prikazujete istoriju verzija u Microsoft Office dokumentu, kao što je Word ili Excel datoteka, možete da uporedite dve verzije da biste utvrdili koje su razlike. 
     
-[Saznajte više o tome kako kreiranje verzija funkcioniše u SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Saznajte više o tome kako funkcioniše kreiranje verzija u sistemu SharePoint online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

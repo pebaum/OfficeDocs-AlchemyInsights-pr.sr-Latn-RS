@@ -1,26 +1,26 @@
 ---
-title: Zahteva da biste se vratili iz Outlook.com beta klasični Outlook.com
+title: Zahtev za vraćanje iz Outlook.com Beta u klasični Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "8000035"
-ms.openlocfilehash: 77a1a51684525008a6319aa4820c7e62d6906ca5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ddcc6d04a93510ca35f0cd5d05fa3cf1d89d05a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535081"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743719"
 ---
 # <a name="the-new-outlookcom"></a>Novi Outlook.com
 
-Ona više neće biti moguće ostaviti novo iskustvo Outlook.com i vratite se u klasičnu verziju Outlook.com.
+Više nije moguće ostaviti novi Outlook.com Experience i vratiti se u klasičnu verziju Outlook.com.
 
-Ako želite da date povratne informacije o novom Outlook.com, idite na [UserVoice forumu](https://go.microsoft.com/fwlink/p/?linkid=851599). Mogu da glasaju u idejama pitanja da biste želeli da vidimo se obratio, niti ćemo vam odgovoriti direktno na gornje komentare i sugestije.
+Ako želite da date povratne informacije o novom Outlook.com, idite na [forum Uservoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Možete glasati o idejama ili temama koje biste želeli da vidite, a mi ćemo odgovoriti direktno na najvažnije komentare i sugestije.
 
 [Dobijte pomoć za Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
