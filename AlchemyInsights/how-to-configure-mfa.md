@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739651"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722390"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a>Konfigurisanje višefaktora potvrde verodostojnosti u sistemu Office 365
+# <a name="configure-multi-factor-authentication"></a>Konfigurisanje višefaktora potvrde verodostojnosti
 
-Da biste konfigurisali MFA, pogledajte odeljak [Podešavanje potvrde identiteta za Office 365 korisnike](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Da biste konfigurisali MFA, pogledajte odeljak [Podešavanje potvrde verodostojnosti sa više faktora](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).
 
-Imajte na umu da morate da budete Office 365 Global admin da biste omogućili i konfigurisali MFA.
+Imajte na umu da morate biti globalni administrator da biste omogućili i konfigurisali MFA.

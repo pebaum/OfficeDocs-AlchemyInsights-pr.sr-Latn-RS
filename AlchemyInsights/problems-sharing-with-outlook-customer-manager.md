@@ -1,9 +1,9 @@
 ---
-title: problems-Sharing-with-Outlook-Customer-Manager
+title: problemi-deljenje-sa-Outlook-rukovodilac-menadžer
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554491"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758840"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemi deljenje sa Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problemi pri deljenju sa Outlook Menadžerom za korisnike
 
-Ako imate deljenje pitanjima sa Outlook Customer Manager preporučujemo da ti prvo pokušajte da keš pregledača. Na primer u programu Internet Explorer da bi:
+Ako imate problema sa deljenjem sa programom Outlook korisnički menadžer, preporučujemo da prvo pokušate da obrišete keš za pregledač. Na primer, u programu Internet Explorer vi biste:
 
-1. Idite na **Postavke** > **General** > postavke u okviru **Istorija pregledanja** > **keš i bazama podataka**.
-2. Brisanje keša datoteka za sajt „outlookapps.com”.
+1. Otvorite **Postavke** > **opštih** > postavki u okviru stavke **Istorija** > pregledanja**i baze podataka**.
+2. Izbrišite datoteke keša za Web lokaciju "outlookapps.com".
 3. Ponovo pokrenite Outlook.
 
-Više informacija o deljenju, potražite [Deljenje informacija u programu Outlook, Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Više informacija o deljenju potražite u članku [Deljenje informacija u programu Outlook menadžer za korisnike](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

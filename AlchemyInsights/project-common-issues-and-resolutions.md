@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 4185077215ac3628103286ed58c396088410d868
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600326"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789136"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Zajednička pitanja i rešenja projekta
 
@@ -28,6 +28,6 @@ Evo nekih često zahtevanih tema sa projektom:
 
 3. Projekat **"Podešavanje Web aplikacije za Project (PWA)" u okviru projekta Online:** Pregledajte [uticaj performansi i neizvršenje](https://docs.microsoft.com/projectonline/tune-project-online-performance) nekih od najčešćih postavki Web aplikacije za projekat.
 
-4. **Poveži se sa projektom na mreži pomoću klijenta projektnog računara:** Koristite [projekat "Klijentski Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) " da biste se povezali sa projektom na mreži u vašem Office 365 okruženju. 
+4. **Poveži se sa projektom na mreži pomoću klijenta projektnog računara:** Koristite [projekat "Klijentski Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) " da biste se povezali sa projektom na mreži u vašem Microsoft 365 okruženju. 
 
-5. **Instaliranje profesionalnog projekta:** [Instaliranje i korišćenje stručnih projekata](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) sa Pretplatnim verzijama projekta Online i nepretplatničke verzije projekta 2019, 2016 ili 2013.
+5. **Instaliranje profesionalnog projekta:** [Instaliranje i korišćenje stručnih projekata](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) sa Pretplatnim verzijama projekta Online i nepretplatničke verzije projekta 2019, 2016 ili 2013.

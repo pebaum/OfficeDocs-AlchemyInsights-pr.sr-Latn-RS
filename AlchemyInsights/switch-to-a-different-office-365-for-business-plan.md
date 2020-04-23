@@ -12,12 +12,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 733625a79fe2da5436e9b14899121fd02132bf0e
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763807"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789172"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Prebaci se na drugi Microsoft 365 za poslovnu pretplatu
 
@@ -27,7 +27,7 @@ Kada se poslovne promene ili vam trebaju dodatne funkcije, možete da izvršite 
 
 2. Izaberite pretplatu koju želite da nadogradite.
 
-3. Na [stranici "Detalji pretplate](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)" izaberite stavku **Nadogradnja**.
+3. Na [stranici "Detalji pretplate](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)" izaberite stavku **Nadogradnja**.  Ako je kartica " **Nadogradnja** " prazna, videćete objašnjenje zašto ne možete da izvršite nadogradnju u ovom trenutku. Umesto toga, moraćete ručno da [promenite planove](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually?view=o365-worldwide).
 
 4. Pronađite plan na koji želite da izvršite nadogradnju, a zatim izaberite dugme " **Nadogradi** ".
 
