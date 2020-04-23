@@ -1,9 +1,9 @@
 ---
-title: 1489-Permissions-required-for-ediscovery-searches
+title: 1489-zahtijevne dozvole-za-ediscovery-pretrage
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372142"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758923"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a><span data-ttu-id="d5fad-102">Dozvole potrebne za eDiscovery pretrage</span><span class="sxs-lookup"><span data-stu-id="d5fad-102">Permissions required for eDiscovery searches</span></span>
+# <a name="permissions-required-for-ediscovery-searches"></a><span data-ttu-id="98a1b-102">Dozvole potrebne za eDiscovery pretrage</span><span class="sxs-lookup"><span data-stu-id="98a1b-102">Permissions required for eDiscovery searches</span></span>
 
-<span data-ttu-id="d5fad-103">Za izvršavanje sadržaja pretraga u bezbednosti & usklađenosti centar, korisnik mora barem biti član eDiscovery grupi Menadžer za ulogu, što im omogućava da izvršite pretrage i mesto ima na Poštanske sandučiće, SharePoint lokacija i lokacija OneDrive.</span><span class="sxs-lookup"><span data-stu-id="d5fad-103">To perform Content Searches in the Security & Compliance Center, a user must be at least be a member of the eDiscovery Manager role group, which allows them to perform searches and place holds on mailboxes, SharePoint sites, and OneDrive locations.</span></span> <span data-ttu-id="d5fad-104">Članove možete da kreirate i upravljanje eDiscovery slučajevima, dodajte i uklonite članove na slučaj, kreiranje i uređivanje sadržaja pretrage, i pristupite podataka o predmetu u naprednim eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="d5fad-104">Members can also create and manage eDiscovery cases, add and remove members to a case, create and edit Content Searches, and access case data in Advanced eDiscovery.</span></span>
+<span data-ttu-id="98a1b-103">Da biste izvršili pretrage sadržaja u okviru bezbednosnog & centra za usaglašenost, korisnik mora da bude član grupe uloga eDiscovery Manager, koja im omogućava da izvršavaju pretrage i postavite zadrška na Poštanske sandučiće, SharePoint lokacije i OneDrive lokacije.</span><span class="sxs-lookup"><span data-stu-id="98a1b-103">To perform Content Searches in the Security & Compliance Center, a user must be at least be a member of the eDiscovery Manager role group, which allows them to perform searches and place holds on mailboxes, SharePoint sites, and OneDrive locations.</span></span> <span data-ttu-id="98a1b-104">Članovi takođe mogu kreirati i upravljati eDiscovery slučajevima, dodavati i uklanjati članove u slučaju, kreirati i urediti pretrage sadržaja i pristupati podacima predmeta u naprednim eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="98a1b-104">Members can also create and manage eDiscovery cases, add and remove members to a case, create and edit Content Searches, and access case data in Advanced eDiscovery.</span></span>
 
-<span data-ttu-id="d5fad-105">Za izvršavanje na licu mesta eDiscovery pretraga u centru za admin Exchange (EAC), korisnik mora biti član Discovery Management grupe uloga u Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d5fad-105">To perform In-Place eDiscovery searches in the Exchange admin center (EAC), the user must be a member of the Discovery Management role group in Exchange Online.</span></span>
+<span data-ttu-id="98a1b-105">Da biste izvršili eDiscovery pretrage u Exchange admin Center (EAC), korisnik mora da bude član grupe uloga za upravljanje otkrićem u programu Exchange online.</span><span class="sxs-lookup"><span data-stu-id="98a1b-105">To perform In-Place eDiscovery searches in the Exchange admin center (EAC), the user must be a member of the Discovery Management role group in Exchange Online.</span></span>
 
-<span data-ttu-id="d5fad-106">Za više informacija o dozvolama za eDiscovery, pogledajte:</span><span class="sxs-lookup"><span data-stu-id="d5fad-106">For more information about eDiscovery permissions, see:</span></span> 
+<span data-ttu-id="98a1b-106">Za više informacija o eDiscovery dozvolama pogledajte:</span><span class="sxs-lookup"><span data-stu-id="98a1b-106">For more information about eDiscovery permissions, see:</span></span> 
 
-- [<span data-ttu-id="d5fad-107">Dodelite dozvole za eDiscovery u sigurnost & usklađenosti centar</span><span class="sxs-lookup"><span data-stu-id="d5fad-107">Assign eDiscovery permissions in the Security & Compliance Center</span></span>](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [<span data-ttu-id="98a1b-107">Dodelite eDiscovery dozvole u centru za bezbednost &</span><span class="sxs-lookup"><span data-stu-id="98a1b-107">Assign eDiscovery permissions in the Security & Compliance Center</span></span>](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [<span data-ttu-id="d5fad-108">U zamjenu da dodelite dozvole za eDiscovery</span><span class="sxs-lookup"><span data-stu-id="d5fad-108">Assign eDiscovery permissions in Exchange</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [<span data-ttu-id="98a1b-108">Dodeli dozvole za eDiscovery u zamenu</span><span class="sxs-lookup"><span data-stu-id="98a1b-108">Assign eDiscovery permissions in Exchange</span></span>](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-<span data-ttu-id="d5fad-109">**Napomena**: nakon dodeljivanja dozvole za eDiscovery, možda ćete morati da pricekate malo za dozvole da propagira.</span><span class="sxs-lookup"><span data-stu-id="d5fad-109">**Note**: After assigning eDiscovery permissions, you may need to wait a few minutes for the permissions to propagate.</span></span>
+<span data-ttu-id="98a1b-109">**Napomena**: nakon što dodelite eDiscovery dozvole, možda ćete morati da sačekate nekoliko minuta da bi se dozvole umnožili.</span><span class="sxs-lookup"><span data-stu-id="98a1b-109">**Note**: After assigning eDiscovery permissions, you may need to wait a few minutes for the permissions to propagate.</span></span>
