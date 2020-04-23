@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43028150"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784813"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Uklanjanje Teams broja za pozivanje konferencijskih brojeva
 
@@ -24,7 +24,7 @@ Da li vam je potrebna pomoć oko uklanjanja telefonskog broja u konferenciji za 
 
 Podrazumevani broj telefona na konferencijskom mostu definiše ID pozivaoca koji će se koristiti kad odlazni poziv koji je postavio učesnik ili organizator iz sastanka.
 
-1. Prijavljivanje u Office 365 pomoću vašeg poslovnog naloga.
+1. Prijavite se pomoću poslovnog naloga.
 
 2. Idite na **Microsoft 365 centar administracije**.
 
