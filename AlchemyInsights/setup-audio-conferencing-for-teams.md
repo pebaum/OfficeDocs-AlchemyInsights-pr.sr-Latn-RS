@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: f3af2a35c1fd4fee6458ff276a69bb551b33ac68
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.openlocfilehash: e544e1d71a4aa61c1a16f2d3647050129ceb164e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707735"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764383"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Podešavanje zvučnih konferencija za Teams
 
@@ -42,4 +42,4 @@ Da biste proverili da li je korisnik licenciran za audio konferenciju i da li im
 
 7. Izaberite korisnika koji je u pitanju i proverite da li on ima **podrazumevani broj sa naplatom**.
 
-Više informacija potražite u članku [Planovi pozivanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.
+Više informacija potražite u članku [Planovi pozivanja za Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.
