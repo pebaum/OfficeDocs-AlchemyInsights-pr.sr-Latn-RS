@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739450"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Uobičajeni problemi sa uslugom Teams za klijente iz oblasti obrazovanja
 
@@ -33,7 +33,7 @@ Ako vam je potrebna pomoć u primeni usluge Teams za podršku pri daljinskom uč
 
 - **Omogućite pristup gosta usluzi Teams:** Pregledajte [kontrolne liste za pristup gosta usluzi Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist) i proverite da li su svi koraci izvršeni.
     - [Razumevanje pristupa gosta u usluzi Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access)
-    - [Podešavanje – kontrolna lista za pristup gosta usluzi Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+    - [Podešavanje – kontrolna lista za pristup gosta u usluzi Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
     - [Kako se gost pridružuje timu](https://docs.microsoft.com/microsoftteams/guest-joins)
 
 - **Teams sastanci i uključivanje preko telefona**: Da li vam je potrebna pomoć da uključite ili podesite audio konferenciju u usluzi Microsoft Teams? Da li je ovaj korisnik nedavno kreiran? Ako je to slučaj, moraćete da sačekate 2–24 časa da bi postavke stupile na snagu. Da biste proverili da li je korisnik licenciran za audio konferenciju i da li ima podrazumevani broj sa naplatom:
@@ -43,14 +43,14 @@ Ako vam je potrebna pomoć u primeni usluge Teams za podršku pri daljinskom uč
     4. U okviru korisničkog centra administracije kliknite na dugme **Prikaži sve**, a zatim izaberite stavku **Teams**.
     5. U Microsoft Teams centru administracije izaberite stavku **Zastareli portal**.
     6. U centru administracije za Skype za posao izaberite stavku **Audio konferencija**, a zatim stavku **korisnici**.
-    7. Izaberite korisnika koji je u pitanju i proverite da li on ima podrazumevani broj sa naplatom.
+    7. Izaberite odgovarajućeg korisnika i proverite da li ima podrazumevani broj sa naplatom.
 
-    Više informacija potražite u članku [Planovi pozivanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć u vezi sa pitanjima u vezi sa licenciranjem.
+    Više informacija potražite u članku [Planovi pozivanja](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ili pozovite Microsoft Commerce tim za naplatu za pomoć sa pitanjima u vezi sa licenciranjem.
 
     Dodatni resursi
 
     - [Sastanci i konferencije u usluzi Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [Audio konferencija u usluzi Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [Audio konferencija](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **Smernice za sastanke**: Smernice za sastanke koriste se za kontrolisanje funkcija dostupnih za učesnike sastanaka za sastanke koje su zakazali korisnici u vašoj organizaciji. Kad napravite smernice i primenite promene, možete da dodelite korisnike smernicama.
 
