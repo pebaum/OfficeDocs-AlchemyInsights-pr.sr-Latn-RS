@@ -3,7 +3,7 @@ title: Blokiranje ili deblokiranje pošiljalaca u Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717778"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793969"
 ---
 # <a name="block-or-unblock-senders"></a>Blokiranje ili deblokiranje pošiljalaca
 
-Poruke e-adrese ili domena sa blokiranih pošiljalaca idu direktno u Outlook fasciklu "Neželjena e-pošta". E-pošta se automatski uklanja iz fascikle "Neželjena e-pošta" nakon 30 dana i nije moguće spasti. Izaberite stavku koju ćete videti kada će biti uklonjena.
+Poruke sa e-adrese ili domena na listi blokiranih pošiljalaca neće doći u vaše Outlook.com poštansko sanduče.
 
 **Iz prijemnog poštanskog sandučeta:**
 
 - Na listi poruka izaberite poruku, a zatim izaberite stavku **Neželjena** > **blokada**.
-- **Napomena:** Blokiranje stavke koja se već nalazi u fascikli "Neželjena e-pošta" neće je izbrisati.
 
 **Iz postavki:**
 
@@ -40,4 +39,4 @@ Poruke e-adrese ili domena sa blokiranih pošiljalaca idu direktno u Outlook fas
 
 Da biste deblokirali pošiljaoca, izaberite ikonu za smeće pored e-adrese ili domena koji želite da deblokirate.
 
-Da biste saznali više, pogledajte odeljak [Označavanje e-pošte kao neželjenih ili blokiranih pošiljalaca u Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Da biste saznali više, pogledajte odeljak [blokiranje pošiljalaca ili označite e-poruku kao neželjenu](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
