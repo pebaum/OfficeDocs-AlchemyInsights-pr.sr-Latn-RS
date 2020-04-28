@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764742"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911845"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako vršiti pretrage sadržaja i eDiscovery pretrage
 
-Koristite alatku za pretragu sadržaja u bezbednosnom & centru za usaglašavanje da biste brzo pronašli e-poštu u Exchange poštanskim sandučićima, dokumentima na SharePoint lokacijama i OneDrive nalogu i razgovoru za neposrednu razmenu poruka u usluzi Skype za posao. Takođe možete da koristite alatku za pretragu sadržaja da biste potražili e-poruke, dokumente i razgovore o korišćenju trenutnih poruka u Microsoft 365 alatkama za saradnju kao što su Microsoft timovi i Office 365 grupe.
+Koristite alatku za pretragu sadržaja u bezbednosnom & centru za usaglašavanje da biste brzo pronašli e-poštu u Exchange poštanskim sandučićima, dokumentima na SharePoint lokacijama i OneDrive nalogu i razgovoru za neposrednu razmenu poruka u usluzi Skype za posao. Takođe možete da koristite alatku za pretragu sadržaja da biste potražili e-poruke, dokumente i razgovore o korišćenju trenutnih poruka u Microsoft 365 alatkama za saradnju kao što su Microsoft timovi i Microsoft 365 grupe.
 
 **Da biste izvršili pretragu sadržaja**
 

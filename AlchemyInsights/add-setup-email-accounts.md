@@ -11,23 +11,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: 2495ad459e1eb318ad2f3e9753a4bae07fa8909a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e6cda6d0a21ebca7647662809dd55d942304471
+ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671399"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914992"
 ---
-# <a name="setup-email-accounts"></a>Podešavanje naloga e-pošte
+# <a name="set-up-email-accounts"></a>Podešavanje naloga e-pošte
 
-1. U programu Outlook izaberite**nalog**za**informacije o** >  **datoteci** > .
+1. U programu **Outlook izaberite stavku** > **informacije o** > **dodavanju naloga**.
 
-2. Unesite svoju e-adresu, a zatim kliknite na dugme " **Poveži se**".
+2. Unesite e-adresu i kliknite na dugme " **Poveži**".
 
-3. Unesite lozinku i zatim kliknite na **dugme "u redu"**.
+3. Unesite lozinku i kliknite na **dugme "u redu"**.
 
 4. Ove korake možete ponoviti da biste dodali više naloga.
 
-    > [!NOTE]
-    > Neki nalozi e-pošte, kao što su gmail, Yahoo i iCloud, zahtevaju da podesite potvrdu identiteta sa dva faktora da biste mogli da koristite Outlook za slanje i primanje e-pošte. Više informacija potražite [u članku Dodavanje naloga e-pošte u Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+**Napomena**: neki nalozi e-pošte, kao što su gmail, Yahoo i iCloud, zahtevaju da podesite potvrdu identiteta sa dva faktora da biste mogli da koristite Outlook za slanje i primanje e-pošte. Više informacija potražite [u članku Dodavanje naloga e-pošte u Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

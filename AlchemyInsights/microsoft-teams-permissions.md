@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590436"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911952"
 ---
 # <a name="microsoft-teams-permissions"></a>Dozvole za Microsoft timove
 
-Microsoft timovi uključuju dve korisničke uloge: vlasnika i člana. Podrazumevano, korisnik koji kreira novi tim je odobren status vlasnika. Pored toga, vlasnici i članovi mogu imati mogućnosti posrednika za kanal (ako je moderacija podešena). Ako je tim kreiran od postojeće Office 365 grupe, dozvole se nasleđuju. Više informacija potražite u članku:
+Microsoft timovi uključuju dve korisničke uloge: vlasnika i člana. Korisniku koji kreira novi tim podrazumevano se dodeljuje status vlasnika. Pored toga, vlasnici i članovi mogu imati mogućnosti posrednika za kanal (ako je moderacija podešena). Ako je tim kreiran od postojeće Microsoft 365 grupe, dozvole se nasleđuju. Za više informacija pogledajte članak:
 
 - [Dodela vlasnika tima i članova u Microsoft timovima](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Dozvole i razmatranja aplikacija Microsoft timova](https://docs.microsoft.com/microsoftteams/app-permissions)

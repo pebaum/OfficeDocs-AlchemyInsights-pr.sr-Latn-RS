@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051691"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912200"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućavanje spoljne deljenja u sistemu SharePoint online
 
@@ -25,11 +25,11 @@ Za više informacija o spoljnom deljenju (gosti) molimo vas da posetite dole nav
 
 - [Šta se dešava kada delim lokaciju ili dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Uključivanje ili isključivanje spoljne deljenja za SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Uključivanje ili isključivanje spoljnog deljenja u usluzi SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [Uključivanje ili isključivanje spoljne deljenja za lokaciju](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Upravljaj pristupom gosta u Office 365 grupama](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Upravljajte pristupom gosta u Microsoft 365 grupama](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
 - [Korišćenje SharePoint online-a kao poslovnog rešenja za poslovno (B2B) ekstranet](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

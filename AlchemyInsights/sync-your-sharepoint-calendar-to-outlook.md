@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: f997fa106f00d3c5598e955aea9c8e4e79a54f6e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4120c30c27ea404419eaf4485d137b513314c467
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766975"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912872"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problemi sa sinhronizacijom vašeg kalendara na uređaje
 
-SharePoint kalendari su klasični tipovi liste koji su ponekad zbunjeni sa Office 365 grupnim kalendarima.
+SharePoint kalendari su klasični tipovi liste koji su ponekad zbunjeni sa Microsoft 365 grupnim kalendarima.
 
 Da biste sinhronizovali SharePoint kalendar sa programom Outlook, sledite ove korake:
 
@@ -33,4 +33,4 @@ Da biste sinhronizovali SharePoint kalendar sa programom Outlook, sledite ove ko
 >[!Note]
 > Kada izvršite promenu u sinhroniz, Outlook kalendaru, on će se pojaviti u SharePoint kalendaru i obrnuto.
 
-Za više informacija o Office 365 grupama pogledajte ovaj [članak](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Za više informacija o Microsoft 365 grupama pogledajte ovaj [članak](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

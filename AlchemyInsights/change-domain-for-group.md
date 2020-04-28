@@ -1,5 +1,5 @@
 ---
-title: Promena domena za Office 365 grupu
+title: Promeni domen za Microsoft 365 grupu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 3454afe1e39ba7a0aad19a1d6494e56a40ff2e65
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7d3e3a6f72221b3c9b1ef3dd9d293813bf4b278a
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706949"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911343"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Promena domena za Office 365 grupu
+# <a name="change-the-domain-for-microsoft-365-group"></a>Promena domena za Microsoft 365 grupu
 
-Ako želite da promenite domen za Office 365 grupu tokom kreiranja, sledite korake u [izboru domena koji ćete koristiti prilikom kreiranja Office 365 grupa](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+Ako želite da promenite domen za Microsoft 365 grupu tokom kreiranja, sledite korake u [izboru domena koji ćete koristiti prilikom kreiranja Microsoft 365 grupa](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Nakon što je Office 365 grupa već kreirana, trenutno nema načina da menjate domen. Jedini način je da kreirate novu Office 365 grupu i da izbrišete staru ako je potrebno (dodatne e-adrese mogu da se dodaju pomoću [Exchange administratorskog centra](https://outlook.office365.com/ecp.aspx)).
+Nakon što je Microsoft 365 grupa već kreirana, trenutno nema načina da menjate domen. Jedini način je da kreirate novu Microsoft 365 grupu i da izbrišete staru ako je potrebno (dodatne e-adrese mogu da se dodaju pomoću [Exchange administratorskog centra](https://outlook.office365.com/ecp.aspx)).

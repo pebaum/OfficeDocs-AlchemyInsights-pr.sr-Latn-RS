@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703657"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908430"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Omogućavanje i pretraživanje evidencije nadgledanja
 
@@ -31,7 +31,7 @@ Da biste pretražili Microsoft 365 evidenciju nadgledanja, sledite [ove korake](
 
 - Nadzor poštanskog sandučeta je podrazumevano omogućen u programu Microsoft 365. Za više informacija pogledajte [Ovaj članak](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365 grupe poštanskih sandučića i Poštanske sandučiće javnih fascikli u sistemu Exchange online ne podržavaju vođenje evidencije nadgledanja.
+- Microsoft 365 grupe poštanskih sandučića i Poštanske sandučiće javnih fascikli u sistemu Exchange online ne podržavaju vođenje evidencije nadgledanja.
 
 **SharePoint i OneDrive**
 

@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768948"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908358"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>Sakrij Office 365 grupu sa spiska adresa (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Sakrij Microsoft 365 grupu sa spiska adresa (GAL)
 
-Da biste sakrili Office 365 grupu sa lista adresa (GAL) Exchange klijenata (kao što su Outlook ili OWOVA), koristite sledeću komandu u EXO Shell:
+Da biste sakrili Microsoft 365 grupu sa lista adresa (GAL) Exchange klijenata (kao što su Outlook ili OWOVA), koristite sledeću komandu u EXO Shell:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Da biste sakrili Office 365 grupu koja je vidljiva za Exchange klijente, koristite sledeću komandu u EXO Shell:
+Da biste sakrili Microsoft 365 grupu koja je vidljiva za Exchange klijente, koristite sledeću komandu u EXO Shell:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

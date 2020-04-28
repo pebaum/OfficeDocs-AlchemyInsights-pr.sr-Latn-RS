@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710529"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912908"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Korisničke dozvole u sistemu SharePoint i OneDrive
 
@@ -27,7 +27,7 @@ Ako korisnik u vašoj organizaciji ne može da pristupi SharePoint ili OneDrive,
   
 1. Otvorite lokaciju u Web pregledaču.
     
-2. Ako lokacija pripada Office 365 grupi, kliknite na ikonu "Postavke" u gornjem desnom uglu, a zatim izaberite stavku " **dozvole za lokaciju**". Kliknite na dugme " **Pozovi osobe**", a zatim odaberite da dodate članove u Office 365 grupu ili da delite samo lokaciju. 
+2. Ako lokacija pripada grupi Microsoft 365, kliknite na ikonu "Postavke" u gornjem desnom uglu, a zatim izaberite stavku " **dozvole za lokaciju**". Kliknite na dugme " **Pozovi osobe**", a zatim odaberite stavku "Dodaj članove" u Microsoft 365 grupu ili delite samo lokaciju. 
     
     Za lokaciju za komunikaciju, u gornjem desnom uglu kliknite na dugme **Deljenje lokacije** , unesite ime osobe, a zatim izaberite nivo dozvola (čitanje, uređivanje ili puna kontrola). 
     

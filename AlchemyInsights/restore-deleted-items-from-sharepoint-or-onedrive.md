@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742529"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912561"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Vraćanje izbrisanih stavki iz sistema SharePoint ili OneDrive
 
@@ -34,6 +34,6 @@ Kada se datoteke, fascikle, biblioteke, liste i stavke sa liste izbrišu sa Shar
   
 [Vraćanje izbrisanih kolekcija lokacija](https://go.microsoft.com/fwlink/?linkid=867660) (Global ili SharePoint administratori u aplikaciji Microsoft 365) 
   
-Za lokacije koje pripadaju Office 365 grupi morate vratiti grupu da biste vratili lokaciju u prethodno stanje. Pogledajte [u prethodno stanje izbrisane Office 365 grupe](https://go.microsoft.com/fwlink/?linkid=867802) (Global admin) 
+Za lokacije koje pripadaju Microsoft 365 grupi morate vratiti grupu da biste vratili lokaciju u prethodno stanje. Pogledajte [u prethodno stanje izbrisane Microsoft 365 grupe](https://go.microsoft.com/fwlink/?linkid=867802) (Global admin) 
   
 

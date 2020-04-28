@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642158"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912980"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problemi prilikom kreiranja grupe povezane lokacije u sistemu SharePoint
 
@@ -30,5 +30,5 @@ Ako ste izbrisali grupu i povezanu lokaciju i želite da kreirate drugu lokaciju
 
 1. Postoje različiti načini za kreiranje i korišćenje modernih grupa sa SharePoint-om.
 
-   - Postojeće lokacije možete da povežete sa Office 365 grupom. Više informacija potražite u članku [Povezivanje Office 365 grupe pomoću SharePoint korisničkog interfejsa](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Potrebno je da kreirate [lokaciju tima](https://admin.microsoft.com/sharepoint)da biste kreirali Office 365 grupu povezanu lokaciju.
+   - Postojeće lokacije možete da povežete sa Microsoft 365 grupom. Više informacija potražite u članku [Povezivanje grupe Microsoft 365 pomoću SharePoint korisničkog interfejsa](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Da biste kreirali povezanu lokaciju Microsoft 365 grupe, potrebno je da kreirate [lokaciju tima](https://admin.microsoft.com/sharepoint).

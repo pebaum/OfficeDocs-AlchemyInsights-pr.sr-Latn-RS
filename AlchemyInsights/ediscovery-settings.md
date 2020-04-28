@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714416"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911162"
 ---
 # <a name="ediscovery-settings"></a>Ediscovery postavke
 
-eDiscovery/Pretraga sadržaja vam omogućavaju da pretražujete, držite i izvozite sadržaj iz Exchange poštanskih sandučića na mreži, SharePoint Online i OneDrive za poslovne lokacije, Skype za poslovne razgovore, Microsoft timove i Office 365 grupe.
+eDiscovery/Pretraga sadržaja vam omogućavaju da pretražujete, držite i izvozite sadržaj iz Exchange poštanskih sandučića na mreži, SharePoint Online i OneDrive za poslovne lokacije, Skype za poslovne razgovore, Microsoft timove i Microsoft 365 grupe.
 
 - Ako tražite opcije menija "eDiscovery" ili "Pretraga sadržaja", pogledajte [EDiscovery probleme](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Saznajte više o dozvolama koje su potrebne za izvođenje eDiscovery pretraga iz dozvola koje su [potrebne za eDiscovery pretrage](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

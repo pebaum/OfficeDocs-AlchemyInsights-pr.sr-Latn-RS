@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053131"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908718"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Premašen je dnevni limit e-pošte. Tok posla je obustavljen.
 
@@ -27,7 +27,7 @@ Ova greška može biti primljena u sledećim slučajevima:
 - Kada pokrenete tok posla, e-poruka se ne šalje i primetićete sledeće ponašanje:
     - Za tok posla koji koristi tip SharePoint 2013 platforme, potražite stranicu " **Status toka posla** ". Na stranici "Status toka posla", **unutrašnji status** je postavljen na " **pokrenuto**", a "informacioni balon" **ne može da pošalje primaocu**.
 
-Da biste zaobišli ovaj problem, konfigurišite tok posla za slanje e-poruka bez prekoračenja [ograničenja za Exchange online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Na primer, koristite pauzu u toku posla, pošaljite e-poruku u Office 365 grupu, grupu za distribuciju ili bezbednosnu grupu za koju je omogućena pošta ili pošaljite poruku na manje od 200 primalaca.
+Da biste zaobišli ovaj problem, konfigurišite tok posla za slanje e-poruka bez prekoračenja [ograničenja za Exchange online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Na primer, koristite pauzu u toku posla, pošaljite e-poruku u Microsoft 365 grupu, grupu za distribuciju ili bezbednosnu grupu za koju je omogućena pošta ili pošaljite poruku na manje od 200 primalaca.
 
 
 Više informacija potražite u sledećem [članku](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).

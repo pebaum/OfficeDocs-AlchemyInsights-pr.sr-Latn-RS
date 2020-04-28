@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788022"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912272"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Alatka za pretragu sadržaja da biste pronašli važne informacije
 
-Koristite alatku za pretragu sadržaja u bezbednosnom & centru za usaglašavanje da biste brzo pronašli e-poštu u Exchange poštanskim sandučićima, dokumentima na SharePoint lokacijama i na OneDrive lokacijama i razgovoru za neposrednu razmenu poruka u usluzi Skype za posao. Alatku za pretragu sadržaja možete da koristite da biste potražili e-poruke, dokumente i razgovore za razmenu hitnih poruka u Microsoft 365 alatkama za saradnju kao što su Microsoft timovi i Office 365 grupe.
+Koristite alatku za pretragu sadržaja u bezbednosnom & centru za usaglašavanje da biste brzo pronašli e-poštu u Exchange poštanskim sandučićima, dokumentima na SharePoint lokacijama i na OneDrive lokacijama i razgovoru za neposrednu razmenu poruka u usluzi Skype za posao. Alatku za pretragu sadržaja možete da koristite da biste potražili e-poruke, dokumente i razgovore za razmenu hitnih poruka u Microsoft 365 alatkama za saradnju kao što su Microsoft timovi i Microsoft 365 grupe.
 
 
 Pre korišćenja [pretrage sadržaja](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) sa [bezbednosnog & centra za usaglašavanje](https://sip.protection.office.com/homepage), želite da dovršite postavke konfiguracije koje uključuju [Podešavanje dozvola](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [Podešavanje brzine preuzimanja](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) i [postavke izvoza](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
