@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768948"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908358"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a><span data-ttu-id="08f84-102">Sakrij Office 365 grupu sa spiska adresa (GAL)</span><span class="sxs-lookup"><span data-stu-id="08f84-102">Hide Office 365 group from address list (GAL)</span></span>
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a><span data-ttu-id="8befe-102">Sakrij Microsoft 365 grupu sa spiska adresa (GAL)</span><span class="sxs-lookup"><span data-stu-id="8befe-102">Hide Microsoft 365 group from address list (GAL)</span></span>
 
-<span data-ttu-id="08f84-103">Da biste sakrili Office 365 grupu sa lista adresa (GAL) Exchange klijenata (kao što su Outlook ili OWOVA), koristite sledeću komandu u EXO Shell:</span><span class="sxs-lookup"><span data-stu-id="08f84-103">To hide an Office 365 group from address lists (GAL) of Exchange clients (such as Outlook or OWA), use the following command in EXO shell:</span></span>
+<span data-ttu-id="8befe-103">Da biste sakrili Microsoft 365 grupu sa lista adresa (GAL) Exchange klijenata (kao što su Outlook ili OWOVA), koristite sledeću komandu u EXO Shell:</span><span class="sxs-lookup"><span data-stu-id="8befe-103">To hide an Microsoft 365 group from address lists (GAL) of Exchange clients (such as Outlook or OWA), use the following command in EXO shell:</span></span>
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-<span data-ttu-id="08f84-104">Da biste sakrili Office 365 grupu koja je vidljiva za Exchange klijente, koristite sledeću komandu u EXO Shell:</span><span class="sxs-lookup"><span data-stu-id="08f84-104">To hide the Office 365 group from being visible to Exchange clients, use the following command in EXO shell:</span></span>
+<span data-ttu-id="8befe-104">Da biste sakrili Microsoft 365 grupu koja je vidljiva za Exchange klijente, koristite sledeću komandu u EXO Shell:</span><span class="sxs-lookup"><span data-stu-id="8befe-104">To hide the Microsoft 365 group from being visible to Exchange clients, use the following command in EXO shell:</span></span>
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`
