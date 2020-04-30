@@ -1,5 +1,5 @@
 ---
-title: Prikaz moj racun
+title: Pogledajte moj račun
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665702"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947734"
 ---
-# <a name="view-my-bill"></a>Prikaz moj racun
+# <a name="view-my-bill"></a>Pogledajte moj račun
 
-1. U centru za admin Microsoft 365, idite u **obračunu** \> [plaćanja računa &](https://go.microsoft.com/fwlink/p/?linkid=848039) stranicu.
+1. U Microsoft 365 admin Center idite na stranicu računi za **naplatu** \> [&](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Sa padajuće liste izaberite opseg datuma, a zatim odaberite nalog koji želite da pregledate.
+2. Izaberite opseg datuma iz padajuće liste, a zatim odaberite redosled koji želite da prikažete.
 
-Za više informacija pogledajte [Prikaz tvoj račun ili faktura](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. Da biste odštampali račun, preuzmite račun kao PDF fajl i kliknite na dugme " **Odštampaj**".
+
+Više informacija potražite u članku [Prikaz računa ili fakture](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

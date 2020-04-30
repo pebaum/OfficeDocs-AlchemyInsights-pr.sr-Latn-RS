@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: a76f50555972957982f51d1369cc2030faede9a3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706251"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911234"
 ---
 # <a name="comments-in-microsoft-planner"></a>Komentari u aplikaciji Microsoft Planner
 
-Komentari za zadatke u okviru plana skladište se u Exchange Online poštanskom sandučetu za Office 365 grupu povezanu sa planom.  Kada objavite komentar na zadatak, obaveštenje putem e-pošte se šalje u prijemno sanduče grupe i primićete e-poruku za svaki sledeći komentar ostavljen na tom zadatku.
+Komentari za zadatke u okviru plana skladište se u Exchange Online poštanskom sandučetu za Microsoft 365 grupu povezanu sa planom.  Kada objavite komentar na zadatak, obaveštenje putem e-pošte se šalje u prijemno sanduče grupe i primićete e-poruku za svaki sledeći komentar ostavljen na tom zadatku.
 
 Evo nekih odgovora na uobičajene probleme u vezi sa komentarima:
 
 - **Korisnici ne primaju e-poruke** – Komentari se šalju u prijemno sanduče grupe za grupu kojoj plan pripada. Da bi korisnik primao e-poruke grupe, grupa treba da bude konfigurisana za slanje grupnih razgovora u prijemne sandučiće članova.
 
-- **Komentari se ne čuvaju** – Korisnik koji dodaje komentar nema dozvolu za slanje e-pošte Office 365 grupi. Pročitajte članak [Kako funkcioniše Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) za više informacija o ovom scenariju.
+- **Komentari se ne čuvaju** – Korisnik koji dodaje komentar nema dozvolu za slanje e-pošte Microsoft 365 grupi. Pročitajte članak [Kako funkcioniše Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) za više informacija o ovom scenariju.
 
 - Prikazuje se greška **Više nemate pristup** ili **Korisnici sa statusom gosta ne mogu da dodaju komentare** – Korisnici sa statusom gosta koji ne mogu da šalju e-poštu u prijemno sanduče grupe možda će videti ovu poruku. Da biste rešili ovo, uverite se da korisnik sa statusom gosta ima važeću adresu e-pošte.
 
