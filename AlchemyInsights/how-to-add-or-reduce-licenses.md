@@ -1,5 +1,5 @@
 ---
-title: Kako dodati ili smanjiti licence
+title: Dodavanje ili uklanjanje licenci za pretplatu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: bf92bc9d6bfc8d7a07bff02d18fda7a8800247d4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e97658ab8fff504c8adccfa7e68cce0b613aee53
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709601"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957848"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Kako dodati ili smanjiti licence
+# <a name="add-or-remove-licenses-for-your-subscription"></a>Dodavanje ili uklanjanje licenci za pretplatu
 
 Evo kako da dodate/uklonite licence.
   
 1. Krećite se do **naplate > [Pretplata](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. Odaberite pretplatu sa koje želite da dodate/uklonite licence.
+2. Odaberite pretplatu za koju želite da dodate/uklonite licence.
 
 3. Kliknite na dugme **Dodaj/ukloni licence**.
 
@@ -41,6 +41,6 @@ Za informacije o dodeljiranju licenci pogledajte odeljak [dodeljivanje licenci k
   
 - [Upravljaj licencama za pretplatu-kupite ili uklonite](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Otkaži Office 365 za posao](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [Otkažite Microsoft 365 za poslovne](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Kupite drugu Office 365 za poslovnu pretplatu](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
+- [Kupite drugi Microsoft 365 za poslovnu pretplatu](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
