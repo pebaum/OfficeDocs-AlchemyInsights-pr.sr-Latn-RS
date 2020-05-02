@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724570"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005272"
 ---
-# <a name="inbox-rules"></a>Pravila prijemnog poštanskog sandučeta
+# <a name="inbox-rules-in-outlook-desktop"></a>Pravila prijemnog poštanskog sandučeta u Outlook radnoj površini
 
-Za više informacija o korišćenju pravila prijemnog poštanskog sandučeta u sopstvenom poštanskom sandučetu, pogledajte:
+1. Idite na **datoteku > Upravljanje pravilima & obaveštenja** da biste otvorili dijalog " **pravila i obaveštenja** ".
+2. Na kartici " **pravila e-pošte** " kliknite na dugme " **novo pravilo**".
+3. Izaberite jedan od obrazaca iz **koraka 1**. Da biste započeli od praznog pravila, izaberite stavku **Primeni pravilo na porukama koje primam ili primenite pravilo na porukama koje šaljem**.
+4. U **koraku 2: uredite okvir "Opis pravila**", kliknite na bilo koju podvučenu opciju da biste ih postavili. Na primer, ako ste izabrali **poruke zastavice od nekoga za praćenje** u koraku 1, izaberite stavku " **osobe" ili "javna grupa** " da biste izabrali koje poruke pošiljalaca želite da obeležite zastavicom; zatim kliknite na dugme " **prati" u ovom trenutku** da biste izabrali zastavicu i datum praćenja.
+5. Kliknite na dugme **dalje**.
 
-- [Upravljanje e-porukama pomoću pravila u programu Outlook za računar](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Upravljanje porukama pomoću pravila prijemnog poštanskog sandučeta u programu Outlook na Webu](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Pravila prijemnog poštanskog sandučeta možete da upravljate i u Exchange online PowerShell. Više informacija potražite u članku [Preuzimanje-Inboxpravilo](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (prikaz), [novo-inboxpravilo](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (Kreiraj), [Ukloni-Inboxpravilo](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Delete), [Set-Inboxpravilo](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (izmeni postojeće), [Onemogući-Inboxpravilo](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Onemogući postojeće) i [Omogući-inboxpravilo](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (Omogući postojeće).
+Dodatne informacije o radu sa pravilima prijemnog poštanskog sandučeta potražite u članku [Upravljanje e-porukama pomoću pravila](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
