@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 2593baeb696ae4dcc74dd997ff5e9f630897fea9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761453"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010758"
 ---
 # <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Poruka o Office aplikacijama – Proizvodi koje smo pronašli na vašem nalogu ne mogu da se koriste za aktivaciju
 
@@ -28,9 +28,9 @@ ms.locfileid: "43761453"
 
 - Na računaru na koji ovo utiče [poništite stanje Office aktivacije](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
 
-Za scenarije sa deljenim računarima pogledajte članak [Rešavanje problema sa aktivacijom deljenih računara za Office 365 ProPlus](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+Za scenarije sa deljenim računarima pogledajte članak [Rešavanje problema sa aktivacijom deljenih računara za Microsoft 365 aplikacije](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 
-Za više informacija pogledajte: 
+Za više informacija pogledajte članak: 
 
 - [Rešavanje problema sa aktivacijom sistema Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 

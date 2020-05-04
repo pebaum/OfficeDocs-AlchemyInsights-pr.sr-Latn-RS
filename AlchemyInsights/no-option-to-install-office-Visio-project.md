@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218344"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010160"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Nema opcije za instaliranje sistema Office, programa Visio ili Project
 
-Da biste instalirali Office klijentske aplikacije, uverite se da imate Office 365 ili Microsoft 365 pretplatu koja [obuhvata Office aplikacije za klijente](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), npr. Office 365 Business Premium, Office 365 Business ili Office 365 ProPlus.
+Da biste instalirali Office klijentske aplikacije, uverite se da imate Office 365 ili Microsoft 365 pretplatu koja [obuhvata Office aplikacije za klijente](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), npr. Microsoft 365 Business Premium, Microsoft 365 Apps za manje firme ili Microsoft 365 Apps za preduzeće.
 
 **Napomena**: [Office Home and Business](https://products.office.com/home-and-business) je [Office za kuću](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) i nije deo poslovne pretplate. Project Online Essentials ne uključuje verziju programa Project za računare, pa nije potrebna instalacija. Visio Plan 1 korisnici mogu da pristupe usluzi Visio na vebu jer plan ne uključuje Visio aplikaciju za stone računare. Project i Visio aplikacije za stone računare nisu dostupne na Mac računaru
 
