@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005344"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44016882"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Proširite probnu verziju programa Microsoft 365 za posao
 
-Probnu verziju možete produžiti tokom 30 dana. Nakon toga suđenje ulazi u dodatnih 30 dana [Grejs perioda](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Sledite ove korake da biste produžili probnu verziju:
+Slobodno suđenje možete produžiti za jedan dodatni 30-dnevni period. Nakon toga suđenje ulazi u [period mirovanja](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)od 30 dana. Sledite ove korake da biste produžili probnu verziju:
   
 1. U okviru administratorskog centra idite na proizvode za **naplatu** \> [& usluge](https://portal.office.com/adminportal/home#/subscriptions).
 
