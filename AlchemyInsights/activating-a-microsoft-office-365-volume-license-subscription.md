@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708773"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062046"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktiviranje pretplate na Microsoft količinsko licencu
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708773"
 
 5. Prijavite se u Microsoft 365 admin Center ([https://admin.microsoft.com](https://admin.microsoft.com)) koristeći postojeće akreditive administratora. Kada se uspešno prijavite, dobićete drugu e-poruku koja potvrđuje vašu kupovinu.
 
-6. Nakon što ste se prijavili, možete otići na stranicu "proizvodi za **naplatu** \> [& Services](https://go.microsoft.com/fwlink/p/?linkid=842054) " da biste proverili da li su kupljene pretplate aktivirane u okviru vašeg tenanta. (Takođe, možete odabrati karticu " **Pretplata** " u vlsc-u da biste videli detalje koji provere da li je vaša pretplata deponovana.)
+6. Nakon što ste se prijavili, možete otići na stranicu " **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) " da biste proverili da li su kupljene pretplate aktivirane u okviru vašeg tenanta. (Takođe, možete odabrati karticu " **Pretplata** " u vlsc-u da biste videli detalje koji provere da li je vaša pretplata deponovana.)

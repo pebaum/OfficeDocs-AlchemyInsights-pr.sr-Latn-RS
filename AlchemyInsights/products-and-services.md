@@ -1,5 +1,5 @@
 ---
-title: Proizvodi & usluge
+title: Vaše proizvode
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758804"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062875"
 ---
-# <a name="products--services"></a>Proizvodi & usluge
+# <a name="your-products"></a>Vaše proizvode
 
-Pretplate u vlasništvu vaše organizacije možete da pronađete na stranici " **Billing** > [**proizvodi & usluge**](https://go.microsoft.com/fwlink/p/?linkid=842054) naplate". Evo nekih od ovih stranica pored veza za više informacija o svakoj funkciji:
+Na stranici " **naplata** > **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** " možete da pronađete pretplate koje je u vlasništvu vaše organizacije. Evo nekih od ovih stranica pored veza za više informacija o svakoj funkciji:
 
 1. Upravljajte brojem licenci koje su kupljene za svaku pretplatu zajedno sa brojem koji su u upotrebi.  **Napomena**: licence koje se ne koriste (koje nisu dodeljene korisniku) i dalje se naplaćuju.  Da se ne naplaćuje za nekorišćene licence, smanjite broj nabavljenih licenci. Za informacije o tome kako da dodate ili uklonite licence iz pretplate pogledajte odeljak [Kako da dodate ili umanjite licence](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
