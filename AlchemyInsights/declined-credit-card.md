@@ -13,16 +13,16 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705099"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062298"
 ---
 # <a name="declined-credit-card"></a>Odbijena kreditna kartica
 
-Ako platite kreditnom karticom, a vaša kreditna kartica je odbijena, dobićete e-poruku koja vas obaveštava da ne možemo da obrađujemo plaćanje. Dvaput proverite da li su [Detalji kreditne](https://go.microsoft.com/fwlink/p/?linkid=842054) kartice-broj kartice, rok važenja, ime na kreditnoj kartici i adresa, uključujući grad, DRŽAVU i ZIP kôd, prikazani tačno kao na kreditnoj kartici i u izvodu sa kreditnim karticama. Informacije o kreditnoj kartici možete ažurirati i odmah proslediti uplatu pomoću opcije " **izmirsaldo** " na stranici " [proizvodi & Services](https://go.microsoft.com/fwlink/p/?linkid=842054) ". 
+Ako platite kreditnom karticom, a vaša kreditna kartica je odbijena, dobićete e-poruku koja vas obaveštava da ne možemo da obrađujemo plaćanje. Dvaput proverite da li su [Detalji kreditne](https://go.microsoft.com/fwlink/p/?linkid=842054) kartice-broj kartice, rok važenja, ime na kreditnoj kartici i adresa, uključujući grad, DRŽAVU i ZIP kôd, prikazani tačno kao na kreditnoj kartici i u izvodu sa kreditnim karticama. Informacije o kreditnoj kartici možete ažurirati i odmah proslediti uplatu pomoću opcije " **rešavanje salda** " na stranici " **[proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". 
 
 Da biste saznali više, pogledajte odeljak "Šta ako je moja kreditna kartica istekla i moja isplata je zakasna?" u [okviru plate za Microsoft 365 za poslovnu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
