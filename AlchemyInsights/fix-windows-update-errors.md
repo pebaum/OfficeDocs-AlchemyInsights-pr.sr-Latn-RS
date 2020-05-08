@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 76e53f24eae5f1cda53f01a16810a668f5ae33fa
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: c5f50b22b4d665c6af0d0bbcb901d79657f2b306
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564330"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063703"
 ---
 # <a name="fix-windows-update-errors"></a>Otklanjanje Windows Update grešaka
 
 Ako dobijete kôd greške prilikom preuzimanja i instalacije ispravke za Windows, **Alatka za rešavanje problema sa ažuriranjem** može da pomogne u rešavanju problema.
 
-- [Preuzimanje programa za rešavanje problema sa ažuriranjem za Windows 10](https://support.microsoft.com/en-us/help/4027322/windows-update-troubleshooter)
+- [Preuzimanje programa za rešavanje problema sa ažuriranjem za Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
 - Pokrenite alatku za rešavanje problema. Kada se to uradi, najbolje je da ponovo pokrenete uređaj. Zatim proverite da li postoje nove ispravke tako što ćete otići na " [Start > postavke" > ispravku & bezbednost > Windows Update](ms-settings:windowsupdate).
 
 Ako oni i dalje ne rade, provjerite [Windows Update: najčešća pitanja](https://support.microsoft.com/help/12373/windows-update-faq) za više informacija.

@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671471"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061974"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Dodavanje mesta na prepaid pretplatu
 
 Prepaid licence se izdaju kao alfanumerički kôd od 25 znakova. Kada kupite potrebne licence, možete da ih dodate u svoju pretplatu. 
 
-1. U okviru administratorskog centra idite na stranicu " **Billing** > [proizvodi & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) naplate".
+1. U okviru administratorskog centra idite na stranicu **naplata** > **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Pronađite pretplatu kojoj želite da dodate licence. U odeljku **licence** izaberite **Dodaj još licenci**.
 

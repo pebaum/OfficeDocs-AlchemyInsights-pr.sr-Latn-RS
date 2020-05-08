@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 7d1e37d00876c117f7c83f960c05a350ed8a982c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 30cdd925c0be9d38572fbc9acc5cd3fcf97ef11f
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711573"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061685"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Otkazujete svoju pretplatu na Microsoft 365?
 
@@ -24,7 +24,7 @@ ms.locfileid: "43711573"
   
 - Ako ste probni kupac, nema ničega za otkazivanje. Probne pretplate se automatski ističu ukoliko ne navedete način plaćanja.
 
-- Ako imate manje od 25 dodeljenih licenci, možete da otkažete pretplatu na mreži. Idite na proizvode za **naplatu** \> [& usluge](https://go.microsoft.com/fwlink/p/?linkid=842054). U odeljku " **postavke &"** izaberite komandu **"Otkaži pretplatu"**.
+- Ako imate manje od 25 dodeljenih licenci, možete da otkažete pretplatu na mreži. Idite na **naplatu** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**. U odeljku " **postavke &"** izaberite komandu **"Otkaži pretplatu"**.
 
 - Ako imate više od 25 dodeljenih licenci, možete ili da uklonite korisnike dok ne dobijete manje od 25 godina ili da koristite opciju "da vas zovemo" da biste pričali sa inženjerka za podršku.
 

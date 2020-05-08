@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 78f6dc6b2cc6e8d3db6a53f38bea9483ef817c2c
-ms.sourcegitcommit: 38c993eaa89c33cae59de19a381f7d4aafaef19b
+ms.openlocfilehash: 8219cefc33ac085ee71e50c512f9f94abc047fca
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37549728"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062262"
 ---
 # <a name="renewing-your-subscription"></a>Obnavljanje pretplate
 
@@ -26,6 +26,6 @@ Ako ste pretplatu prepaid šifrom proizvoda, pretplata će isteći na kraju term
 
 Da biste uključili periodičnu naplatu: 
 
-1. Idite na proizvode za **naplatu** > **& usluge**.
+1. Idite na **naplatu** > **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 2. Odaberite pretplatu za koju želite da upravljate periodičnom naplatom.
 3. U okviru " **naplata**" izaberite stavku " **Uredi** " i izvršite promene u prozoru " **Postavke periodičnih naplate** ". 
