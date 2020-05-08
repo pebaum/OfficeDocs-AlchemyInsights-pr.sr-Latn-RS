@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711429"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086688"
 ---
 # <a name="canceling-your-subscription"></a>Otkažete pretplatu?
 
@@ -25,9 +25,9 @@ ms.locfileid: "43711429"
   
 - Ako ste probni kupac, nema ničega za otkazivanje. Probne pretplate se automatski ističu ukoliko ne navedete način plaćanja.
 
-- Ako imate manje od 25 dodeljenih licenci, možete da otkažete pretplatu na mreži. Idite na stranicu " [proizvodi & usluge](https://go.microsoft.com/fwlink/p/?linkid=842054) **naplate** \> ". U odeljku " **postavke &"** izaberite komandu **"Otkaži pretplatu"**.
+- Ako imate manje od 25 dodeljenih licenci, možete da otkažete pretplatu na mreži. Idite na stranicu " **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". U odeljku " **postavke &"** izaberite komandu **"Otkaži pretplatu"**.
 
-- Ako imate više od 25 dodeljenih licenci, možete ili da uklonite korisnike dok ne dobijete manje od 25 godina ili da koristite opciju "da vas zovemo" da biste pričali sa inženjerka za podršku.
+- Ako imate više od 25 dodeljenih licenci, možete da uklonite korisnike dok ne dobijete manje od 25 godina.
   
 **Refundacija: bilo koji prorated kredit će vam biti vraćen u okviru sledećeg ciklusa naplate.** 
 

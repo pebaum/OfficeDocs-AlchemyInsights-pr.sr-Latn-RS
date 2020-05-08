@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708917"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062226"
 ---
 # <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Dobijanje greške prilikom pristupanja e-pošti na Tenaaccessovu grešku?
 
 Postoji nekoliko različitih razloga zbog kojih možete da dobijete ovu grešku. Na primer:
 
-- Proverite da li je vaša pretplata važeća na stranici " [usluge &](https://portal.office.com/adminportal/home#/subscriptions) za **naplatu** \> " u Microsoft 365 admin Center.
+- Proverite da li je vaša pretplata važeća na stranici " **naplatu** \> **[proizvoda](https://portal.office.com/adminportal/home#/subscriptions)** " u Microsoft 365 admin Center.
 
-- Proverite da li u Microsoft 365 admin Center ima bilo kakva obaveštenja o plaćanju na osnovu računa za **naplatu** \> [&](https://portal.office.com/adminportal/home#/billoverview) .
+- Proverite da li u Microsoft 365 admin Center ima bilo kakva obaveštenja o plaćanju na osnovu računa za **naplatu** \> **[&](https://portal.office.com/adminportal/home#/billoverview)** .
 
 - Ako su naplata i pretplate za vaš nalog nedavno ažurirane, možda će biti potrebno vreme da se promene umnože. Pokušajte ponovo za nekoliko minuta, a ako problem potraje, kontaktirajte nas.

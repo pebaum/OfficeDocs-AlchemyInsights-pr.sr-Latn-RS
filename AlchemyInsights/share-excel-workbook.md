@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 6a020a9e944b2df85719db3f9fde84897764e36b
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: 2f042b8b28313eb6afc7735f3159f4dc6c7b19f9
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045542"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163795"
 ---
-# <a name="collaborate-on-excel-documents"></a>Sarađuju na Excel dokumentima
+# <a name="collaborate-on-excel-documents"></a>Saradnja u Excel dokumentima
 
-Za saradnju sa kolegama na Excel dokumentima, koristite funkciju za saradnju za kreiranje. Saznajte više o omogućavanju i na [Collaborate na Excel radne sveske u isto vreme sa kolegom authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)koristite ovu funkciju.
+Koristite **funkciju za kreiranje**da biste sarađivali sa kolegama u Excel dokumentima. 
+
+Saznajte više o omogućavanju i korišćenju ove funkcije, pored toga što vidite odgovore na najčešća pitanja o slučajevima deljenja i za kreiranje [radnih sveski, na saradnju u Excel radnim sveskama u isto vreme sa kokreiranje](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).
