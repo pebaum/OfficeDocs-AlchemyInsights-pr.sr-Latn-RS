@@ -14,25 +14,25 @@ ms.custom:
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
 ms.openlocfilehash: 83fd98202d57c2ffceac4fcac8a928626d0ca203
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062911"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a><span data-ttu-id="08325-102">Prepaid Microsoft 365 obnova</span><span class="sxs-lookup"><span data-stu-id="08325-102">Prepaid Microsoft 365 renewal</span></span>
+# <a name="prepaid-microsoft-365-renewal"></a><span data-ttu-id="2be98-102">Prepaid Microsoft 365 obnova</span><span class="sxs-lookup"><span data-stu-id="2be98-102">Prepaid Microsoft 365 renewal</span></span>
 
-1. <span data-ttu-id="08325-103">U okviru administratorskog centra idite na stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="08325-103">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="2be98-103">U okviru administratorskog centra idite na stranicu **naplata** \> **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="2be98-103">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
 
-2. <span data-ttu-id="08325-104">Pronađite pretplatu koju želite da proširite.</span><span class="sxs-lookup"><span data-stu-id="08325-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="08325-105">U odeljku **naplata** izaberite stavku **Proširi datum završetka**.</span><span class="sxs-lookup"><span data-stu-id="08325-105">In the **Billing** section, select **Extend end date**.</span></span>
+2. <span data-ttu-id="2be98-104">Pronađite pretplatu koju želite da proširite.</span><span class="sxs-lookup"><span data-stu-id="2be98-104">Find the subscription you want to extend.</span></span> <span data-ttu-id="2be98-105">U odeljku **naplata** izaberite stavku **Proširi datum završetka**.</span><span class="sxs-lookup"><span data-stu-id="2be98-105">In the **Billing** section, select **Extend end date**.</span></span>
 
-3. <span data-ttu-id="08325-106">U oknu za **Proširivanje pretplate** izaberite opciju **koristi novu i neiskorišćenu šifru proizvoda**, a zatim kliknite na dugme **dalje**.</span><span class="sxs-lookup"><span data-stu-id="08325-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="2be98-106">U oknu za **Proširivanje pretplate** izaberite opciju **koristi novu i neiskorišćenu šifru proizvoda**, a zatim kliknite na dugme **dalje**.</span><span class="sxs-lookup"><span data-stu-id="2be98-106">In the **Extend subscription** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="08325-107">Unesite šifru proizvoda, a zatim kliknite na dugme **dalje**.</span><span class="sxs-lookup"><span data-stu-id="08325-107">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="2be98-107">Unesite šifru proizvoda, a zatim kliknite na dugme **dalje**.</span><span class="sxs-lookup"><span data-stu-id="2be98-107">Enter the product key, then select **Next**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="08325-108">Ako imate više od jedne šifre proizvoda, možete izabrati stavku **Dodaj drugu šifru proizvoda** da biste ih uneli.</span><span class="sxs-lookup"><span data-stu-id="08325-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+> <span data-ttu-id="2be98-108">Ako imate više od jedne šifre proizvoda, možete izabrati stavku **Dodaj drugu šifru proizvoda** da biste ih uneli.</span><span class="sxs-lookup"><span data-stu-id="2be98-108">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="08325-109">Pregledajte detalje porudžbine, a zatim izaberite " **Preuzmi**".</span><span class="sxs-lookup"><span data-stu-id="08325-109">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="2be98-109">Pregledajte detalje porudžbine, a zatim izaberite " **Preuzmi**".</span><span class="sxs-lookup"><span data-stu-id="2be98-109">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="08325-110">Da biste saznali više, pogledajte odeljak [Dodavanje licenci ili proširivanje pretplate koja je plaćena za korišćenje šifre proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="08325-110">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="2be98-110">Da biste saznali više, pogledajte odeljak [Dodavanje licenci ili proširivanje pretplate koja je plaćena za korišćenje šifre proizvoda](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="2be98-110">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
