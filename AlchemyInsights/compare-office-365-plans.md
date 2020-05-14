@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058441"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Upoređivanje, nadogradnja ili pretplata pri nabavci
@@ -28,4 +28,4 @@ Ako je vaša organizacija zainteresovana za poređenje svih planova i cena, redi
   
 Ako je vaša organizacija već kupila pretplate i zainteresovana je za promenu u drugom planu, to možete uraditi iz Microsoft 365 admin Center. Idite na stranicu " **naplata** \> [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) ", izaberite pretplatu koju želite da promenite, a zatim odaberite karticu " **Nadogradnja** " da biste videli listu novih planova koji su dostupni.
   
-Vaša organizacija takođe može da meša i upari pretplate da bi zadovoljila potrebe i zahteve za funkcijama korisnika. U okviru administratorskog centra idite na stranicu " **Billing** \> [usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu".
+Vaša organizacija takođe može da meša i upari pretplate da bi zadovoljila potrebe i zahteve za funkcijama korisnika. U okviru administratorskog centra idite na **Billing** \> stranicu " [usluge nabavke](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu".

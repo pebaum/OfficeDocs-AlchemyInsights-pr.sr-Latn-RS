@@ -12,15 +12,15 @@ ms.custom:
 - "9001669"
 - "3736"
 ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062875"
 ---
 # <a name="your-products"></a>Vaše proizvode
 
-Na stranici " **naplata** > **[proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054)** " možete da pronađete pretplate koje je u vlasništvu vaše organizacije. Evo nekih od ovih stranica pored veza za više informacija o svakoj funkciji:
+Na stranici " **naplata**proizvoda" možete da pronađete pretplate koje je u vlasništvu vaše organizacije  >  **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Evo nekih od ovih stranica pored veza za više informacija o svakoj funkciji:
 
 1. Upravljajte brojem licenci koje su kupljene za svaku pretplatu zajedno sa brojem koji su u upotrebi.  **Napomena**: licence koje se ne koriste (koje nisu dodeljene korisniku) i dalje se naplaćuju.  Da se ne naplaćuje za nekorišćene licence, smanjite broj nabavljenih licenci. Za informacije o tome kako da dodate ili uklonite licence iz pretplate pogledajte odeljak [Kako da dodate ili umanjite licence](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
@@ -34,4 +34,4 @@ Na stranici " **naplata** > **[proizvoda](https://go.microsoft.com/fwlink/p/?lin
 
 6. [Otkažite pretplatu](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Dodatne pretplate možete da kupite na stranici "[**usluge nabavke**](https://go.microsoft.com/fwlink/p/?linkid=868433) za **naplatu** > ".
+Dodatne pretplate možete da kupite na **Billing**  >  stranici "[**usluge nabavke**](https://go.microsoft.com/fwlink/p/?linkid=868433) za naplatu".

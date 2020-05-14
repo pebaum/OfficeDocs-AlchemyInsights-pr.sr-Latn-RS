@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062118"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktiviranje ili ponovno aktiviranje pretplate
@@ -33,7 +33,7 @@ ms.locfileid: "44062118"
 
 Ako vaša pretplata istekne, Microsoft je onemogućio ili ste je otkazali u sred termina pretplate, možete je ponovo aktivirati u okviru administratorskog centra.
   
-1. U Microsoft 365 admin Center idite na stranicu **naplata** > [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. U Microsoft 365 admin Center idite na stranicu **naplata**  >  [proizvoda](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Odaberite pretplatu koju želite ponovo da aktivirate, a zatim izaberite **Ponovo aktiviraj**. Ako ne vidite opciju **Ponovo aktiviraj** kao dostupnu radnju, [pozovite podršku](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) da biste ponovo aktivirali pretplatu.
 
