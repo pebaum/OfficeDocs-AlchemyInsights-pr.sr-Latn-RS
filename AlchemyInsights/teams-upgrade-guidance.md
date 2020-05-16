@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908807"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254763"
 ---
 # <a name="microsoft-teams-upgrade"></a>Nadogradnja Microsoft timova
 
-**Važno**: možemo vam pomoći da popravimo ovo pomoću dijagnostike podrške, ali izgleda da ne koristite novi admin Center. Da biste koristili novi admin Center, prevucite preklopnik u gornjem desnom pravu koja ukazuje na **novi admin Center** udesno. Pomoću novog administratorskog centra, kliknite na **potrebna pomoć?** vidžet, otkucajte "Nadogradnja timova", a zatim sledite odzive da biste pokrenuli dijagnostiku.
+**Važno**: Ako ste obavili nadogradnju sa Skype-a na mrežu na mreži za Microsoft timove u režimu samo za timove, ali još uvek niste spremni, možemo vam pomoći da ovo popravimo pomoću dijagnostike podrške. Uverite se da koristite novi admin Center tako što ćete klizeći na gornji desni klizač koji ukazuje na **novi admin Center**udesno. Pomoću novog administratorskog centra, kliknite na **potrebna pomoć?** vidžet, otkucajte "**Nadogradnja timova**", a zatim sledite odzive da biste pokrenuli dijagnostiku.
 
 Bilo da ste tek počeli sa timovima, koji već koriste timove sa Skype-om za posao, ili spremni za nadogradnju, želimo da osiguramo da imate sve što je potrebno da dođete do uspešnog putovanja u timove. Za više informacija posetite dolenavedena linka.
 
