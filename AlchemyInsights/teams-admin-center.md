@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: ff432ebd048451d13aab1461d61fe2075d423cf5
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
-ms.translationtype: HT
+ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021653"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354102"
 ---
 # <a name="teams-admin-center"></a>Teams centar administracije
 
@@ -30,4 +30,6 @@ Ako ne možete da pristupite Teams centru administracije, proverite sledeće sta
 Ako se korisnici ne pojavljuju u Teams centru administracije, proverite sledeće:
 
 - Da li ste kreirali korisnike ili dodeljivali licence u protekla 24 časa? Uverite se da ste sačekali najmanje 24 časa pre otvaranja tiketa za podršku.
-- Proverite da li ste dodelili odgovarajuće licence? 
+- Proverite da li ste dodelili odgovarajuće licence?
+- Ako imate aktivni direktorijum na osnovu lokalnog direktorijuma, proverite da li je [vrednost msRTCSIP-PrimaryUserAddress ili adrese SIP-a u polju ProxyAddresses u lokalnom aktivnom direktorijumu jedinstvena i da format odgovara](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP-u:**korisničko ime** korisnika iz [Microsoft 365 admin Center](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Ako nameravate da koristite Skype za raspoređivanje poslovnih servera i ako su korisnici bili u fazi i na mreži: pratite **"Podešavanje hibrida sa timovima i Skype za Business online"** na kontrolnoj tabli Skype za poslovni server i premeštanje korisnika na mreži.

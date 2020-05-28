@@ -11,19 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300011"
 - "2670"
-ms.openlocfilehash: 1acd2be290464fdefebfbd8b66f005f08247f6db
-ms.sourcegitcommit: 183dc4c002c151474628b6d7c4571a5264dc5257
-ms.translationtype: HT
+ms.openlocfilehash: ee47bdd712f719c7167bb554bb4a9f535f2a8586
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953985"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343066"
 ---
 # <a name="list-view-threshold"></a>Granična vrednost prikaza liste
 
-SharePoint liste i biblioteke mogu da sadrže do 30 miliona stavki, ali kada imaju više od 5000 stavki, možete videti grešku o graničnoj vrednosti prikaza liste kada pokušate da radite sa njima. Ova granična vrednost služi za održavanje performansi usluge. Nije je moguće promeniti. Možda ćete dobiti ovu grešku i prilikom pokušaja deljenja ili raskida nasleđivanja fascikle.
+Na snazi je prag prikaza liste da bi se održala performanse usluge. Nije moguće promeniti prag na lokaciji SharePoint online. Da biste izbegli da udarate ovaj prag, pogledajte odeljak [Upravljanje velikim listama i bibliotekama u sistemu SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59).
 
-Da biste izbegli da dostignete ovu graničnu vrednost, posetite:
-
-- [Upravljanje velikim listama i bibliotekama u sistemu SharePoint](https://support.office.com/article/manage-large-lists-and-libraries-in-sharepoint-b8588dae-9387-48c2-9248-c24122f07c59)
-
-- [Greška prilikom deljenja/raskida nasleđivanja](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance)
+Možda ćete dobiti ovu grešku i prilikom pokušaja deljenja ili raskida nasleđivanja fascikle. Pogledajte odeljak greška u vezi sa [nasleđem/prelomom](https://docs.microsoft.com/SharePoint/troubleshoot/lists-and-libraries/error-share-break-inheritance).
