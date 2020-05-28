@@ -11,23 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: 32e49b8afc6ba63463faac3f258c96266db04941
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 99a48d68c7ef6bcd21ef2a063f28532617bc2d5f
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712544"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407292"
 ---
-# <a name="associate-a-hub-site"></a>Povezivanje lokacije čvorišta
+# <a name="associate-existing-site-with-a-hub-site"></a>Poveži postojeću lokaciju sa lokacijom čvorišta
 
-Da biste na lokaciju čvorišta povezali postojeću lokaciju, postupite na sledeći način:
+Postupite na sledeći način da biste postojeću lokaciju povezali sa lokacijom čvorišta:
   
 1. Na vašoj lokaciji izaberite **Postavke** (ikonu "oprema" u gornjem desnom uglu), a zatim izaberite **informacije o lokaciji**.
 
-2. U prozoru " **uređivanje informacija o lokaciji** ", u meniju " **Povezivanje lokacije čvorišta** " izaberite lokaciju čvorišta koju želite da povežete sa vašom lokacijom, a zatim kliknite na dugme **Sačuvaj**. Izgled vaše lokacije će se promeniti tako da se podudara sa lokacijom čvorišta, a traka za navigaciju lokacije čvorišta će se pojaviti na vrhu.
+2. U prozoru " **uređivanje informacija o lokaciji** ", u meniju " **Povezivanje lokacije čvorišta** " izaberite lokaciju čvorišta koju želite da pridružite lokaciji, a zatim kliknite na dugme **Sačuvaj**. Izgled vaše lokacije će se promeniti tako da se podudara sa lokacijom čvorišta, a traka za navigaciju lokacije čvorišta će se pojaviti na vrhu.
 
- > [!Note]
+>**Beleške**
+>
 >Ako opcija "povezivanje lokacije čvorišta" nije prisutna ili nema navedenih lokacija, lokacije čvorišta možda nisu omogućene ili možda nemate dozvolu da povežete lokacije sa lokacijom čvorišta. Za više informacija obratite se administratoru.
 >
->Ne postoji ograničenje broja lokacija koje mogu da se povezuju sa lokacijom čvorišta.
+>Ne postoji ograničenje za broj lokacija koje mogu da se povezuju sa lokacijom čvorišta.
   
