@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062298"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417618"
 ---
 # <a name="declined-credit-card"></a>Odbijena kreditna kartica
 
@@ -28,4 +28,4 @@ Da biste saznali više, pogledajte odeljak "Šta ako je moja kreditna kartica is
   
 Ako i dalje budete videli poruku "odbijena", obratite se banci. Moguće je da vaša kreditna kartica nije aktivna – na primer, ako ste nedavno primili kreditnu karticu u poruci sa ažuriranim datumom prestanka važenja, možda ćete ipak morati da ga aktivirate. Vaša banka takođe može da vam kaže da vaša kreditna kartica nije odobrena za mrežne, međunarodne ili periodične transakcije.
   
-Dodatne informacije potražite u članku [Rešavanje problema sa kreditnim karticama i računima u banci](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Dodatne informacije potražite u članku [Upravljanje metodama plaćanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

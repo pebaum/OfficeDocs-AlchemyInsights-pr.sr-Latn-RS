@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714928"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417402"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Premeštanje telefonskog broja iz drugog dobavljača u Microsoft
+# <a name="port-existing-numbers-to-teams"></a>Prenos postojećih brojeva u Teams
 
-Da li treba da premestite telefonski broj sa drugog dobavljača na Microsoft? Telefonski brojevi za različite zemlje i regione mogu se naći u [upravljanju telefonskim brojevima za vašu organizaciju](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Odaberite zemlju ili region da biste pronašli informacije o prenosu brojeva. 
-  
+Ako trenutno imate dobavljača telefonskih usluga ili operatera i već imate brojeve telefona za korisnike ili usluge, treba da kreirate „porudžbinu prenosa“ da biste te brojeve telefona preneli u Microsoft Teams.
+
+- Pogledajte [Prenos brojeva telefona u Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams) da biste saznali kako da dovršite prenos. 
+
+- Pogledajte [Upravljanje brojevima telefona za organizaciju](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization) za uputstva vezana za upravljanje brojevima telefona. 
+
+Više informacija potražite u članku [Pregled porudžbina prenosa](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
