@@ -11,26 +11,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 695d449a876c22ff441da2367ef67aaea470eb66
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
+ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763015"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44474439"
 ---
-# <a name="issues-signing-in-to-office-apps"></a>Problemi sa prijavljivanjem u Office aplikacije
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problemi sa prijavljivanjem u Microsoft 365 aplikacije
 
-Da biste ispravili probleme sa prijavljivanjem pomoću Office aplikacija, Isprobajte sledeće:
+Da biste ispravili probleme sa prijavljivanjem pomoću Microsoft 365 aplikacija, Isprobajte sledeće opcije na računaru na koji se odnosi:  
 
-- Uklonite sve poslovne naloge, izuzev sa pogođenim nalogom, koristeći Windows postavke > **pristup poslu ili školi**.
-- [Obrišite Office akreditive](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) koristeći Windows upravljač akreditivima.<br/>
-    **Napomena:** Putanje registratora za Office 2016 su promenjene u 16,0. (Ex: \Software\microsoft\office\16.0\zajed\identitet\)
-- Otvorite Office aplikaciju, odaberite stavku "**nalog** > za **datoteku** > **".** Zatim se prijavite koristeći korisnički nalog sa važećom licencom. Detaljne informacije potražite u članku [Nalozi u sistemu Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Za Mac računar pročitajte članak [Nije moguće prijaviti se u Office 2016 za Mac aplikaciju](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
-- Ako dođe do grešaka prilikom povezivanja sa Microsoft 365 pomoću programa Office 2013, omogućite modernu potvrdu identiteta za Office Client.
+- Za Windows pogledajte [preporuke o rešavanju uobičajenih problema za prijavljivanje](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Za Mac, pogledajte [da ne možete da se prijavite u Office 2016 za Mac aplikaciju](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-Za više informacija pogledajte:
-- [Ne možete da se prijavite u Microsoft 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
-- [Problemi sa vezom u prijavljivanju nakon ažuriranja na Office 2016 Build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)
-- ["Nažalost, drugi nalog iz vaše organizacije je već prijavljen na ovaj računar" u sistemu Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in)
-- [Rešavanje problema pri prijavljivanju sa Office modernom potvrdom identiteta kada koristite ADFS](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-issue-with-modern-auth)
+**Napomena:** Onemogućavanje moderne potvrde identiteta (ADAL) ili upravljanje Web nalozima (WAM) za otklanjanje problema sa prijavljivanjem ili aktiviranjem **nije preporučljivo**. Ako se greške javljaju tokom povezivanja sa Microsoft 365 pomoću programa Office 2013, uverite se da ste [omogućili modernu potvrdu identiteta](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) za Office Client.
+
+Za određene radnje sa rešavanjem problema pogledajte:
+
+[Problemi sa vezom u prijavljivanju nakon ažuriranja na Office 2016 Build 16.0.7967 na Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+
+[Ne možete da se prijavite u organizacioni nalog kao što je Office 365, Azure ili Intune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+
+[Rešavanje problema sa aplikacijama koje ne pripadaju pregledaču koje ne mogu da se prijave na Office 365, Azure ili Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+
+[Više puta je zatražena akreditivi u sistemu Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
