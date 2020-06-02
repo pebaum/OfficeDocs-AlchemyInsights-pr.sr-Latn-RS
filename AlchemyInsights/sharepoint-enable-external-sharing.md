@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: bdd9d9fc1c0cd51d78a02a50a7c4aba4672c3482
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912200"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44495641"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogućavanje spoljne deljenja u sistemu SharePoint online
 
@@ -29,7 +29,7 @@ Za više informacija o spoljnom deljenju (gosti) molimo vas da posetite dole nav
 
 - [Uključivanje ili isključivanje spoljne deljenja za lokaciju](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Upravljajte pristupom gosta u Microsoft 365 grupama](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Upravljajte pristupom gosta u Microsoft 365 grupama](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-guest-access-in-groups)
 
 - [Korišćenje SharePoint online-a kao poslovnog rešenja za poslovno (B2B) ekstranet](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

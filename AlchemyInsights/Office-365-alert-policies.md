@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05c58bded5ba45aef8ae3bc1d33491e6e0365c18
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687632"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502441"
 ---
 # <a name="alert-policies"></a>Smernice za upozorenje
 
-Microsoft 365 Security & centar za usaglašavanje nudi [podrazumevane smernice za obaveštenja](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) koje aktiviraju obaveštenja za organizacije sa Office 365 Enterprise ili Office 365 vladom E1/G1, E3/G3 ili E5/G5 pretplatom. Zbog toga administratori mogu da prime obaveštenje e-poštom na obaveštenje koje je poslao Office365Alerts@microsoft.com sa temom predmeta kao što je "upozorenje o niskoj ozbiljnosti: *ime smernica za obaveštenja*". Obaveštenja o obaveštenju se šalju kada se budu aktivirane obaveštenja za uobičajene aktivnosti, kao što su korisnici:
+Microsoft 365 Security & centar za usaglašavanje nudi [podrazumevane smernice za obaveštenja](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) koje aktiviraju obaveštenja za organizacije sa Office 365 Enterprise ili Office 365 vladom E1/G1, E3/G3 ili E5/G5 pretplatom. Zbog toga administratori mogu da prime obaveštenje e-poštom na obaveštenje koje je poslao Office365Alerts@microsoft.com sa temom predmeta kao što je "upozorenje o niskoj ozbiljnosti: *ime smernica za obaveštenja*". Obaveštenja o obaveštenju se šalju kada se budu aktivirane obaveštenja za uobičajene aktivnosti, kao što su korisnici:
 
 - Kreirajte pravila prijemnog poštanskog sandučeta koja prosleđuju e-poštu.
 - Dodelite dozvole njihovom poštanskom sandučetu.
@@ -31,12 +31,12 @@ Microsoft 365 Security & centar za usaglašavanje nudi [podrazumevane smernice z
 Da biste pregledali i postupali po obaveštenju:
 
 1. Posetite lokaciju [Security & centar za usaglašavanje](https://protection.office.com) i prijavite se.
-2. Izaberite stavku **obaveštenja** > o**obaveštenjima.**
+2. Izaberite stavku **obaveštenja**  >  **o obaveštenjima**.
 3. Kliknite na obaveštenje da biste prikazali stranicu sa letnjom sa informacijama o obaveštenju.
 
-Možete da preduzmete radnju na obaveštenju, kao što je [Uklanjanje pravila sumnjivog prijemnog poštanskog sandučeta](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Možete jednostavno zatvoriti obaveštenje tako što ćete kliknuti na dugme " **razreši** " na stranici "obaveštenja o obaveštenju".
+Možete da preduzmete radnju na obaveštenju, kao što je [Uklanjanje pravila sumnjivog prijemnog poštanskog sandučeta](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account). Možete jednostavno zatvoriti obaveštenje tako što ćete kliknuti na dugme " **razreši** " na stranici "obaveštenja o obaveštenju".
 
-Više informacija o konfigurisanju smernica za obaveštenja i upravljanju njima potražite u [ovom članku](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Više informacija o konfigurisanju smernica za obaveštenja i upravljanju njima potražite u [ovom članku](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).
 
 **Važno**: obaveštenja putem e-pošte od korporacije Microsoft vam nikada neće zatražiti da uradite sledeće:
 
@@ -44,4 +44,4 @@ Više informacija o konfigurisanju smernica za obaveštenja i upravljanju njima 
 - Proverite detalje o bezbednosti naloga
 - Ponovo provjeri autentičnost
 
-Ako primite e-poruku kao što je ova, Microsoft je nije poslao i trebalo bi da se smatra phishing prevara. Ako se to desi, [Prijavite ga korporaciji Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Ako primite e-poruku kao što je ova, Microsoft je nije poslao i trebalo bi da se smatra phishing prevara. Ako se to desi, [Prijavite ga korporaciji Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

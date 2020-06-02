@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687524"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502333"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Opozivanje ili zamenjivanje e-poruke programa Outlook
 
@@ -26,7 +26,7 @@ Da biste opozvali ili zamenili e-poruku:
 
 1. U oknu sa leve strane prozora programa Outlook izaberite fasciklu "Poslate stavke".
 1. Dvaput kliknite na poruku koju želite da opozovete da biste je otvorili.
-1. Izaberite karticu **poruka** , a zatim izaberite **Radnje** > **Opozovi ovu poruku**.
+1. Izaberite karticu **poruka** , a zatim izaberite **Radnje**  >  **Opozovi ovu poruku**.
 1. Izaberite stavku **Izbriši nepročitane kopije ove poruke** ili **Izbrišite nepročitane kopije i zamenite ih novom porukom**, a zatim kliknite na **dugme u redu**.
 1. Ako šaljete poruku za zamenu, napišite poruku, a zatim kliknite na dugme " **Pošalji**".
 1. Uspeh ili neuspeh opoziva poruke zavisi od postavki primaoca u programu Outlook. Da biste mogli da proverite opoziv, pogledajte [Ovaj članak](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
@@ -34,7 +34,7 @@ Da biste opozvali ili zamenili e-poruku:
 Traženje i brisanje e-poruka u vašoj organizaciji
 
 - Ako niste globalni administrator, vaš nalog mora biti dodat u ulogu eDiscovery menadžera ili u ulogu upravljanja pretragom usaglašenosti da biste potražili poruke. Da biste izbrisali poruke, potrebno je da se pridružite grupi uloga za upravljanje organizacijom ili u ulozi za pretraživanje i čišćenje. Dozvole za ove uloge se dodeljuju u [centru za bezbednost i usaglašenost](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Kreirajte pretragu sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) da biste pronašli poruku za brisanje.
+- [Kreirajte pretragu sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search) da biste pronašli poruku za brisanje.
 - [Poveži se sa bezbednošću i PowerShell centra za usaglašavanje](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
 Ako koristite nepotvrdu identiteta sa više faktora, pogledajte odeljak [Povezivanje sa programom Microsoft 365 Security i centar za usaglašavanje pomoću višefaktora potvrde identiteta](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
