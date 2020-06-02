@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911845"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510190"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako vršiti pretrage sadržaja i eDiscovery pretrage
 
@@ -32,6 +32,6 @@ Koristite alatku za pretragu sadržaja u bezbednosnom & centru za usaglašavanje
 4. Unesite zahtevane uslove za pretragu uključujući ključne reči i lokacije sadržaja.  
 5. Kliknite na dugme **sačuvaj & Pokreni** da biste dobili ime pretrage, pokrenite je, a zatim pregledajte rezultate.
 
-Detaljna uputstva o pretragama sadržaja, izvozu rezultata i kreiranju eDiscovery slučajeva za držanje podataka potražite u članku [Pretraga sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search) i [eDiscovery slučajeva](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+Detaljna uputstva o pretragama sadržaja, izvozu rezultata i kreiranju eDiscovery slučajeva za držanje podataka potražite u članku [Pretraga sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search) i [eDiscovery slučajeva](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-Razumevanje više o pretrazi sadržaja pregledanjem [zahteva i ograničenja](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) i [istrazi delimično indeksiranih stavki](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata koji treba da budu svesni.
+Razumevanje više o pretrazi sadržaja pregledanjem [zahteva i ograničenja](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) i [istrazi delimično indeksiranih stavki](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) i drugih rezultata koji treba da budu svesni.

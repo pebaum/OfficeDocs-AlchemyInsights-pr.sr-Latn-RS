@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 11d44e7f6616f936723f7609e9219fd529ee68e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: bb2e5218f9dc2b6bbdcdad6a6c63fde08c8ea098
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474439"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509650"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Problemi sa prijavljivanjem u Microsoft 365 aplikacije
 
@@ -25,7 +25,7 @@ Da biste ispravili probleme sa prijavljivanjem pomoću Microsoft 365 aplikacija,
 - Za Windows pogledajte [preporuke o rešavanju uobičajenih problema za prijavljivanje](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Za Mac, pogledajte [da ne možete da se prijavite u Office 2016 za Mac aplikaciju](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Napomena:** Onemogućavanje moderne potvrde identiteta (ADAL) ili upravljanje Web nalozima (WAM) za otklanjanje problema sa prijavljivanjem ili aktiviranjem **nije preporučljivo**. Ako se greške javljaju tokom povezivanja sa Microsoft 365 pomoću programa Office 2013, uverite se da ste [omogućili modernu potvrdu identiteta](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) za Office Client.
+**Napomena:** Onemogućavanje moderne potvrde identiteta (ADAL) ili upravljanje Web nalozima (WAM) za otklanjanje problema sa prijavljivanjem ili aktiviranjem **nije preporučljivo**. Ako se greške javljaju tokom povezivanja sa Microsoft 365 pomoću programa Office 2013, uverite se da ste [omogućili modernu potvrdu identiteta](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) za Office Client.
 
 Za određene radnje sa rešavanjem problema pogledajte:
 

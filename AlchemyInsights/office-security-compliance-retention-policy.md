@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761326"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510982"
 ---
 # <a name="more-info-about-retention-policies"></a>Više informacija o smernicama za zadržavanje
 
@@ -27,15 +27,15 @@ Za većinu organizacija obim i kompleksnost podataka se povećava dnevno-e-pošt
 ## <a name="a-from-security-and-compliance-center"></a>A) iz centra za bezbednost i usaglašenost
 
 - Idi na bezbednost i usaglašenost > upravljanje podacima > zadržavanje
-  - Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/retention-policies) članak
+  - Pogledajte [ovaj](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) članak
 
 - Posetite lokaciju bezbednost i usaglašenost > eDiscovery> Advanced eDiscovery 
-  - Pogledajte [ovaj](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) članak
+  - Pogledajte [ovaj](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) članak
 
 - Posetite lokaciju bezbednost i usaglašenost > klasifikovanje > zadržavanje
   - Pogledajte ove članke
-    - [Oznake osetljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Pregled nalepnica](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Oznake osetljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Pregled nalepnica](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) nasleđene eDiscovery politike
 
