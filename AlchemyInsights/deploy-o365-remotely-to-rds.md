@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010268"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507600"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Primena aplikacija Microsoft 365 za Enterprise za deljenu upotrebu na RDS, Terminal serveru ili VDI
 
@@ -38,9 +38,9 @@ Da biste ispravili greške u vezi sa aktivacijom deljenog računara:
 
 Ako želite da instalirate Microsoft 365 aplikacije za Enterprise na RDS od Microsoft 365 admin Center, ***koji koristi podrazumevane postavke instalacije***, slijedite ove korake:
 
-1.    Proverite koju pretplatu imate. [Saznajte kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Ako je potrebno, prebacite se na drugu pretplatu. [Saznajte kako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Ako je Office već instaliran na RDS serveru koristeći druge Microsoft pretplate, deinstalirajte je. Na primer, tako što ćete otići na **kontrolnu tablu** > **deinstalirajte program**. Deinstalirajte koristeći [Microsoft pomoć i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) ako se radi o problemima.
+1.    Proverite koju pretplatu imate. [Saznajte kako](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Ako je potrebno, prebacite se na drugu pretplatu. [Saznajte kako](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Ako je Office već instaliran na RDS serveru koristeći druge Microsoft pretplate, deinstalirajte je. Na primer, tako što ćete otići na **kontrolnu tablu**  >  **deinstalirajte program**. Deinstalirajte koristeći [Microsoft pomoć i pomoćnik za oporavak](https://aka.ms/SARA-OfficeUninstall-Alchemy) ako se radi o problemima.
 4.    Na RDS serveru, prijavite se u Microsoft 365 admin Center sa administratorskim nalogom i [instalirajte Microsoft 365 aplikacije za Enterprise](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Nakon instalacije sistema Office, ***Nemojte da otvarate niti*** da se prijavljujete u bilo koju Office aplikaciju.
 6.    Na RDS serveru omogućite deljenu aktivaciju računara uređivanjem registratora tako što ćete slediti ove korake:

@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911162"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507112"
 ---
 # <a name="ediscovery-settings"></a>Ediscovery postavke
 
@@ -28,4 +28,4 @@ eDiscovery/Pretraga sadržaja vam omogućavaju da pretražujete, držite i izvoz
 - Saznajte više o dozvolama koje su potrebne za izvođenje eDiscovery pretraga iz dozvola koje su [potrebne za eDiscovery pretrage](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
 - Ako vaša pretraga ne vraća očekivane rezultate, pogledajte odeljak [Pretraga ne vraćajući očekivane rezultate](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Za više informacija o ediscovery pogledajte [ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Za više informacija o ediscovery pogledajte [ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

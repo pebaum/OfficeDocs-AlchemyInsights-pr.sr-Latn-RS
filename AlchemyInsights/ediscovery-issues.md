@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714492"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507148"
 ---
 # <a name="ediscovery-issues"></a>eDiscovery problemi
 
@@ -28,10 +28,10 @@ Tražite opcije za eDiscovery? Kada je ponovo dizajnirana navigacija u bezbednos
 
 - Koristite novo napredno eDiscovery rešenje da biste identifikovali i komunicirali sa funkcioneri, sačuvali podatke o kastodi podacima koji su relevantni za predmet, prikupili podatke i dodali ga skupu za redigovanje i smanjili jačinu podataka tako što ćete primeniti analitiku da biste razbili nepotrebne podatke i fokusirali se na ono što je najvažnije za slučaj-idi na **eDiscovery > Advanced eDiscovery**
 
-Za više informacija pogledajte:
+Za više informacija pogledajte članak:
 
-- [Pretraživanje sadržaja](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Pretraživanje sadržaja](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [eDiscovery slučajevi u bezbednosnoj & centru za usaglašavanje](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [eDiscovery slučajevi u bezbednosnoj & centru za usaglašavanje](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [Napredno eDiscovery rešenje u operativnom sistemu Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Napredno eDiscovery rešenje u operativnom sistemu Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

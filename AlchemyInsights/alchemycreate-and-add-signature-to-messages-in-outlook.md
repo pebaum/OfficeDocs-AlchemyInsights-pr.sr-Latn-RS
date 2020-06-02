@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737383"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506536"
 ---
 # <a name="creating-email-signatures"></a>Kreiranje potpisa e-pošte
 
@@ -29,7 +29,7 @@ Ovi članci bi trebalo da vam pomognu u kreiranju potpisa za e-poštu u programu
 
 - Želim da kreiram potpis e-pošte koristeći Outlook.com: [Kreiranje i dodavanje potpisa e-pošte u Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Želim da kreiram globalni potpis e-pošte za sve e-poruke poslate iz mog preduzeća: [Kreiranje potpisa za celu organizaciju i odricanja odgovornosti](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
+- Želim da kreiram globalni potpis e-pošte za sve e-poruke poslate iz mog preduzeća: [Kreiranje potpisa za celu organizaciju i odricanja odgovornosti](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers)
 
  **Savet:** Potpisi na nivou organizacije nazivaju se "odricanja odgovornosti".
   
