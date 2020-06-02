@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761182"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511738"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Odlazne e-poruke u fasciklu "Neželjena e-pošta"
 
 Ako vidite da su izlazne poruke označene kao neželjene, postupite na sledeći način:
 
-- Ako to već niste uradili, razmislite o [konfigurisanju obaveštenja o smernicama za Odlazno bezvrednu poštu](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Ako to već niste uradili, razmislite o [konfigurisanju obaveštenja o smernicama za Odlazno bezvrednu poštu](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Koristite [praćenje poruka](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) da biste videli da li izlazni poruka ima **bezvrednu** vrednost događaja sa dodatnim detaljima: **koristite visoku grupu za isporuku rizika**.
+- Koristite [praćenje poruka](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) da biste videli da li izlazni poruka ima **bezvrednu** vrednost događaja sa dodatnim detaljima: **koristite visoku grupu za isporuku rizika**.
 
   Za ove poruke proverite sadržaj poruke da biste videli šta se može smatrati bezvrednom. Na primer, potpisi mogu ponekad da dovedu do problema za mnoge korisnike.
 

@@ -15,12 +15,12 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767587"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512496"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Podešavanje e-pošte u aplikaciji Outlook Mobile
 
@@ -30,7 +30,7 @@ ms.locfileid: "43767587"
 
 3. Unesite lozinku naloga e-pošte i dodirnite dugme " **Prijavi se** " ili na **sledeći**.
 
-4. Ako je omogućena [potvrda identiteta sa više faktora](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , proverite koristeći metod koji ste podesili (6 cifara, telefonski poziv ili Microsoft autorizatora aplikacija).
+4. Ako je omogućena [potvrda identiteta sa više faktora](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) , proverite koristeći metod koji ste podesili (6 cifara, telefonski poziv ili Microsoft autorizatora aplikacija).
 
 5. Ako postoje dodatne IT administratorske smernice, dodirnite **Aktiviraj** da biste ih omogućili.
 

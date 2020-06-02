@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: af5a9aed35297f334295a784603027d66ed8e898
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742819"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511630"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomver napad u sistemu SharePoint ili OneDrive
 
@@ -36,12 +36,12 @@ Za više informacija o tome kako da vratite u prethodno stanje pogledajte:
 - [Vraćanje biblioteke dokumenata](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Za više informacija o naprednoj zaštiti pretnji (ATP) pogledajte:
-- [ATP za SharePoint, OneDrive i timove](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Prikazi istraživača pretnji](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [ATP za SharePoint, OneDrive i timove](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Prikazi istraživača pretnji](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)
 
 Dodatne informacije:
 
-- [Otkrivanje virusa u SPO-u](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [Šifrovanje podataka u ODB i SPO-u](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [Otkrivanje virusa u SPO-u](https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo)</br>
+- [Šifrovanje podataka u ODB i SPO-u](https://docs.microsoft.com/microsoft-365/compliance/data-encryption-in-odb-and-spo)</br>
 - [Ransomver otkrivanje i spasavanje datoteka](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Istraživač pretnji i odbijanja u realnom vremenu](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Istraživač pretnji i odbijanja u realnom vremenu](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer-views)

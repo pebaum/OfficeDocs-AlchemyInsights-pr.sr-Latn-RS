@@ -13,12 +13,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759598"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512568"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Rešavanje problema sa greškama pri pretraživanju sadržaja
 
@@ -34,4 +34,4 @@ Na primer, da li dobijate sledeće radnje kada pokrećete pretrage?
 
 Ili prilikom pretraživanja ili izvoza rezultata iz velikog broja poštanskih sandučića (preko 100.000 poštanskih sandučića), da li dobijate greške u izvozu?
 
-Za ove tipove grešaka ponovo pokušajte da pretražite lokacije sadržaja koje nisu uspele. Više informacija potražite u [ovom članku](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .
+Za ove tipove grešaka ponovo pokušajte da pretražite lokacije sadržaja koje nisu uspele. Više informacija potražite u [ovom članku](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .

@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 904f1a086999d883feab05bc983cb8a6d8eb55eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761864"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512062"
 ---
 # <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>Office 2013 više nije podržan u Microsoft 365 pretplatama
 
 Od 28 februara 2017, Office 2013 više nije podržan u Microsoft 365 pretplatama.
   
-Da biste osigurali bezbednost programskog paketa Office i dobili sve najnovije funkcije, instalirajte najnoviju verziju sistema Office besplatno kao deo pretplate na Microsoft 365. Pogledajte odeljak [Nadogradnja korisnika na najnoviji Office klijent](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+Da biste osigurali bezbednost programskog paketa Office i dobili sve najnovije funkcije, instalirajte najnoviju verziju sistema Office besplatno kao deo pretplate na Microsoft 365. Pogledajte odeljak [Nadogradnja korisnika na najnoviji Office klijent](https://docs.microsoft.com/microsoft-365/admin/setup/upgrade-users-to-latest-office-client).
   

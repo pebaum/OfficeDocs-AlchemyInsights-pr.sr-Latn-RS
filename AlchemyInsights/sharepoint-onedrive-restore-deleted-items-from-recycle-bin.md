@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: cebe43464aa6672057ea8d2fa3ec9e898918b184
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e3fa3cbaf3ab3c1fcf42e8a564d2b7cd8428eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43692851"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511234"
 ---
 # <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>Rešavanje problema sa datotekama ili fasciklama koje nedostaju u usluzi OneDrive ili SharePoint
 
@@ -35,7 +35,7 @@ Ako se veliki broj vaših OneDrive ili SharePoint datoteka izbriše, zamenjuje, 
 
 **Koristite zapisnike nadgledanja ili okno aktivnosti datoteke da biste proverili istoriju datoteke**
 
-[Proverite izveštaje o](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) </a> nadzoru tako što ćete se krećete [ovde](https://protection.office.com/#/unifiedauditlog)
+[Provera izveštaja o nadzoru](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) </a> tako što ćete se [ovdje](https://protection.office.com/#/unifiedauditlog) krećete
 
 Koristite okno " [aktivnost datoteka](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) " da biste proverili istoriju datoteke.
 
