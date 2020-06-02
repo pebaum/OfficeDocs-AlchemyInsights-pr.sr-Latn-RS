@@ -13,18 +13,18 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2e5a26819030087e22eaeba0603569f92e2f86e1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417618"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505737"
 ---
 # <a name="declined-credit-card"></a>Odbijena kreditna kartica
 
 Ako platite kreditnom karticom, a vaša kreditna kartica je odbijena, dobićete e-poruku koja vas obaveštava da ne možemo da obrađujemo plaćanje. Dvaput proverite da li su [Detalji kreditne](https://go.microsoft.com/fwlink/p/?linkid=842054) kartice-broj kartice, rok važenja, ime na kreditnoj kartici i adresa, uključujući grad, DRŽAVU i ZIP kôd, prikazani tačno kao na kreditnoj kartici i u izvodu sa kreditnim karticama. Informacije o kreditnoj kartici možete ažurirati i odmah proslediti uplatu pomoću opcije " **rešavanje salda** " na stranici " **[proizvodi](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". 
 
-Da biste saznali više, pogledajte odeljak "Šta ako je moja kreditna kartica istekla i moja isplata je zakasna?" u [okviru plate za Microsoft 365 za poslovnu pretplatu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Da biste saznali više, pogledajte odeljak "Šta ako je moja kreditna kartica istekla i moja isplata je zakasna?" u [okviru plate za Microsoft 365 za poslovnu pretplatu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
 Ako i dalje budete videli poruku "odbijena", obratite se banci. Moguće je da vaša kreditna kartica nije aktivna – na primer, ako ste nedavno primili kreditnu karticu u poruci sa ažuriranim datumom prestanka važenja, možda ćete ipak morati da ga aktivirate. Vaša banka takođe može da vam kaže da vaša kreditna kartica nije odobrena za mrežne, međunarodne ili periodične transakcije.
   

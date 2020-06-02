@@ -11,23 +11,23 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 870b96cf04e69722690cbd50083899e32b6811b1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706985"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506133"
 ---
 # <a name="change-your-display-name"></a>Promena imena za prikaz
   
 Da biste promenili svoje ime za prikaz u programu Outlook, koristite sledeće korake.
   
-1. U programu Outlook izaberite **Postavke naloga**za **Postavke** \> naloga **datoteka** \> .
+1. U programu Outlook izaberite **File** \> **Account Settings** \> **Postavke naloga**za postavke naloga datoteka.
 
 2. Izaberite nalog e-pošte, a zatim izaberite " **Promeni**".
 
     > [!NOTE]
-    > Ako ne vidite opciju za promenu imena za prikaz, verovatno koristite nalog e-pošte Microsoft Exchange servera. U ovom slučaju, potrebno je da se obratite administratoru da biste promenili ime za prikaz. Pogledajte odeljak [Promena korisničkog imena i e-adrese](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > Ako ne vidite opciju za promenu imena za prikaz, verovatno koristite nalog e-pošte Microsoft Exchange servera. U ovom slučaju, potrebno je da se obratite administratoru da biste promenili ime za prikaz. Pogledajte odeljak [Promena korisničkog imena i e-adrese](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Kada promenite ime za prikaz, kliknite na dugme **"u redu"** da biste sačuvali promene. Može potrajati nekoliko sati da bi vaše promene bile odražavale u celoj organizaciji.
 
