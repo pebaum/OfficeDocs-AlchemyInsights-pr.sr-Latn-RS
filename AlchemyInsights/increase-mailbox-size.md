@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064243"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508750"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Promijeni pretplatu da Povećaj veličinu poštanskog sandučeta
 
@@ -35,6 +35,6 @@ Ako je veličina poštanskog sandučeta 50 GB, možete je povećati na 100 GB ta
 
 5. Unesite broj licenci koje su vam potrebne, odaberite da li želite da platite svakog meseca ili celu godinu, a zatim izaberite stavku " **Odjavljivanje**".
 
-Više detalja potražite u članku [Nadogradnja na drugi plan](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Više detalja potražite u članku [Nadogradnja na drugi plan](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Ako imate [pretplatu koja podržava arhiviranje na jednom mestu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), možete da dobijete i dodatno skladište e-pošte tako što ćete omogućiti poštansko sanduče arhive. Poštansko sanduče za arhiviranje pruža dodatni prostor za skladištenje i omogućava vam da premestite, kopirate i pretražujete poruke u primarnom i arhivpoštanskom sandučetu. Za korake u vezi sa načinom omogućavanja poštanskog sandučeta arhive pogledajte odeljak [Omogućavanje poštanskog sandučeta arhive](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Ako imate [pretplatu koja podržava arhiviranje na jednom mestu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), možete da dobijete i dodatno skladište e-pošte tako što ćete omogućiti poštansko sanduče arhive. Poštansko sanduče za arhiviranje pruža dodatni prostor za skladištenje i omogućava vam da premestite, kopirate i pretražujete poruke u primarnom i arhivpoštanskom sandučetu. Za korake u vezi sa načinom omogućavanja poštanskog sandučeta arhive pogledajte odeljak [Omogućavanje poštanskog sandučeta arhive](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

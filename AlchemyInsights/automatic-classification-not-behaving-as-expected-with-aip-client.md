@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493434"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508390"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatska klasifikacija se ne ponaša na očekivani način sa AIP klijentom
 
 Automatska klasifikacija se ne ponaša na očekivani način, koristite sledeća preporučena uputstva:
 
-1. Ako imate problema sa automatskim označenim načinom rada, pogledajte [Kako da konfigurišete uslove za automatsku i preporučenu klasifikaciju za zaštitu od informacija](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) i [kako izgledaju tipovi osetljivih informacija](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Ako imate problema sa automatskim označenim načinom rada, pogledajte [Kako da konfigurišete uslove za automatsku i preporučenu klasifikaciju za zaštitu od informacija](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) i [kako izgledaju tipovi osetljivih informacija](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Proverite da li koristite nepodešene smernice koje nisu ispravno konfigurisane: [Kako da konfigurišete smernice za zaštitu informacija koje se koriste za određene korisnike pomoću smernica na osnovu programa](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Ako Automatsko označavanje ne radi za Outlook prilikom prilaganja označanog dokumenta, proverite da `DRMEncryptProperty` nije definisano kao što je ovde opisano: [postavke registratora usluge IRM za bezbednost](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Ako ste koristili [ugrađene tipove informacija](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) za smernice za zaštitu informacija, proverite da li se sadržaj podudara sa očekivanim formatom.

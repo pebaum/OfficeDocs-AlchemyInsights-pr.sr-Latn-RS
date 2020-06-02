@@ -13,12 +13,12 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44059091"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508282"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Otkažete pretplatu na Microsoft 365?
 
@@ -30,4 +30,4 @@ Na osnovu vaših podataka o organizaciji verujemo da sve vaše trenutne pretplat
 
 **Napomena**: ako ne vidite opciju za otkazivanje, kliknite na pretplatu da biste prikazali detalje i trebalo bi da vidite opciju **"Otkaži pretplatu"** u okviru **postavki & radnje**. 
 
-Da biste saznali više, pogledajte odeljak [otkazivanje pretplate](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Da biste saznali više, pogledajte odeljak [otkazivanje pretplate](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

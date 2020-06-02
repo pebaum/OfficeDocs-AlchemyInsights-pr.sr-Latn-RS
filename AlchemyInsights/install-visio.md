@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766003"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508678"
 ---
 # <a name="install-visio"></a>Instaliranje programa Visio
 
@@ -25,7 +25,7 @@ Visio se prodaje kao samostalna aplikacija, pa ako je još uvek nemate, [kupite 
 
 **Napomena**: Visio online plan 1 ne uključuje verziju programa Visio na radnoj površini, tako da nije moguća instalacija.
 
-Ako imate pretplatu na visio online plan 2, morate da [dodelite licencu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) korisniku ili neće imati opciju da instalira visio sa **mojih instalacija** na [portalu "moj nalog](https://portal.office.com/account#installs)". 
+Ako imate pretplatu na visio online plan 2, morate da [dodelite licencu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) korisniku ili neće imati opciju da instalira visio sa **mojih instalacija** na [portalu "moj nalog](https://portal.office.com/account#installs)". 
 
 Verzije programa Visio ili Visio Professional su povezane sa Microsoft nalozima i ne mogu se upravljati u okviru administratorskog centra. Da bi instalirali ove verzije, korisnici moraju da se prijave u [account.Microsoft.com](https://account.microsoft.com) pomoću Microsoft naloga povezanog sa ovom verzijom programa Visio.
 

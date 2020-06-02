@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sr-Latn-RS
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716510"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509002"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Evidencija nadgledanja izbrisanih e-poruka
 
@@ -33,6 +33,6 @@ Počevši od januara 2019, Microsoft podrazumevano postaje uključena evidencija
 
 U rezultatima izaberite zapis nadgledanja. Kliknite na dugme " **više informacija**" u prozoru "Detalji". Dodatne informacije o izbrisanom artiklu (na primer, red za temu i lokacija stavke kada je ona izbrisana) prikazane su u polju "zone za **stavke** ". Svojstvo **Clientinfostring** će prikazati da li je brisanje bilo u programu Outlook, Outlook na vebu (ranije poznato kao Outlook Web aplikacija) ili bilo koji drugi uređaj.
 
-Više informacija potražite u članku [Utvrđivanje ko je podesio Prosleđivanje e-pošte za poštansko sanduče](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Više informacija potražite u članku [Utvrđivanje ko je podesio Prosleđivanje e-pošte za poštansko sanduče](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Napomena**: ne možete da preuzimate izbrisane stavke pomoću funkcije "evidencija nadgledanja". Da biste preuzeli izbrisane poruke u programu Outlook na vebu, pogledajte odeljak [oporavak izbrisanih stavki u Outlook Web aplikaciji](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
