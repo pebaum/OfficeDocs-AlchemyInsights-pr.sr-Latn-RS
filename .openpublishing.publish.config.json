@@ -47,4 +47,6 @@
   ],
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false
+  "name": "docfx_v3",
+  "version": "3.0.0-prod-202005250805"
 }
